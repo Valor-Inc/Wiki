@@ -89,8 +89,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Main Site',
+                href: 'https://valorserver.com',
               },
               {
                 label: 'Discord',
