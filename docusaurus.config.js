@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Valor Wiki',
-  tagline: '',
+  tagline: 'The #1 source for everything related to Valor.',
   url: 'https://wiki-test.valorserver.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Valor-inc/wiki',
+            'https://github.com/Valor-Inc/Wiki/blob/main',
         },
 
         theme: {
@@ -61,11 +61,13 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://wiki.valorserver.com', label: 'Item & Mob Viewer', position: 'left'},
+
+          {to: 'https://valorserver.com/ranks', label: 'Support', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Valor-inc/Wiki',
             label: 'GitHub',
             position: 'right',
           },
