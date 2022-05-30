@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Items
+# Crafting
 
 Valor has lots of items. View [Dungeons](https://wiki-test.valorserver.com/docs/category/dungeons)
 
