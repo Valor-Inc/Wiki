@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Valor Wiki
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Valor Wiki.
 
 ## About Valor
 
