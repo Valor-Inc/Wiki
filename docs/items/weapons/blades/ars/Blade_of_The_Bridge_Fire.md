@@ -18,7 +18,9 @@ Range: 5.5
 
 Ignores defense of target
 
-On Equip: +100 Maximum HP
+On Equip: 
+
+     +100 Maximum HP
 
 Fame Bonus: 15%
 
