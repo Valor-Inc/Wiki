@@ -1,18 +1,24 @@
----
-sidebar_position: 1
----
-
 # Blades of the Bridge
 
-![Larry Gun](https://vwiki.valorserver.com/api/item/picture/Larry%20Gun)
+![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
 
-Pew Pew.
+<i>Blades once wielded by the brave soldiers who defended this land during its collapse.</i>
 
-Fame Bonus: 15%  
-Damage: 230-295  
+Shots: 2
+
+Rate of Fire: 110%
+
+Damage: 300-350
+
+Range: 5.5
+
+Ignores defense of target
+
+Fame Bonus: 15%
 
 
 
 ## Projectile
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/948363279783309403/948382060266004480/unknown.png)
+![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969065261074366474/blades_of_the_bridge.gif)
+
