@@ -18,6 +18,7 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
+**Crafted with the Larry Gun, which drops from Larry Giggsman, the Superhuman, and an Ancient Air Rune**
 
 ## Projectile
 
