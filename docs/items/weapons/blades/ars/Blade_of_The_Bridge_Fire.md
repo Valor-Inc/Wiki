@@ -22,6 +22,7 @@ On Equip: +100 Maximum HP
 
 Fame Bonus: 15%
 
+**Crafted with the Blades of the Bridge, which drops from the Forgotten King in The Shatters, and an Ancient Fire Rune**
 
 ## Projectile
 
