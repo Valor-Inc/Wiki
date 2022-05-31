@@ -1,3 +1,5 @@
+
+
 # Blades of the Bridge Fire
 
 ![Blades of the Bridge Fire](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Fire)
