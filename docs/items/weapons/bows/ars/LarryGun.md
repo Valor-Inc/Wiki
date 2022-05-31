@@ -5,8 +5,8 @@ sidebar_position: 1
 # Larry Gun
 
 ![Larry Gun](https://vwiki.valorserver.com/api/item/picture/Larry%20Gun)  
-Pew Pew.
-*Drops from Larry Gigsman, Superhuman.*
+Pew Pew.  
+Drops from *Larry Gigsman, Superhuman.*
 
 Damage: 230-295  
 Shots: 3  
