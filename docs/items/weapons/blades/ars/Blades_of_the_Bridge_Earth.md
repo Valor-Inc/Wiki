@@ -10,21 +10,21 @@ Shots: 2
 
 Rate of Fire: 110%
 
-Damage: 260-340
+  Damage: 260-340
 
-Range: 5.5
+  Range:   5.5
 
 Ignores defense of target
 
 On Equip:
 
-+100 Protection
+     +100 Protection
 
-+120 Maximum HP
+     +120 Maximum HP
 
 Fame Bonus: 15%
 
-
+**Crafted with Blades of the Bridge, which drops from the Forgotten King in The Shatters, and an Ancient Earth Rune**
 
 ## Projectile
 
