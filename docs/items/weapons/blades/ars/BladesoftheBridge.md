@@ -4,6 +4,8 @@
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse.</i>
 
+<b><i>Drops from The Forgotten King in The Shatters</i></b>
+
 Shots: 2
 
 Rate of Fire: 110%
