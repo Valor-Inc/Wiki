@@ -18,7 +18,7 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
-
+**Crafted with the Blades of the Bridge, which drops from the Forgotten King in The Shatters, and an Ancient Water Rune**
 
 ## Projectile
 
