@@ -4,7 +4,7 @@
 
  <i>A powerful set of blades, gifted only to The Exalted to protect their realms.</i>
  
- **Upgraded form of Thunder and Lightning**
+ **Upgraded form of [Thunder and Lightning](https://wiki-test.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
  
  Damage: 225-235
  
