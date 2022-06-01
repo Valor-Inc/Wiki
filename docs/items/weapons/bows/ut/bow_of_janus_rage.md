@@ -18,4 +18,4 @@ Fame Bonus: 6%
 
 ## Projectile  
 
-![BoJr Projectile](
+![BoJr Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981402844907323412/janusrage.gif)
