@@ -17,7 +17,7 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
-**Crafted with Larry Gun, which drops from Larry Giggsman, the Superhuman, and an Ancient Fire Rune**
+**Crafted with the [Larry Gun](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Larry_Gun), which drops from Larry Giggsman, the Superhuman, and an Ancient Fire Rune**
 
 
 
