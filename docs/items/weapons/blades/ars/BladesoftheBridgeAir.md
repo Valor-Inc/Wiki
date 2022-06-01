@@ -19,7 +19,7 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
-**Crafted with Blades of the Bridge, which drops from the Forgotten King in The Shatters, and an Ancient Air Rune.**
+**Crafted with [Blades of the Bridge](https://wiki-test.valorserver.com/docs/items/weapons/blades/ars/BladesoftheBridge), which drops from the Forgotten King in The Shatters, and an Ancient Air Rune.**
 
 ## Projectile
 
