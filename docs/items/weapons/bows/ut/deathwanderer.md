@@ -23,4 +23,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Deathwanderer](
+![Deathwanderer](https://cdn.discordapp.com/attachments/953134990428868629/981404192520421386/deathwandered.gif)
