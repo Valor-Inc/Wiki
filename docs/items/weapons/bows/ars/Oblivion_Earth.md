@@ -4,7 +4,7 @@
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Earth.</i>
 
-**Craftable with Oblivion, which drops from Yazanahar, and an Ancient Earth Rune**
+**Craftable with [Oblivion](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Oblivion), which drops from Yazanahar, and an Ancient Earth Rune**
 
 Earth Rune: Increases your defense by 40.
 
