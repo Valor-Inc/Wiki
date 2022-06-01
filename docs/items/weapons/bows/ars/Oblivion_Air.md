@@ -4,7 +4,7 @@
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Air.</i>
 
-**Craftable with Oblivion, which drops from Yazanahar, and an Ancient Air Rune**
+**Craftable with [Oblivion](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Oblivion), which drops from Yazanahar, and an Ancient Air Rune**
 
 Air Rune: Increases your fire rate by 10% and maximum damage by 100
 
