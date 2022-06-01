@@ -1,6 +1,6 @@
 # Bow of Janus rage
 
-![BoJr] I NEED IMAGE FOR THIS!!!
+![BoJr](http://i.imgur.com/LlEbI5c.png)
 
 <i>Janus the Doorwaden gave gifts to who could defeat him. This bow has got lucky ones.</i>
 
