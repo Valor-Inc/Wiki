@@ -4,7 +4,7 @@
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of Fire.</i>
 
-**Craftable with Oblivion, which drops from Yazanahar, and an Ancient Fire Rune**
+**Craftable with [Oblivion](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Oblivion), which drops from Yazanahar, and an Ancient Fire Rune**
 
 Fire Rune: Increases your minimum damage by 250 and maximum damage by 300.
 
