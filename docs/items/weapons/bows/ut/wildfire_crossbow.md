@@ -25,4 +25,4 @@ Fame Bonus: 4%
 
 ## Projectile
 
-![WC Projectile](
+![WC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981412224008585276/wildfirecrossbow.gif)
