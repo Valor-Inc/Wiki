@@ -20,4 +20,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![VLB Projectile](
+![VLB Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981405163589865532/lightbow.gif)
