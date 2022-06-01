@@ -23,4 +23,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![TETE Projectile](
+![TETE Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981401672385437757/et.gif)
