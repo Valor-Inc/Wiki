@@ -1,4 +1,6 @@
-
+---
+sidebar_position: 2
+---
 # Blades of the Bridge Air
 
 ![Blades of the Bridge Air](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Air)
