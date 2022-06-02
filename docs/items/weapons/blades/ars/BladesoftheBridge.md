@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Blades of the Bridge
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
