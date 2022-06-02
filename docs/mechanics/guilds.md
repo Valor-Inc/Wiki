@@ -6,7 +6,7 @@ sidebar_position: 6
 Guilds are expanded upon in Valor, having a rank & xp system to reward active guilds with beneficial perks.
 
 ## Guild Exp & Rank
-![Guild Stats](http://prntscr.com/W4N7bkXm8PY0)
+![Guild Stats](https://i.imgur.com/9btEeSe.png)  
 Gulids gain exp by having members playing the game, and it reaches enough guild exp it will go up in rank, unlocking perks for every guild member. Check your guild by running `/ginfo` ingame.
 
 ## Guild Perks
