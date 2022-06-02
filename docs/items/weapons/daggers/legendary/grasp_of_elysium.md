@@ -1,5 +1,5 @@
 ---
-sidebar_projectile: 7
+sidebar_projectile: 8
 ---
 
 # Grasp of Elysium
