@@ -24,4 +24,4 @@ Fame Bonus: 5%
 
 ## Projectile
 
-![DFS Projectile](
+![DFS Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981757331828277318/daggeroftheflamingstinger.gif)
