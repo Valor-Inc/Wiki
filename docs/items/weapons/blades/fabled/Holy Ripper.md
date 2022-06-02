@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Holy Ripper
 
 ![Holy Ripper](https://vwiki.valorserver.com/api/item/picture/Holy%20Ripper)  
