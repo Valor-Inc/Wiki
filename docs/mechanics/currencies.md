@@ -5,8 +5,7 @@ sidebar_position: 3
 # Currencies
 Valor has many different currencies that all serve different roles on the server, this page will go over hopefully all you need to know about them!
 
-## Fame
-![Fame](https://vwiki.valorserver.com/api/item/picture/1000%20Fame)  
+## ![Fame](https://vwiki.valorserver.com/api/item/picture/1000%20Fame) Fame
 Fame does not play a huge role in valor, but it is still used for several exclusive purposes.
 
 ### How To Earn
