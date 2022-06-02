@@ -25,4 +25,4 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![PoggerW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981714064554197022/poniardfire.gif)
+![PoggerW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713841480167494/poniardwater.gif)
