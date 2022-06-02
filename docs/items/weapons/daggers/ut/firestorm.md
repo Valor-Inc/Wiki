@@ -22,4 +22,4 @@ Fame Bonus: 5%
 
 ## Projectile
 
-![Firestorm Projectile](https://cdn.discordapp.com/attachments/953134990428868629/982035668752531558/hairykarambit.gif)
+![Firestorm Projectile](https://cdn.discordapp.com/attachments/953134990428868629/982035649290969138/firestorm.gif)
