@@ -13,6 +13,7 @@ sidebar_position: 2
  
  Shots: 2
  
+ 
  Rate of Fire: 90%
  
  Range: 4.5
