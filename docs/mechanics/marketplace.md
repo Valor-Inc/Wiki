@@ -5,16 +5,16 @@ sidebar_position: 9
 # Marketplace
 xxx
 
-##How to use the marketplace
+## How to use the marketplace
 xxx (general explanation of how it functions)
 
-###The Ground
+### The Ground
 xxx (the items on the ground)
 
-###Market GUI
+### Market GUI
 xxx
 
-###Market-related Commands
+### Market-related Commands
 /pc (full item name)                    [price check an item]  
 /pc (1-16)                                        [price check inventory slot]  
 /market (1-16) (price)                  [market inventory slot for X price]  
@@ -24,5 +24,5 @@ xxx
 /oops                                               [removes most recent market listing]  
 
 
-##Tax
+## Tax
 xxx
