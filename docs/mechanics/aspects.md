@@ -7,7 +7,7 @@ Aspects are per-account unlockable "perks" that can be applied & removed onto an
 
 ## Aspect Hall
 ![Aspect Hall](https://i.imgur.com/yKxwoAd.png)  
-The aspect hall is where you go to select & deselect aspects on your character, it is located to the right side of the nexus or you can use /aspecthall ingame to go there at any time.
+The aspect hall is where you go to select & deselect aspects on your character, it is located to the right side of the nexus or you can use `/aspecthall` ingame to go there at any time.
 
 ### Starter Aspects
 There are 3 aspects that every account starts with unlocked for free, those are:  
@@ -17,10 +17,10 @@ There are 3 aspects that every account starts with unlocked for free, those are:
 
 ## Aspect Unlocking
 Various bosses in valor will drop aspects that can then be combined with an Aspect Enfuser to unlock that aspect on your account.
-Aspect Enfusers are forged by an Ancient Rune(200k Fame in the nexus or bought from marketplace) + a Legendary Sor Crystal.  
+Aspect Enfusers are forged by an Ancient Rune(Bought in the nexus or marketplace) + a Legendary Sor Crystal.  
 ![Aspects 1](https://cdn.discordapp.com/attachments/950594019463954443/950594167057313882/unknown.png)  
 ![Aspects 2](https://cdn.discordapp.com/attachments/950594019463954443/950594198032228432/unknown.png)  
-The **Aspect of Terra** is special and is accessible to anyone who is in a tier 5 guild.
+The **Aspect of Terra** is unlocked specially and is accessible to anyone who is in a tier 5 guild.
 
 
 ### Unlockable Aspects

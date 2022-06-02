@@ -13,7 +13,7 @@ Fame does not play a huge role in valor, but it is still used for several exclus
 Dying! All of your characters will gain fame from killing monsters that will then be granted to you & multiplied by your fame bonuses upon dying with that character. Many things bought with fame are not soulbound.
 
 ### Uses
-Buying various items in the nexus, including: Tiered Items. Backpacks. Ancient Runes. Speedier Sprouts. Purification Crystals. Pandora's Boxes. Old Amulet of Resurrection.  
+Buying various items in the nexus, including: Tiered Items. Backpacks. Speedier Sprout. Purification Crystal. Pandora's Box. Ancient Rune. Old Amulet of Resurrection.  
 Changing your ingame name.  
 Creating guilds.  
 Buying certain housing tiles & objects.
@@ -52,9 +52,9 @@ Buying Onrane & Onrane Caches off the marketplace
 
 ### Uses
 Opening Elite Lootboxes.  
-Buying Legendary Items from shops.
-Ascending Sor Crystals into Legendary Sor Crystals.
-Consumed when using Essence of the Realm to upgrade ut items.
+Buying Legendary Items from shops.  
+Ascending Sor Crystals into Legendary Sor Crystals.  
+Consumed when using Essence of the Realm to upgrade ut items.  
 Putting Marks & Nodes onto your character.
 
 
@@ -74,7 +74,7 @@ Activating the Sor Reactor ring's special effects
 
 ![Kantos](https://i.imgur.com/lz7wOUG.png)  
 ## Kantos
-Kantos are the only premium currency that valor has but don't worry, it's all cosmetics!
+Kantos are the only premium currency that valor has but don't worry, it's no pay2win!
 
 ### How To Earn
 Buying donator ranks or kantos directly.  
@@ -84,5 +84,6 @@ Supporting the server by creating videos & streams.
 ### Uses
 Buying cute cosmetic pets that follow your characters.  
 Skin Effects & Character Skins to make you look fancy.  
+Enabling *server-wide* loot boosts.  
 Item Renamers to give your items something special.  
 Buying certain housing tiles & objects.
