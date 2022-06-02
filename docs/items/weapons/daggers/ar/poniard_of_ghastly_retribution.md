@@ -23,4 +23,4 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Pogger Projectile](
+![Pogger Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713840511266827/poniard.gif)
