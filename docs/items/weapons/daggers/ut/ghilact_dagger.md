@@ -8,7 +8,7 @@ sidebar_position: 10
 
 <i>Made from strong material that originates from another universe. It's quite scarce.</i>
 
-**Drops from the Servant of the Dark Knight**
+**Drops from the Servant of the Dark Knight in the Unspeakable**
 
 Damage: 100-150
 
