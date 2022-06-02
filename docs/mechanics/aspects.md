@@ -6,6 +6,7 @@ sidebar_position: 5
 Aspects are per-account unlockable "perks" that you can be applied & removed onto any of your characters at any time.
 
 ## Aspect Hall
+![Aspect Hall](http://prntscr.com/C7EB9ps98jS8)
 The aspect hall is where you select aspects on your character, it is located to the right side of the nexus or you can use /aspecthall ingame to go there at any time.
 
 ### Starter Aspects

@@ -6,7 +6,7 @@ sidebar_position: 3
 Valor has many different currencies that all serve different roles on the server, this page will go over hopefully all you need to know about them!
 
 ## Fame
-![Fame](https://vwiki.valorserver.com/api/item/picture/1000%20Fame) 
+![Fame](https://vwiki.valorserver.com/api/item/picture/1000%20Fame)  
 Fame does not play a huge role in valor, but it is still used for several exclusive purposes.
 
 ### How To Earn
@@ -20,7 +20,7 @@ Buying certain housing tiles & objects.
 
 
 ## Gold
-![Gold](https://vwiki.valorserver.com/api/item/picture/100000%20Gold)
+![Gold](https://vwiki.valorserver.com/api/item/picture/100000%20Gold)  
 Gold is one of the most important currencies in valor, being the most common way to trade with other players and used for a wide amount of ingame mechanics.
 
 ### How To Earn
@@ -31,19 +31,19 @@ Crushing Vials.
 
 ### Uses
 Buying items on the marketplace & removing your own from the market.  
-Buying gold coins in the nexus to keep safe or to trade with other players.  
+Buying gold coins in the nexus to sell to other players.  
 Opening Scavenger Chests.  
-Buying Keys from the Guild Hall.  
+Buying Dungeon Keys from the Guild Hall.  
 Shining legendary items to reroll them.  
-Creating Aspect Enfusers to unlock aspects.  
+Crafting Aspect Enfusers to unlock aspects.  
 Buying certain housing tiles & objects.
 
 ### Tax
-Note that valor has an 8% tax on most gold-related trading, including selling items on the marketplace & buying gold coins from the nexus. Keep this in mind when you are making trades!
+Valor has an 8% tax on most gold-related trading, including selling items on the marketplace & buying gold coins from the nexus. Keep this in mind when you are making trades!
 
 
 ## Onrane
-![Onrane](https://vwiki.valorserver.com/api/item/picture/Onrane)
+![Onrane](https://vwiki.valorserver.com/api/item/picture/Onrane)  
 Onrane is the most important custom currency on valor, being used for various ways to make your character stronger as well as forging legendary items!
 
 ### How To Earn
@@ -60,7 +60,7 @@ Putting Marks & Nodes onto your character.
 
 
 ## Sor Fragments
-![Sor Fragments](https://i.imgur.com/CphVnGK.png)
+![Sor Fragments](https://i.imgur.com/CphVnGK.png)  
 Sor Fragments are gained relatively passively and are a cruical part of forging certain legendary items.
 
 ### How To Earn
@@ -73,8 +73,7 @@ Forging Sor Crystals, which are then used to make Legendary items in various way
 Activating the Sor Reactor ring's special effects
 
 
-## Kantos
-![Kantos](https://i.imgur.com/lz7wOUG.png)
+## Kantos ![Kantos](https://i.imgur.com/lz7wOUG.png)  
 Kantos are the only premium currency that valor has but don't worry, it's all cosmetics!
 
 ### How To Earn
