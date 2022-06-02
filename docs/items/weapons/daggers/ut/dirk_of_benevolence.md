@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ![Benevolence](https://vwiki.valorserver.com/api/item/picture/dirk%20of%20benevolence)
 
-<i>Your fate leis within your weapon in times of war.</i>
+<i>Your fate lies within your weapon in times of war.</i>
 
 **Drops from the Abandoned Basement**
 
