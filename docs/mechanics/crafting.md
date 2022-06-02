@@ -30,7 +30,7 @@ xxx
 xxx
 
 
-## Elemental Sor Crystals
+## Elemental Sors
 xxx
 
 ### Upgrade List
@@ -51,9 +51,8 @@ xxx
 
 
 ##  Elemental Rune Enchanting
-Most very rare & powerful Ancient Relic items can be enchanted with the four elemental runes in order to upgrade & specalize them.  
+Most very rare & powerful Ancient Relic items can be enchanted with the four elemental runes in order to upgrade & specalize them, all of these AR upgrades can be removed with the plain Ancient Rune item purchasable for fame.  
 Speedier Sprout can also be upgraded with a Anicent Air Rune, turning it into the Speediest Sprout.  
-All of these AR upgrades can be removed with the plain Ancient Rune item purchasable for fame.  
 Fire Enchants usually boost damage, Air Enchants usually boost speed or fire rate, Earth Enchants usually boost survivability, Water Enchants usually boost mana or range.
 
 ### Elemental Rune Drop Locations
