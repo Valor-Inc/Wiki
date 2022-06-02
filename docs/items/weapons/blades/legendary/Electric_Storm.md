@@ -37,6 +37,6 @@
 Fame Bonus: 8%
 
 ## Projectile
-i![Electric Storm Shot](https://cdn.discordapp.com/attachments/953134990428868629/969066517205499924/electric_storm.gif)
+![Electric Storm Shot](https://cdn.discordapp.com/attachments/953134990428868629/969066517205499924/electric_storm.gif)
     
  
