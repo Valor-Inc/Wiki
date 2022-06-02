@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Blades of the Bridge Water
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Water)

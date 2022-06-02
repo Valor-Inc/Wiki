@@ -1,3 +1,6 @@
+---
+sidebar_position: 6
+---
 # Urumi
 
 ![Urumi](https://vwiki.valorserver.com/api/item/picture/Urumi)

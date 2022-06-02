@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Duality
 
 ![Duality](https://vwiki.valorserver.com/api/item/picture/Duality)  

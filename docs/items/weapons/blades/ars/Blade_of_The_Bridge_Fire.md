@@ -1,4 +1,7 @@
 
+---
+sidebar_position: 4
+---
 
 # Blades of the Bridge Fire
 

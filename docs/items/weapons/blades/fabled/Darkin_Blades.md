@@ -1,4 +1,6 @@
-
+---
+sidebar_position: 1
+---
 # Darkin Blades
 
 ![Darkin Blades](https://vwiki.valorserver.com/api/item/picture/Darkin%20Blades)  
