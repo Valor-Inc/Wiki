@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Poniard of Ghastly Retribution
 
 ![PoGR](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)
