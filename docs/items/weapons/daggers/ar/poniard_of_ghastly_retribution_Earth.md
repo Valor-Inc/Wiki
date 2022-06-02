@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Poniard of Ghastly Retribution Earth
 
 ![PoGRE](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)
