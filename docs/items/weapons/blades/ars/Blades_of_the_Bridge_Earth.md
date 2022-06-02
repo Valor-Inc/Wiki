@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Blades of the Bridge Earth
 
 ![Blades of the Bridge Earth](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
