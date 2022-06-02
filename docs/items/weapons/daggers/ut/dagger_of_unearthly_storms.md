@@ -30,4 +30,4 @@ Fame Bonus: 6%
 
 ## Projectile 
 
-![DUS Projectile](
+![DUS Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981757537433047080/unearthly.gif)
