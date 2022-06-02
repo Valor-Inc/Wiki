@@ -6,9 +6,9 @@ sidebar_position: 10
 
 ![Ghilact](https://vwiki.valorserver.com/api/item/picture/ghilact%20dagger)
 
-**Drops from the Servant of the Dark Knight**
-
 <i>Made from strong material that originates from another universe. It's quite scarce.</i>
+
+**Drops from the Servant of the Dark Knight**
 
 Damage: 100-150
 
