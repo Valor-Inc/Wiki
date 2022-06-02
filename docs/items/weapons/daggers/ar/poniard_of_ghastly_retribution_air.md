@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Poniard of Ghastly Retribution Air
 
 ![PoGRA](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20air)
