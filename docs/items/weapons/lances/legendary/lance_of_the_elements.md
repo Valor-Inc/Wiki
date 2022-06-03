@@ -1,5 +1,5 @@
 ---
-sidebar_position: 
+sidebar_position: 4
 ---
 
 # Lance of the Elements
