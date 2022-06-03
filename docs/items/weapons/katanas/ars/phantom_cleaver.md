@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Phantom Cleaver
 
 ![PC](https://vwiki.valorserver.com/api/item/picture/phantom%20cleaver)
