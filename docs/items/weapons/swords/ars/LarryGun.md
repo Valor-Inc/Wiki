@@ -2,17 +2,7 @@
 sidebar_position: 1
 ---
 
-# Larry Gun
+# Clarent
 
-![Larry Gun](https://vwiki.valorserver.com/api/item/picture/Larry%20Gun)
+![Clarent](https://vwiki.valorserver.com/api/item/picture/Clarent)
 
-Pew Pew.
-
-Fame Bonus: 15%  
-Damage: 230-295  
-
-
-
-## Projectile
-
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/948363279783309403/948382060266004480/unknown.png)
