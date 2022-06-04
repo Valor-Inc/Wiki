@@ -26,7 +26,19 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true,
+        language: ["en"],
+        //we dont use the blog feature
+        indexBlog: false,
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
