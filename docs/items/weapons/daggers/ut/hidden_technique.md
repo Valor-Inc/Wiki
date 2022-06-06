@@ -1,0 +1,28 @@
+---
+sidebar_position: 12
+---
+
+# Hidden Technique
+
+![HT](https://vwiki.valorserver.com/api/item/picture/hidden%20technique)
+
+<i>Watch as I demonstrate true talent!</i>
+
+**Drops from the Dojo**
+
+Damage: 50-100
+
+Shots: 1
+
+Rate of Fire: 125%
+
+Range: 5.9
+
+Shots hit multiple targets
+
+    + 1 Life Steal
+    
+## Projectile
+
+![HT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727292508209284/hiddentechnique.gif)
+
