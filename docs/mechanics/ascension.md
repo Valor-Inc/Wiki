@@ -6,7 +6,7 @@ sidebar_position: 7
 Want to know why you can't drink vials yet? Welcome to ascension!
 
 ## Requirements
-In order to ascend your character must first be 12/12 (Maxed every single stat with potions) and have 50000+ base fame. (Occasionally only 25k base fame if there's an event going on)
+In order to ascend your character must first be 12/12 (Maxed every single stat with potions) and have 50000+ base fame. (Occasionally less base fame if there's an event going on, but not usually the case)
 
 
 ![LS1](https://vwiki.valorserver.com/api/item/picture/Lost%20Scripture)  
