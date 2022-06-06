@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Phantom Cleaver Air
 
 ![PCA](https://vwiki.valorserver.com/api/item/picture/phantom%20cleaver%20air)

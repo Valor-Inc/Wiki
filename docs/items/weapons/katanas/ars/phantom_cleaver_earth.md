@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Phantom Cleaver Earth
 
 ![PCE](https://vwiki.valorserver.com/api/item/picture/phantom%20cleaver%20earth)
