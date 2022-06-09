@@ -75,9 +75,9 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: 'https://wiki.valorserver.com', label: 'Item & Mob Viewer', position: 'left'},
-
-          {to: 'https://valorserver.com/ranks', label: 'Support', position: 'left'},
+          {to: 'https://wiki.valorserver.com', label: 'Item Viewer', position: 'left'},
+          {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
+          {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
           {
             href: 'https://github.com/Valor-inc/Wiki',
             label: 'GitHub',
@@ -92,8 +92,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Wiki',
                 to: '/docs/about',
+              },
+              {
+                label: 'Blog',
+                to: 'https://blog.valorserver.com',
               },
             ],
           },
