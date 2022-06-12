@@ -1,5 +1,5 @@
 ---
-sidebar_position: 
+sidebar_position: 9
 ---
 
 # Wand_of_the_Phoenix
