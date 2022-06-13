@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 
 # Marketplace
-xxx
+The marketplace is very important part for all Valor players that want to quickly buy or sell items! Note that only non-elite accounts can use the marketplace.
 
 ## How to use the marketplace
 xxx (general explanation of how it functions)
@@ -25,4 +25,4 @@ xxx
 
 
 ## Tax
-xxx
+All transactions on the marketplace have an 8% Tax put onto the seller of an item. It also costs 50 gold to remove an item if it isn't your most recently placed item.

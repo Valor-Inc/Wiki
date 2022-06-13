@@ -5,6 +5,7 @@ sidebar_position: 4
 # Crafting  
 Crafting and forging items is a very important part of Valor as it is how a lot of later gear & progression is obtained.
 
+![The Forge](https://i.imgur.com/RxCCVdg.png)  
 ## The Forge
 The forge is located in the nexus, just up and right of the spawn location.  
 The order you put items in does matter, and it is generally the more universial item (LSor, Shine, Essence) on the left and then the other item to the right of that. If your forging does not work try swapping the order first!
@@ -14,10 +15,11 @@ The order you put items in does matter, and it is generally the more universial 
 Shards are rare legendary items obtained as drops from various bosses or from elite lootboxes that can all be combined with a Legendary Sor Crystal in order to forge a shard-specific legendary item!
 
 ### Drop Locations
-xxx
+![Shard Drops](https://media.discordapp.net/attachments/916852010719014933/916852409752494101/unknown.png?width=687&height=620)
 
 ### Shard Pools
-xxx
+![Shard Pools](https://media.discordapp.net/attachments/955249831390105640/969061321930858557/unknown.png?width=657&height=620)  
+*Could use a remake*
 
 
 ## Essence of the Realm
@@ -27,18 +29,19 @@ xxx
 xxx
 
 ### Upgrade List
-xxx
+![Essence List](https://media.discordapp.net/attachments/954437216992641045/985986142157561896/unknown.png?width=686&height=620)
 
 
 ## Elemental Sors
 xxx
 
 ### Upgrade List
-xxx
+![ESor List](https://media.discordapp.net/attachments/948404602389286922/980294868989517854/unknown.png?width=744&height=418)  
+*Needs visuals*
 
 
 ## Shines
-Shines are soulbound and have a chance of dropping from any boss in the game, forging them with a legendary item will allow you to reroll it into any legendary in any shard pool for a fee of gold!
+Shines are a rare soulbound drop dropping from any boss in the game, forging them with a legendary item will allow you to reroll it into any legendary in any shard pool for a fee of gold!
 
 ### Shine Cost
 By default shines will cost 75000 to use when forged, but this can be lowered in two ways.  
