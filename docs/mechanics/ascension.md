@@ -9,8 +9,10 @@ Want to know why you can't drink vials yet? Welcome to ascension!
 In order to ascend your character must first be 12/12 (Maxed every single stat with potions) and have 50000+ base fame. It also requires you to have 10 stars on your account. (Occasionally less base fame if there's an event going on, but not usually the case)
 
 
-![LS1](https://vwiki.valorserver.com/api/item/picture/Lost%20Scripture)  
+
 ## Lost Scripture 1
+![LS1](https://vwiki.valorserver.com/api/item/picture/Lost%20Scripture)  
+
 Lost Scripture 1 is a drop from Elite Lootboxes & Aldragine at the end of the zol raid, it can also be found on the marketplace or traded normally.  
 When consumed it will unlock the ability to buy Marks & Nodes on that character for onrane.
 
