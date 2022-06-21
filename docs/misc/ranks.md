@@ -2,7 +2,7 @@
 ***There are many ways to help support Valor and keep the server online! Ranks, cosmetic crates, skin packs, or global loot boost tokens are provided for donators. You can also directly buy the donator currency, "Kantos", for the benefits listed above.***
 
 ## VIP
-<img style="float: right;" src="https://mvp.valorserver.com/images/vip-banner.png">
+![PremBanner](https://mvp.valorserver.com/images/vip-banner.png)
 
 - VIP Rank Ingame and on Discord
 - 1200 Kantos
@@ -16,7 +16,8 @@
 - Four free vault maps with the command /mymaps (Throne Room, Peaceful Shore, Futuristic, Ranger's Course)
 
 ## Premium
-<img style="float: right;" src="https://mvp.valorserver.com/images/prem-banner.png">
+![PremBanner](https://mvp.valorserver.com/images/prem-banner.png)
+
 
 - Premium Rank Ingame and on Discord
 - 3000 Kantos
@@ -29,4 +30,5 @@
 - /size (change character size from 1 to 500)
 
 ## MVP
-<img style="float: right;" src="https://mvp.valorserver.com/images/mvp-banner.png">
+![MvpBanner](https://mvp.valorserver.com/images/mvp-banner.png)
+
