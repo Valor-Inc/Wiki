@@ -11,7 +11,7 @@
 - /glow [hex code] (change the color of our player name in chat and character glow)
 - /playtime (shows how much you've played)
 - Access to all non-Valor skins (200+ !)
-- 12x12 Housing Plot Size
+- 12x12 Housing Plot Size Upgrade
 - Access to Donator text and voice chats
 - Four free vault maps with the command /mymaps (Throne Room, Peaceful Shore, Futuristic, Ranger's Course)
 
@@ -23,7 +23,7 @@
 - 3000 Kantos
 - All perks from previous ranks
 - Access to Premium only text and voice chats
-- 20x20 Housing Plot Size
+- 20x20 Housing Plot Size Upgrade
 - Access to premium testing
 - /clearinv (Completely clears your inv, can be used to get rid of junk)
 - /backpack (gives your current character a backpack for FREE)
@@ -32,3 +32,12 @@
 ## MVP
 ![MvpBanner](https://mvp.valorserver.com/images/mvp-banner.png)
 
+
+- MVP Rank Ingame and on Discord
+- 7000 Kantos
+- All perks from previous ranks
+- 3+ Unique MVP Pets
+- 30x30 Housing Plot Size Upgrade
+- Access to exclusive MVP only text and voice chats
+- One free Gold Loot Boost a month (Global +50% Lootboost for 30mins)
+- Arcanuo's Eternal Love
