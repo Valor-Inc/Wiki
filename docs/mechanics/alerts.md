@@ -11,26 +11,26 @@ Every enemy or entity that dies within range of you has a 1/8000 chance to give 
 
 ## Different Alert Bosses
 
-![xxx]()
+![xxx](https://placeholder.png)
 ### xxx
 xxx
 
-![xxx]()
+![xxx](https://placeholder.png)
 ### xxx
 xxx
 
-![xxx]()
+![xxx](https://placeholder.png)
 ### xxx
 xxx
 
-![xxx]()
+![xxx](https://placeholder.png)
 ### xxx
 xxx
 
-![xxx]()
+![xxx](https://placeholder.png)
 ### xxx
 xxx
 
-![xxx]()
+![xxx](https://placeholder.png)
 ### xxx
 xxx
