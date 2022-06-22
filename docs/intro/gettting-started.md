@@ -4,6 +4,6 @@ description: "New player guides and useful information"
 ---
 # Getting Started
 
-Valor is a Realm Private Server, that has been in Operation for many years.
+Valor is a Realm Private Server, that has been in operation for many years.
 
 ***
