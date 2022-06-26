@@ -4,17 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Getting Started',
+    title: 'Unique Classes',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        With over 23 classes, there is something for everyone. Play as a Priest, to heal your friends, or the Mechanic, placing turrets to decimate enemies.
       </>
     ),
   },
   {
-    title: 'Dungeon Guides',
+    title: '24/7 Uptime',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        Valor attempts to be online for all timezones, all day and night, offering one mega-server. You may view it's <a href="https://status.valorserver.com">status</a> here.
+      </>
+    ),
+  },
+  {
+    title: 'Custom Mechanics',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +32,27 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Dps Calculator',
+    title: 'Ticket & Support System',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+  {
+    title: 'Active Community',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+  {
+    title: 'Frequent Updates',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
