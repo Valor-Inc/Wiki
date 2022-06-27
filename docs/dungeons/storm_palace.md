@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 # Storm Palace
-![Storm Palace](https://cdn.discordapp.com/attachments/953134990428868629/990449234824294490/v36c88I.png)
+![Storm Palace](https://cdn.discordapp.com/attachments/953134990428868629/990768826650079302/Layer_1_1.png)
 
 #### Drops from: Thunder God
 #### Location: God Lands
@@ -19,7 +19,7 @@ sidebar_position: 1
 
 
 # Boss: Iegon the Weather God
-![Legon the Thunder God](https://i.imgur.com/H64FINr.png)
+![Legon the Thunder God](https://cdn.discordapp.com/attachments/953134990428868629/990767833711530034/Layer_1.png)
 
 
 ### Boss Behaviours
