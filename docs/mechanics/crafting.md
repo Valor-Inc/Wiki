@@ -41,7 +41,7 @@ xxx
 
 
 ## Shines
-Shines are a rare soulbound drop dropping from any boss in the game, forging them with a legendary item will allow you to reroll it into any legendary in any shard pool for a fee of gold!
+Shines are a rare soulbound drop dropping from any boss in the game, forging them with a suitable legendary item will allow you to reroll it into a random legendary from any shard pool for a fee of gold!
 
 ### Shine Cost
 By default shines will cost 75000 to use when forged, but this can be lowered in two ways.  
@@ -50,7 +50,7 @@ If there is a shine booster currently active the cost will be lowered by 5000 fo
 You can always check the current shine cost on your character by doing `/sc` ingame. The cheapest possible shine cost is 60000 gold.
 
 ### Shinable Items
-xxx
+All legendaries that come from shards and *most* that are legendary drops from bosses. Any legendaries that come from essence or esor upgrading cannot be shined.
 
 
 ##  Elemental Rune Enchanting
@@ -59,7 +59,10 @@ Speedier Sprout can also be upgraded with a Anicent Air Rune, turning it into th
 Fire Enchants usually boost damage, Air Enchants usually boost speed or fire rate, Earth Enchants usually boost survivability, Water Enchants usually boost mana or range.
 
 ### Elemental Rune Drop Locations
-xxx
+Air: Crypt of the Illusionist, Fallen Raid Merganus the Titan
+Earth: Garden of Chaos, Fallen Raid xxx bosss
+Fire: Crimson Showdown, Ascended Abyss, Fallen Raid Titans & Fire Wizards
+Water: Tunnel of Pain, Fallen Raid xxx boss
 
 
 ## Aspect Enfusers
