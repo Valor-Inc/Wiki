@@ -5,7 +5,7 @@ sidebar_position: 1
 # Abandoned Basement
 ![Abandoned Basement](https://cdn.discordapp.com/attachments/953134990428868629/991559167380836434/Background.png)
 
-### Drops:
+### Notable Drops:
 ![Abandoned Basement Boss Drops](https://cdn.discordapp.com/attachments/953134990428868629/991570800358461451/Drawing.png)
 ![Abandoned Basement Troom Drops](https://cdn.discordapp.com/attachments/953134990428868629/991571645540081704/Drawing_1.png)
 
