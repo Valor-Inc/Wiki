@@ -6,30 +6,15 @@ sidebar_position: 1
 ![Storm Palace](https://cdn.discordapp.com/attachments/953134990428868629/990768826650079302/Layer_1_1.png)
 
 ### Notable Drops:
-
-Potion of Luck (from first boss)
-
-Potion of Speed (from first boss)
-
-Greater Potion of Luck (from treasure room boss)
-
-Greater Potion of Speed (from treasure room boss)
-
-Typhoon Wand (drops from both bosses)
-
-Dagger of Unearthly Storms (drops from both bosses)
-
-Ring of the Storm God (drops from both bosses)
-
-Stormbreaker (drops from both bosses)
-
+![Iegon Notable Drops](https://cdn.discordapp.com/attachments/953134990428868629/991576003182870578/Drawing_3.png)
+![Construct of the Storm Notable Drops](https://cdn.discordapp.com/attachments/953134990428868629/991576741749457006/Drawing_5.png)
 
 
 # Dungeon Layout
 ![Storm Palace Layout](https://cdn.discordapp.com/attachments/953134990428868629/991158818144780338/thundewrpalace.png)
 
 # Boss: Iegon the Weather God
-![Legon the Thunder God](https://cdn.discordapp.com/attachments/953134990428868629/990767833711530034/Layer_1.png)
+![Iegon the Thunder God](https://cdn.discordapp.com/attachments/953134990428868629/990767833711530034/Layer_1.png)
 
 
 ### Boss Behaviours
