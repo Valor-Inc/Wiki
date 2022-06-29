@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# NEEDS FACT CHECKING PLEASE AND THANKS!
+
 # Storm Palace
 ![Storm Palace](https://cdn.discordapp.com/attachments/953134990428868629/990768826650079302/Layer_1_1.png)
 
