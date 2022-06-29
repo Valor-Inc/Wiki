@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# NEEDS FACT CHECKING PLEASE AND THANKS!
 # Storm Palace
 ![Storm Palace](https://cdn.discordapp.com/attachments/953134990428868629/990768826650079302/Layer_1_1.png)
 
@@ -8,17 +9,19 @@ sidebar_position: 1
 
 Potion of Luck (from first boss)
 
-Potion of speed (from first boss)
+Potion of Speed (from first boss)
 
-Greater potion of luck (from treasure room boss)
+Greater Potion of Luck (from treasure room boss)
 
-Greater potion of speed (from treasure room boss)
+Greater Potion of Speed (from treasure room boss)
 
 Typhoon Wand (drops from both bosses)
 
 Dagger of Unearthly Storms (drops from both bosses)
 
 Ring of the Storm God (drops from both bosses)
+
+Stormbreaker (drops from both bosses)
 
 
 
@@ -53,4 +56,6 @@ Phase 2: He will emerge from his crystal form and begin firing a singular shot t
 
 2. You always have the option to call the dungeon and let a more experienced/better geared player to rush it for you.
 
-2. Rushing the dungeon is actually harder than doing the troom boss, due to the minions which deal a ton more damage than the boss itself. Steer clear of any yellow projectiles, as they will likely end up paralyzing you and leave you susceptible to the heavy-hitting minions nearby.
+3. Always assume that bright yellow shots will paralyze you. Dodge these at any cost, or you may be permanently paralyzed and forced to nexus. 
+
+4. Rushing the dungeon is actually harder than doing the troom boss, due to the minions which deal a ton more damage than the boss itself.
