@@ -10,7 +10,7 @@ sidebar_position: 4
 
 **Crafted with [Phantom Cleaver](https://wiki-test.valorserver.com/docs/items/weapons/katanas/ars/phantom_cleaver), which drops from Ulgur, and an Ancient Fire Rune**
 
-Furious Damage Enhancement: Fire does more daamge. Embrace IT.
+Furious Damage Enhancement: Fire does more damage. Embrace IT.
 
 Damage: 300-350
 
