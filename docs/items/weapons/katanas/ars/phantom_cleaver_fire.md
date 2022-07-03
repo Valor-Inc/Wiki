@@ -28,5 +28,5 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![PCF Projectile](![image](https://user-images.githubusercontent.com/106563707/177056537-c9350d81-ab4f-4846-81b4-12f46fc9d27d.png)
+![PCF Projectile](https://user-images.githubusercontent.com/106563707/177056537-c9350d81-ab4f-4846-81b4-12f46fc9d27d.png)
 
