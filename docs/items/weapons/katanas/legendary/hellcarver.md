@@ -8,6 +8,8 @@ sidebar_position: 3
 
 <i>A blade of molten lava forged together by Hades himself.</i>
 
+**Upgraded form of [Hellslicer](https://wiki-test.valorserver.com/docs/items/weapons/katanas/ut/hellslicer)**
+
 Damage: 250-350
 
 Shots: 1 
