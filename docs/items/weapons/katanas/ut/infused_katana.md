@@ -22,4 +22,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Infused Projectile]( )
+
