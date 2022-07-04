@@ -27,5 +27,3 @@ Range: 5.0
 Fame Bonus: No Fame Bonus
 
 ## Projectile
-
-
