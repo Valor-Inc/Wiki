@@ -32,4 +32,3 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Hellslicer Projectile]( )
