@@ -23,5 +23,3 @@ Shots pass through obstacles
 Fame Bonus: 6%
 
 ## Projectile
-
-
