@@ -24,4 +24,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Wavebreaker Projectile]( )
+
