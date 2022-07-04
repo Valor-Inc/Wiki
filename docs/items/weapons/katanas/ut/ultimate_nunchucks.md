@@ -24,4 +24,3 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![UNunchucks Projectile]( )
