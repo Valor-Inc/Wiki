@@ -23,4 +23,3 @@ Shots hit multiple targets
 Fame Bonus: 6%
 
 ## Projectile
-
