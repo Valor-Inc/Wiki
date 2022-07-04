@@ -30,4 +30,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![BThorns Projectile]()
+
