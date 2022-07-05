@@ -110,7 +110,7 @@ Fame Bonus: 15%
 <i>All that you know flickers into ghastly embers, leaving only rage with each vicious strike.</i>
 
     
-**Fire Rune: Increases your minimum damage by 45 and maximum by 50.   
+**Fire Rune: Increases your minimum damage by 45 and maximum by 50.**
     
 Damage: 970-1100
 
@@ -141,7 +141,7 @@ Fame Bonus: 15%
     
 <i>The cosmic knowledge of Zol flows through your soul. It burns.</i>
 
-**Water Rune: Increases your ragne by 0.4 tiles.
+**Water Rune: Increases your ragne by 0.4 tiles.**
     
 Damage: 925-1050
 
