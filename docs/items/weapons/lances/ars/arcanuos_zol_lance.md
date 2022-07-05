@@ -12,9 +12,10 @@ import TabItem from '@theme/TabItem';
 
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
 
+# Arcanuo's Zol Lance   
+    
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
 
-# Arcanuo's Zol Lance
     
 Damage: 925-1050
 
