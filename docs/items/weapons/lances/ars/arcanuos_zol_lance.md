@@ -71,7 +71,7 @@ Fame Bonus: 15%
     
 # Arcanuo's Zol Lance Earth
 
-![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20earth
+![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20earth)
     
 <i>The wounds of this fickle world don't phase you anymore. You know better than them. All of them.</i>
 
