@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Arcanuo's Zol Lance
 ---
 
 import Tabs from '@theme/Tabs';
