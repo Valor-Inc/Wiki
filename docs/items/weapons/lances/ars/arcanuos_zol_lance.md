@@ -16,9 +16,9 @@ Rate of Fire: 100%
 
 Range: 3.6
 
-Shots hit multiple targets
+**Shots hit multiple targets
 
-Ignores defense of target
+Ignores defense of target**
 
     +200 Maximum HP
 
