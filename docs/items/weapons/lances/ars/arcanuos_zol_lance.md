@@ -9,13 +9,12 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Arcanuo's Zol Lance" label="Arcanuo's Zol Lance" default>
    
-    
-# Arcanuo's Zol Lance
 
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
 
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
 
+# Arcanuo's Zol Lance
     
 Damage: 925-1050
 
@@ -46,8 +45,7 @@ Fame Bonus: 15%
     
 <i>The Zol fills your lungs now, giving you unparalleled vigor and ferocity.</i>
 
-    
-**Air Rune: Increase your rate of fire by 5%
+**Air Rune: Increase your rate of fire by 5%**
     
 Damage: 925-1050
 
@@ -102,7 +100,6 @@ Fame Bonus: 15%
     
   </TabItem>
   <TabItem value="Fire" label="Fire">
-    
     
 # Arcanuo's Zol Lance Fire
 
