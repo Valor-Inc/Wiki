@@ -9,10 +9,11 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Arcanuo's Zol Lance" label="Arcanuo's Zol Lance" default>
    
-
+# Arcanuo's Zol Lance
+---
+    
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
 
-# Arcanuo's Zol Lance   
     
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
 
@@ -41,7 +42,8 @@ Fame Bonus: 15%
     
     
 # Arcanuo's Zol Lance Air
-
+---
+    
 ![AZLA](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20air)
     
 <i>The Zol fills your lungs now, giving you unparalleled vigor and ferocity.</i>
@@ -72,7 +74,8 @@ Fame Bonus: 15%
     
     
 # Arcanuo's Zol Lance Earth
-
+---
+    
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20earth)
     
 <i>The wounds of this fickle world don't phase you anymore. You know better than them. All of them.</i>
@@ -103,7 +106,8 @@ Fame Bonus: 15%
   <TabItem value="Fire" label="Fire">
     
 # Arcanuo's Zol Lance Fire
-
+---
+    
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20fire)
 
 <i>All that you know flickers into ghastly embers, leaving only rage with each vicious strike.</i>
