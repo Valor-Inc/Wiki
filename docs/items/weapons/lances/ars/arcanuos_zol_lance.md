@@ -15,6 +15,7 @@ import TabItem from '@theme/TabItem';
 
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
 
+    
 Damage: 925-1050
 
 Shots: 2
@@ -43,8 +44,9 @@ Fame Bonus: 15%
 ![AZLA](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20air)
     
 <i>The Zol fills your lungs now, giving you unparalleled vigor and ferocity.</i>
+
     
-**Air Rune: Increase your rate of fire by 5%**
+**Air Rune: Increase your rate of fire by 5%
     
 Damage: 925-1050
 
@@ -75,6 +77,7 @@ Fame Bonus: 15%
     
 <i>The wounds of this fickle world don't phase you anymore. You know better than them. All of them.</i>
 
+    
 **Earth Rune: Increases your health by 100.**
     
 Damage: 925-1050
@@ -102,10 +105,11 @@ Fame Bonus: 15%
     
 # Arcanuo's Zol Lance Fire
 
-![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
+![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20fire)
 
 <i>All that you know flickers into ghastly embers, leaving only rage with each vicious strike.</i>
 
+    
 **Fire Rune: Increases your minimum damage by 45 and maximum by 50.   
     
 Damage: 970-1100
