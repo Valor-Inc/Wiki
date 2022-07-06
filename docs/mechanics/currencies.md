@@ -5,8 +5,8 @@ sidebar_position: 3
 # Currencies
 Valor has many different currencies that all serve different roles on the server, this page will go over hopefully all you need to know about them!
 
-![Fame](https://vwiki.valorserver.com/api/item/picture/1000%20Fame)  
 ## Fame
+![Fame](https://vwiki.valorserver.com/api/item/picture/1000%20Fame)  
 Fame does not play a huge role in valor, but it is still used for several exclusive purposes.
 
 ### How To Earn
@@ -19,8 +19,8 @@ Creating guilds.
 Buying certain housing tiles & objects.
 
 
-![Gold](https://vwiki.valorserver.com/api/item/picture/100000%20Gold)  
 ## Gold
+![Gold](https://vwiki.valorserver.com/api/item/picture/100000%20Gold)  
 Gold is one of the most important currencies in valor, being the most common way to trade with other players and used for a wide amount of ingame mechanics.  
 Valor has an 8% tax on most gold-related trading, including selling items on the marketplace & buying gold coins from the nexus. Keep this in mind when you are making trades!
 
@@ -41,8 +41,8 @@ Crafting Aspect Enfusers to unlock aspects.
 Buying certain housing tiles & objects.
 
 
-![Onrane](https://vwiki.valorserver.com/api/item/picture/Onrane)  
 ## Onrane
+![Onrane](https://vwiki.valorserver.com/api/item/picture/Onrane)  
 Onrane is the most important custom currency on valor, being used for various ways to make your character stronger as well as forging legendary items!
 
 ### How To Earn
@@ -58,8 +58,8 @@ Consumed when using Essence of the Realm to upgrade ut items.
 Putting Marks & Nodes onto your character.
 
 
-![Sor Fragments](https://i.imgur.com/CphVnGK.png)  
 ## Sor Fragments
+![Sor Fragments](https://i.imgur.com/CphVnGK.png)  
 Sor Fragments are gained relatively passively and are a cruical part of forging certain legendary items.
 
 ### How To Earn
@@ -72,9 +72,9 @@ Forging Sor Crystals, which are then used to make Legendary items in various way
 Activating the Sor Reactor ring's special effects
 
 
-![Kantos](https://i.imgur.com/lz7wOUG.png)  
 ## Kantos
-Kantos are the only premium currency that valor has but don't worry, it's no pay2win!
+![Kantos](https://i.imgur.com/lz7wOUG.png)  
+Kantos are the only premium currency that valor has but don't worry, there's no pay to win!
 
 ### How To Earn
 Buying donator ranks or kantos directly.  
