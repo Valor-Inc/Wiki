@@ -10,9 +10,10 @@ Aspects are per-account unlockable "perks" that can be applied & removed onto an
 The aspect hall is where you go to select & deselect aspects on your character, it is located to the right side of the nexus or you can use `/aspecthall` ingame to go there at any time.
 
 ### Starter Aspects
+![Starters](https://i.imgur.com/RYxKsgh.png)  
 There are 3 aspects that every account starts with unlocked for free, those are:  
 **Aspect of Power:** +50 HP, +5 Attack, +5 Dexterity  
-**Aspect of Support:** +80 HP, +10 Wisdom, +10 Vitality  
+**Aspect of Support:** +60 HP, +10 Wisdom, +10 Vitality  
 **Aspect of Utility:** +80 HP, +8 Defense, +8 Speed
 
 ## Aspect Unlocking
@@ -24,4 +25,4 @@ The **Aspect of Terra** is unlocked specially and is accessible to anyone who is
 
 
 ### Unlockable Aspects
-[Placeholder list, to be ported over](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)
+[Placeholder list, to be ported over to this page](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)

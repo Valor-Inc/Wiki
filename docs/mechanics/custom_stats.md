@@ -16,12 +16,12 @@ Your surge bar goes up by 2 whenever an enemy dies near you, if it doesn't incre
 ## 12/12 & New Maxable Stats
 Valor also adds 4 new maxable stats with every class having their own stat caps for them. Mechanics & items that require a player to be maxed require all of these to be maxed as well as vanilla stats! (12/12)   
 
-![Luck](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Luck)  
 ### Luck
+![Luck](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Luck)  
 Luck raises your critical hit chance, every 10 luck gives you an extra 1% chance to hit a critical hit.
 
-![Might](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Might)  
 ### Might
+![Might](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Might)  
 Might effects your critical hit damage multiplier, every 76 might you have increases your serverside crit multiplier by 1x.  
 Threshold chart - x Being how much might you have:  
 0 ≤ x < 76 = 1x crits (does no bonus damage)  
@@ -30,28 +30,28 @@ Threshold chart - x Being how much might you have:
 228 ≤ x < 304 = 4x crits  
 304 ≤ x < 380 = 5x crits (crit multipliers past 4x require a high amount of ATTACK as well as might in order to hit)  
 
-![Restoration](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Restoration)  
 ### Restoration
+![Restoration](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Restoration)  
 Higher Restoration increases the amount of hp/mp you heal from consumables and potions. It also increases the amount of potions you get upon entering the nexus up to a cap of 4 hp/mp potions that heal 290 each.
 
-![Protection](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Protection)  
 ### Protection
+![Protection](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Protection)  
 Your Protection stat determines how high your full Prot bar is.
 
 
-![Fused Ring](https://vwiki.valorserver.com/api/item/picture/Fused%20Ring)  
 ## Life Steal & Mana Leech
+![Fused Ring](https://vwiki.valorserver.com/api/item/picture/Fused%20Ring)  
 Every Life Steal & Mana Leech you have makes you regenerate that amount of health or mana upon hitting any enemy with a projectile. Invulnerable enemies do work but not invincible ones. (enemies that non-piercing shots pass through)  
 These work on all weapon shots & certain abilities that shoot projectiles like spells & quivers but not with aoe abilities like poisons, skulls, scepters or traps.
 
 
-![Jackpot](https://vwiki.valorserver.com/api/item/picture/Jackpot)  
 ## Fortune
+![Jackpot](https://vwiki.valorserver.com/api/item/picture/Jackpot)  
 Fortune is a powerful stat for grinding only obtainable from specific pieces of equipment.  
-Every 1 fortune you have increases your loot boost by 1% (check at any time with `/lb` ingame), which is factored in only when an enemy dies and not at any point before that.
+Every 1 fortune you have increases your loot boost by 1% (check at any time with `/lb` ingame), which is factored only when an enemy dies meaning you can keep your regular equipment on until right before the enemy dies!
 
-![Split Worlds](https://vwiki.valorserver.com/api/item/picture/Robe%20of%20Split%20Worlds)  
 ## Healing Boost & Mana Healing Boost
+![Split Worlds](https://vwiki.valorserver.com/api/item/picture/Robe%20of%20Split%20Worlds)  
 These stats currently are only on a few pieces of legendary gear.  
 Healing Boost increases the amount you regen from priest tome heals and the healing buff.  
 Mana Healing Boost increases the amount you regen from the templar's empowered buff.
