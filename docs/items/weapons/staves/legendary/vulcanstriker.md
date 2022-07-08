@@ -8,7 +8,7 @@ sidebar_position: 9
 
 <i>A staff that is made out of marvelous crystal and has been crafted into a rhombus shape, which ahs been decorated with bright, jagged crystals that give off a soft humming sound whenever magic is used.</i>
 
-Damage: 170-190
+Damage: 200-220
 
 Shots: 2
 
@@ -21,6 +21,8 @@ Shots hit multiple targets
 Ignores defense of target
 
 Shots pass through obstacles
+
+    +20 Might
 
 Fame Bonus: 8%
 
