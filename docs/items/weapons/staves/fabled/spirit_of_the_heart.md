@@ -6,10 +6,6 @@ sidebar_position: 2
 
 ![Spirit](https://vwiki.valorserver.com/api/item/picture/spirit%20of%20the%20heart)
 
-#
-
-![Spirit](https://vwiki.valorserver.com/api/item/picture/spirit%20of%20the%20heart)
-
 <i>You can kill once, but you can't die twice. ~Nirux</i>
 
 Damage: 120-220
