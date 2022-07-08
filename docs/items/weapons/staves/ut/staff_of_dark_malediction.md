@@ -5,3 +5,23 @@ sidebar_position: 2
 # Staff of Dark Malediction
 
 ![SDM](https://vwiki.valorserver.com/api/item/picture/staff%20of%20dark%20malediction)
+
+<i>A wicked staff that brings about a sensation of emptiness, but whispers occasionally seep forth from the darkness.</i>
+
+Damage: 70-120
+
+Shots: 110%
+
+Rate of Fire: 110% 
+
+Range: 6.8
+
+Shots hit multiple targets
+
+    +80 Maximum MP
+
+Fame Bonus: 6%
+
+## Projectile
+
+![SDM Projectile](https://user-images.githubusercontent.com/106563707/178049140-fd0d9fa5-4c35-4ad8-97bd-afb6d204a317.png)
