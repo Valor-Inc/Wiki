@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="Arcanuo's Zol Lance" label="Arcanuo's Zol Lance" default>
    
 # Arcanuo's Zol Lance
----
+
     
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
 
@@ -26,9 +26,9 @@ Rate of Fire: 100%
 
 Range: 3.6
 
-**Shots hit multiple targets**
+Shots hit multiple targets
 
-**Ignores defense of target**
+Ignores defense of target
 
     +200 Maximum HP
 
@@ -42,7 +42,7 @@ Fame Bonus: 15%
     
     
 # Arcanuo's Zol Lance Air
----
+
     
 ![AZLA](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20air)
     
@@ -74,7 +74,7 @@ Fame Bonus: 15%
     
     
 # Arcanuo's Zol Lance Earth
----
+
     
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20earth)
     
@@ -106,7 +106,7 @@ Fame Bonus: 15%
   <TabItem value="Fire" label="Fire">
     
 # Arcanuo's Zol Lance Fire
----
+
     
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20fire)
 
