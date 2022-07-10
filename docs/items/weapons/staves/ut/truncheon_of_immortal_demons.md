@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Truncheon of Immortal Demons
 
-![](https://vwiki.valorserver.com/api/item/picture/
+![TID](https://vwiki.valorserver.com/api/item/picture/truncheon%20of%20immortal%20demons)
 
 <i>A staff that uses the magic of the ghouls and demons that lurk in our world.</i>
 
