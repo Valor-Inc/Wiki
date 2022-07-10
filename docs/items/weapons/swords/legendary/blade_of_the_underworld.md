@@ -5,3 +5,21 @@ sidebar_position: 4
 # Blade of the Underworld
 
 ![DBLADE2](https://vwiki.valorserver.com/api/item/picture/blade%20of%20the%20underworld)
+
+<i>  </i>
+
+Damage: 255-355
+
+Shots: 2
+
+Rate of Fire: 135%
+
+Range: 4.7
+
+Ignores defense of target
+
+Fame Bonus: 8%
+
+## Projectile
+
+![DBlade2 Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954066999682682890/underworld.gif)
