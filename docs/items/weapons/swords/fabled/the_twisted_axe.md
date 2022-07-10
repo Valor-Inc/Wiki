@@ -25,3 +25,5 @@ Shots Boomerang
 Fame Bonus: 8%
 
 ## Projectile
+
+![TwistedAxe Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950405708283789322/TwistedAxe.gif)
