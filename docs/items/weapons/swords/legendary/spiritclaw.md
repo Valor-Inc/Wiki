@@ -1,7 +1,14 @@
 ---
 sidebar_position: 12
+title: Spiritclaw
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="Spiritclaw" label="Spiritclaw" default>
+   
 # Spiritclaw
 
 ![spiritclaw](https://vwiki.valorserver.com/api/item/picture/spiritclaw)
@@ -31,3 +38,69 @@ Fame Bonus: 12%
 ## Projectile
 
 ![Spiritclaw Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950408694015864852/Sclaw.gif)
+
+  </TabItem>
+  <TabItem value="Birdclaw" label="Birdclaw">
+
+# Birdclaw
+
+![Birdclaw](https://vwiki.valorserver.com/api/item/picture/birdclaw)
+
+<i>That'll leave a scratch.</i>
+
+Damage: 450-550
+
+Shots: 1
+
+Rate of Fire: 120%
+
+Range: 4
+
+Shot Effect: Weak for 0.4 seconds
+
+Shots hit multiple targets
+
+Ignores defense of target
+
+    +80 Maximum MP
+    
+    +60 Restoration
+
+Fame Bonus: 12%
+
+## Projectile
+
+![Birdclaw Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950409723298078760/Birdclaw.gif)
+
+  </TabItem>
+    <TabItem value="Cotton Candy Claw" label="Cotton Candy Claw">
+
+# Cotton Candy Claw
+
+![CCC](https://vwiki.valorserver.com/api/item/picture/cotton%20candy%20claw)
+
+<i>Lives won't be spared.</i>
+
+Damage: 450-550
+
+Shots: 1
+
+Rate of Fire: 120%
+
+Range: 4
+
+Shot Effect: Weak for 0.4 seconds
+
+Shots hit multiple targets
+
+Ignores defense of target
+
+    +80 Maximum MP
+    
+    +60 Restoration
+
+Fame Bonus: 12%
+
+## Projectile
+
+![CCC Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950410622401667122/CandyClaw.gif)
