@@ -63,7 +63,7 @@ Fame Bonus: 15%
 
 # Blades of the Bridge Earth
 
-![Blades of the Bridge Earth](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
+![Blades of the Bridge Earth](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20earth)
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Earth</i>
 
