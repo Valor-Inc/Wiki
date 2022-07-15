@@ -24,6 +24,8 @@ Shots pass through obstacles
     
     +10 Attack
 
+**Alien Restoration: When using Mana potions, you have a up to 25% chance to restore your protection.**
+
 Fame Bonus: 8%
  
 ## Projectile
