@@ -103,4 +103,6 @@ Fame Bonus: 12%
 
 ## Projectile
 
-![CCC Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950410622401667122/CandyClaw.gif)
+![CCC Projectile](https://i.imgur.com/uDNGJaf.gif)
+
+
