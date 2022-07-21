@@ -6,7 +6,7 @@ sidebar_position: 10
 Raids are some of Valor's hardest & most rewarding content, being server-wide dungeons with their own mechanics & bosses that are home to equipment exclusive to their walls.
 
 ## Raid Tokens  
-![RaidToken](https://i.imgur.com/odfA0qF.png)
+![RaidToken](https://i.imgur.com/odfA0qF.png)  
 In order to start a raid a player must use any of the 3 raid tokens in the ascension enclave, this will spawn a portal that stays open for 2 minutes before disappearing. Tokens come as a soulbound drop from Oryx the Mad God 2 & 3 or from tradable Token Crates that can be found on the player marketplace.
 
 ## Ascension Enclave  
