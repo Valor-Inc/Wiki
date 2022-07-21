@@ -1,6 +1,4 @@
 ---
-[AR Page]
----
 sidebar_position: 1
 title: Cloak of the King
 ---
@@ -142,7 +140,37 @@ Fame Bonus: 14%
   </TabItem>
   <TabItem value="Water" label="Water">
 
+# Cloak of the King Water
 
+![CKWater](https://vwiki.valorserver.com/api/item/picture/cloak%20of%20the%20king%20water)
+
+<i>The cloak used by The Forgotten King to morph himself into his crown. Enchanted by the power of the Skys</i>
+
+**Water Rune: Increases how long you stay invisible in return for a short Quiet.**
+    
+Effect on Self: Invisible for 13 seconds
+
+Effect on Self: Quiet for 0.5 seconds
+    
+Effect on Self: Bravery for 5 seconds
+
+Effect on self: Within 4 sqrs Berserk for 5 seconds
+
++110 Maximum HP for 10 seconds
+    
++6 Dexterity for 10 seconds
+
++6 Attack for 10 seconds
+
+MP Cost: 180
+
+Cooldown: 12 Seconds
+
+    +10 Attack
+    
+    +12 Speed
+
+Fame Bonus: 14%
 
   </TabItem>
 </Tabs>
