@@ -16,5 +16,9 @@ MP Cost: 110
 
 Cooldown: 7.5 seconds
 
+    +10 Defense
+    
+    +6 Attack
+
 Fame Bonus: 6%
 
