@@ -22,3 +22,4 @@ Cooldown: 5 seconds
 
 Fame Bonus: 8%
 
+**No Speed Bumps: You are immune to Slowed.**
