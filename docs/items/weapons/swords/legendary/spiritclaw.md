@@ -104,5 +104,6 @@ Fame Bonus: 12%
 ## Projectile
 
 ![CCC Projectile](https://i.imgur.com/uDNGJaf.gif)
- </TabItem>
+      
+  </TabItem>
 
