@@ -6,12 +6,16 @@ sidebar_position: 5
 
 ![phantomous](https://vwiki.valorserver.com/api/item/picture/phantomous%20blight)
 
-<i>Fast-acting and infamously lethal poison pressed from the Haloflower seed.</i>
+<i>This poison is said to be the origin story for Phantoms. The Scientists of Sidon concocted and used this to create the very first Phantoms</i>
 
-Poison Grenade: Within 7 sqrs After  seconds 1300 immediately + 1300 over 4 seconds
+Effect on Self: Invisible for 1.5 seconds
 
-MP Cost: 90
+Poison Grenade: Within 4 sqrs After  seconds 1400 immediately + 200 over 6 seconds
 
-    +15 Attack
+MP Cost: 100
 
-Fame Bonus: 8%
+    +10 Speed
+    
+    +15 Luck
+
+Fame Bonus: 12%
