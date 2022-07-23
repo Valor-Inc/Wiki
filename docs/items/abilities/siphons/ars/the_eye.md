@@ -46,9 +46,9 @@ Fame Bonus: No Fame Bonus
   </TabItem>
   <TabItem value="Air" label="Air">
 
-# The Eye
+# The Eye Air
 
-![TheEye](https://vwiki.valorserver.com/api/item/picture/the%20eye%20air)
+![TheEyeAir](https://vwiki.valorserver.com/api/item/picture/the%20eye%20air)
 
 <i>Soothed by the endless winds.</i>
 
@@ -114,7 +114,7 @@ Fame Bonus: No Fame Bonus
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# The Eye
+# The Eye Fire
 
 ![TheEyeFire](https://vwiki.valorserver.com/api/item/picture/the%20eye%20fire)
 
@@ -147,8 +147,8 @@ Fame Bonus: No Fame Bonus
   </TabItem>
   <TabItem value="Water" label="Water">
 
-# The Eye
-
+# The Eye Water
+ 
 ![TheEyeWater](https://vwiki.valorserver.com/api/item/picture/the%20eye%20water)
 
 <i>Granted wisdom of the ever dominant tides.</i>
