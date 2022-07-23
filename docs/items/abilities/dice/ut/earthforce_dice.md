@@ -16,4 +16,4 @@ MP Cost: 110
 
     +20 Maximum HP
 
-Fame Bonus: 
+Fame Bonus: 5%
