@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-title: Oblivion
 ---
 
 import Tabs from '@theme/Tabs';
