@@ -1,13 +1,12 @@
 ---
 sidebar_position: 1
-title: Phantom Cleaver
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value=" " label=" " default>
+  <TabItem value="Phantom Cleaver" label="Phantom Cleaver" default>
    
 # Phantom Cleaver
 
