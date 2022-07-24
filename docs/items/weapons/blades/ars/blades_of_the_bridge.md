@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Blades of the Bridge
+title: AR Blades
 ---
 
 import Tabs from '@theme/Tabs';
