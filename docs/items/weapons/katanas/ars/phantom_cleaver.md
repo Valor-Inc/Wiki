@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Phantom Cleaver
 ---
 
 import Tabs from '@theme/Tabs';
