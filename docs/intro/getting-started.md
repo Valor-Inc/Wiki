@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-id: getting-started
 description: "New player guides and useful information"
 ---
 # Getting Started

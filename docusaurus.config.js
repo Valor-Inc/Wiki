@@ -92,10 +92,6 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Wiki',
-                to: '/intro/getting-started',
-              },
-              {
                 label: 'Blog',
                 to: 'https://blog.valorserver.com',
               },
