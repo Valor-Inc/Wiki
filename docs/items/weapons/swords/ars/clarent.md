@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+Title: Clarent
 ---
 
 import Tabs from '@theme/Tabs';
