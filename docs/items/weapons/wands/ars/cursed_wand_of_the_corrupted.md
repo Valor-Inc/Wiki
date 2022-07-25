@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Cursed Wand of the Corrupted
 ---
 
 import Tabs from '@theme/Tabs';
