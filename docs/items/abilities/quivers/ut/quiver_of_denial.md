@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <i>Tell the truth you evil creature! You cant handle the truth!</i>
 
-**The truth is this is the most OP ITEM EVER**
+**The truth is this is the most OP ITEM EVER!**
 
 Damage: 280-315
 
