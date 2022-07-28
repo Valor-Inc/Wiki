@@ -4,7 +4,7 @@ sidebar_position: 21
 
 # Sky Palace Gem
 
-![SPG](https://vwiki.valorserver.com/api/item/picture/sky%20palace%20gem
+![SPG](https://vwiki.valorserver.com/api/item/picture/sky%20palace%20gem)
 
 <i>A hypnotizing trinket of ephemeral renown, known for its ability to draw power from the everwinds that twist vibrantly within its pale peridot.</i>
 
