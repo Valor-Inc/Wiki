@@ -1,5 +1,5 @@
 ---
-sidebar_position: 
+sidebar_position: 30
 ---
 
 # The Ring of Flaming Power
