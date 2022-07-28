@@ -6,22 +6,30 @@ sidebar_position: 1
 
 ![GF](https://vwiki.valorserver.com/api/item/picture/the%20grand%20finale)
 
-<i>  </i>
+<i>A explosion of zol will be released on the use of the scepter.</i>
 
-Party Effect:  
+Shots: 30
 
-Party Effect:
+Damage: 20-40
 
-Effect on Self:
+Range: 2.2
 
-Effect on Self: 
+Shots hit multiple targets
 
-HP Cost:
+Ignores defense of target
 
-MP Cost:
+Shots pass through obstacles
 
-Cooldown:
+Shots Boomerang
 
+Shot Effect: Armor Broken for 1.5 seconds
 
+MP Cost: 100
 
-Fame Bonus: 
+    +40 Maximum MP
+
+    +6 Speed
+    
+    +8 Attack
+
+Fame Bonus: 8%
