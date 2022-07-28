@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ![Death](https://vwiki.valorserver.com/api/item/picture/death%20amulet)
 
-<i>Spooky</i>
+<i>Spooky.</i>
 
     +10 Maximum HP
     
