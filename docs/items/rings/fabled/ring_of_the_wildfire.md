@@ -14,4 +14,4 @@ sidebar_position: 7
     
     +2 Defense
     
-Fame Bonus: 
+Fame Bonus: 6%
