@@ -8,26 +8,26 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Saturn's Orbit" label="Saturn's Orbit" default>
-   
-# Saturn's Orbit
+
+# Saturns Orbit
 
 ![saturns](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit)
 
-<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world.</i>
-    
+<i>A asteroid-plated, super hard diamong ring with enchants granting the user power beyond this world.</i>
+
     +13 Defense
-    
+
     +13 Attack
-    
+
     +21 Fortune
-    
+
 Fame Bonus: 16%
-    
-**Influence: Gain the following buffs while you have the proper gold requirement:
-100k Gold: Confuse Immunity
-250k Gold: Abilities cost 20 Mana less
-500k Gold: +15% Rate of Fire
-1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+
+**Influence: Gain the following buffs while you have the proper gold requirement:**
+**100k Gold: Confuse Immunity**
+**250k Gold: Abilities cost 20 Mana less**
+**500k Gold: 15% Rate of Fire**
+**1000k Gold: 10% chance to revive upon receiving a fatal blow.** 
 
   </TabItem>
   <TabItem value="Air" label="Air">
