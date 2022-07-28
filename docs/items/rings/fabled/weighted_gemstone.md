@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Weighted Gemstone
 
-![Weighted](https://vwiki.valorserver.com/api/item/picture/
+![Weighted](https://vwiki.valorserver.com/api/item/picture/weighted%20gemstone)
 
 <i>A large moonstone was bound into the head of this band. Heavy, but vital.</i>
 
