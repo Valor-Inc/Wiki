@@ -50,11 +50,11 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
     
-**Influence: Gain the following buffs while you have the proper gold requirement:
-100k Gold: Confuse Immunity
-250k Gold: Abilities cost 20 Mana less
-500k Gold: +15% Rate of Fire
-1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**Influence: Gain the following buffs while you have the proper gold requirement:**
+**100k Gold: Confuse Immunity**
+**250k Gold: Abilities cost 20 Mana less**
+**500k Gold: +15% Rate of Fire**
+**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -102,11 +102,11 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
     
-**Influence: Gain the following buffs while you have the proper gold requirement:
-100k Gold: Confuse Immunity
-250k Gold: Abilities cost 20 Mana less
-500k Gold: +15% Rate of Fire
-1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**Influence: Gain the following buffs while you have the proper gold requirement:**
+**100k Gold: Confuse Immunity**
+**250k Gold: Abilities cost 20 Mana less**
+**500k Gold: +15% Rate of Fire**
+**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -125,11 +125,11 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
     
-**Influence: Gain the following buffs while you have the proper gold requirement:
-100k Gold: Confuse Immunity
-250k Gold: Abilities cost 30 Mana less
-500k Gold: +15% Rate of Fire
-1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**Influence: Gain the following buffs while you have the proper gold requirement:**
+**100k Gold: Confuse Immunity**
+**250k Gold: Abilities cost 30 Mana less**
+**500k Gold: +15% Rate of Fire**
+**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
 
   </TabItem>
 </Tabs>
