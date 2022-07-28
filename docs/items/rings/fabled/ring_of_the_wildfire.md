@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Ring of the Wildfire
 
-![Wildfire](https://vwiki.valorserver.com/api/item/picture/
+![Wildfire](https://vwiki.valorserver.com/api/item/picture/ring%20of%20the%20wildfire)
 
 <i>A ring of that is made of wood but a forever living flame has been set on it. It won't harm the wearer.</i>
 
