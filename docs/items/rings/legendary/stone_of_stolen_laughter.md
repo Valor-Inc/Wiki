@@ -2,7 +2,7 @@
 sidebar_position: 25
 ---
 
-# Stone of Stolen Laughter>![:joy:]
+# Stone of Stolen Laughter
 
 ![SSL](https://vwiki.valorserver.com/api/item/picture/stone%20of%20stolen%20laughter)
 
