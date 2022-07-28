@@ -16,4 +16,4 @@ sidebar_position: 27
     
     +6 Wisdom
     
-Fame Bonus: 6%
+Fame Bonus: 4%
