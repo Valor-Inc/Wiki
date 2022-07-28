@@ -4,7 +4,7 @@ sidebar_position: 21
 
 # Ring of Pestilence
 
-![](https://vwiki.valorserver.com/api/item/picture/
+![sickyring](https://vwiki.valorserver.com/api/item/picture/ring%20of%20pestilence)
 
 <i>A ring that will cause sickness and death.</i>
 
