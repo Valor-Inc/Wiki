@@ -4,7 +4,7 @@ sidebar_position: 12
 
 # Gauntlet of Chaos
 
-![Chaos](http://i.imgur.com/d8MiItG.png)
+![Chaos](http://i.imgur.com/4qiS7JN.png)
 
 <i>Nos ad delendam...</i> **("We are to destroy...")**
 
