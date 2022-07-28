@@ -34,9 +34,9 @@ Fame Bonus: 16%
 
 # Saturn's Orbit Air
 
-![saturns](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20air)
+![saturnsa](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20air)
 
-<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world.</i>
+<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Sky.</i>
     
 **Air Rune: Increases your speed by 27.**
     
@@ -61,9 +61,9 @@ Fame Bonus: 16%
 
 # Saturn's Orbit Earth
 
-![saturns](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20earth)
+![saturnse](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20earth)
 
-<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world.</i>
+<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Earth.</i>
     
 **Earth Rune: Increases your fortune by 5, defense by 5, and attack by 5.**
     
@@ -86,9 +86,9 @@ Fame Bonus: 16%
 
 # Saturn's Orbit Fire
 
-![saturns](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20fire)
+![saturnsf](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20fire)
 
-<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world.</i>
+<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Raging Fire.</i>
     
 **Fire Rune: Increases your attack by 4, dexterity by 7, and decreases your defense by 3.**
     
@@ -113,9 +113,9 @@ Fame Bonus: 16%
 
 # Saturn's Orbit Water
 
-![saturns](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20water)
+![saturnsw](https://vwiki.valorserver.com/api/item/picture/saturn's%20orbit%20water)
 
-<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world.</i>
+<i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Sea.</i>
     
 **Water Rune: Increases your fortune by 7, wisdom by 12, decreases your attack by 13 and defense by 13.**
 
