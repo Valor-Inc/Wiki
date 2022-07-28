@@ -18,7 +18,7 @@ MP Cost: 140
 
 Cooldown: 1.5 seconds
 
-	  +15 Speed
+    +15 Speed
     
     +10 Defense
     
