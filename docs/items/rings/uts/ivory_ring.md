@@ -6,7 +6,7 @@ sidebar_position: 13
 
 ![Ivory](https://vwiki.valorserver.com/api/item/picture/ivory%20ring)
 
-<i>A ring that was found in the hidden chest from the Lair of Draconic.</i>
+<i>A ring that was found in the hidden chest from the Lair of Draconis.</i>
 
     +160 Maximum HP
     
