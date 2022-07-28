@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 18
 ---
 
 # Ring of the Unstable Mind
