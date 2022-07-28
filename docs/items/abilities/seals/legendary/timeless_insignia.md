@@ -22,4 +22,6 @@ Cooldown: 5.5 seconds
     
     +25 Protection
 
-Fame Bonus: 
+Fame Bonus: 8%
+
+**Borrowed Timed: Your protection is restored fully if your MP is full upon using this ability.**
