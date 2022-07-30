@@ -95,7 +95,7 @@ Located below is a map of the nexus and all of its useful landmarks.
     More information can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/raids
   </TabItem>
-  <TabItem value="FAQ" label="Frequently Asked Questions"
+  <TabItem value="FAQ" label="Frequently Asked Questions">
 
 Question: Whats the best beginner class to play?
 
