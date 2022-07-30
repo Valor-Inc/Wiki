@@ -64,33 +64,46 @@ Fame Bonus: 16%
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
   
-    +15 Defense
+    +25 Defense
 
     +8 Speed
 
     +10 Attack
 
-    +150 Maximum HP
+    +200 Maximum HP
+
+    +20 Fortune
+
+    +3 Life Steal
+
+Fame Bonus: 16%
+
+**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
+
+  </TabItem>
+  <TabItem value="Fire" label="Fire">
+
+# Gravachrome Fire
+
+![Gravachrome](https://vwiki.valorserver.com/api/item/picture/gravachrome%20fire)
+
+<i>
+
+    +10 Defense
+
+    +8 Speed
+
+    +20 Attack
+
+    +100 Maximum HP
+
+    +15 Might
 
     +20 Fortune
 
 Fame Bonus: 16%
 
 **Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
-
-
-
-
-
-
-  </TabItem>
-  <TabItem value="Fire" label="Fire">
-
-
-
-
-
-
 
 
   </TabItem>
