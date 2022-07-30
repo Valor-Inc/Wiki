@@ -9,31 +9,4 @@ Alerts are rare bosses that can be fought on any character provided you have an 
 ## How to Gain Alerts
 ![AlertText](https://i.imgur.com/8Mk491e.png)
 Every enemy or entity that dies within range of you has a 1/8000 chance to give you an alert with a purple message in chat, being in a guild increases this chance by 25%! You can also obtain Alert Tokens from the Battle Pass that give you alerts.  
-Alert drop rates are doubled on Tuesdays as an event!
-
-
-## Different Alert Bosses
-
-![xxx](https://placeholder.png)
-### xxx
-xxx
-
-![xxx](https://placeholder.png)
-### xxx
-xxx
-
-![xxx](https://placeholder.png)
-### xxx
-xxx
-
-![xxx](https://placeholder.png)
-### xxx
-xxx
-
-![xxx](https://placeholder.png)
-### xxx
-xxx
-
-![xxx](https://placeholder.png)
-### xxx
-xxx
+Alert drop rates can also be occasionally doubled for events!
