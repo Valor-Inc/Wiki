@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Clarinet" label="Clarinet" default>
-   
+
 # Clarinet
 
 ![Clarinet](https://vwiki.valorserver.com/api/item/picture/Clarinet)
