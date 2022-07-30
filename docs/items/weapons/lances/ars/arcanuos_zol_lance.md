@@ -8,10 +8,9 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Arcanuo's Zol Lance" label="Arcanuo's Zol Lance" default>
-   
+
 # Arcanuo's Zol Lance
 
-    
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
 
     
