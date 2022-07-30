@@ -31,7 +31,6 @@ Fame Bonus: 15%
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
 
-
   </TabItem>
   <TabItem value="Air" label="Air">
 
