@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Cursed Wand of the Corrupted" label="Cursed Wand of the Corrupted" default>  
-    
+
 # Cursed Wand of the Corrupted
 
 ![CWC](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted)
