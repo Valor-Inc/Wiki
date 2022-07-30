@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Blades of the Bridge" label="Blades of the Bridge" default>
-   
+
 # Blades of the Bridge
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
