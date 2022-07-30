@@ -15,3 +15,5 @@ sidebar_position: 1
     -50 Maximum MP
     
 Fame Bonus: 8%
+
+**Vengeance: The less health that you currently have effects how much more damage you deal.**
