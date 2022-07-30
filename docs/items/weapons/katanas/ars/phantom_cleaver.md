@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Phantom Cleaver" label="Phantom Cleaver" default>
-   
+
 # Phantom Cleaver
 
 ![PC](https://vwiki.valorserver.com/api/item/picture/phantom%20cleaver)
