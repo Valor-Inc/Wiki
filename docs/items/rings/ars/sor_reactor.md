@@ -43,7 +43,7 @@ Fame Bonus: 16%
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit white.</i>
 
-**Air Rune: Gain dexterity and higher RoF, Slowed less effective.
+**Air Rune: Gain dexterity and higher RoF, Slowed less effective.**
 
     +10 Attack
     
@@ -73,7 +73,7 @@ Fame Bonus: 16%
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit brown.</i>
 
-**Earth Rune: Gain defense and additional hp regen. Armor break is less effective.
+**Earth Rune: Gain defense and additional hp regen. Armor break is less effective.**
 
     +13 Attack
     
@@ -103,7 +103,7 @@ Fame Bonus: 16%
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit orange.</i> 
 
-Fire Rune: Increase in attack and damage in exchange for defense, Weak is less effecftive.
+**Fire Rune: Increase in attack and damage in exchange for defense, Weak is less effective.**
 
     +20 Attack
     
@@ -130,6 +130,8 @@ Fame Bonus: 16%
 ![Sor ReactorW](https://vwiki.valorserver.com/api/item/picture/sor%20reactor%20water)
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit blue.</i>
+
+**Water Rune: Gain Wisdom, Quiet is less effective.**
 
     +13 Attack
     
