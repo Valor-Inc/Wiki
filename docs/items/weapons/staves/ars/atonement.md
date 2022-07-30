@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Atonement" label="Atonement" default>
-    
+
 # Atonement
 
 ![Atonement](https://vwiki.valorserver.com/api/item/picture/atonement)
