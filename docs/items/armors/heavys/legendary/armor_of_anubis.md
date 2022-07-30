@@ -6,6 +6,8 @@ sidebar_position: 2
 
 ![AA](https://vwiki.valorserver.com/api/item/picture/armor%20of%20anubis)
 
+<i>The forgotten ancient has risen.</i>
+
     +30 Defense
     
     +20 Restoration
