@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Clarent" label="Clarent" default>
-   
+
 # Clarent
 
 ![Clarent](https://vwiki.valorserver.com/api/item/picture/Clarent)
