@@ -50,6 +50,7 @@ These work on all weapon shots & certain abilities that shoot projectiles like s
 Fortune is a powerful stat for grinding only obtainable from specific pieces of equipment.  
 Every 1 fortune you have increases your loot boost by 1% (check at any time with `/lb` ingame), which is factored only when an enemy dies meaning you can keep your regular equipment on until right before the enemy dies!
 
+
 ## Healing Boost & Mana Healing Boost
 ![Split Worlds](https://vwiki.valorserver.com/api/item/picture/Robe%20of%20Split%20Worlds)  
 These stats currently are only on a few pieces of legendary gear.  
