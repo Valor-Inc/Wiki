@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Poniard of Ghastly Retribution" label="Poniard of Ghastly Retribution" default>
-   
+
 # Poniard of Ghastly Retribution
 
 ![PoGR](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)
