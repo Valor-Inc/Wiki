@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Oblivion" label="Oblivion" default>
-   
+
 # Oblivion
 
 ![Oblivion](https://vwiki.valorserver.com/api/item/picture/Oblivion)
