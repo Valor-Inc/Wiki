@@ -6,6 +6,8 @@ sidebar_position: 3
 
 ![CCB](https://vwiki.valorserver.com/api/item/picture/cleansing%20cleric%20breastplate)
 
+<i>"Sometimes the gods will send their clerics to redeem and reform lost souls. I'm not that cleric." ~Delphio, Guide-to-Dark</i>
+
 Enhance: The powers of the armor enhances all healing recieved by others.
 
     +50 Defense
