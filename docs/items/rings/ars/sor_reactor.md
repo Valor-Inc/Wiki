@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Sor Reactor" label="Sor Reactor" default>
-   
+
 # Sor Reactor
 
 ![Sor Reactor](https://vwiki.valorserver.com/api/item/picture/sor%20reactor)
@@ -27,8 +27,11 @@ Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
 **100 Frags: +25% Restoration**
+
 **300 Frags: Grants +1 Lifesteal, +1Manasteal**
+
 **600 Frags: 5% HP Regen**
+
 **1000 Frags: Weak is 25% less effective**
     
   </TabItem>
@@ -54,8 +57,11 @@ Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
 **100 Frags: +25% Restoration**
+
 **300 Frags: Grants +1 Lifesteal, +1Manasteal**
+
 **600 Frags: 5% Rate of Fire Regen**
+
 **1000 Frags: Slowed is 50% less effective**
 
   </TabItem>
@@ -81,8 +87,11 @@ Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
 **100 Frags: +25% Restoration**
+
 **300 Frags: Grants +2 Lifesteal, +1Manasteal**
+
 **600 Frags: 15% additional HP Regen**
+
 **1000 Frags: Armor Broken Damage is Always reduced by 25% of your current defense**
 
   </TabItem>
@@ -106,8 +115,11 @@ Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
 **100 Frags: +25% Restoration**
+
 **300 Frags: Grants +1 Lifesteal, +1Manasteal**
+
 **600 Frags: 5% Damage Increase**
+
 **1000 Frags: Weak is 50% less effective**
 
   </TabItem>
@@ -131,8 +143,11 @@ Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
 **100 Frags: +25% Restoration**
+
 **300 Frags: Grants +1 Lifesteal, +2 Manasteal**
+
 **600 Frags: +15% Increase of Mana regeneration from Wisdom**
+
 **1000 Frags: Quiet doesn't reset your mana**
 
   </TabItem>
