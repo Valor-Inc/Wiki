@@ -8,8 +8,8 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Larry Gun" label="Larry Gun" default>
-   
-# Larry Gun 
+
+# Larry Gun
 
 ![Larry Gun](https://vwiki.valorserver.com/api/item/picture/Larry%20Gun)  
 
