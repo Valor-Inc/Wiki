@@ -85,9 +85,9 @@ Fame Bonus: 16%
 
 # Gravachrome Fire
 
-![Gravachrome](https://vwiki.valorserver.com/api/item/picture/gravachrome%20fire)
+![GravachromeF](https://vwiki.valorserver.com/api/item/picture/gravachrome%20fire)
 
-<i>
+<i>zzzzzt... Temperature module, activated! Offense mechanisms, upgraded.</i>
 
     +10 Defense
 
@@ -109,12 +109,31 @@ Fame Bonus: 16%
   </TabItem>
   <TabItem value="Water" label="Water">
 
+# Gravachrome Water
 
+![GravachromeW](https://vwiki.valorserver.com/api/item/picture/gravachrome%20water)
 
+<i>zzzzzzzzt... Humidity module, activated! Fuel and engines, upgraded.</i>
 
+    +10 Defense
 
+    +8 Speed
 
+    +20 Attack
 
+    +100 Maximum HP
+
+    +50 Maximum MP
+
+    +15 Wisdom
+
+    +20 Fortune
+
+    +2 Mana Leech
+
+Fame Bonus: 16%
+
+**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
 
   </TabItem>
 </Tabs>
