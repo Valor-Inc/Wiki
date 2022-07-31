@@ -35,7 +35,7 @@ Fame Bonus: 16%
 
 # Gravachrome Air
 
-![Gravachrome](https://vwiki.valorserver.com/api/item/picture/gravachrome%20air)
+![GravachromeA](https://vwiki.valorserver.com/api/item/picture/gravachrome%20air)
 
 <i>brrrrt... Weather module, activated! Radars and thrusters, upgraded!</i>
 
@@ -60,7 +60,7 @@ Fame Bonus: 16%
 
 # Gravachrome Earth
 
-![GravachromE](https://vwiki.valorserver.com/api/item/picture/gravachrome%20earth)
+![GravachromeE](https://vwiki.valorserver.com/api/item/picture/gravachrome%20earth)
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
   
