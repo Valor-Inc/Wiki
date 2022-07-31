@@ -26,6 +26,7 @@ import TabItem from '@theme/TabItem';
 Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
+
 **100 Frags: +25% Restoration**
 
 **300 Frags: Grants +1 Lifesteal, +1Manasteal**
@@ -56,6 +57,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
+
 **100 Frags: +25% Restoration**
 
 **300 Frags: Grants +1 Lifesteal, +1Manasteal**
@@ -86,6 +88,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
+
 **100 Frags: +25% Restoration**
 
 **300 Frags: Grants +2 Lifesteal, +1Manasteal**
@@ -114,6 +117,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
+
 **100 Frags: +25% Restoration**
 
 **300 Frags: Grants +1 Lifesteal, +1Manasteal**
@@ -144,6 +148,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
     
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
+
 **100 Frags: +25% Restoration**
 
 **300 Frags: Grants +1 Lifesteal, +2 Manasteal**
