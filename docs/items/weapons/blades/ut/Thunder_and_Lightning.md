@@ -7,8 +7,6 @@ sidebar_position: 3
 
 <i>You won't like what follows.</i>
 
-**Drops from both bosses of the Sky Palace**
-
 Damage: 100-145
 
 Shots: 2
@@ -29,6 +27,8 @@ Ignores defense of target
     -70 Maximum MP
     
  Fame Bonus: 6%
+ 
+ **Drops from Zeus annd Colothois the Exalted of the Sky Palace**
  
  ## Projectile
  
