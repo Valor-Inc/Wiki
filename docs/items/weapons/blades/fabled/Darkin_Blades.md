@@ -4,11 +4,10 @@ sidebar_position: 1
 # Darkin Blades
 
 ![Darkin Blades](https://vwiki.valorserver.com/api/item/picture/Darkin%20Blades)  
+
 <i>Dual Blades made enchanted by the demons that haunt the Bastille of Drannol.</i>
 
-***Drops from all bosses in the Titan Raid***
-
-Damage: 150-230
+Damage: 170-250
 
 Shots: 2
 
