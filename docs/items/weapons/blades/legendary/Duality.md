@@ -7,8 +7,6 @@ sidebar_position: 1
 
 <i>A pair of unstable blades from different places in time and space. Although opposites of one another, the seal binding these blades together seems to be unbreakable.</i>
 
-***Drops from the Mad Jester***
-
 Damage: 50-450
 
 Shots: 2
