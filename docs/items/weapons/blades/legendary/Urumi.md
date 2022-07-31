@@ -13,18 +13,25 @@ Damage: 185-200
 
 Shots: 3
 
-Rate: 100%
+Rate of Fire: 100%
 
 Range: 4.6
 
 Ignores defense of target
 
     +100 Maximum HP
+
     -70 Maximum MP
+    
     +5 Attack
+    
     -10 Defense
+    
     +10 Dexterity
+    
 Fame Bonus: 8%
+
+**Drops from Ulgur | Public Challenge**
 
 ## Projectile
 
