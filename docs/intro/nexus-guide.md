@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 Title: Getting Started
-description: "New player guides and useful information"
+description: "A Guide to the Nexus"
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -9,12 +9,10 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Nexus" label="Nexus" default>
 
-# Welcome to Valor!
+# Guide to the Nexus
 
-### If you're here from PROD, or totally new to the rotmg bullet hell-type games as a whole, this guide is for you!
-
-Valor has an enormous quantity of original content and mechanics, that makes this game almost completely indistinguishable from PROD -- aside from the easily recognizeable artstyle. 
-
+#### Confused on where everything is? Or just too lazy to explore it for yourself? This guide is for you!
+    
 Located below is a map of the nexus and all of its useful landmarks.
 
 ![Nexus Map](https://cdn.discordapp.com/attachments/953134990428868629/1000603283745951775/NEXUSMAP.png)
@@ -27,6 +25,7 @@ Located below is a map of the nexus and all of its useful landmarks.
     You can go here to interact with the witch npc, which will show you the battle pass along with its rewards, your progress, your missions, etc.
     You can also purchase battle pass upgrade tokens here for KANTOS.
     
+    
     More info can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/battlepass
     
@@ -35,13 +34,15 @@ Located below is a map of the nexus and all of its useful landmarks.
 
     Here is where you can combine a variety of items to create legendary gear, add item stat trackers, or reskin an item! 
     
+    
     More info can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/crafting
 
   </TabItem>
   <TabItem value="Marketplace" label="Marketplace">
     
-    Here is where you can purchase items, or put them up on the market to be bought by other players! 
+    Here is where you can purchase items, or put them up on the market to be bought by other players! The marketplace can be accessed by using the command /marketplace.
+    
     
     More information can be found here: 
     https://wiki-test.valorserver.com/docs/mechanics/marketplace
@@ -49,9 +50,8 @@ Located below is a map of the nexus and all of its useful landmarks.
   </TabItem>
   <TabItem value="Public Challenge" label="Public Challenge">
     
-    Here is where players will head upon seeing a notification like this:
+    Here is where players will head upon seeing an announcement for a public challenge. 
     
-    ![Public Challenge Announcement](https://cdn.discordapp.com/attachments/953134990428868629/1002816079908831252/unknown.png)
     
     More information can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/public_challenges
@@ -62,13 +62,14 @@ Located below is a map of the nexus and all of its useful landmarks.
     
     Here is where you can buy various tiles to use to decorate your home.
     
+    
     More information can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/housing
     
   </TabItem>
   <TabItem value="Home" label="Home">
     
-    Here is where you can visit your home!
+    Here is where you can visit your home! Your home can be accessed VIA the command /home. If you wish to visit the homes of other players, use /vhome [username] to warp to their home!
     
     More information can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/housing
@@ -76,13 +77,12 @@ Located below is a map of the nexus and all of its useful landmarks.
   </TabItem>
   <TabItem value="Fame Shop" label="Fame Shop">
     
-    You can spend all that hard-earned fame down here on (multiple use) consumables or top tiered items. 
-    ![Nexus Fame Shop](https://cdn.discordapp.com/attachments/953134990428868629/1002817256729878640/unknown.png)
+    You can spend all that hard-earned fame down here on consumables or tier 13 items. 
     
   </TabItem>
   <TabItem value="Aspect hall" label="Aspect Hall">
     
-    You can equip your aspects here!
+    You can equip your aspects here! You can warp here by typing /aspecthall.
     
     More information can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/aspects
@@ -103,7 +103,7 @@ Question: Whats the best beginner class to play?
 
     Oddish: Priest has great range & the ability to self heal to stay alive and see what new enemies & dungeons do before they can kill you!    
 
-    Nordic:
+    Nordic: Blademaster is extremely inexpensive early game, and deals a great amount of dps that can carry you through early game. It has a fair amount of range and is super easy to understand and use. It's also pretty dang fun to use. 
 
    
 Question: What do you use to base the Wismod on Item pages?
