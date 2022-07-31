@@ -24,6 +24,7 @@ import TabItem from '@theme/TabItem';
 Fame Bonus: 16%
 
 **Influence: Gain the following buffs while you have the proper gold requirement:**
+
 **100k Gold: Confuse Immunity**
 
 **250k Gold: Abilities cost 20 Mana less**
@@ -54,6 +55,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
 
 **Influence: Gain the following buffs while you have the proper gold requirement:**
+
 **100k Gold: Confuse Immunity**
 
 **250k Gold: Abilities cost 20 Mana less**
@@ -82,6 +84,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
 
 **Influence: Gain the following buffs while you have the proper gold requirement:**
+
 **100k Gold: Confuse Immunity**
 
 **250k Gold: Abilities cost 20 Mana less**
@@ -112,6 +115,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
 
 **Influence: Gain the following buffs while you have the proper gold requirement:**
+
 **100k Gold: Confuse Immunity**
 
 **250k Gold: Abilities cost 20 Mana less**
@@ -138,6 +142,7 @@ Fame Bonus: 16%
 Fame Bonus: 16%
 
 **Influence: Gain the following buffs while you have the proper gold requirement:**
+
 **100k Gold: Confuse Immunity**
 
 **250k Gold: Abilities cost 30 Mana less**
