@@ -11,6 +11,8 @@ Damage: 215-345
 
 Range: 5.3
 
+Rate of Fire: 85%
+
 Shots hit multiple targets
 
 Ignores defense of target
@@ -25,6 +27,8 @@ Ignores defense of target
     
  Fame Bonus: 8%
  
+**Drops from Bergelmir, the Frost Guardian | Alert**
+
  ## Projectile
  
 ![Frozen Blades Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067827363459122/frozen_blades.gif)
