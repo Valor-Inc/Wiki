@@ -12,6 +12,8 @@ Damage: 96-170
 
 Shots: 4
 
+Rate of Fire: 100%
+
 Range 5.4
 
 Shots hit multiple targets
