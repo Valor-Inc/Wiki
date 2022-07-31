@@ -11,6 +11,8 @@ Damage: 160-210
 
 Shot: 2 
 
+Rate of FIre: 125%
+
 Ramge: 5.8
 
 Shots hit multiple targets
@@ -20,6 +22,8 @@ Shots hit multiple targets
     +5% Speed
     
 Fame Bonus: 8%
+
+**Craftable using the Shard of Zol Corruption**
 
 ## Projectile
 
