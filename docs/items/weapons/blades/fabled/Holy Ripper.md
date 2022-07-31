@@ -22,6 +22,8 @@ Ignores Defense of Target
     
 Fame Bonus: 6%
 
+**Drops from Merganus, the Fallen Titan of the Fallen Light raid**
+
 ## Projectile 
 
 ![Holy Ripper Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969068914107645982/holyripper.gif)
