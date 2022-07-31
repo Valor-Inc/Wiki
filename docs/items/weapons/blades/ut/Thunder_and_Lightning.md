@@ -7,6 +7,8 @@ sidebar_position: 3
 
 <i>You won't like what follows.</i>
 
+**Sprited by: BLOODQWEN**
+
 Damage: 100-145
 
 Shots: 2
@@ -22,8 +24,11 @@ Ignores defense of target
 0.25% to inflict Paralyzed for 3 seconds
 
     +5 Attack
+    
     +45 Might
+    
     +7 Defense
+    
     -70 Maximum MP
     
  Fame Bonus: 6%
