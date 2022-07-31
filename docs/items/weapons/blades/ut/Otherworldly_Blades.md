@@ -7,8 +7,6 @@ sidebar_position: 2
 
 <i>These blades seem to have come from a distant galaxy</i>
 
-**Drops from Galactic Plateau and The Regolith** 
-
 Damage: 90-180
 
 Shots: 2
@@ -22,6 +20,8 @@ Range: 6.8
     +15 Protection
 
 Fame Bonus: 6%
+
+**Drops from Galactic Plateau and The Regolith** 
 
 ## Projectile
 
