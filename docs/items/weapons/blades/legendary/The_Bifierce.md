@@ -7,8 +7,6 @@ sidebar_position: 5
 
 <i>Forsaken blades that were left behind from the War of Decades.</i>
 
-**Craftable from Zol Shard**
-
 Damage: 160-210
 
 Shot: 2 
