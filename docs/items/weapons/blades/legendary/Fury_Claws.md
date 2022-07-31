@@ -26,6 +26,8 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
+**Drops from Berikao, the Dark Hunter of the Calling of the Titan raid**
+
 ## Projectile
 
 ![Fury Claws Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067810414276668/fury_claws.gif)
