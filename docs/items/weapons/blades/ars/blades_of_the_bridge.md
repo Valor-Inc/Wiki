@@ -27,6 +27,8 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Drops from the Bridge Sentinel of the Shatters**
+
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969065261074366474/blades_of_the_bridge.gif)
@@ -53,6 +55,8 @@ Range: 5.5
 Ignores defense of target
 
 Fame Bonus: 15%
+
+**Enchanted Blades of the Bridge with the Ancient Air Rune**
 
 ## Projectile
 
@@ -85,6 +89,8 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Enchanted Blades of the Bridge with the Ancient Earth Rune**
+
 ## Projectile
 
 ![Blades of the Bridge Earth Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969065260126457907/blades_of_the_bridge_earth.gif)
@@ -114,6 +120,8 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Enchanted Blades of the Bridge with Ancient Fire Rune**
+
 ## Projectile
 
 ![Blades of the Bridge Fire Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969065260411678740/blades_of_the_bridge_fire.gif)
@@ -141,6 +149,8 @@ Ignores defense of target
     +1 Mana Leech
 
 Fame Bonus: 15%
+
+**Enchanted Blades of the Bridge with Ancient Water Rune**
 
 ## Projectile
 
