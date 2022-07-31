@@ -19,7 +19,7 @@ Shots: 2
 
 Rate of Fire: 110%
 
-Damage: 300-350
+Damage: 290-330
 
 Range: 5.5
 
@@ -40,13 +40,13 @@ Fame Bonus: 15%
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Sky.</i>
 
-Air Rune: Increases your rate of fire by 20% and decreases your minimum damage by 50
+**Air Rune: Increases your rate of fire by 20% and decreases your minimum damage by 50**
 
 Shots: 2
 
 Rate of Fire: 130%
 
-Damage: 250-350
+Damage: 240-330
 
 Range: 5.5
 
@@ -67,19 +67,17 @@ Fame Bonus: 15%
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Earth</i>
 
-Earth Rune: Increases your maximum hp by 120, protection by 100, also decreases your minimum damage by 40 and maximum damage by 10.
+**Earth Rune: Increases your maximum hp by 120, protection by 100, also decreases your minimum damage by 40 and maximum damage by 10.**
 
 Shots: 2
 
 Rate of Fire: 110%
 
-  Damage: 260-340
+  Damage: 250-320
 
   Range: 5.5
 
 Ignores defense of target
-
-On Equip:
 
      +100 Protection
 
@@ -100,19 +98,17 @@ Fame Bonus: 15%
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of roaring Flames.</i>
 
-Fire Rune: Increases your maximum damage by 40 and maximum hp by 100.
+**Fire Rune: Increases your maximum damage by 40 and maximum hp by 100.**
 
 Shots: 2
 
 Rate of Fire: 110%
 
-Damage: 300-390
+Damage: 290-370
 
 Range: 5.5
 
 Ignores defense of target
-
-On Equip: 
 
      +100 Maximum HP
 
@@ -130,17 +126,19 @@ Fame Bonus: 15%
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Sea.</i>
 
-Water Rune: Increases your range by 2.2 tiles, maximum damage by 25 and decreases your minimum damage by 25.
+**Water Rune: Increases your range by 2.2 tiles, maximum damage by 25 and decreases your minimum damage by 25.**
 
 Shots: 2
 
 Rate of Fire: 110%
 
-Damage: 275-375
+Damage: 275-355
 
-Range: 7.8
+Range: 6.5
 
 Ignores defense of target
+
+    +1 Mana Leech
 
 Fame Bonus: 15%
 
