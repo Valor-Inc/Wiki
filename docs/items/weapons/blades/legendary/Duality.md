@@ -22,6 +22,8 @@ Shots Pass Through Obstacles
     +40 Protection
     
 Fame Bonus: 8%
-    
+
+**Drops from the Mad Jester in the Realm**
+
 ## Projectile
 ![Duality Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969069767753363456/duality.gif)
