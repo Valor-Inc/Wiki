@@ -9,9 +9,11 @@ sidebar_position: 3
 
 Damage: 215-345
 
-Range: 5.3
+Shots: 2
 
 Rate of Fire: 85%
+
+Range: 5.3
 
 Shots hit multiple targets
 
