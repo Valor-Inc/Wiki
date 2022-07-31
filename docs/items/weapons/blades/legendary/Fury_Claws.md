@@ -1,13 +1,12 @@
 ---
 sidebar_position: 4
 ---
+
 # Fury Claws
 
 ![Fury Claws](https://vwiki.valorserver.com/api/item/picture/Fury%20Claws)  
 
 <i>Forsaken blades that were left behind from the War of Decades</i>
-
-**Drops from Berikao, the Hunter | First Boss of the Titan Raid**
 
 Damage: 96-170
 
