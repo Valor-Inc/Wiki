@@ -7,8 +7,6 @@ sidebar_position: 3
 
 <i>Sluggish but powerful, the intricate design of these accursed daggers betray an uparalleled dedication by the one who sculpted them, wherever their frozen body may lie. </i>
 
-**Drops from Bergelmir, the Frost Guardian | Frozen Island Alert Boss**
-
 Damage: 215-345
 
 Range: 5.3
