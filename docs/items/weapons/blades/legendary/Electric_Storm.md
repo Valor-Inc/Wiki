@@ -32,9 +32,6 @@ sidebar_position: 2
  
  0.5% to inflinct Paralyzed for 3 seconds
  
- 
- On Equip:
- 
     +10 Attack
     
     +40 Might 
