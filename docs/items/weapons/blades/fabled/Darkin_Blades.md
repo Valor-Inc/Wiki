@@ -17,6 +17,8 @@ Range: 3
 
 Fame Bonus: 6%
 
+**Drops from ALL BOSSES of the Calling of the Titan raid**
+
 ## Projectile
 
 ![Darkin Blades Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969068839507730473/darkinblades.gif)
