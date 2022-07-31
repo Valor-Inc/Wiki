@@ -1,0 +1,21 @@
+---
+sidebar_position: 3
+---
+
+# Chosen Armor
+
+![Chosen](https://vwiki.valorserver.com/api/item/picture/chosen%20armor)
+
+<i>An armor made for the chosen archer to battle the evils that lie in the Ancient Depths</i>
+
+    +150 Maximum HP
+    
+    +18 Defense
+    
+    +10 Attack
+    
+    +6 Dexterity
+    
+    +6 Speed
+    
+Fame Bonus: 6%
