@@ -7,10 +7,7 @@ sidebar_position: 2
 ![Electric Storm](https://vwiki.valorserver.com/api/item/picture/Electric%20storm)
 
  <i>A powerful set of blades, gifted only to The Exalted to protect their realms.</i>
- 
 
- **Upgraded form of [Thunder and Lightning](https://wiki-test.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
- 
  
  Damage: 225-235
  
@@ -45,6 +42,8 @@ sidebar_position: 2
     -50 Maximum HP
           
 Fame Bonus: 8%
+
+**Upgraded form of [Thunder and Lightning](https://wiki-test.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
 
 ## Projectile
 
