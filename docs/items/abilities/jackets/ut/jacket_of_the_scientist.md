@@ -24,10 +24,14 @@ Ignores defense of target
 
 Shots boomerang
 
-MP Cost: 60
+MP Cost: 80
 
-Cooldown: 4 seconds
+Cooldown: 2.5 seconds
 
-    +120 Maximum HP
+    +5 Dexterity
+    
+    +15 Luck
+    
+    +10 Might
 
 Fame Bonus: No Fame Bonus
