@@ -8,8 +8,6 @@ sidebar_projectile: 8
 
 <i>Become a machine of the heavens, and strike down the unholy!</i>
 
-**Can be purchased for 140 Onrane from the Titan shop**
-
 Damage: 155-206
 
 Shots: 2
@@ -23,6 +21,8 @@ Range: 5.9
     -20 Restoration
     
 Fame Bonus: 8%
+
+**Can be purchased for 140 Onrane from the Calling of the Titan raid shop**
 
 ## Projectile
 
