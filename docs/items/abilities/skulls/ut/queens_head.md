@@ -1,0 +1,19 @@
+---
+sidebar_position: 1
+---
+
+# Queens Head
+
+![queen](http://i.imgur.com/JvkTbAO.png)
+
+<i>Off with her head!</i>
+
+Steal: 60 HP within 5 sqrs
+
+Effect on Self: Berserk for 3 seconds
+
+MP Cost: 135
+
+Cooldown: 3 seconds
+
+Fame Bonus: 6%
