@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Deathwanderer
 
 ![Deathwanderer](https://vwiki.valorserver.com/api/item/picture/deathwanderer)
