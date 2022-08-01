@@ -6,8 +6,6 @@ sidebar_position: 3
 
 ![DHT](https://vwiki.valorserver.com/api/item/picture/dagger%20of%20holy%20truth)
 
-**Drops from the Fallen Raid**
-
 Damage: 175-215
 
 Shots: 1
@@ -23,6 +21,8 @@ Ignores defense of target
     +6 Defense
     
 Fame Bonus: 6%
+
+**Drops from all bosses of the Fallen Light raid**
 
 ***This item can be upgraded with Elemental Sor!***
 
