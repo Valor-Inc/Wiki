@@ -8,8 +8,6 @@ sidebar_position: 6
 
 <i>Bones of pure Ivory, enchanted with the power of the Sor, dripping with blood.</i>
 
-**Upgraded form of Bloodbath Dagger**
-
 Damage: 120-205
 
 Shots: 2
@@ -19,6 +17,8 @@ Rate of Fire: 115%
 Range: 5.6
 
 Fame Bonus: 8%
+
+**Upgraded Form of [Bloodbath Dagger](https://wiki-test.valorserver.com/docs/items/weapons/daggers/ut/bloodbath_dagger)**
 
 ## Projectile
 
