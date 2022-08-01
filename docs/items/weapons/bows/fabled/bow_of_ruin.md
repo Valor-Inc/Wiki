@@ -1,10 +1,12 @@
+---
+sidebar_position: 1
+---
+
 # Bow of Ruin
 
 ![Bow of Ruin](https://vwiki.valorserver.com/api/item/picture/bow%20of%20ruin)
 
 <i>A bow tattered by time, but still usable. Repairs have left it in a worse state than before.</i>
-
-**Drops from the Forgotten King in the Shatters**
 
 Damage: 205-235
 
@@ -19,10 +21,14 @@ Shots hit multiple targets
 1% to inflict Paralyzed for 6 seconds
 
     +12 Attack
+    
     -12 Vitality
+    
     +20 Restoration
     
 Fame Bonus: 8%
+
+**Drops from the Forgotten King in the Shatters**
 
 ## Projectile 
 
