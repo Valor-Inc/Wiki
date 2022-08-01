@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Blackwood Piercer
 
 ![Blackwood Piecer](https://vwiki.valorserver.com/api/item/picture/blackwood%20piercer)
