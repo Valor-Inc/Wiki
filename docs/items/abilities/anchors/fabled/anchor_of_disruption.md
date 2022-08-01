@@ -14,7 +14,7 @@ Shots: 1
 
 Range: 6
 
-Grants either Damaging, or Weak for 3 seconds
+Grants either Damaging, or confused for 3 seconds
 
 Shot Effect: Curse for 4 seconds
 
@@ -28,9 +28,7 @@ MP Cost: 90
 
 Cooldown: 4 seconds
 
-    +5 Attack
-    
-    +10 Dexterity
+    +12 Attack
 
 Fame Bonus: No Fame Bonus
 
