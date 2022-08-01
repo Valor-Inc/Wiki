@@ -33,3 +33,5 @@ Cooldown: 4 seconds
     +10 Dexterity
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Serenity the Ripper | Public Challenge**
