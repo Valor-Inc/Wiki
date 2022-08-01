@@ -27,7 +27,7 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
-***The Larry Gun can be enchanted using the Ancient Air, Earth, Fire, or Water Rune.***
+**Drops from Larry Giggsman, the Superhuman in the Realm**
 
 ## Projectile
 
@@ -55,6 +55,8 @@ Range: 9.2
 Shots hit multiple targets  
 
 Fame Bonus: 15%  
+
+**Enchanted Larry Gun with Ancient Air Rune**
 
 ## Projectile
 
@@ -86,6 +88,8 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
+**Enchanted Larry Gun with Ancient Earth Rune**
+
 ## Projectile 
 
 ![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
@@ -114,6 +118,8 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
+**Enchanted Larry Gun with Ancient Fire Rune**
+
 ## Projectile
 
 ![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
@@ -141,10 +147,11 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
+**Enchanted Larry Gun with Ancient Water Rune**
+
 ## Projectile
 
 ![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
-
 
   </TabItem>
 </Tabs>
