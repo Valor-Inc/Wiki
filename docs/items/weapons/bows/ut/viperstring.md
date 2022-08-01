@@ -1,10 +1,14 @@
+---
+sidebar_position: 14
+---
+
 # Viperstring
 
 ![Viperstring](https://vwiki.valorserver.com/api/item/picture/viperstring)
 
 <i>This bow still has leftover sap from Vitalia, it seems deadly.</i>
 
-**Drops from Vitalia (1st boss of Garden of Chaos)**
+**Sprited by: BLOODQWEN**
 
 Damage: 150-220
 
@@ -22,7 +26,7 @@ Ignores defense of target
     
 Fame Bonus 6%
 
-***Sprited By: BLOODQWEN***
+**Drops from Vitalia of the Garden of Chaos**
 
 ## Projectile
 
