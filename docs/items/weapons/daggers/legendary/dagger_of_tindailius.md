@@ -8,8 +8,6 @@ sidebar_position: 4
 
 <i>Fading away from reality is what keeps the darkness persisting to devourall of us. We can only do what is possible to stay away from this Void.</i>
 
-**Craftable from Zol Corruption Shard**
-
 Damage: 205-260
 
 Shots: 1
@@ -29,6 +27,8 @@ Shots hit multiple targets
     +5 Mana Leech
     
 Fame Bonus: 8%
+
+**Craftable with the Shard of Zol Corruption**
 
 ***Manastrike: If your mana is atleast 1/2 full, your luck is increased by 20%***
 
