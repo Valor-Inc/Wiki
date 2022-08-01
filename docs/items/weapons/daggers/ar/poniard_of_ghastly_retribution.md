@@ -59,7 +59,7 @@ Range: 4.5
     
 Fame Bonus: 15%
 
-**Enchanted Poniard of Ghastly Retribution with Ancient Air Rune*
+**Enchanted Poniard of Ghastly Retribution with Ancient Air Rune**
 
 ## Projectile
 
@@ -70,7 +70,7 @@ Fame Bonus: 15%
 
 # Poniard of Ghastly Retribution Earth
 
-![PoGRE](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)
+![PoGRE](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20earth)
 
 <i>Forged in the tears of enemies on a full moon</i>
 
@@ -135,7 +135,7 @@ Fame Bonus: 15%
 
 # Poniard of Ghastly Retribution Water
 
-![PoGRW](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)
+![PoGRW](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20water)
 
 <i>Forged in the tears of enemies on a full moon</i>
 
