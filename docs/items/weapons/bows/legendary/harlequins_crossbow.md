@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Harlequin's Crossbow
 
 ![Harlequin's Crossbow](https://vwiki.valorserver.com/api/item/picture/harlequin's%20crossbow)
@@ -19,9 +23,12 @@ Shots hit multiple targets
 Ignores defense of target
 
     +10 Speed
+    
     +100 Maximum MP
     
-Fame Bonus: 6%
+Fame Bonus: 8%
+
+**Drops from Puppet Master's Encore**
 
 ## Projectile
 

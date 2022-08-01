@@ -27,7 +27,7 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
-***The Larry Gun can be enchanted using the Ancient Air, Earth, Fire, or Water Rune.***
+**Drops from Larry Giggsman, the Superhuman in the Realm**
 
 ## Projectile
 
@@ -42,7 +42,7 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-Air Rune: Increases your minimum damage by 55.
+**Air Rune: Increases your minimum damage by 55.**
 
 Damage: 285-295 
 
@@ -55,6 +55,8 @@ Range: 9.2
 Shots hit multiple targets  
 
 Fame Bonus: 15%  
+
+**Enchanted Larry Gun with Ancient Air Rune**
 
 ## Projectile
 
@@ -70,7 +72,7 @@ Fame Bonus: 15%
 
 <i> Pew Pew. </i>
 
-Earth Rune: Increases your defense by 10.
+**Earth Rune: Increases your defense by 10.**
 
 Damage: 230-295  
 
@@ -86,6 +88,8 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
+**Enchanted Larry Gun with Ancient Earth Rune**
+
 ## Projectile 
 
 ![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
@@ -100,7 +104,7 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-Fire Rune: Increases your maximum damage by 100 and decreases your minimum damage by 45.
+**Fire Rune: Increases your maximum damage by 100 and decreases your minimum damage by 45.**
 
 Damage: 185-395  
 
@@ -113,6 +117,8 @@ Range: 9.2
 Shots hit multiple targets  
 
 Fame Bonus: 15%  
+
+**Enchanted Larry Gun with Ancient Fire Rune**
 
 ## Projectile
 
@@ -127,7 +133,7 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-Water Rune: Increases your range 1.4 tiles.
+**Water Rune: Increases your range 1.4 tiles.**
 
 Damage: 230-295  
 
@@ -141,10 +147,11 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
+**Enchanted Larry Gun with Ancient Water Rune**
+
 ## Projectile
 
 ![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
-
 
   </TabItem>
 </Tabs>

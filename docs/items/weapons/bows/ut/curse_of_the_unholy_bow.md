@@ -1,10 +1,12 @@
+---
+sidebar_position: 7
+---
+
 # Curse of the Unholy Bow
 
 ![CotHB](http://i.imgur.com/MUXgvh3.png)
 
 <i>Enchanted with evil, bound in sorcery, and curse are those who use it.</i>
-
-**Drops from the 2nd boss of the Unspeakable**
 
 Damage: 80-90
 
@@ -17,6 +19,8 @@ Range: 5.9
 Shots hit multiple targets
 
 Fame Bonus: 6%
+
+**Drops from the Dark Knight of the Unspeakable**
 
 ## Projectile
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Blackwood Piercer
 
 ![Blackwood Piecer](https://vwiki.valorserver.com/api/item/picture/blackwood%20piercer)
@@ -20,7 +24,7 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-
+**Drops from Therani | Trial**
 
 ***This item is a part of Trial of Blackwood Set***
 

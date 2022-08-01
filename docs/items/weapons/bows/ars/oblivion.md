@@ -27,6 +27,8 @@ Shots pass through obstacles
 
 Fame Bonus: 15%
 
+**Drops from Yazanahar in the Realm**
+
 ## Projectile
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
@@ -53,6 +55,8 @@ Range: 9
 Shots pass through obstacles
 
 Fame Boss: 15%
+
+**Enchanted Oblivion with Ancient Air Rune**
 
 ## Projectile
 
@@ -83,6 +87,8 @@ Shots pass through obstacles
 
 Fame Boss: 15%
 
+**Enchanted Oblivion with Ancient Earth Rune**
+
 ## Projectile
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
@@ -110,6 +116,8 @@ Range: 9
 Shots pass through obstacles
 
 Fame Boss: 15%
+
+**Enchanted Oblivion with Ancient Fire Rune**
 
 ## Projectile
 
@@ -140,10 +148,11 @@ Shots pass through obstacles
 
 Fame Boss: 15%
 
+**Enchanted Oblivion with Ancient Water Rune**
+
 ## Projectile
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
-
 
   </TabItem>
 </Tabs>

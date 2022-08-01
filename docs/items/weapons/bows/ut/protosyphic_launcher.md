@@ -1,10 +1,12 @@
+---
+sidebar_position: 10
+---
+
 # Protosyphic Launcher
 
 ![PL](https://vwiki.valorserver.com/api/item/picture/protosyphic%20launcher)
 
 <i>This strange weapon seems designed to launch the contents of the specialized syringe. The exact components of this particular vicious concoction within are hard to discern</i>
-
-**Drops from Superhuman Hideout Second**
 
 Damage: 125-325
 
@@ -15,6 +17,8 @@ Rate of Fire: 120%
 Range: 7.5
 
 Fame Bonus: 4%
+
+**Drops from Larry Giggsman, the Supermutant in the Superhuman Hideout**
 
 ***Can be upgraded with Essence of the Realm!***
 

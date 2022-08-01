@@ -1,10 +1,12 @@
+---
+sidebar_position: 8
+---
+
 # Deathwanderer
 
 ![Deathwanderer](https://vwiki.valorserver.com/api/item/picture/deathwanderer)
 
 <i>The bow that were used by ghostly apparitions from the dark underworld.</i>
-
-**Drops from Ghost King**
 
 Damage: 220-300
 
@@ -15,9 +17,12 @@ Rate of Fire: 80%
 Range: 6.6
 
     +100 Maximum HP
+    
     +100 Maximum MP
     
 Fame Bonus: 8%
+
+**Drops from the Ghost King in the Realm**
 
 ***This item can be upgraded using Essence of the Realm!***
 

@@ -1,10 +1,12 @@
+---
+sidebar_position: 11
+---
+
 # Tool of Galactic Destruction
 
 ![ToGD](https://vwiki.valorserver.com/api/item/picture/tool%20of%20galactic%20destruction)
 
 <i>This weapon has power akin to the explosion of a planet</i>
-
-**Craftable with Shard of Cosmic Collapse**
 
 Damage: 244-346
 
@@ -19,10 +21,14 @@ Shots hit multiple targets
 Ignores defense of target
 
     +65 Protection
+    
     +75 Might
+    
     +50 Luck
     
 Fame Bonus: 8%
+
+**Craftable with Shard of Cosmic Collapse**
 
 ## Projectile
 

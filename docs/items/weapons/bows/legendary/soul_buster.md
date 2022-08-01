@@ -1,10 +1,12 @@
+---
+sidebar_position: 9
+---
+
 # Soul Buster
 
 ![Soul Buster](https://vwiki.valorserver.com/api/item/picture/soul%20buster)
 
 <i>A crossbow that destroys foes and crushes it's enemies within seconds.</i>
-
-**Craftable with Zol Shard**
 
 Damage: 850-975
 
@@ -14,7 +16,9 @@ Rate of Fire: 50%
 
 Range: 6.6
 
-Fame Bonus: 6%
+Fame Bonus: 8%
+
+**Craftable with Shard of Zol Corruption**
 
 ## Projectile
 

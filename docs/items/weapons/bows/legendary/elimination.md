@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Elimination
 
 ![Elimination](https://vwiki.valorserver.com/api/item/picture/elimination)
@@ -17,5 +21,7 @@ Range: 6.3
 Fame Bonus: 8%
 
 ## Projectile
+
+**Drops from the 3rd boss of the Zol Awakening raid**
 
 ![Elimination Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981328768691994624/elim.gif)
