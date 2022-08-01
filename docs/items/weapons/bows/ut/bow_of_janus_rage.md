@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Bow of Janus rage
 
 ![BoJr](http://i.imgur.com/LlEbI5c.png)
