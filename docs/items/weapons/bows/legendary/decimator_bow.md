@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Decimator Bow
 
 ![Decimator Bow](https://vwiki.valorserver.com/api/item/picture/decimator%20bow)
