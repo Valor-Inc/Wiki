@@ -1,10 +1,12 @@
+---
+sidebar_position: 9
+---
+
 # Flaming Boomerang
 
 ![Flaming Boomerang](http://i.imgur.com/CGAB9Ft.png)
 
 <i>You sometimes wish it wouldn't come back</i>
-
-**Drops from Skull Shrine**
 
 Damage: 200-300
 
@@ -19,6 +21,10 @@ Shots hit multiple targets
 Ignores defense of target
 
 Shots Boomerang
+
+Fame Bonus: No Fame Bonus
+
+**Drops from the Skull Shrine in the Realm**
 
 ## Projectile
 
