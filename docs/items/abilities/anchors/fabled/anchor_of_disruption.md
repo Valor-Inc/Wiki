@@ -10,6 +10,8 @@ sidebar_position: 1
 
 Damage: 925-1250
 
+Shots: 1
+
 Range: 6
 
 Grants either Damaging, or Weak for 3 seconds
