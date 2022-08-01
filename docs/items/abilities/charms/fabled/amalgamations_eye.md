@@ -19,3 +19,5 @@ Cooldown: 4 seconds
     +2 Mana Leech
 
 Fame Bonus: 10%
+
+**Drops from the Amalgamation**
