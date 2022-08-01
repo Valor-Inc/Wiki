@@ -8,8 +8,6 @@ sidebar_position: 3
 
 <i>A blade once used by Cronus to end the reign of the Gods.</i>
 
-**Upgraded form of Dirk of Cronus**
-
 Damage: 225-265
 
 Shots: 1
@@ -23,9 +21,12 @@ Shots hit multiple targets
 Ignores defense of target
 
     +12 Wisdom
+    
     +30 Restoration
     
 Fame Bonus: 8%
+
+**Upgraded form of Dirk of Chronus**
 
 ## Projectile
 
