@@ -26,4 +26,6 @@ Cooldown: 3.75 seconds
     
     -150 Maximum HP
 
-Fame Bonus: 12%
+Fame Bonus: 8%
+
+**Drops from the Horrific**
