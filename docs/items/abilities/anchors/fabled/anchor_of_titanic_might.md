@@ -33,3 +33,5 @@ Cooldown: 4 seconds
     +10 Vitality
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Cerynus and Odeus, the titans of the Fallen Light raid**
