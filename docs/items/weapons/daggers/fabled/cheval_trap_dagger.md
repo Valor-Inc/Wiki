@@ -18,6 +18,8 @@ Range: 4.5
 
 Fame Bonus: 5%
 
+**Obtainable through Crates**
+
 ## Projectile
 
 ![CTD Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981723667144777728/chevaltrap.gif)
