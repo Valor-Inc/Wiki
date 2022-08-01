@@ -8,8 +8,6 @@ sidebar_position: 15
 
 <i>Scorching heat will emit across the battlefield when using this bow. It's been thought that only the sun gods would have such a weapon.</i>
 
-**Drops from Hades from the Crimson Cavern**
-
 Damage: 120-250
 
 Shots: 1
