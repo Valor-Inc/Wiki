@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Bow of Dreadful Reign
 
 ![BoDR](https://vwiki.valorserver.com/api/item/picture/bow%20of%20dreadful%20reign)
