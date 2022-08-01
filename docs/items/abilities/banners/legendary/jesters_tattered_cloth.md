@@ -23,3 +23,5 @@ Cooldown: 6 seconds
     +2 Life Steal
 
 Fame Bonus: 6%
+
+**Drops from the Puppet Master's Encore**
