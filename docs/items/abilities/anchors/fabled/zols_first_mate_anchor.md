@@ -35,3 +35,5 @@ Cooldown: 4 seconds
     +1 Life Steal
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Aldragine of the Zol Awakening raid**
