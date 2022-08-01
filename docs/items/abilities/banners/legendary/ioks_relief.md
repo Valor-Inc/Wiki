@@ -25,3 +25,5 @@ Cooldown: 8 seconds
 Fame Bonus: 8%
 
 **Templar's Gift: If your surge is above 5 upon using your banner you remove all negative conditions upon yourself.**
+
+**Craftable with Shard of the Ancients**
