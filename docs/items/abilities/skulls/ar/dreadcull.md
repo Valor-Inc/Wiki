@@ -9,9 +9,9 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Dreadcull" label="Dreadcull" default>
 
-# Dreadcull Air
+# Dreadcull 
 
-![dreadcull](https://vwiki.valorserver.com/api/item/picture/dreadcull%20air)
+![dreadcull](https://vwiki.valorserver.com/api/item/picture/dreadcull)
 
 <i>...Father?</i>
 
