@@ -14,7 +14,7 @@ Damage: 680
 
 Lifetime: 6 
 
-Enemy Effect: Cursed for 4 seconds
+Effect: Cursed for 4 seconds
 
 MP Cost: 100
 
