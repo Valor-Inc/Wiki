@@ -8,8 +8,6 @@ sidebar_position: 1
 
 <i>A dark whip created by the power of the Abyssal Rune</i>
 
-**Upgrade of Empowered Whip (t0 Whip + Abyssal Rune)**
-
 Damage: 238-268
 
 Shots: 1
@@ -30,6 +28,8 @@ Shot Effect: Shots slow for 0.5 seconds
     
 Fame Bonus: 8%
 
-## Projecitle
+**Upgrade of Empowered Whip (t0 Whip + Abyssal Rune) | The t0 Whip drops from the Abyss of Demons**
+
+## Projectile
 
 ![AW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721591987707955/abyssal.gif)
