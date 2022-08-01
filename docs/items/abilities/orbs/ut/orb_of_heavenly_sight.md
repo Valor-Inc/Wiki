@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Orb of Heavenly Sight
 
-![heaven](https://vwiki.valorserver.com/api/item/picture/orb%20of%20heavenly%20sight)
+![heaven](http://i.imgur.com/iys4Uco.png)
 
 <i>The eye of Heaven beholds all sins, tremble to the might of the Heavenly crystal.</i>
 
