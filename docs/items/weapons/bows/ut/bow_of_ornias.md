@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Bow of Ornias
 
 ![Bow of Ornias](https://vwiki.valorserver.com/api/item/picture/bow%20of%20ornias)
