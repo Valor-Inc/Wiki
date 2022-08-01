@@ -8,8 +8,6 @@ sidebar_position: 4
 
 <i>A dagger once used by the great bridge guardian's assassins, its blade almost sharp enough to end the war.</i>
 
-**Drops from Bridge Sentinel in the Shatters**
-
 Damage: 115
 
 Shots: 4
@@ -29,6 +27,8 @@ Ignores defense of target
     +2 Life Steal
     
 Fame Bonus: 8%
+
+**Drops from the Bridge Sentinel in the Shatters**
 
 ## Projectile
 
