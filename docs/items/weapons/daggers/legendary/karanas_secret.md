@@ -26,7 +26,7 @@ Range: 5.6
 		
 Fame Bonus: 8%
 
-***Ghost's Wrath: When this item is equipped and you are also invisible you deal damage based on the amount of wisdom you have.***
+***Ghost's Wrath: While you are also invisible, you gain twice the amount of wisdom you have as bonus outputting damage.***
 
 ## Projectile
 

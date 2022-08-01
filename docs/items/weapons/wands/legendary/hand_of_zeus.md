@@ -8,11 +8,11 @@ sidebar_position: 3
 
 <i>A powerful weapon that sends the energy and force of zeus in the form of a lightning bolt to it's enemies.</i>
 
-Damage: 215-325
+Damage: 200-310
 
 Shots: 1
 
-Rate of Fire: 130%
+Rate of Fire: 120%
 
 Range: 7
 
@@ -24,9 +24,9 @@ Ignores defense of target
     
     +50 Luck
     
-    +16 Speed
+    +10 Speed
 
-Fame Bonus: 6%
+Fame Bonus: 8%
 
 ## Projectile
 

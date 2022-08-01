@@ -8,7 +8,7 @@ sidebar_position: 1
 
 <i>The shattered blade of a celestial envoy, this crested lance is with bound with a presence that drives it to lead it's bewinged hearlds beyond the stars themselves.</i>
 
-Damage: 140-230
+Damage: 120-130
 
 Shots: 4
 
@@ -18,7 +18,7 @@ Range: 6.4
 
 Shots hit multiple targets
 
-    +5 Attacl
+    +5 Attack
     
     +5 Speed
     
@@ -28,4 +28,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Crashing Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769722275004477/crashingcrescendo.gif)
+![Crashing Projectile New](https://i.imgur.com/Mptxmxc.png)

@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-Damage: 285-370
+Damage: 265-340
 
 Shots: 2
 
@@ -40,7 +40,7 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
     
-Damage: 285-370
+Damage: 265-340
 
 Shots: 2
 
@@ -67,7 +67,7 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
     
-Damage: 285-370
+Damage: 265-340
 
 Shots: 2
 
@@ -94,7 +94,7 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
     
-Damage: 305-390
+Damage: 285-360
 
 Shots: 2
 
@@ -118,7 +118,7 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
     
-Damage: 285-370
+Damage: 265-340
 
 Shots: 2
 

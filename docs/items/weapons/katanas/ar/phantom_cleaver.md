@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 <i>They say you can hear the screams of previous wielders if you hold it close. Great power, great risk. That won't happen to you, though? Will it? Of course not. You're the Hero.</i>
 
-Damage: 250-350
+Damage: 235-330
 
 Shots: 2
 
@@ -47,7 +47,7 @@ Fame Bonus: 15%
 
 **Static Slice Enchantment: You swing your Katana faster, the wind flows through you.**
 
-Damage: 50-500
+Damage: 47-470
 
 Shots: 2
 
@@ -82,7 +82,7 @@ Fame Bonus: 15%
 
 **Ent Blessing Enchantment: The power of the Ent's is dusted upon this blade.**
 
-Damage: 275-350
+Damage: 260-330
 
 Shots: 2
 
@@ -111,7 +111,7 @@ Fame Bonus: 15%
 
 **Furious Damage Enhancement: Fire does more damage. Embrace IT.**
 
-Damage: 300-350
+Damage: 285-330
 
 Shots: 2
 
@@ -140,7 +140,7 @@ Fame Bonus: 15%
 
 **Bubble Propulsion Enhancement: The ocean propels your shots further.**
 
-Damage: 225-325
+Damage: 210-305
 
 Shots: 2
 

@@ -14,7 +14,7 @@ Rate of Fire: 170%
 
 Range: 9
 
-0.1% to inflict Armored for 3 seconds (Self-Buff)
+0.1% to inflict Armored for 3 seconds (Buffs the Enemy)
 
     +20 Maximum HP
     +20 Maximum MP

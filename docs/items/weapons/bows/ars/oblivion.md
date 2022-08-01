@@ -67,7 +67,7 @@ Fame Boss: 15%
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Earth.</i>
 
-**Earth Rune: Increases your defense by 40.**
+**Earth Rune: Increases your defense by 40. Increases your minimum damage by 120 and maximum damage by 180.**
 
 Damage: 1620-2080
 

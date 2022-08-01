@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 <i>The ancient conduit between hell, earth, and the planes below that first sealed Drannol many centuries ago.</i>
 
-Damage: 405-605
+Damage: 380-565
 
 Shots: 2
 
@@ -41,7 +41,7 @@ Fame Bonus: 15%
 
 **Air Rune: Shots have a chance to slow enemies for 3s, and grants +10 speed.**
     
-Damage: 405-605
+Damage: 380-565
 
 Shots: 2
 
@@ -70,7 +70,7 @@ Fame Bonus: 15%
 
 **Earth Rune: Increase +115 Minimum and Maximum damage, and decreases RoF by 25%.**
     
-Damage: 520-720
+Damage: 595-680
 
 Shots: 2
 
@@ -95,7 +95,7 @@ Fame Bonus: 15%
 
 **Fire Rune: Increases minimum and maximum damage by +30, and grants +10 Attack.**
 
-Damage: 435-635
+Damage: 410-595
 
 Shots: 2
 
@@ -122,7 +122,7 @@ Fame Bonus: 15%
 
 **Water Rune: Grants +2 mana steal, and grants +10 Wisdom.**
 
-Damage: 405-605
+Damage: 380-565
 
 Shots: 2
 

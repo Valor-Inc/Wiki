@@ -8,7 +8,7 @@ sidebar_position: 6
 
 <i>A conduit between the wielder's soul and the verdant lands they guard, this lance is known as the weapon of choice for humanoid templars who dedicate themselves to the natural Realm.</i>
 
-Damage: 425-675
+Damage: 685-782
 
 Shots: 1
 

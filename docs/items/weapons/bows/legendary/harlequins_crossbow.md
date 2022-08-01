@@ -6,11 +6,11 @@
 
 **Drops from Puppet Master's Encore**
 
-Damage: 345-375
+Damage: 330-365
 
 Shots: 1
 
-Rate of Fire: 180%
+Rate of Fire: 160%
 
 Range: 7.6
 

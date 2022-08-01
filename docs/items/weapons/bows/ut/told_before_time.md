@@ -16,7 +16,7 @@ Shots pass through obstacles
 
     +6 Speed
     +80 Might 
-    +60 Luck
+    +80 Luck
     
 Fame Bonus: 8%
 

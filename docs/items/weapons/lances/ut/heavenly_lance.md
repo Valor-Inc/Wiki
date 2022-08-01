@@ -8,7 +8,7 @@ sidebar_position: 4
 
 <i>The universally feared weapon of the Rifted, excluding all the valor and glory of holy legionites. But... something's not right...?</i>
 
-Damage: 100-120
+Damage: 133-175
 
 Shots: 3
 
@@ -17,6 +17,8 @@ Rate of Fire: 95%
 Range: 3.7
 
 Shots hit multiple targets
+
+Ignores defnese of target
 
 Fame Bonus: 6%
 

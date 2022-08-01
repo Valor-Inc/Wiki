@@ -12,7 +12,7 @@ Damage: 350-475
 
 Shots: 1
 
-Rate of Fire: 120%
+Rate of Fire: 125%
 
 Range: 5.4
 
@@ -24,7 +24,7 @@ Shots pass through obstacles
     
     +18 Wisdom
     
-    +1 Life Steal
+    +2 Life Steal
 
 Fame Bonus: 8%
 

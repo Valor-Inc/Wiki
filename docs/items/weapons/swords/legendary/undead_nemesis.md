@@ -8,7 +8,7 @@ sidebar_position: 12
 
 <i>A blade forged by the magic of necromancy and a curse from the evil undead.</i>
 
-Damage: 430-530
+Damage: 455-555
 
 Shots: 1
 
