@@ -1,10 +1,11 @@
+---
+sidebar_position: 4
+---
 # Deathlurker
 
 ![Deathlurker](https://vwiki.valorserver.com/api/item/picture/deathlurker)
 
 <i>A bow used by the great ghost hunter Icas. Its shots strong enough to kill apparitions.</i>
-
-**Upgraded form of Deathwanderer**
 
 Damage: 335-350
 
@@ -19,6 +20,8 @@ Range: 7.3
     +150 Maximum MP
     
 Fame Bonus: 8%
+
+**Upgraded form of [Deathwanderer](https://wiki-test.valorserver.com/docs/items/weapons/bows/ut/deathwanderer)**
 
 ## Projectile
 
