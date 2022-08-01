@@ -1,3 +1,7 @@
+---
+sidebar_position: 15
+---
+
 # Wildfire Crossbow
 
 ![WC](https://vwiki.valorserver.com/api/item/picture/wildfire%20crossbow)
@@ -17,11 +21,16 @@ Range: 7
 Shots hit multiple targets
 
     +10 Might
+    
     +10 Luck
+    
     +15 Speed
+    
     +2 Life Steal
     
 Fame Bonus: 4%
+
+**Drops from Hades of the Crimson Showdown (Crimson Cavern 2nd)**
 
 ## Projectile
 
