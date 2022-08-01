@@ -34,3 +34,4 @@ Cooldown: 3.5 seconds
 
 Fame Bonus: 8%
 
+**Upgraded form of [Anchor of the Deep Seas](https://wiki-test.valorserver.com/docs/items/abilities/anchors/ut/anchor_of_the_deep_seas)**
