@@ -6,23 +6,17 @@ sidebar_position: 1
 
 ![heatblast](https://vwiki.valorserver.com/api/item/picture/heatblast%20trap)
 
-<i>  </i>
+<i>A trap that sends a blast of heat to the victim and burns their defenses right off.</i>
 
-Party Effect:  
+Trap: 750 HP within 8 sqrs for 6 seconds
 
-Party Effect:
+MP Cost: 100
 
-Effect on Self:
+    +60 Maximum HP
+    
+    +6 Defense
+    
+    +6 Attack
 
-Effect on Self: 
-
-HP Cost:
-
-MP Cost:
-
-Cooldown:
-
-
-
-Fame Bonus: 
+Fame Bonus: 6%
 
