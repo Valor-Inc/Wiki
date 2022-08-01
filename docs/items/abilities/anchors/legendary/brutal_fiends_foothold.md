@@ -34,4 +34,6 @@ Cooldown: 3
     
     +12 Wisdom
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Tod in the Realm.. you murderer**
