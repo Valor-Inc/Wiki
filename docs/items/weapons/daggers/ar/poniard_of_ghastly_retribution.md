@@ -28,6 +28,8 @@ Range: 4.5
     
 Fame Bonus: 15%
 
+**Drops from Merganus, the Fallen Titan of the Fallen Light raid**
+
 ## Projectile
 
 ![Pogger Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713840511266827/poniard.gif)
@@ -57,6 +59,8 @@ Range: 4.5
     
 Fame Bonus: 15%
 
+**Enchanted Poniard of Ghastly Retribution with Ancient Air Rune*
+
 ## Projectile
 
 ![PoggerA Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713840783884339/poniardair.gif)
@@ -85,6 +89,8 @@ Range: 5.2
     +15 Wisdom
     
 Fame Bonus: 15%
+
+**Enchanted Poniard of Ghastly Retribution with Ancient Earth Rune**
 
 ## Projectile
 
@@ -118,6 +124,8 @@ Shots hit multiple targets
     
 Fame Bonus: 15%
 
+**Enchanted Poniard of Ghastly Retribution with Ancient Fire Rune**
+
 ## Projectile
 
 ![PoggerF Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981714064554197022/poniardfire.gif)
@@ -146,6 +154,8 @@ Range: 5.4
     +40 Wisdom
     
 Fame Bonus: 15%
+
+**Enchanted Poniard of Ghastly Retribution with Ancient Water Rune**
 
 ## Projectile
 
