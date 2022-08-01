@@ -22,4 +22,4 @@ Cooldown: 7 seconds
     
     +15 Defense
 
-Fame Bonus: 9%
+Fame Bonus: 8%
