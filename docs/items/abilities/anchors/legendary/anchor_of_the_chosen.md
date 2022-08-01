@@ -34,4 +34,6 @@ Cooldown: 3.5 seconds
     
     +10 Dexterity
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Xanarich, the Chosen One of the Ancient Depths**
