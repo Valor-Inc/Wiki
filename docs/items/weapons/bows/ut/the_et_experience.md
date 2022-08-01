@@ -8,8 +8,6 @@ sidebar_position: 11
 
 <i>You even feel like an alien!</i>
 
-**Drops from The Regolith (Galactic Plateau 2nd)**
-
 Damage: 120-205
 
 Shots: 1 
