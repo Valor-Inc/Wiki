@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # Tool of Galactic Destruction
 
 ![ToGD](https://vwiki.valorserver.com/api/item/picture/tool%20of%20galactic%20destruction)
