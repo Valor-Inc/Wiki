@@ -132,8 +132,6 @@ Fame Boss: 15%
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Sea.</i>
 
-**Craftable with [Oblivion](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Oblivion), which drops from Yazanahar, and an Ancient Water Rune**
-
 **Water Rune: Increases your range by 2.3 tiles and your maximum damage by 100.**
 
 Damage: 1500-2000
