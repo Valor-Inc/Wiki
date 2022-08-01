@@ -8,8 +8,6 @@ sidebar_position: 1
 
 <i>This bow was crafted by Therani's mother herself in belief that it has the power to stop Therani once and for all. This bow does not behave like any other bow I've held, might it be the darkroot within the bow?</i>
 
-**Drops from Therani | T1 Trial**
-
 Damage: 380-505
 
 Shots: 1
@@ -24,7 +22,7 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-**Drops from Therani | Trial**
+**Drops from Therani | T1 Trial**
 
 ***This item is a part of Trial of Blackwood Set***
 
