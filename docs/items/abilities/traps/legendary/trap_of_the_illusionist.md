@@ -1,5 +1,5 @@
 ---
-sidebar_position: 
+sidebar_position: 4
 ---
 
 # Trap of the Illusionist
