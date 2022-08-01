@@ -8,13 +8,13 @@ sidebar_position: 5
 
 <i>This weapon has no description.</i>
 
-Damage: 520-680
+Damage: 560-685
 
 Shots: 1
 
-Rate of Fire: 80%
+Rate of Fire: 100%
 
-Range: 3.6
+Range: 5
 
 Shots hit multiple targets
 
@@ -26,8 +26,10 @@ Ignores defense of target
     
     +6 Defense
 
-Fame Bonus: 
+Fame Bonus: 8%
+
+***Moonguard: If mana is below 50%, you are immune to slowed***
 
 ## Projectile
 
-![MCH Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994766999773249656/mooncrescenthalberd.gif)
+![New MCH Projectile](https://i.imgur.com/7CCYKjx.png)

@@ -18,7 +18,7 @@ Range: 6.2
 
 Fame Bonus: 8%
 
-***Alliance: If you have another ally close to you shoot faster.***
+***Alliance: If you have another ally close to you, your rate of fire is increased by 60%.***
 
  ## Projectile 
  

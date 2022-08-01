@@ -8,7 +8,7 @@ sidebar_position: 6
 
 <i>A glistening sword enhanced by the power of the sor gem inside.</i>
 
-Damage: 300-405
+Damage: 325-445
 
 Shots: 1
 

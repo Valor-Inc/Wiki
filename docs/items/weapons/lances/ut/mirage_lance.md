@@ -8,9 +8,9 @@ sidebar_position: 5
 
 <i>  </i>
 
-Damage: 195-250
+Damage: 222-280
 
-Shots: 3
+Shots: 2
 
 Rate of Fire: 75%
 
@@ -18,8 +18,12 @@ Range: 3.4
 
 Shots hit multiple targets
 
+Ignores defnese of target
+
+10% to inflict Slowed for 3 seconds
+
 Fame Bonus: 6%
 
 ## Projectile
 
-![Mirage Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769725441712148/miragelance.gif)
+![New Mirage Projectile](https://i.imgur.com/OG4zavo.png)

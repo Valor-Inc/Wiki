@@ -8,7 +8,7 @@ sidebar_position: 7
 
 <i>A wicked staff that brings about a sensation of emptiness, but whispers occasionally seep forth from the darkness.</i>
 
-Damage: 166-216
+Damage: 155-205
 
 Shots: 4
 

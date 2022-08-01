@@ -8,7 +8,7 @@ sidebar_position: 7
 
 <i>Fished out from the bottom of the ocean, the pirates tried to infuse this weapon with the power of the Zol.</i>
 
-Damage: 250-300
+Damage: 270-315
 
 Shots: 3
 
@@ -18,8 +18,10 @@ Range: 4.7
 
 Shots hit multiple targets
 
+Ignores defnese of target
+
 Fame Bonus: 8%
 
 ## Projectile
 
-![ZolT Projectile](https://media.discordapp.net/attachments/953134990428868629/994767000905728130/zoltrident.gif)
+![New ZolT Projectile](https://i.imgur.com/YAQJ30s.png)

@@ -8,13 +8,13 @@ sidebar_position: 3
 
 <i>The true source of Iok's determination.</i>
 
-Damage: 122-170
+Damage: 110-145
 
 Shots: 6
 
 Rate of Fire: 75%
 
-Range: 3.9
+Range: 5.0
 
 Ignores defense of target
 
@@ -30,4 +30,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Ioks Projectile](https://cdn.discordapp.com/attachments/948363371235913798/948443999683874816/unknown.png)
+![New Ioks Projectile](https://i.imgur.com/QISenEm.png)

@@ -10,7 +10,7 @@ sidebar_position: 4
 
 **Upgraded form of [Earthbound Lance](https://wiki-test.valorserver.com/docs/items/weapons/lances/ut/earthbound_lance)**
 
-Damage: 160-650
+Damage: 210-650
 
 Shots: 1
 

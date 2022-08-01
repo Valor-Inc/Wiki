@@ -9,7 +9,7 @@ sidebar_position: 1
 
 <i>The complete blade of the celestial envoy, rumours say the shattered form became complete after the herald travelled past the stars.</i>
 
-Damage: 465-740
+Damage: 465-600
 
 Shots: 1
 
@@ -18,6 +18,10 @@ Rate of Fire: 100%
 Range: 4.0
 
 Ignores defense of target
+
+    +20 Defense
+    
+    +15 Wisdom
 
 Fame Bonus: 8%
 

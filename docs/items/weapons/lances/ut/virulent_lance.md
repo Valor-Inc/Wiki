@@ -8,7 +8,7 @@ sidebar_position: 6
 
 <i>With a venomous tip, this lance contains deadly toxins that will slowly destroy a body.</i>
 
-Damage: 60-110
+Damage: 85-150
 
 Shots: 3
 

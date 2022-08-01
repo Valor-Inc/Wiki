@@ -8,7 +8,7 @@ sidebar_position: 6
 
 <i>This staff surges with dark secrets and power. Do not let it consume you!</i>
 
-Damage: 235-290
+Damage: 215-265
 
 Shots: 2
 

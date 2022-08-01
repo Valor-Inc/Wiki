@@ -19,6 +19,7 @@ Shots pass through obstacles
     +6 Speed
     
     +80 Might 
+
     
     +60 Luck
     

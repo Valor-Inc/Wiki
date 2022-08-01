@@ -24,6 +24,8 @@ Range: 5.0
     
     +8 Vitality
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+***Relentless: Each surge point you currently have adds an extra 6 outputting damage.***
 
 ## Projectile

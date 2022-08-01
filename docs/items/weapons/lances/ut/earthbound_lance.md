@@ -8,11 +8,11 @@ sidebar_position: 2
 
 <i>Mother nature's lance</i>
 
-Damage: 40-400
+Damage: 240-425
 
 Shots: 1
 
-Rate of Fire: 120%
+Rate of Fire: 125%
 
 Range: 3.6
 

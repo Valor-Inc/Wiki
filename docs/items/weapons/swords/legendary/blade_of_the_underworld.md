@@ -8,11 +8,11 @@ sidebar_position: 3
 
 <i>  </i>
 
-Damage: 255-355
+Damage: 215-355
 
 Shots: 2
 
-Rate of Fire: 135%
+Rate of Fire: 130%
 
 Range: 4.7
 

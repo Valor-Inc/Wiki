@@ -16,7 +16,9 @@ Rate of Fire: 170%
 
 Range: 9
 
+
 Enemy Effect: 0.1% chance to inflict Armored for 3 seconds
+
 
     +20 Maximum HP
     

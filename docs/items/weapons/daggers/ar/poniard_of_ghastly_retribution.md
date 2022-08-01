@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 <i>Forged in the tears of enemies on a full moon</i>
 
-Damage: 600-725
+Damage: 565-695
 
 Shots: 1
 
@@ -43,7 +43,7 @@ Fame Bonus: 15%
 
 **Air Rune: Grants 10% chance to dodge incoming projectiles**
 
-Damage: 600-725
+Damage: 565-695
 
 Shots: 1
 
@@ -72,7 +72,7 @@ Fame Bonus: 15%
 
 **Earth Rune: Increases range, decreases damage and adds a second projectile. Also sets Vitality to +50.**
 
-Damage: 300-425
+Damage: 285-435
 
 Shots: 2
 
@@ -102,7 +102,7 @@ Fame Bonus: 15%
 
 **Fire Rune: Projectiles can now pierce enemies.**
 
-Damage: 600-725
+Damage: 565-695
 
 Shots: 1
 
@@ -131,9 +131,9 @@ Fame Bonus: 15%
 
 <i>Forged in the tears of enemies on a full moon</i>
 
-**Water Rune: Increases range to 5.4, and increases Wisdom to +40.**
+**Water Rune: Increases range to 5.4, increases minimum damage by 35, and increases Wisdom to +40.**
 
-Damage: 600-725
+Damage: 600-695
 
 Shots: 1
 

@@ -1,21 +1,21 @@
 ---
-sidebar_position: 1
-Title: Clarent
+sidebar_position: 2
+Title: Clarinet
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Clarent" label="Clarent" default>
+  <TabItem value="Clarinet" label="Clarinet" default>
 
-# Clarent
+# Clarinet
 
-![Clarent](https://vwiki.valorserver.com/api/item/picture/Clarent)
+![Clarinet](https://vwiki.valorserver.com/api/item/picture/Clarinet)
 
 <i>Fear it. Dread it. Destiny arrives all the same.</i>
 
-Damage: 1400-1600
+Damage: 1350-1525
 
 Shots: 1
 
@@ -41,9 +41,9 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Air" label="Air">
 
-# Clarent Air
+# Clarinet Air
 
-![clarentA](https://vwiki.valorserver.com/api/item/picture/clarent%20air)
+![clarentA](https://vwiki.valorserver.com/api/item/picture/clarinet%20air)
 
 <i>The world melts around your blade with every swing, making each slice effortless.</i>
 
@@ -70,9 +70,9 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
-# Clarent Earth
+# Clarinet Earth
 
-![ClarentE](https://vwiki.valorserver.com/api/item/picture/clarent%20earth)
+![ClarinetE](https://vwiki.valorserver.com/api/item/picture/clarinet%20earth)
 
 <i>The very ground withers at your accursed heels, imbuing you with regenerative energy.</i>
 
@@ -99,9 +99,9 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-#
+# Clarient Fire
 
-![ClarentF](https://vwiki.valorserver.com/api/item/picture/clarent%20fire)
+![ClarinetF](https://vwiki.valorserver.com/api/item/picture/clarinet%20fire)
 
 <i>Underneath the flames each swing beckons forth a razor-sharp obsidian edge that flies effortlessly through the air.</i>
 
@@ -128,9 +128,9 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Water" label="Water">
 
-# Clarent Water
+# Clarinet Water
 
-![ClarentW](https://vwiki.valorserver.com/api/item/picture/clarent%20water)
+![ClarinetW](https://vwiki.valorserver.com/api/item/picture/clarinet%20water)
 
 <i>It reeks of the unnatural, but nothing can withstand the flaming despair of an Eternal.</i>
 
@@ -150,7 +150,6 @@ Ignores defense of target
       
         +60 Restoration
       
-
 Fame Bonus: 15%
 
 ## Projectile

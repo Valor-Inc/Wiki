@@ -17,7 +17,7 @@ import TabItem from '@theme/TabItem';
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
 
     
-Damage: 925-1050
+Damage: 880-995
 
 Shots: 2
 
@@ -49,7 +49,7 @@ Fame Bonus: 15%
 
 **Air Rune: Increase your rate of fire by 5%**
     
-Damage: 925-1050
+Damage: 880-995
 
 Shots: 2
 
@@ -82,7 +82,7 @@ Fame Bonus: 15%
     
 **Earth Rune: Increases your health by 100.**
     
-Damage: 925-1050
+Damage: 880-995
 
 Shots: 2
 
@@ -114,7 +114,7 @@ Fame Bonus: 15%
     
 **Fire Rune: Increases your minimum damage by 45 and maximum by 50.**
     
-Damage: 970-1100
+Damage: 925-1045
 
 Shots: 2
 
@@ -145,7 +145,7 @@ Fame Bonus: 15%
 
 **Water Rune: Increases your ragne by 0.4 tiles.**
     
-Damage: 925-1050
+Damage: 880-995
 
 Shots: 2
 
