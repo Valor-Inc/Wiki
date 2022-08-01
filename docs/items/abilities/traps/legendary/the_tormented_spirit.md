@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # The Tormented Trap
 
-![Tormented](https://vwiki.valorserver.com/api/item/picture/the%20tormented%20trap)
+![Tormented](https://vwiki.valorserver.com/api/item/picture/the%20tormented%20spirit)
 
 <i>A trap, containing the power of The Grim.</i>
 
