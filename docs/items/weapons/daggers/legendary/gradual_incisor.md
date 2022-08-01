@@ -20,6 +20,8 @@ Range: 6
 
 Fame Bonus: 8%
 
+**Drops from the Chambers in the Superhuman Hideout**
+
 ## Projectile 
 
 ![GI Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721263267528756/gradualincisor.gif)
