@@ -8,8 +8,6 @@ sidebar_position: 2
 
 <i>"There are those who are wise in supposing that truth is an objective standard, scribed in the wisdom of mortal men. But there are things that precede and subvert that wisdom, and that, one can be certain is true." ~ Proverb IX, the Concepts of Light</i>
 
-**Upgraded form of Dagger of Holy Truth**
-
 Damage: 215-295
 
 Shots: 1
@@ -21,10 +19,14 @@ Range: 6.2
 Ignores defense of target
 
     +105 Maximm HP
+    
     +11 Defense
+    
     +7 Wisdom
     
 Fame Bonus: 8%
+
+**Upgraded form of [Dagger of Holy Truth](https://wiki-test.valorserver.com/docs/items/weapons/daggers/fabled/dagger_of_holy_truth)**
 
 ## Projectile
 
