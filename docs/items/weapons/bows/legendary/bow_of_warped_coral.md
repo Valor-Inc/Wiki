@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Bow of Warped Coral
 
 ![BoWC](https://vwiki.valorserver.com/api/item/picture/bow%20of%20warped%20coral)
