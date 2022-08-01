@@ -33,3 +33,5 @@ Cooldown: 2.5
     +10 Defense
 
 Fame Bonus: 6%
+
+**Drops from the Resthla, The Twisted Mermaid of the Ascended Ocean Trench**
