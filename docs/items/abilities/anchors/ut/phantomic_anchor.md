@@ -33,3 +33,5 @@ Cooldown: 4 seconds
     +3 Defense
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Septavius, the Ghost God from the Undead Lair**
