@@ -21,3 +21,5 @@ Cooldown: 10 seconds
     +12 Attack
 
 Fame Bonus: 6%
+
+**Drops from Heart of the Hideout of Zol Awakening Raid**
