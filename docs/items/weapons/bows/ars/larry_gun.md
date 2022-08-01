@@ -42,7 +42,7 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-Air Rune: Increases your minimum damage by 55.
+**Air Rune: Increases your minimum damage by 55.**
 
 Damage: 285-295 
 
@@ -72,7 +72,7 @@ Fame Bonus: 15%
 
 <i> Pew Pew. </i>
 
-Earth Rune: Increases your defense by 10.
+**Earth Rune: Increases your defense by 10.**
 
 Damage: 230-295  
 
@@ -104,7 +104,7 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-Fire Rune: Increases your maximum damage by 100 and decreases your minimum damage by 45.
+**Fire Rune: Increases your maximum damage by 100 and decreases your minimum damage by 45.**
 
 Damage: 185-395  
 
@@ -133,7 +133,7 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-Water Rune: Increases your range 1.4 tiles.
+**Water Rune: Increases your range 1.4 tiles.**
 
 Damage: 230-295  
 
