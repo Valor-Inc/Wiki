@@ -8,8 +8,6 @@ sidebar_position: 9
 
 <i>Proof that she is still alive?</i>
 
-**Craftable from Shard of Cosmic Collapse** 
-
 Damage: 240-255
 
 Shots: 1
@@ -18,13 +16,15 @@ Rate of Fire: 80%
 
 Range: 5.6
 
-		+80 Maximum HP
+	+80 Maximum HP
 		
-		+20 Protection
+	+20 Protection
 		
-		+40 Wisdom
+	+40 Wisdom
 		
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse** 
 
 ***Ghost's Wrath: While you are also invisible, you gain twice the amount of wisdom you have as bonus outputting damage.***
 
