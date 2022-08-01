@@ -1,10 +1,12 @@
+---
+sidebar_position: 5
+---
+
 # Bow of the Lonesome Wraith
 
 ![BotLW](https://vwiki.valorserver.com/api/item/picture/bow%20of%20the%20lonesome%20wraith)
 
 <i>Forever.</i>
-
-**Drops from the Abandoned Basement**
 
 Damage: 180-220
 
@@ -19,6 +21,8 @@ Shots hit multiple targets
     -100 Maximum HP
     
 Fame Bonus: 5%
+
+**Drops from the Abandoned Basement**
 
 ***This item can be upgraded with Essence of the Realm!***
 
