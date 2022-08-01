@@ -8,8 +8,6 @@ sidebar_position: 5
 
 <i>A darkened dagger with an emerald jewel in the middle of the blade. It's a popular dagger but hard to retrieve since few merchants sell them because of the material of the blade.</i>
 
-**Craftable from Shard of Cosmic Collapse**
-
 Damage: 325-425
 
 Shots: 1
@@ -21,6 +19,8 @@ Range: 7.3
     +21 Defense
     
 Fame Bonus: 8%
+
+**Craftable with Shard of Cosmic Collapse**
 
 ## Projectile
 
