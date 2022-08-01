@@ -1,10 +1,12 @@
+---
+sidebar_position: 13
+---
+
 # Valia's Light Bow
 
 ![VLB](https://vwiki.valorserver.com/api/item/picture/Valia's%20light%20bow)
 
 <i>An immaculate bow. Part power, part proof that you despise annoying bureaucrats. Especiailly ones that govern your postmortem destiny.</i>
-
-**Drops from Ascended Heavenly Rift**
 
 Damage: 100-120
 
@@ -17,6 +19,8 @@ Range: 7.4
 Shots hit multiple targets
 
 Fame Bonus: 6%
+
+**Drops from Valia, the Great Arbiter in the Ascended Heavenly Rift**
 
 ## Projectile
 
