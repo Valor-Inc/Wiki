@@ -17,3 +17,5 @@ sidebar_position: 9
     +5 Wisdom
  
 Fame Bonus: 6%
+
+**Drops from the Avatar of the Forgotten King in the Realm**
