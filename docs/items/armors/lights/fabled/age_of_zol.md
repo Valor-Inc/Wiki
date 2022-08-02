@@ -21,3 +21,5 @@ sidebar_position: 1
     +2 Mana Leech
     
 Fame Bonus: 8%
+
+**Drops from all bosses of the Zol Awakening raid**
