@@ -25,3 +25,5 @@ Cooldown: 5 seconds
     +5% Maximum HP
 
 Fame Bonus: 6%
+
+**Obtainable through Crates**
