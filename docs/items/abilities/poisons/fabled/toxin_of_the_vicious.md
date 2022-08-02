@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <i>A rare venom that could corrode a Sor Crystal.</i>
 
-Poison Grenade: Stays airborne for 2 secs. 800 on impact then 1200 HP over 6 secs within 8 sqrs. Sickens enemies for 0.
+Poison Grenade: Stays airborne for 2 secs. 1247 (wismod) on impact then 1871 (wismod) HP over 6 secs within 8 sqrs. Sickens enemies for 0.
 
 MP Cost: 90
 
@@ -19,3 +19,5 @@ MP Cost: 90
     -5 Speed
 
 Fame Bonus: 6%
+
+*See FAQ page to see how WisMod is calculated for items*
