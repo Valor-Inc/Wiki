@@ -17,3 +17,5 @@ sidebar_position: 2
     +3 Speed
     
 Fame Bonus: 4%
+
+**Drops from the Ghost King in the Realm**
