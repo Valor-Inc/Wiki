@@ -28,4 +28,6 @@ Cooldown: 2.5 seconds
 
 Fame Bonus: 8%
 
-**Dimensional Assault: If you have over 10 surge when you use this ability you do not lose any mana.**
+***Dimensional Assault: If you have over 10 surge when you use this ability you do not lose any mana.***
+
+**Craftable from Shard of Ancient Assault**
