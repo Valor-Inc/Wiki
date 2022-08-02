@@ -26,4 +26,4 @@ Fame Bonus: 8%
 
 **Upgraded form of Orb of Conflict**
 
-*See FAQ Page to learn how WisMod is calculated for the items*
+*See FAQ Page to see how WisMod is calculated for the items*
