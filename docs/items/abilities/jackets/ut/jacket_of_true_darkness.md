@@ -31,3 +31,5 @@ Cooldown: 4 seconds
     +120 Maximum HP
     
 Fame Bonus: No Fame Bonus
+
+**Drops from the Servant of the Dark Knight of the Unspeakable**
