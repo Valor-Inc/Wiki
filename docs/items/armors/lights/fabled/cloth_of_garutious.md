@@ -19,3 +19,5 @@ sidebar_position: 3
     +15% Luck
 
 Fame Bonus: 8%
+
+**Drops from Garutious in the Realm**
