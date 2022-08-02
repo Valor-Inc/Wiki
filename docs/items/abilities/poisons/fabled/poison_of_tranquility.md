@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Effect on Self: Damaging for 1.5 seconds
 
-Poison Grenade: Within 5 sqrs After  seconds 500 immediately + 600 over 2 seconds
+Poison Grenade: Within 5 sqrs After  seconds 1038 (wismod) immediately + 2338 (wismod) over 2 seconds
 
 MP Cost: 110
 
@@ -19,3 +19,5 @@ MP Cost: 110
     +7 Dexterity
 
 Fame Bonus: 6%
+
+**Drops from Serenity, the Ripper | Public Challenge**
