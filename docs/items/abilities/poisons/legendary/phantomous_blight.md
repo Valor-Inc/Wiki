@@ -10,7 +10,7 @@ sidebar_position: 5
 
 Effect on Self: Invisible for 1.5 seconds
 
-Poison Grenade: Within 4 sqrs After  seconds 1400 immediately + 200 over 6 seconds
+Poison Grenade: Within 4 sqrs After  seconds 2182 (wismod) immediately + 3118 (wismod) over 6 seconds
 
 MP Cost: 100
 
@@ -19,3 +19,5 @@ MP Cost: 100
     +15 Luck
 
 Fame Bonus: 12%
+
+**Upgraded form of [Eidolon Toxin](https://wiki-test.valorserver.com/docs/items/abilities/poisons/ut/eidolon_toxin)**
