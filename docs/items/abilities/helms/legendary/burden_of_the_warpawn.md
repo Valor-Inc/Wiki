@@ -26,4 +26,4 @@ MP Cost: 200
 
 Fame Bonus: 8%
 
-**Purchasable at the Zol Awakening Shop for 310 Onrane**
+**Buyable at the Zol Awakening Shop for 310 Onrane**
