@@ -20,3 +20,4 @@ Cooldown: 5.5 Seconds
 
 Fame Bonus: 8%
 
+**Drops from Hand of Terradius | Alert**
