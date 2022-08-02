@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ![BMG](https://vwiki.valorserver.com/api/item/picture/breastplate%20of%20the%20mad%20god)
 
+<i>Enhanced with steel from the realm's greatest blacksmiths, this armor knows no weaknesses. Thanks to: Jaden
+
     +20% Maximum HP 
     
     +25 Defense
