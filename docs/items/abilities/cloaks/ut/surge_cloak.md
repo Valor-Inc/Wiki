@@ -23,3 +23,5 @@ Cooldown: 6 seconds
     +6 Dexterity
 
 Fame Bonus: 6%
+
+**Drops from the Mothership in the Realm**
