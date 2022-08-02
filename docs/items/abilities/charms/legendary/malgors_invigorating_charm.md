@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Malgor's Invigorating Charm
 
-![MIC]
+![MIC](https://vwiki.valorserver.com/api/item/picture/malgor's%20invigorating%20charm)
 
 <i>We've all seen the impact of Malgor's malicious power already, this time we managed to harness his healing attributes.</i>
 
@@ -23,3 +23,5 @@ Cooldown: 5 seconds
     +5 Speed
 
 Fame Bonus: 8%
+
+**Upgraded form of [Malgoric Charm](https://wiki-test.valorserver.com/docs/items/abilities/charms/ut/malgoric_charm)**
