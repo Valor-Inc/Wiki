@@ -17,3 +17,7 @@ sidebar_position: 3
     +20 Might
     
 Fame Bonus: 8%
+
+***This item is a part of Corrupted Conjurer Set***
+
+**Drops from the Corrupted Conjurer in the Realm**
