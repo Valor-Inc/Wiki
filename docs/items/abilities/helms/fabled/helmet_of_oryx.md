@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Effect on Self: Speedy for 6 seconds
 
-Effect on self: Berserk for 6 seconds **Affected by Wis-Mod**
+Effect on self: Berserk for 6 (wismod) seconds 
 
 Effect on Self: Drunk for 3 seconds
 
