@@ -15,3 +15,7 @@ sidebar_position: 4
     +4 Attack
     
 Fame Bonus: 6%
+
+***This item is a part of Dark Knight Set***
+
+**Drops from the Dark Knight of the Unspeakable**
