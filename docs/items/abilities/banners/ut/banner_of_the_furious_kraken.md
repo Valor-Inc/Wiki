@@ -22,6 +22,6 @@ Cooldown: 6 seconds
     
 Fame Bonus: 6%
 
-*See the FAQ to see how Wis-Mod is calculated for items*
+*See the FAQ page to see how Wis-Mod is calculated for items*
 
 **Drops from The Kraken | Alert**
