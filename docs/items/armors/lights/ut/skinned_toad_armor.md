@@ -15,3 +15,5 @@ sidebar_position: 8
     +10 Wisdom
     
 Fame Bonus: 5%
+
+**Drops from the Murderous Megamoth of the Woodland Labyrinth**
