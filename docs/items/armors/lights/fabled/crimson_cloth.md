@@ -23,3 +23,5 @@ sidebar_position: 4
     +4 Fortune
     
 Fame Bonus: 6%
+
+**Drops from the Ascended Tunnel of Pain**
