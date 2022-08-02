@@ -17,3 +17,5 @@ sidebar_position: 12
     +14 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from Euryale, the Snake Goddess of the Ascended Snake Pit**
