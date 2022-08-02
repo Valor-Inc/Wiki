@@ -21,3 +21,5 @@ sidebar_position: 1
     +2 Mana Leech
     
 Fame Bonus: 6%
+
+**Drops from Hand of Terradius | Alert**
