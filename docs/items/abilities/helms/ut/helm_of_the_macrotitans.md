@@ -21,3 +21,5 @@ Cooldown: 7 Seconds
     -10 Dexterity
 
 Fame Bonus: 5%
+
+**Drops from Ogla, the Giant God of Giant's Hill**
