@@ -23,3 +23,7 @@ Cooldown: 2 seconds
     +15% Luck
 
 Fame Bonus: 8%
+
+**Drops from Garutious in the Realm**
+
+***This item is a part of Loaded Garutious Set***
