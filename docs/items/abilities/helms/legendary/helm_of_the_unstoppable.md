@@ -23,3 +23,5 @@ Cooldown: 7 seconds
     +10 Speed
 
 Fame Bonus: 8%
+
+**Upgraded form of Helm of the Juggernaut**
