@@ -21,3 +21,5 @@ MP Cost: 110
 Fame Bonus: 6%
 
 **Drops from Serenity, the Ripper | Public Challenge**
+
+*See FAQ page to see how WisMod is calculated*
