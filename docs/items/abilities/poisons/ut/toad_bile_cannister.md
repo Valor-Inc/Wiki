@@ -10,10 +10,12 @@ sidebar_position: 3
 
 Heal players on impact.
 
-Poison Grenade: Within 5 sqrs After  seconds 144 immediately + 723 over 5 seconds
+Poison Grenade: Within 5 sqrs After  seconds 159 (wismod) immediately + 723 (wismod) over 5 seconds
 
 MP Cost: 90
 
     +5 Wisdom
 
 Fame Bonus: 6%
+
+**Drops from Murderous Megamoth of the Woodland Labyrinth**
