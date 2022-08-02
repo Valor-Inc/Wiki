@@ -19,3 +19,5 @@ sidebar_position: 10
     +5 Attack
     
 Fame Bonus: 6%
+
+**Drops from the Lord Stone Gargoyle in the Realm**
