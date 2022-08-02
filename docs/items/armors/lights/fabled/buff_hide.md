@@ -23,3 +23,5 @@ sidebar_position: 2
     -40% Luck
     
 Fame Bonus: 6%
+
+**Drops from Zegaell of Gileon's Return**
