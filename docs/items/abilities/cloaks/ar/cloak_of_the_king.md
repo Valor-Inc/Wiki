@@ -7,8 +7,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="AR Cloak" label="AR Cloak" default>
-    
+  <TabItem value="Cloak of the King" label="Cloak of the King" default>
+
 # Cloak of the King
 
 ![CK](https://vwiki.valorserver.com/api/item/picture/cloak%20of%20the%20king)
@@ -37,6 +37,8 @@ Cooldown: 12 Seconds
 
 Fame Bonus: 14%
 
+**Drops from the Forgotten King of the Shatters**
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -44,7 +46,7 @@ Fame Bonus: 14%
 
 ![CKAir](https://vwiki.valorserver.com/api/item/picture/cloak%20of%20the%20king%20air)
 
-<i>The cloak used by The Forgotten King to morph himself into his crown. Enchanted by the power of the Skys</i>
+<i>The cloak used by The Forgotten King to morph himself into his crown. Enchanted by the power of the Skys.</i>
 
 **Air Rune: Gives the user Speedy and changes to Effects.**
     
@@ -69,6 +71,8 @@ Cooldown: 12 Seconds
     +12 Speed
 
 Fame Bonus: 14%
+
+**Enchanted Cloak of the King with Ancient Air Rune**
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -103,6 +107,7 @@ Cooldown: 12 Seconds
 
 Fame Bonus: 14%
 
+**Enchanted Cloak of the King Air with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -137,6 +142,8 @@ Cooldown: 6 Seconds
 
 Fame Bonus: 14%
 
+**Enchanted Cloak of the King with Ancient Fire Rune**
+
   </TabItem>
   <TabItem value="Water" label="Water">
 
@@ -144,7 +151,7 @@ Fame Bonus: 14%
 
 ![CKWater](https://vwiki.valorserver.com/api/item/picture/cloak%20of%20the%20king%20water)
 
-<i>The cloak used by The Forgotten King to morph himself into his crown. Enchanted by the power of the Skys</i>
+<i>The cloak used by The Forgotten King to morph himself into his crown. Enchanted by the power of the Oceans.</i>
 
 **Water Rune: Increases how long you stay invisible in return for a short Quiet.**
     
@@ -171,6 +178,8 @@ Cooldown: 12 Seconds
     +12 Speed
 
 Fame Bonus: 14%
+
+**Enchanted Cloak of the King with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
