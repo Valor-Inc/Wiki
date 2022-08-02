@@ -19,3 +19,5 @@ sidebar_position: 6
     +6 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from Dr. Terrible of the Mad Lab**
