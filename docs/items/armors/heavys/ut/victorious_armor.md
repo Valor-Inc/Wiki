@@ -19,3 +19,5 @@ sidebar_position: 13
     +8 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from The Horrific in the Realm**
