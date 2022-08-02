@@ -19,3 +19,5 @@ sidebar_position: 9
     +5 Vitality
     
 Fame Bonus: 4%
+
+**Drops from the Eye of the Dragon in the Realm**
