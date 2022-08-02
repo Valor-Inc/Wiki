@@ -21,3 +21,5 @@ sidebar_position: 8
     +1 Mana Leech
     
 Fame Bonus: 6%
+
+**Drops from the Varghus, the Eye of the Tunnel of Pain**
