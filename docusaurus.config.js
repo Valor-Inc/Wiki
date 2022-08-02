@@ -57,8 +57,7 @@ const config = {
         },
       }),
     ],
-  ],
-
+    
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -71,7 +70,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro/nexus-guide',
+            docId: 'intro/category/introduction',
             position: 'left',
             label: 'Docs',
           },
