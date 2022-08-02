@@ -10,14 +10,22 @@ sidebar_position: 2
 
 Effect on Self: Armored for 4.0 seconds
 
-Enemy Effect: Within 4 sqrs Slowed for 2.7 seconds
+Enemy Effect: Within 4.6 (wismod) sqrs Slowed for 3.1 (wismod) seconds
 
 MP Cost: 90
 
-Cooldown: 4 seconds
+Cooldown: 3 seconds
 
-    +25 Maximum MP
+    +50 Maximum HP
     
-    +10 Wisdom
+    +50 Maximum MP
+    
+    +3 Speed
 
-Fame Bonus: 5%
+Fame Bonus: 6%
+
+**Drops from the Galleom of the Time in the Genisus**
+
+**Drops from Valia, the Great Arbiter of the Ascended Heavenly Rift**
+
+*See FAQ page to see how WisMod is calculated for the items*
