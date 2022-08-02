@@ -19,3 +19,5 @@ MP Cost: 90
 Fame Bonus: 6%
 
 **Drops from Murderous Megamoth of the Woodland Labyrinth**
+
+*See FAQ page to see how WisMod is calculated for the items*
