@@ -17,3 +17,5 @@ MP Cost: 120
 Cooldown: 3 seconds
 
 Fame Bonus: 4%
+
+**Drops from both Archdemon Malphas of Ascended Abyss of Demons and Abyss of Demons**
