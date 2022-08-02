@@ -23,3 +23,7 @@ Cooldown: 6 seconds
     +75 Protection
 
 Fame Bonus: 8%
+
+***Surge Reserve: Your surge takes longer to deplete.***
+
+**Craftable from Shard of Cosmic Collapse**
