@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Nexus" label="Nexus" default>
 
-# Guide to the Nexus
+# Nexus Guide
 
 #### Confused on where everything is? Or just too lazy to explore it for yourself? This guide is for you!
     
