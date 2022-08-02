@@ -23,3 +23,5 @@ Cooldown: 3.5 seconds
     +20 Restoration
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
