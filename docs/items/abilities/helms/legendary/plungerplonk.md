@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Plungerplonk
 
-![plunger]
+![plunger](https://vwiki.valorserver.com/api/item/picture/plungerplonk)
 
 <i>An unusual helm narrowly pulled from Wrackjaw's foul maw. The harrowing encounter inspires great swiftness in the wearer.</i>
 
@@ -23,3 +23,8 @@ Cooldown 6 Seconds
     +4 Fortune
 
 Fame Bonus: 13%
+
+***This item is a part of the Deep Sea Fishing Set***
+
+**Drops from Wrackjaw | Trial**
+
