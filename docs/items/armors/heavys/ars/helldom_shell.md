@@ -34,6 +34,9 @@ Fame Bonus: 16%
 **2 Tile: 3750 damage.**
 
 
+***Drops from Serenity, the Ripper | Public Challenge
+
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
