@@ -15,3 +15,5 @@ sidebar_position: 2
     +10 Attack
     
 Fame Bonus: 6%
+
+**Drops from all bosses of the Calling of the Titan raid**
