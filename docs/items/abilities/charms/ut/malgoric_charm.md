@@ -26,4 +26,4 @@ Fame Bonus: 6%
 
 **Drops from Malgor, the Eternal Fiend | Public Challenge**
 
-***Upgradable with an Elemental Sor!**
+***Upgradable with an Elemental Sor!***
