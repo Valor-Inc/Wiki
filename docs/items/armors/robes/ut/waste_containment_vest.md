@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # Waste-Containment Vest
 
-![WasteContainment](https://vwiki.valorserver.com/api/item/picture/
+![WasteContainment](https://vwiki.valorserver.com/api/item/picture/waste-containment%20vest)
 
 <i>A synthetic vest designed to protect its wearer from the contaiminants of the Hideout. Judging by the state of the previous wearer, it doesn't seem very effective at doing so.</i>
 
@@ -17,3 +17,5 @@ sidebar_position: 14
     +60 Restoration
     
 Fame Bonus: 6%
+
+**Drops from Larry Giggsman, the Supermutant of the Superhuman Hideout**
