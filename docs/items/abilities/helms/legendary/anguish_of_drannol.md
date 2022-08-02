@@ -26,8 +26,8 @@ Cooldown: 7 seconds
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Eternal Fury**
-
 ***Affliction: If you are attacked by an enemy you deal half the damage back to them.***
+
+**Craftable from Shard of Eternal Fury**
 
 *See FAQ page to see how WisMod is calculated for items*
