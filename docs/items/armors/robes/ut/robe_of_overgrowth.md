@@ -23,3 +23,5 @@ sidebar_position: 8
     +4 Mana Leech
     
 Fame Bonus: 6%
+
+**Drops from Anubis | Alert**
