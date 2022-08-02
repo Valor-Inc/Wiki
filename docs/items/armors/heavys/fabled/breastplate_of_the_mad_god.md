@@ -15,3 +15,7 @@ sidebar_position: 1
     +10 Attack
     
 Fame Bonus: 6%
+
+***This item is part of the Mad God Bruiser Set***
+
+**Drops from Oryx the Mad God 3**
