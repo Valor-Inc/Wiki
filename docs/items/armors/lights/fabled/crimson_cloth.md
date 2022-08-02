@@ -24,4 +24,4 @@ sidebar_position: 4
     
 Fame Bonus: 6%
 
-**Drops from the Ascended Tunnel of Pain**
+**Drops from Allseeing Horror of the Ascended Tunnel of Pain**
