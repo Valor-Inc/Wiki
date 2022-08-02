@@ -15,3 +15,5 @@ sidebar_position: 5
     +14 Dexterity
     
 Fame Bonus: 6%
+
+**Drops from Doomages of the Catacombs**
