@@ -19,3 +19,5 @@ sidebar_position: 3
     +6 Speed
     
 Fame Bonus: 6%
+
+**Drops from Xanarich, the Chosen One of the Ancient Depths**
