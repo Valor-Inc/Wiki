@@ -23,3 +23,5 @@ Cooldown: 5 seconds
     +8 Defense
 
 Fame Bonus: 8%
+
+**Drops from the Left Zol Lieutenant of the Zol Pirate Cave**
