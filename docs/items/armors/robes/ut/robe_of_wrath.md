@@ -17,3 +17,5 @@ sidebar_position: 11
     +8 Vitality
     
 Fame Bonus: 6%
+
+**Drops from secret chests in the Zol Awakening raid**
