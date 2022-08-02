@@ -70,7 +70,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro/category/introduction',
+            docId: 'intro/nexus-guide',
             position: 'left',
             label: 'Docs',
           },
