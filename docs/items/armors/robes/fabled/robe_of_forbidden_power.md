@@ -22,4 +22,4 @@ sidebar_position: 2
     
     +1 Mana Leech
     
-Fame Bonus: 8%
+Fame Bonus: 6%
