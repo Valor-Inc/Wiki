@@ -8,11 +8,11 @@ sidebar_position: 7
 
 <i>This barely contained Ooze is looking to break free.</i>
 
-Posion Grenade: Stays airborne for 1 secs. 200 on impact then 520 HP over 4 secs within 4 sqrs. Sickens enemies for 0.
+Posion Grenade: Stays airborne for 1 secs. 311 (wismod) on impact then 810 (wismod) HP over 4 secs within 4 sqrs. 
 
 Trap: 350 HP within 4 sqrs 
 
-Slowed for 4 seconds
+Enemy Effect: Slowed for 4 seconds
 
 MP Cost: 100
 
@@ -22,4 +22,6 @@ MP Cost: 100
     
     +25 Luck
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from the Toxic Troll | Alert**
