@@ -15,3 +15,5 @@ sidebar_position: 11
     +25 Defense
     
 Fame Bonus: 6%
+
+**Drops from Uber Shrek in the Realm**
