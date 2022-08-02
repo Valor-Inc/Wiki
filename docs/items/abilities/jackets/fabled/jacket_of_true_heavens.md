@@ -37,3 +37,5 @@ Cooldown: 4 seconds
     +2 Life Steal
     
 Fame Bonus: 6%
+
+**Drops from all bosses of the Fallen Light raid**
