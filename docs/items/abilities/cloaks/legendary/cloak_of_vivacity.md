@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <i>Worn by those who battled demons, and purified themselves. This cloak has been reforged and purified.</i>
 
-Effect on Self: Speedy for 5.5 seconds
+Effect on Self: Speedy for 5.5 seconds (in-game it says Invisible)
 
 Effect on self: Invisible for 4 seconds
 
@@ -23,3 +23,5 @@ Cooldown: 5 seconds
 Fame Bonus: 8%
 
 **No Speed Bumps: You are immune to Slowed.**
+
+**Craftable with Shard of the Ancients**
