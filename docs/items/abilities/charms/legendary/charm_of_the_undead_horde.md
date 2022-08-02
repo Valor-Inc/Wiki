@@ -19,3 +19,5 @@ Cooldown: 4 seconds
     +10 Attack
 
 Fame Bonus: 8%
+
+**Upgraded form of [Necromantic Charm](https://wiki-test.valorserver.com/docs/items/abilities/charms/ut/necromantic_charm)**
