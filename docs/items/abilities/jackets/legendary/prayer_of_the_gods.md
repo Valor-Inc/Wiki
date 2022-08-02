@@ -35,3 +35,5 @@ Cooldown: 4 seconds
     -150 Maximum HP
     
 Fame Bonus: 8%
+
+**Upgraded form of [Blessing of Yazanahar](https://wiki-test.valorserver.com/docs/items/abilities/jackets/ut/blessing_of_yazanahar)**
