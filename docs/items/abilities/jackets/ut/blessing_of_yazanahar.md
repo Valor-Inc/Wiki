@@ -35,3 +35,7 @@ Cooldown: 4 seconds
     -75 Maximum HP
     
 Fame Bonus: No Fame Bonus
+
+***Upgradable with Essence of the Realm!***
+
+**Drops from Yazanahar in the Realm**
