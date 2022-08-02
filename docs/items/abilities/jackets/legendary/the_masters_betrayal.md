@@ -35,3 +35,5 @@ Cooldown: 4 seconds
     +10 Defense
     
 Fame Bonus: No Fame Bonus
+
+**Buyable at the Calling of the Titan Raid shop for 290 Onrane**
