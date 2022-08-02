@@ -35,3 +35,5 @@ Cooldown: 4 seconds
     +2 Mana Leech
 
 Fame Bonus: 6%
+
+**Drops from Gileon of Gileon's Return**
