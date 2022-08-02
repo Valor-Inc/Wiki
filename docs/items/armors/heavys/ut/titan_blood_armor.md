@@ -18,4 +18,4 @@ sidebar_position: 10
     
 Fame Bonus: 8%
 
-**Drops from Zaragon, the Blood mage in the Realm**
+**Drops from Zaragon, the Blood Mage in the Realm**
