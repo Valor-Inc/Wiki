@@ -23,3 +23,5 @@ Cooldown: 7 seconds
     +80 Maximum MP
 
 Fame Bonus: 6%
+
+**Drops from Septavius the Ghost Goddess of the Ascended Undead Lair**
