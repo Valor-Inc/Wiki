@@ -17,3 +17,5 @@ sidebar_position: 1
     +18 Vitality
     
 Fame Bonus: 6%
+
+**Drops from Hades of the Crimson Showdown (Crimson Cavern 2nd)**
