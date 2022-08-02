@@ -23,3 +23,7 @@ Cooldown: 3 seconds
     +100 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from Malgor, the Eternal Fiend | Public Challenge**
+
+***Upgradable with an Elemental Sor!**
