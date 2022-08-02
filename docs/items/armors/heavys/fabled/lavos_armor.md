@@ -6,6 +6,8 @@ sidebar_position: 2
 
 ![Lavos](https://vwiki.valorserver.com/api/item/picture/lavos%20armor)
 
+<i>An armor that is slightly heated because of the lava that is sealed inside of it's plates.</i>
+
     +60 Maximum HP
     
     +26 Defense
