@@ -21,3 +21,5 @@ MP Cost: 100
 Fame Bonus: 12%
 
 **Upgraded form of [Eidolon Toxin](https://wiki-test.valorserver.com/docs/items/abilities/poisons/ut/eidolon_toxin)**
+
+*See FAQ page to see how WisMod is calculated for the items*
