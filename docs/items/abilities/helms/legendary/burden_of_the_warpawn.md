@@ -10,9 +10,9 @@ sidebar_position: 2
 
 Effect on Self: Berserk for 4 seconds
 
-Party Heal: 83 within 5.5 sqrs @ 60 Wis
+Party Heal: 83 (wismod) within 5.5 sqrs (wismod)
 
-Enemy Effect: Within 4 sqrs stunned for 2.7 seconds @ 60 Wis
+Enemy Effect: Within 4 (wismod) sqrs stunned for 2.7 (WisMod) seconds
 
 MP Cost: 200
 
@@ -25,3 +25,5 @@ MP Cost: 200
     +15 Vitality
 
 Fame Bonus: 8%
+
+**Purchasable at the Zol Awakening Shop for 310 Onrane**
