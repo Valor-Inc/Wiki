@@ -17,3 +17,5 @@ sidebar_position: 12
     +2 Fortune
     
 Fame Bonus: 4%
+
+**Drops from Lucky Ent Gods, Lucky Djinns, and from the Puppet Master's Theatre**
