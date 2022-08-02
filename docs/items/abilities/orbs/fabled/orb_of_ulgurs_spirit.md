@@ -21,3 +21,5 @@ Cooldown: 4 seconds
     +5 Dexterity
 
 Fame Bonus: 7%
+
+**Drops from Ulgur | Public Challenge**
