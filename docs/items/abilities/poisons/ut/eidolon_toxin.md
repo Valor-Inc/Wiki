@@ -8,7 +8,7 @@ sidebar_position: 1
 
 <i>A specialized poison used to ward off phantoms of the Undead Lair.</i>
 
-Poison Grenade: Within 6 sqrs After seconds 1300 immediately + 506 over 6 seconds
+Poison Grenade: Within 6 sqrs After seconds 1871 (wismod) immediately + 545 (wismod) over 6 seconds
 
 MP Cost: 90
 
@@ -19,3 +19,7 @@ MP Cost: 90
     +20 Luck
 
 Fame Bonus: 6%
+
+**Upgraded with an Elemental Sor Crystal!**
+
+*See FAQ page to see how WisMod is calculated for the items*
