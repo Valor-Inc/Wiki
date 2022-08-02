@@ -11,3 +11,5 @@ sidebar_position: 6
     +540 Maximum HP
     
 Fame Bonus: 6%
+
+**Drops from the Avatar of the Forgotten King in the Realm**
