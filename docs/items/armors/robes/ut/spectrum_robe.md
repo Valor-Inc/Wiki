@@ -17,3 +17,6 @@ sidebar_position: 13
     +10 Defense
     
 Fame Bonus: 6%
+
+**Drops from Riv, the Heavenly Champion of the Heavenly Rift**
+
