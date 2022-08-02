@@ -19,3 +19,5 @@ sidebar_position: 8
     -5 Attack
     
 Fame Bonus: 6%
+
+**Drops from Bergelmir, the Frost Guardian | Alert**
