@@ -25,3 +25,5 @@ Cooldown: 7 Seconds
     +10 Speed
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
