@@ -12,8 +12,6 @@ sidebar_position: 1
 
 Enemy Effect: Within 5 sqrs Curse for 6 seconds
 
-Applies 'Curse' in a 5 sqrs area for 2 seconds
-
 MP Cost: 130
 
 Cooldown: 3.5 seconds
@@ -24,4 +22,6 @@ Cooldown: 3.5 seconds
     
     +5% Might
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from the Ivory Wyvern of the Lair of Draconis**
