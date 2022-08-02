@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Unoch's Truth
 
-![UnochsT](https://vwiki.valorserver.com/api/item/picture/unoch's%20true)
+![UnochsT](https://vwiki.valorserver.com/api/item/picture/unoch's%20truth)
 
 <i>Hiding isn't the answer, face it.</i>
 
-Effect on Self: Berserk for 3 seconds
+Effect on Self: Berserk for 4.6 (wismod) seconds
 
 Effect on Self: Armored for 3 seconds
 
@@ -24,4 +24,8 @@ Cooldown: 5 seconds
 
 Fame Bonus: 8%
 
-**Timeplosion: This orb has double the radius of a regular orb.**
+***Timeplosion: This orb has double the radius of a regular orb.***
+
+**Craftable from Shard of Cosmic Collapse**
+
+*See FAQ page to see how WisMod is calculated for items*
