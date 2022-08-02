@@ -22,4 +22,6 @@ sidebar_position: 1
     
     -12 Wisdom
     
-Fame Bonus: 8%
+Fame Bonus: 6%
+
+**Drops from the Forgotten King of the Shatters**
