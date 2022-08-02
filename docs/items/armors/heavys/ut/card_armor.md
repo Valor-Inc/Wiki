@@ -19,3 +19,5 @@ sidebar_position: 3
     +25 Maximum HP
     
 Fame Bonus: 5%
+
+**Drops from the Queen of Hearts in the Realm**
