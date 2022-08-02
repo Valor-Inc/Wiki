@@ -14,10 +14,12 @@ Effect on Self: Surged for 3.5 seconds
 
 MP Cost: 80
 
-Cooldown: 2 seconds
+Cooldown: 0.6 seconds
 
     +150 Luck
     
     +50 Might
 
 Fame Bonus: 8%
+
+**Craftable with Shard of Eternal Fury**
