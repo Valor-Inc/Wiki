@@ -34,4 +34,8 @@ Cooldown: 2.5 seconds
     
     +10 Might
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Ascended Dr. Terrible of the Ascended Mad Lab**
+
+
