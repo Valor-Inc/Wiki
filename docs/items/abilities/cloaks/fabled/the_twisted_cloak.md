@@ -22,3 +22,4 @@ Cooldown: 7.5 seconds
 
 Fame Bonus: 6%
 
+**Drops from all bosses of the Calling of the Titan raid**
