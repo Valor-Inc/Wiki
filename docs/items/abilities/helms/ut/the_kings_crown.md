@@ -25,3 +25,5 @@ Cooldown: 5 seconds
     +3 Wisdom
 
 Fame Bonus: 6%
+
+**Drops from Ghost Kings in the Realm**
