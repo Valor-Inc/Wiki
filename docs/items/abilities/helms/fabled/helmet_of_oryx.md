@@ -28,4 +28,4 @@ Fame Bonus: 6%
 
 **Obtainable through Crates**
 
-*See FAQ page to see how WisMod is calculate for items*
+*See FAQ page to see how WisMod is calculated for items*
