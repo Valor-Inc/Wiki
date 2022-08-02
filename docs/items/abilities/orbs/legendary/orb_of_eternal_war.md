@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Effect on Self: Speedy for 3 seconds
 
-Effect on Self: Damaging for 4 seconds
+Effect on Self: Damaging for 6.2 (wismod) seconds
 
 Stasis on group: 5 seconds
 
@@ -23,3 +23,7 @@ Cooldown: 5 seconds
     +10 Dexterity
 
 Fame Bonus: 8%
+
+**Upgraded form of Orb of Conflict**
+
+*See FAQ Page to learn how WisMod is calculated for the items*
