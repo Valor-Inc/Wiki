@@ -8,16 +8,18 @@ sidebar_position: 1
 
 <i>A prism used to infiltrate the Palace of The Keeper whilst remaining heavily protected.</i>
 
+***Teleport to Target***
+
 Decoy: 5 seconds
 
 Effect on Self: Armored for 4 seconds 
 
 Effect on Self: Berserk for 5 seconds
 
-Teleport to Target
-
 MP Cost: 115
 
     +2 Life Steal
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 6%
+
+**Drops from The Bridge Sentinel of the Shatters**
