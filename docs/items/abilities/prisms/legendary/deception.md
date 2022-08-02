@@ -22,4 +22,6 @@ MP Cost: 0
     
     +20 Attack
 
-Fame Bonus: 13$
+Fame Bonus: 8%
+
+**Drops from the Illusionist of the Crypt of the Illusionist**
