@@ -19,3 +19,5 @@ sidebar_position: 4
     +10 Vitality
     
 Fame Bonus: 8%
+
+**Drops from all bosses of the Zol Awakening raid**
