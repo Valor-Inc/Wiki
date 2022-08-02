@@ -19,3 +19,7 @@ Sprited by: Owypo
     -10 Speed
     
 Fame Bonus: 6%
+
+***Upgradable with Essence of the Realm!***
+
+**Drops from the Mothership in the Realm**
