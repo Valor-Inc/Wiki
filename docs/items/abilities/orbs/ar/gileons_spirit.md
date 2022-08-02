@@ -33,6 +33,8 @@ Cooldown: 5 seconds
 
 Fame Bonus: 14%
 
+**Drops from Gileon of Gileon's Return**
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -64,6 +66,8 @@ Cooldown: 4 seconds
 
 Fame Bonus: 14%
 
+**Enchanted Gileon's Spirit with Ancient Air Rune**
+
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
@@ -83,7 +87,7 @@ Enemy Effect: Within 5 sqrs Weak for 3 seconds
 
 MP Cost 140
 
-Cooldown: 4 seconds
+Cooldown: 5 seconds
 
     +10 Defense
 
@@ -96,6 +100,8 @@ Cooldown: 4 seconds
     +100 Maximum HP
 
 Fame Bonus: 14%
+
+**Enchanted Gileon's Spirit with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -112,7 +118,7 @@ Effect on Self: Bravery for 4 seconds
 
 Effect on Self: Damaging for 4 seconds
 
-Enemy Effect: Within 5 sqrs Armor Broken for 3 seconds
+Enemy Effect: Within 3 sqrs Armor Broken for 3 seconds
 
 MP Cost 140
 
@@ -125,6 +131,8 @@ Cooldown: 5 seconds
     +40 Might
 
 Fame Bonus: 14%
+
+**Enchanted Gileon's Spirit with Ancient Fire Rune**
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -156,6 +164,8 @@ Cooldown: 5 seconds
     +1 Mana Leech
 
 Fame Bonus: 14%
+
+**Enchanted Gileon's Spirit with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
