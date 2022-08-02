@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Heaven Monk Apparel
+# Heaven Monk's Apparel
 
 ![HeavenMonkApparel](http://i.imgur.com/dAnqw6P.png)
 
@@ -17,3 +17,5 @@ sidebar_position: 5
     +7 Speed
     
 Fame Bonus: 5%
+
+**Drops from Riv, the Heavenly Champion of the Heavenly Rift**
