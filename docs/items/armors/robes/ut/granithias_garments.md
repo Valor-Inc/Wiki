@@ -19,3 +19,5 @@ sidebar_position: 4
     +4 Dexterity
     
 Fame Bonus: 6%
+
+**Drops from Granithia of the Garden of Chaos**
