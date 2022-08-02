@@ -19,3 +19,5 @@ sidebar_position: 3
     +14 Defense
     
 Fame Bonus: 6%
+
+**Drops from Zaragon, the Blood Mage in the Realm**
