@@ -17,3 +17,5 @@ sidebar_position: 4
     -2 Vitality
     
 Fame Bonus: 6%
+
+**Drops from The Overseer of the Galactic Plateau**
