@@ -17,9 +17,7 @@ Located below is a map of the nexus and all of its useful landmarks.
 
 ![Nexus Map](https://cdn.discordapp.com/attachments/953134990428868629/1000603283745951775/NEXUSMAP.png)
   </TabItem>
-
-    
-        
+      
   <TabItem value="Battle Pass" label="Battle Pass">
     
     You can go here to interact with the witch npc, which will show you the battle pass along with its rewards, your progress, your missions, etc.
