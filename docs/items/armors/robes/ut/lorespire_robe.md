@@ -16,4 +16,8 @@ sidebar_position: 7
     
     -80 Maximum MP
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 6%
+
+***Upgradable with Essence of the Realm!***
+
+**Drops from Treasure Basilisks in the Concealment of the Dreadnought**
