@@ -19,3 +19,5 @@ MP Cost: 90
     +40 Luck
 
 Fame Bonus: 6%
+
+**Drops from the Dark Knight of the Unspeakable**
