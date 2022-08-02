@@ -17,3 +17,5 @@ sidebar_position: 10
     -10 Wisdom
     
 Fame Bonus: 8%
+
+**Drops from Zaragon, the Blood mage in the Realm**
