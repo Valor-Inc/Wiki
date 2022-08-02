@@ -8,9 +8,9 @@ sidebar_position: 4
 
 <i>A skull of the Dark Knight's minions, it has been morphed to be worn by a hero.</i>
 
-Party Effect: Within 5.3 sqrs increase Defense by 6 for 5.5 seconds
+Party Effect: Within 5.3 sqrs (wismod) increase Defense by 6 for 5.5 (wismod) seconds
 
-Party Effect: Within 5.3 sqrs Increase Vitality by 6 for 5.5 seconds
+Party Effect: Within 5.3 (wismod) sqrs Increase Vitality by 6 for 5.5 (wismod) seconds
 
 Effect on Self: Speedy for 5.5 seconds
 
@@ -23,3 +23,7 @@ Cooldown: 7 seconds
     +2 Attack
 
 Fame Bonus: 6%
+
+**Drops from the Cube God of the Realm**
+
+*See FAQ page to see how WisMod is calculated for items*
