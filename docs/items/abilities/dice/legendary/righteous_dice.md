@@ -21,3 +21,5 @@ MP Cost: 130
     +50 Luck
 
 Fame Bonus: 6%
+
+**Drops from The Sincryer of the Zol Awakening raid**
