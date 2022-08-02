@@ -15,3 +15,5 @@ sidebar_position: 2
     -25 Maximum MP
     
 Fame Bonus: 5%
+
+**Drops from both Archdemon Malphas of the Ascended Abyss of Demons and Abyss of Demons**
