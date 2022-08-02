@@ -17,3 +17,5 @@ sidebar_position: 2
     +6 Dexterity
     
 Fame Bonus: No Fame Bonus
+
+**Drops from Tridorno of the Catacombs**
