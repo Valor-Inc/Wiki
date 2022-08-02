@@ -95,20 +95,4 @@ Located below is a map of the nexus and all of its useful landmarks.
     More information can be found here:
     https://wiki-test.valorserver.com/docs/mechanics/raids
   </TabItem>
-  <TabItem value="FAQ" label="Frequently Asked Questions">
-
-Question: Whats the best beginner class to play?
-
-    Deathmod: I think the best class for a beginner is Wizard as you can get soulbound from far away early on!
-
-    Oddish: Priest has great range & the ability to self heal to stay alive and see what new enemies & dungeons do before they can kill you!    
-
-    Nordic: Blademaster is extremely inexpensive early game, and deals a great amount of dps that can carry you through early game. It has a fair amount of range and is super easy to understand and use. It's also pretty dang fun to use. 
-
-   
-Question: What do you use to base the Wismod on Item pages?
-
-    When determing the Wismod on the item pages, a 24/24 character of whatever the wismod affected item is for is given said item. The only equip on is that item, and shows the base damage the item can deal with only the stat bonuses from that item, and the max stats of the character.
-
-  </TabItem>
 </Tabs>
