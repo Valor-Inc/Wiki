@@ -8,7 +8,7 @@ sidebar_position: 1
 
 <i>Tear them apart piece by piece. The furiosity of Drannol does not forgive.</i>
 
-Effect on Self: Within 5.6 sqrs Berserk for 9 seconds
+Effect on Self: Within 5.3 (wismod) sqrs Berserk for 8.3(wismod) seconds
 
 Effect on Self: Armored for 4.5 seconds
 
@@ -26,4 +26,8 @@ Cooldown: 7 seconds
 
 Fame Bonus: 8%
 
-**Affliction: If you are attacked by an enemy you deal half the damage back to them.**
+**Craftable from Shard of Eternal Fury**
+
+***Affliction: If you are attacked by an enemy you deal half the damage back to them.***
+
+*See FAQ page to see how WisMod is calculated for items*
