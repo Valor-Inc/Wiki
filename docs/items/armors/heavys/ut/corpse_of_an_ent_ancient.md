@@ -23,3 +23,5 @@ sidebar_position: 5
     -4 Dexterity
     
 Fame Bonus: 4%
+
+**Drops from Ent Ancients in the Realm**
