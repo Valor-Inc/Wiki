@@ -23,3 +23,5 @@ Cooldown: 6 seconds
     +12 Defense
 
 Fame Bonus: 8%
+
+**Drops from all bosses of the Fallen Light raid**
