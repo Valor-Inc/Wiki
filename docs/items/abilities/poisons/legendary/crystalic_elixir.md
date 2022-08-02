@@ -20,3 +20,4 @@ MP Cost: 100
 
 Fame Bonus: 12%
 
+**Drops from the Crystal Prisoner in the Realm**
