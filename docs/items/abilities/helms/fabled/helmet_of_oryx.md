@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Effect on Self: Speedy for 6 seconds
 
-Effect on self: Berserk for 4 seconds **Affected by Wis-Mod**
+Effect on self: Berserk for 6 seconds **Affected by Wis-Mod**
 
 Effect on Self: Drunk for 3 seconds
 
@@ -27,3 +27,5 @@ Cooldown: 5 seconds
 Fame Bonus: 6%
 
 **Obtainable through Crates**
+
+*See FAQ page to see how WisMod is calculate for items*
