@@ -19,3 +19,5 @@ sidebar_position: 6
     +25 Might
     
 Fame Bonus: 6%
+
+**Drops from the Mad Jester in the Realm**
