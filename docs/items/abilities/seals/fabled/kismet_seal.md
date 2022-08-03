@@ -26,3 +26,4 @@ Fame Bonus: 8%
 
 **Drops from Ultra The Vision of Aldragine and Ultra Aldragine of the Ultra Zol Awakening Raid**
 
+*See FAQ page to see how WisMod is calculated for the items*
