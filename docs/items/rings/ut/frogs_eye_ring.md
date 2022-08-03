@@ -17,3 +17,5 @@ sidebar_position: 10
     -5 Vitality
     
 Fame Bonus: 4%
+
+**Drops from the Murderous Megamoth of the Woodland Labyrinth**
