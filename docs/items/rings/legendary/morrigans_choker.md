@@ -21,3 +21,5 @@ sidebar_position: 10
     +3 Mana Leech
     
 Fame Bonus: 8%
+
+**Upgraded form of [Death Amulet](https://wiki-test.valorserver.com/docs/items/rings/ut/death_amulet)**
