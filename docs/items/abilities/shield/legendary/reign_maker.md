@@ -14,7 +14,7 @@ Shots: 8
 
 Range: 3.2
 
-Party Effect: Within 0.7 sqrs Damaging for 3.6 seconds
+Party Effect: Within 0.6 (wismod) sqrs Damaging for 3.4 (wismod) seconds
 
 Shots hit multiple targets
 
@@ -27,3 +27,7 @@ MP Cost: 115
     +140 Maximum HP
 
 Fame Bonus: 12%
+
+**Buyable at Krovinger Trial Shop for 410 Onrane**
+
+*See FAQ page to see how WisMod is calculated for the items*
