@@ -33,3 +33,5 @@ MP Cost: 110
     +4 Dexterity
     
 Fame Bonus: 8%
+
+**Drops from the Dreadnought and Treasure Basilisks of the Concealment of the Dreadnought**
