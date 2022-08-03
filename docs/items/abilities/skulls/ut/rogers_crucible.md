@@ -10,10 +10,14 @@ sidebar_position: 3
 
 Steal: 200 HP within 4 sqrs
 
-Enemy Effect: Within 5.7 sqrs Slowed for 2.1 seconds
+Enemy Effect: Within 6.2 (wismod) sqrs Slowed for 2.3 (wismod) seconds
 
 MP Cost: 80
 
     +7 Attack
 
 Fame Bonus: 6%
+
+**Drops from Roger Bacon in the Realm**
+
+*See FAQ page to see how WisMod is calculated for the items*
