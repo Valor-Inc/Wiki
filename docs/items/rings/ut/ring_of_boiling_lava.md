@@ -21,3 +21,5 @@ sidebar_position: 21
     +5 Wisdom
     
 Fame Bonus: 5%
+
+**Drops from the Eye of the Dragon in the Realm**
