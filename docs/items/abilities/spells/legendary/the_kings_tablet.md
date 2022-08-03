@@ -14,7 +14,7 @@ Range: 11.2
 
 Shots: 20
 
-Effect on Self: Damaging for 3.3 seconds
+Effect on Self: Damaging for 3 seconds
 
 MP Cost: 150
 
@@ -25,3 +25,5 @@ MP Cost: 150
     +5 Attack
 
 Fame Bonus: 8%
+
+**Upgraded form of the Tablet of the King's Avatar**
