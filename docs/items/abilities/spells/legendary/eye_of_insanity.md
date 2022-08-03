@@ -8,13 +8,19 @@ sidebar_position: 2
 
 <i>Time will only tell when the war will end for good.</i>
 
-Damage: 435-550
+Damage: 550-650
 
-Range: 40
+Range: 40 (20)
 
 Shots: 20
 
 Effect on Self: Speedy for 3 seconds
+
+Shots hit multiple targets
+
+Shots pass through obstacles
+
+Shots boomerang
 
 MP Cost 140
 
