@@ -35,3 +35,5 @@ MP Cost: 90
     -2 Dexterity
  
 Fame Bonus: 6%
+
+**Drops from Ent Ancients in the Realm**
