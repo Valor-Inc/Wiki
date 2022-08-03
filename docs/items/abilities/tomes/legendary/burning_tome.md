@@ -26,4 +26,6 @@ HP Cost: 80
 
 Fame Bonus: 8%
 
-**True Inferno: Using this abiltiy explodes and burns enemies in a 4 square radius around you. This explosion does 8000 damage over 8 seconds.**
+***True Inferno: Using this abiltiy explodes and burns enemies in a 4 square radius around you. This explosion does 8000 damage over 8 seconds.***
+
+**Craftable from Shard of Eternal Fury**
