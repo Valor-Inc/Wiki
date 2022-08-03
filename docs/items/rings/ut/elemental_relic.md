@@ -19,3 +19,5 @@ sidebar_position: 8
     +6 Speed
     
 Fame Bonus: 4%
+
+**Drops from the Elemental Phantom in the Realm**
