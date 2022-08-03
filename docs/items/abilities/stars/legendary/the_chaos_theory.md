@@ -33,3 +33,5 @@ MP Cost: 120
     +10 Attack
     
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
