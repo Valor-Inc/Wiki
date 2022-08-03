@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 26
 ---
 
 # Ring of Undeadly Conjury
@@ -17,3 +17,5 @@ sidebar_position: 24
     +4 Speed
     
 Fame Bonus: No Fame Bonus
+
+**Drops from Corrupted Flames of Fate of the Catacombs**
