@@ -18,4 +18,6 @@ sidebar_position: 22
     
     +4 Mana Leech
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Colothiois, the Exalted of the Sky Palace**
