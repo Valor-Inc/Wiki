@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# The Tormented Trap
+# The Tormented Spirit
 
 ![Tormented](https://vwiki.valorserver.com/api/item/picture/the%20tormented%20spirit)
 
@@ -23,3 +23,5 @@ MP Cost: 90
     +10 Dexterity
 
 Fame Bonus: 8%
+
+**Upgraded form of Trap of the Vile Spirit**
