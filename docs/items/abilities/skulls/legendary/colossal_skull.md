@@ -23,3 +23,5 @@ MP Cost: 90
     +20 Defense
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Eternal Fury**
