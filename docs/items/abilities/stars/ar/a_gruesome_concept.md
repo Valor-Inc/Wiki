@@ -39,3 +39,7 @@ Cooldown: 4.5 seconds
     +20 Might
     
 Fame Bonus: No Fame Bonus
+
+***Chemical Resistance: The power of the Abomination flows within you... Gain immnunity and bleedign when below 20% health.***
+
+**Currently Unobtainable**
