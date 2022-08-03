@@ -10,9 +10,9 @@ sidebar_position: 2
 
 Steal: 500 HP within 6 sqrs
 
-Effect on Self: Speedy for 3 seconds
+Effect on Self: Speedy for 4.6 (wismod) seconds
 
-Enemy Effect: Within 6 sqrs Slowed for 3 seconds
+Enemy Effect: Within 9.3 (wismod) sqrs Slowed for 4.6 (wismod) seconds
 
 MP Cost: 135
 
@@ -23,3 +23,7 @@ MP Cost: 135
     +2 Mana Leech
 
 Fame Bonus: 8%
+
+**Drops from the Twilight Archmage of the Shatters**
+
+*See FAQ page to see how WisMod is calculated for the items*
