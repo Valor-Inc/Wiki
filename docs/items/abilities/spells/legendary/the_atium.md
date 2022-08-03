@@ -14,7 +14,11 @@ Range: 10.5
 
 Shots: 20
 
-Effect on Self: Berserk for 2.1 seconds
+Effect on Self: Berserk for 2.5 seconds
+
+Shots hit multiple targets
+
+Ignores defense of target
 
 MP Cost 115
 
@@ -23,3 +27,5 @@ MP Cost 115
     +15 Speed
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Eternal Fury**
