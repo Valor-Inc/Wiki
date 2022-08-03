@@ -23,3 +23,5 @@ MP Cost: 95
     +3 Speed
 
 Fame Bonus: No Fame Bonus
+
+**Drops from the Dreadnought of Concealment of the Dreadnought**
