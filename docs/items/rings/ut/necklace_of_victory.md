@@ -17,3 +17,5 @@ sidebar_position: 17
     +8 Vitality
     
 Fame Bonus: 6%
+
+**Drops from The Horrific in the Realm**
