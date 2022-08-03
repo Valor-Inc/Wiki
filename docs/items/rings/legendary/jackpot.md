@@ -13,3 +13,5 @@ sidebar_position: 8
     +10 Fortune
     
 Fame Bonus: 8%
+
+**Craftable with Shard of Cosmic Collapse**
