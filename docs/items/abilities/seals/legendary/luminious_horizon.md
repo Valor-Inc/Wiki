@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <i>A seal that grants a shield of impenetrable light and energy around you.</i>
 
-Party Effect: Within 4.5 sqrs increase Maximum HP by 180 for 6 seconds
+Party Effect: Within 5.7 (wismod) sqrs increase Maximum HP by 286 (wismod) for 9.5 (wismod) seconds
 
 Effect on Self: Within 7.5 sqrs Damaging for 8 seconds
 
@@ -29,3 +29,7 @@ Cooldown: 4 seconds
     -10 Restoration
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
+
+*See FAQ page to see how WisMod is calculated for the items*
