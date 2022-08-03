@@ -13,3 +13,5 @@ sidebar_position: 14
     +15 Speed
    
 Fame Bonus: 8%
+
+**Buyable in the Nexus for 1,000,000 Fame**
