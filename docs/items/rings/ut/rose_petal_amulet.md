@@ -19,3 +19,5 @@ sidebar_position: 26
     +6 Dexterity
     
 Fame Bonus: 6%
+
+**Drops from Chompers in the Garden of Chaos**
