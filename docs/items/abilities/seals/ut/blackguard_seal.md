@@ -24,4 +24,4 @@ Fame Bonus: 6%
 
 **Drops from the Dark Sorcerer of the Abandoned Basement**
 
-*See FAQ page to see how WisMod is calculated*
+*See FAQ page to see how WisMod is calculated for the items*
