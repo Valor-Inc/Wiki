@@ -17,3 +17,5 @@ sidebar_position: 6
     -6 Vitality
     
 Fame Bonus: 6%
+
+**Drops from Cyclops Kings in the Realm (Spawned by the Cyclops God)**
