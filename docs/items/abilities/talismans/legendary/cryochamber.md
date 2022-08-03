@@ -32,4 +32,6 @@ Cooldown: 7 seconds
     
     +75 Restoration
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Larry Giggsman, the Super Mutant of the Superhuman Hideout**
