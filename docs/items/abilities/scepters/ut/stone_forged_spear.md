@@ -25,3 +25,5 @@ Cooldown: 2 seconds
     +6 Wisdom
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Granithia of the Garden of Chaos**
