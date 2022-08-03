@@ -19,3 +19,5 @@ sidebar_position: 18
     +65 Restoration
     
 Fame Bonus: 8%
+
+**Craftable from Shard of Eternal Fury**
