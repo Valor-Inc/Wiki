@@ -17,3 +17,5 @@ sidebar_position: 16
     +5 Wisdom
     
 Fame Bonus: 5%
+
+**Drops from Riv, the Heavenly Champion of the Heavenly Rift**
