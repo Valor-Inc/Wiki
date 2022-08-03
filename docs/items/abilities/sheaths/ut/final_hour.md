@@ -21,3 +21,5 @@ MP Cost: 80
     +10 Luck
   
 Fame Bonus: 6%
+
+**Drops from Araki, the Omega Samurai of the Ascended Dojo**
