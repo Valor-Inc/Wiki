@@ -24,7 +24,7 @@ import TabItem from '@theme/TabItem';
     +110 Might
     
 Fame Bonus: 16%
-    
+
 **Fusion: Gain the following buffs while you have the proper Sor Frag requirement:**
 
 **100 Frags: +25% Restoration**
@@ -34,7 +34,9 @@ Fame Bonus: 16%
 **600 Frags: 5% HP Regen**
 
 **1000 Frags: Weak is 25% less effective**
-    
+
+**Craftable using Sor Nucleus and Protagonite Chassis | Drops from Mad Lab**
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -65,6 +67,8 @@ Fame Bonus: 16%
 **600 Frags: 5% Rate of Fire Regen**
 
 **1000 Frags: Slowed is 50% less effective**
+
+***Enchanted Sor Reactor with Ancient Air Rune***
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -97,6 +101,8 @@ Fame Bonus: 16%
 
 **1000 Frags: Armor Broken Damage is Always reduced by 25% of your current defense**
 
+***Enchanted Sor Reactor with Ancient Earth Rune***
+
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
@@ -125,6 +131,8 @@ Fame Bonus: 16%
 **600 Frags: 5% Damage Increase**
 
 **1000 Frags: Weak is 50% less effective**
+
+***Enchanted Sor Reactor with Ancient Fire Rune***
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -156,6 +164,8 @@ Fame Bonus: 16%
 **600 Frags: +15% Increase of Mana regeneration from Wisdom**
 
 **1000 Frags: Quiet doesn't reset your mana**
+
+***Enchanted Sor Reactor with Ancient Water Rune***
 
   </TabItem>
 </Tabs>
