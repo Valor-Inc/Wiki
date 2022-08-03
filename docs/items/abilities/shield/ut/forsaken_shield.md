@@ -29,3 +29,5 @@ MP Cost: 125
     +220 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from Corrupted Flames of Fate and Tridorno of the Catacombs**
