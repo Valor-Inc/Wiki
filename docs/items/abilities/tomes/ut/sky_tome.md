@@ -8,11 +8,11 @@ sidebar_position: 2
 
 <i>An odd book that fell from the sky out of nowhere..</i>
 
-Party Heal: 175 HP within 4 sqrs
+Party Heal: 272 (wismod) HP within 6.2 (wismod) sqrs
 
 Enemy Effect: Within 5 sqrs Weak for 3 seconds
 
-Effect on Self: Within 4 sqrs Healing for 3 seconds
+Effect on Self: Within 5 sqrs Healing for 4.6 (wismod) seconds
 
 Removes negative conditions
 
@@ -25,3 +25,5 @@ MP Cost: 110
     +10 Protection
 
 Fame Bonus: 6%
+
+**Drops from Tod in the Realm**
