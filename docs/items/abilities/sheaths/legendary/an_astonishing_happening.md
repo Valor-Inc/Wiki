@@ -39,3 +39,5 @@ MP Cost: 120
     +15 Attack
     
 Fame Bonus: 8%
+
+**Craftable from Shard of the Ancients**
