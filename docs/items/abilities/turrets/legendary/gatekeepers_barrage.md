@@ -28,4 +28,6 @@ Cooldown: 5 seconds
     
     +10 Dexterity
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Chronus, the Guide of the Fallen Light Raid**
