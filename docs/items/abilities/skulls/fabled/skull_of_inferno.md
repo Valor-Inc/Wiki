@@ -10,9 +10,9 @@ sidebar_position: 3
 
 Steal: 500 HP within 6 sqrs
 
-Effect on Self: Healing for 3 seconds
+Effect on Self: Healing for 4.6 seconds
 
-Enemy Effect: Within 6 sqrs Bleeding for 3 seconds
+Enemy Effect: Within 9.3 sqrs Bleeding for 4.6 seconds
 
 MP Cost: 135
 
@@ -23,3 +23,7 @@ MP Cost: 135
     +2 Life Steal
 
 Fame Bonus: 6%
+
+**Drops from the Twilight Archmage of the Shatters**
+
+*See FAQ page to see how WisMod is calculated for the items*
