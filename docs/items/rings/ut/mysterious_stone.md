@@ -19,3 +19,5 @@ sidebar_position: 15
     +3 Attack
     
 Fame Bonus: 6%
+
+**Drops from the Avatar of the Forgotten King in the Realm**
