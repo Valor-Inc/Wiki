@@ -31,3 +31,5 @@ MP Cost: 100
     +12 Attack
 
 Fame Bonus: 8%
+
+**Upgraded form of Shield of Ogmur**
