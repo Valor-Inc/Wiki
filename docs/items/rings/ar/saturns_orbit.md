@@ -29,7 +29,7 @@ Fame Bonus: 16%
 
 **250k Gold: Abilities cost 20 Mana less**
 
-**500k Gold: 15% Rate of Fire**
+**500k Gold: +15% Rate of Fire**
 
 **1000k Gold: 10% chance to revive upon receiving a fatal blow.** 
 
