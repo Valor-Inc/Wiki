@@ -11,3 +11,5 @@ sidebar_position: 19
     +10 Fortune
     
 Fame Bonus: 6%
+
+**Drops from the Queen of Hearts in the Realm**
