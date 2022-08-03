@@ -8,7 +8,9 @@ sidebar_position: 2
 
 <i>An odd trap crafted from Garutious' incredibly durable bones. You feel lucky to be alive.</i>
 
-Trap: 3500 HP within 5 sqrs Armor Broken for 3 seconds
+Trap: 3500 HP within 5 sqrs
+
+Trap Effect: Armor Broken for 3 seconds
 
 Effect on Self: Bravery for 3 seconds
 
@@ -23,3 +25,5 @@ Cooldown: 3.5 seconds
     +50 Luck
 
 Fame Bonus: 8%
+
+**Drops from Garutious in the Realm**
