@@ -19,3 +19,5 @@ MP Cost: 100
     +2 Life Steal
 
 Fame Bonus: 6%
+
+**Drops from Tridorno of the Catacombs**
