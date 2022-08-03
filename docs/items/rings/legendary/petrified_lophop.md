@@ -13,3 +13,5 @@ sidebar_position: 16
     +22 Speed
     
 Fame Bonus: 8%
+
+**Drops from the Petrified Overseer of the Ashem Purgatory (Petrified Emporium 2nd)**
