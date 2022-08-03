@@ -31,3 +31,5 @@ While Key Released: Target enemies are inflicted damage according to amount of i
     +2 Mana Leech
 
 Fame Bonus: 8%
+
+**Drops from the Zol Ship**
