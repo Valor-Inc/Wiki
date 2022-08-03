@@ -12,7 +12,7 @@ Lightning: 2000 to 3 targets
 
 Shot Effect: Paralyzed for 4 seconds
 
-MP Cost: 100
+MP Cost: 75
 
 Cooldown: 2 Seconds
 
@@ -23,3 +23,5 @@ Cooldown: 2 Seconds
     +5 Dexterity
 
 Fame Bonus: 6%
+
+**Drops from Zegaell of Gileon's Return**
