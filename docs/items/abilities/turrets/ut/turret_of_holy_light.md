@@ -29,3 +29,5 @@ Cooldown: 4 seconds
     +50 Maximum MP
 
 Fame Bonus: No Fame Bonus
+
+**Drops from the Illusionist of the Crypt of the Illusionist**
