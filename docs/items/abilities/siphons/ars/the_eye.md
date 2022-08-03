@@ -39,9 +39,11 @@ MP Cost: 0
     
     +1 Mana Leech
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 14%
     
-**Ocular Damnation: Your damage and range randomized, with higher damage ranges the smaller the range is.**
+***Ocular Damnation: Your damage and range randomized, with higher damage ranges the smaller the range is.***
+
+**Drops from the Abomination**
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -74,9 +76,11 @@ Effect on Self: Swiftness for 3 seconds
     
     +1 Mana Leech
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 14%
     
-**Ocular Damnation: Your agility is increased, at the cost of decreased damage.**
+***Ocular Damnation: Your agility is increased, at the cost of decreased damage.***
+
+**Enchanted The Eye with Ancient Air Rune**
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -107,9 +111,11 @@ When Key Released: Target enemies are inflicted damage to amount of item's base 
     
     +3 Life Steal
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 14%
     
-**Ocular Damnation: Your damage range is lower, and your ammounts are more consistent. You gain more defensive prowess.**
+***Ocular Damnation: Your damage range is lower, and your ammounts are more consistent. You gain more defensive prowess.***
+
+**Enchanted the Eye with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -140,9 +146,11 @@ When Key Released: Target enemies are inflicted damage to amount of item's base 
     
     +1 Life Steal
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 14%
     
-**Ocular Damnation: Your randomized damage range is vastly increased and inconsistent, and your overall offensive power is increased.**
+***Ocular Damnation: Your randomized damage range is vastly increased and inconsistent, and your overall offensive power is increased.***
+
+**Enchanted The Eye with Ancient Fire Rune**
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -171,9 +179,11 @@ When Key Released: Target enemies are inflicted damage to amount of item's base 
     
     +3 Mana Leech
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 14%
     
-**Ocular Damnation: Your magical powers are increased, and your wisdom modification is more powerful.**
+***Ocular Damnation: Your magical powers are increased, and your wisdom modification is more powerful.***
+
+**Enchanted the Eye with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
