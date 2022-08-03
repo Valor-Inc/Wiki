@@ -17,3 +17,7 @@ sidebar_position: 3
     +1 Wisdom
     
  Fame Bonus: 6%
+
+***This item is a part of Dark Knight Set***
+
+**Drops from the Dark Knight of the Unspeakable**
