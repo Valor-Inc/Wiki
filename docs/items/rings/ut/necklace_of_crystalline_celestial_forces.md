@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 16
 ---
 
 # Necklace of Crystallien Celestial Forces
