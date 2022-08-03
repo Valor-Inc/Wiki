@@ -16,4 +16,6 @@ sidebar_position: 3
     
 Fame Bonus: 8%
 
-**Unfathomable Deep: When you have twenty or more surge, your criticals deal more damage**
+***Unfathomable Deep: When you have twenty or more surge, your criticals deal more damage***
+
+**Drops from the Kraken | Alert**
