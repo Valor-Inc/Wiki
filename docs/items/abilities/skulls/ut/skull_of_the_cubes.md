@@ -17,3 +17,5 @@ MP Cost: 85
     +5 Dexterity
 
 Fame Bonus: 4%
+
+**Drops from the Cube God in the Realm**
