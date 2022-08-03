@@ -20,4 +20,6 @@ sidebar_position: 7
    
 Fame Bonus: 8%
 
-**Insurgency: The surge you gain is doubled while this item is equipped**
+***Insurgency: The surge you gain is doubled while this item is equipped***
+
+**Craftable from Shard of Cosmic Collapse**
