@@ -15,3 +15,7 @@ sidebar_position: 7
     +5 Attack
     
 Fame Bonus: 3%
+
+***Upgradable using an Elemental Sor Crystal!***
+
+**Drops from Death Mages in the Realm**
