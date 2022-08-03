@@ -17,3 +17,5 @@ sidebar_position: 18
     +6 Dexterity
     
 Fame Bonus: 5%
+
+**Drops from Phoenix Lords in the Realm**
