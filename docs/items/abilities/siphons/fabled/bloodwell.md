@@ -27,3 +27,5 @@ When Key Released: Target enemies are inflicted damage according to amount of it
     -15 Wisdom
  
 Fame Bonus: 6%
+
+**Drops from all bosses of the Calling of the Titan raid**
