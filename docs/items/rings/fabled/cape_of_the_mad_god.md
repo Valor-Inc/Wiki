@@ -15,3 +15,7 @@ sidebar_position: 1
     +25 Vitality
     
 Fame Bonus: 6%
+
+***This item is a part of Mad God Bruiser Set***
+
+**Drops from Oryx the Mad God 3**
