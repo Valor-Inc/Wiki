@@ -4,7 +4,7 @@ sidebar_position: 12
 
 # Gauntlet of Chaos
 
-![Chaos](http://i.imgur.com/4qiS7JN.png)
+![Chaos](http://i.imgur.com/d8MiItG.png)
 
 <i>Nos ad delendam...</i> **("We are to destroy...")**
 
@@ -17,3 +17,5 @@ sidebar_position: 12
     +6 Wisdom
 
 Fame Bonus: 4%
+
+**Drops from the Left Oryx Stone Gaurdian**
