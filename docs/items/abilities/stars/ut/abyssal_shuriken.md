@@ -18,12 +18,14 @@ Range: 16
 
 Effect on Self: Berserk for 3 seconds
 
+Shot Effect: Dazed for 2 seconds
+
 Shots pass through obstacles
 
 Ignores defense of target
 
-Shot Effect: Dazed for 2 seconds
-
 MP Cost: 95
 
 Fame Bonus: 6%
+
+**Drops from Ascended Archdemon Malphas of the Ascended Abyss of Demons**
