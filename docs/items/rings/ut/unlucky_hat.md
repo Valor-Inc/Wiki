@@ -1,5 +1,5 @@
 ---
-sidebar_position: 32
+sidebar_position: 34
 ---
 
 # Unlucky Leprechaun's Hat
@@ -17,3 +17,5 @@ sidebar_position: 32
     +2 Fortune
     
 Fame Bonus: 5%
+
+**Drops from Lucky Djinns, Lucky Ent Gods, and the Puppet Master's Theatre**
