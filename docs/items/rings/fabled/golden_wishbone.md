@@ -17,3 +17,7 @@ sidebar_position: 4
     +15% Luck
     
 Fame Bonus: No Fame Bonus
+
+***This item is a part of Loaded Garutious Set***
+
+**Drops from Garutious in the Realm**
