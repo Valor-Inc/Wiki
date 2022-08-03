@@ -15,3 +15,5 @@ sidebar_position: 20
     +110 Maximum MP
     
 Fame Bonus: 5%
+
+**Drops from Ghost Kings in the Realm**
