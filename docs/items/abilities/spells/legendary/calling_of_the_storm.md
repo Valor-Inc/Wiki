@@ -10,13 +10,15 @@ sidebar_position: 1
 
 Damage: 700-750
 
-Range: 42.625
+Range: 42.6
 
 Shots: 25
 
-Shots are parametric 
+Shots hit multiple targets
 
-Shots are wavy
+Shots pass through obstacles
+
+Shots are parametric 
 
 MP Cost: 155
 
@@ -27,3 +29,7 @@ MP Cost: 155
     +10 Might
 
 Fame Bonus: 8%
+
+***This item is a part of Cataclysmic Set***
+
+**Craftable from the Shard of Ancient Assault**
