@@ -21,3 +21,5 @@ MP Cost: 125
     +8 Dexterity
 
 Fame Bonus: 8%
+
+**Drops from the Vision of Aldragine of the Zol Awakening raid**
