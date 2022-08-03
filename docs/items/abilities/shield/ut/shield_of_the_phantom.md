@@ -23,3 +23,5 @@ MP Cost: 95
     +17 Defense
 
 Fame Bonus: 6%
+
+**Drops from Avatar of the Forgotten King in the Realm**
