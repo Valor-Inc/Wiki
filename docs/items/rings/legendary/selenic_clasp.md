@@ -21,3 +21,7 @@ sidebar_position: 21
     +1 Mana Leech
     
 Fame Bonus: 8%
+
+***This item is a part of Lunarologist Set***
+
+**Craftable from Shard of the Ancients**
