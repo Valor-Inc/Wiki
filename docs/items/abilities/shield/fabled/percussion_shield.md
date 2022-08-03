@@ -29,3 +29,5 @@ MP Cost: 110
     +16 Defense
     
 Fame Bonus: 6%
+
+**Drops from all bosses of the Calling of the Titan raid**
