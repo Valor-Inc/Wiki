@@ -17,3 +17,5 @@ sidebar_position: 12
     -25 Maximum HP
     
 Fame Bonus: 8%
+
+**Drops from Therani | Trial**
