@@ -21,3 +21,5 @@ MP Cost: 115
     +80 Maximum HP
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Eternal Fury**
