@@ -20,7 +20,7 @@ Ignores defense of target
 
 Shots pass through obstacles
 
-Shots Boomerang
+Shots Boomerang (they really dont though)
 
 Shot Effect: Armor Broken for 1.5 seconds
 
@@ -33,3 +33,5 @@ MP Cost: 100
     +8 Attack
 
 Fame Bonus: 8%
+
+**Drops from The Vision of Aldragine and Aldragine of the Zol Awakening raid*
