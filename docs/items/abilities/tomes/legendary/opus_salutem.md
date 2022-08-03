@@ -8,13 +8,13 @@ sidebar_position: 3
 
 <i>The book used to aid the gods; the book present at the creation of the universe.</i>
 
-Party Heal: 250 HP within 4.5 sqrs
+Party Heal: 389 (wismod) HP within 7 (wismod) sqrs
 
-Effect on Self: Within 3 sqrs Healing for 3 seconds
+Effect on Self: Within 3.7 (wismod) sqrs Healing for 4.6 (wismod) seconds
 
-Effect on Self: Speedy for 2.5 seconds
+Effect on Self: Speedy for 3.8 (wismod) seconds
 
-Effect on Self: Surged for 2.5 seconds
+Effect on Self: Surged for 3.8 (wismod) seconds
 
 MP Cost: 120
 
@@ -27,3 +27,7 @@ MP Cost: 120
     +2 Mana Leech
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
+
+*See FAQ page to see how WisMod is calculated for the items*
