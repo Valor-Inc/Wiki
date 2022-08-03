@@ -25,3 +25,5 @@ MP Cost: 100
     +12 Vitality
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Ulgur | Public Challenge**
