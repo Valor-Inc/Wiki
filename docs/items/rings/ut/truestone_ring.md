@@ -8,6 +8,8 @@ sidebar_position: 33
 
 <i>A ring created from Truestone.</i>
 
+Grants 'Surged' after 2 minutes
+
     +35 Protection
     
     +180 Maximum MP
@@ -15,7 +17,7 @@ sidebar_position: 33
     +8 Dexterity
     
     +2 Defense
-    
-**Grants 'Surged' after 2 minutes**
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Truvix, the Lost Wanderer in the Realm**
