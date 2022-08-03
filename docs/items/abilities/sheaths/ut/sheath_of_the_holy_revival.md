@@ -23,3 +23,5 @@ MP Cost: 100
     +5 Speed
     
 Fame Bonus: 6%
+
+**Drops from Riv, the Heavenly Champion of the Heavenly Rift**
