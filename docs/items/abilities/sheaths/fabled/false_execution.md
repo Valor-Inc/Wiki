@@ -25,3 +25,5 @@ MP Cost: 100
     +6 Defense
     
 Fame Bonus: 6%
+
+**Drops from Merganus, the Fallen Titans, and the Titans of the Fallen Light raid**
