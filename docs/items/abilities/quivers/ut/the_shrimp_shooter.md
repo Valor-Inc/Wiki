@@ -25,3 +25,5 @@ Cooldown: 0.5 seconds
     -2 Dexterity
 
 Fame Bonus: 5%
+
+**Drops from Thessal, the Mermaid Goddess of the Ocean Trench**
