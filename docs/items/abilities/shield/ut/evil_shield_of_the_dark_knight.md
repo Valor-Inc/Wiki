@@ -31,3 +31,7 @@ MP Cost: 110
     +40 Maximum HP
 
 Fame Bonus: 6%
+
+***This item is a part of Dark Knight Set***
+
+**Drops from the Dark Knight of the Unspeakable**
