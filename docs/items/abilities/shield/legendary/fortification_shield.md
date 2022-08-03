@@ -26,4 +26,6 @@ MP Cost: 125
 
 Fame Bonus: 8%
 
-**Bulwark: Anytime you take damage you have a 20% chance to recover most of the damage taken.**
+***Bulwark: Anytime you take damage you have a 17% chance to recover most of the damage taken.***
+
+**Buyable from the Calling of the Titan Raid Shop for 310 Onrane**
