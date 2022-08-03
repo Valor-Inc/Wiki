@@ -10,9 +10,9 @@ sidebar_position: 4
 
 Damage: 210-305
 
-Range: 4.5
-
 Shots: 20
+
+Range: 4.5
 
 Effect on Self: Unstable for 1.5 seconds
 
@@ -25,3 +25,5 @@ MP Cost 90
     +50 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from Zegaell of Gileon's Return**
