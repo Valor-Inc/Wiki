@@ -17,3 +17,7 @@ sidebar_position: 27
     +3 Life Steal
     
 Fame Bonus: 8%
+
+***This item is a part of Righteous Trials Set***
+
+**Buyable at Krovinger Trial Shop for 410 Onrane**
