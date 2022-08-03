@@ -31,3 +31,5 @@ MP Cost: 150
     +10 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from Araki the Omega Samurai of the Ascended Dojo**
