@@ -27,3 +27,5 @@ Cooldown: 4 seconds
 Fame Bonus: 8%
 
 **Drops from Lord Stone Gargoyle in the Realm**
+
+*See FAQ page to see how WisMod is calculated for the items*
