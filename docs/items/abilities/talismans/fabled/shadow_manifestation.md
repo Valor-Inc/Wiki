@@ -26,4 +26,6 @@ Cooldown: 4 seconds
     
     +30 Restoration
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 6%
+
+**Drops from the Forgotten King of the Shatters**
