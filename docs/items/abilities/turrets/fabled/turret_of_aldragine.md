@@ -27,3 +27,5 @@ Cooldown: 4.5 seconds
     +15 Wisdom
     
 Fame Bonus: No Fame Bonus
+
+**Drops from Ultra The Vision of Aldragine of the Ultra Zol Awakening raid**
