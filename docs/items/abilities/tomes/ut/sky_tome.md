@@ -27,3 +27,5 @@ MP Cost: 110
 Fame Bonus: 6%
 
 **Drops from Tod in the Realm**
+
+*See FAQ page to see how WisMod is calculated for items*
