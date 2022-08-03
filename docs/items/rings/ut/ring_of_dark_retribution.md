@@ -17,3 +17,5 @@ sidebar_position: 22
     +1 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from The Vision of Aldragine and Aldragine of the Zol Awakening raid**
