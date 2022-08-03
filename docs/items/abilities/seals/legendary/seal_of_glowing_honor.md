@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <i>"War is an unreliable doctor, but it sometimes heals grievances." ~ an Exile of Light</i>
 
-Party Effect: Within 3.5 sqrs increase Maximum HP by 250 for 4 seconds
+Party Effect: Within 4.4 (wismod) sqrs increase Maximum HP by 389 (wismod) for 6.2 (wismod) seconds
 
 MP Cost: 130
 
@@ -19,3 +19,7 @@ Cooldown: 8 seconds
     +40 Maximum HP
 
 Fame Bonus: 8%
+
+**Buyable from the Fallen Light Raid Shop for 300 Onrane**
+
+*See FAQ page to see how WisMod is calculated for the items*
