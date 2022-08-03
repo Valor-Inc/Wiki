@@ -14,4 +14,6 @@ sidebar_position: 1
     
 Fame Bonus: 8%
 
-**Unstoppable: You deal 25% more damage above 90% HP.**
+***Unstoppable: You deal 25% more damage above 90% HP.***
+
+**Craftable from Shard of Eternal Fury**
