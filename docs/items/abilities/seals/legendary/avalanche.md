@@ -12,7 +12,9 @@ sidebar_position: 1
 
 Effect on Self: Petrify for 1.5 seconds
 
-EFfect on Self: Within 6 sqrs Invulnerable for 0.74 seconds
+EFfect on Self: Within 7.5 (wismod) sqrs Invulnerable for 1.1 (wismod) seconds
+
+Effect on Self: Within 7.5 (wimod) sqrs Godstruck for 4.6 (wismod) seconds**
 
 HP Cost: 250
 
@@ -27,3 +29,7 @@ Cooldown: 4 seconds
     +25 Vitality
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Zol Corruption**
+
+*See FAQ page to see how WisMod is calculated for the items*
