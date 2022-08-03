@@ -22,4 +22,6 @@ sidebar_position: 26
     
 Fame Bonus: 8%
 
+***This item is a part of Cataclysmic Set***
+
 **Craftable from Shard of Ancient Assault**
