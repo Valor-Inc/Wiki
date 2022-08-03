@@ -1,5 +1,5 @@
 ---
-sidebar_position: 27
+sidebar_position: 29
 ---
 
 # The Bloody Legacy
@@ -17,3 +17,5 @@ sidebar_position: 27
     +6 Wisdom
     
 Fame Bonus: 4%
+
+**Drops from the Avatar of the Forgotten King in the Realm**
