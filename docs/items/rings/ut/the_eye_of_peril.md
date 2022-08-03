@@ -18,4 +18,4 @@ sidebar_position: 30
    
 Fame Bonus: 6%
 
-**Drops from Hades of the Crimson Showdown (Crimson Caverns 2nd)
+**Drops from Hades of the Crimson Showdown (Crimson Caverns 2nd)**
