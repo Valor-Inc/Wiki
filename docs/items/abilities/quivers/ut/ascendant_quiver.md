@@ -35,3 +35,5 @@ MP Cost: 65
     +2 Mana Leech
 
 Fame Bonus: 6%
+
+**Drops from Truvix, the Lord Wanderer in the Realm**
