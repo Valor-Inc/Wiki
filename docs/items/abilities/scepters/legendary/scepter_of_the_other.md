@@ -19,3 +19,5 @@ MP Cost: 105
     +10 Speed
 
 Fame Bonus: 8%
+
+**Buyable from the Zol Awakening Raid Shop for 290 Onrane**
