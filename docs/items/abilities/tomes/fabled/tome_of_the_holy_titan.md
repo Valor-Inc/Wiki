@@ -8,9 +8,9 @@ sidebar_position: 3
 
 <i>After a long battle, Kienamis the Holy Titan would use the tome to prepare the Titans for the next fight.</i>
 
-Party Heal: 175 HP within 3 sqrs
+Party Heal: 272 (wismod) HP within 4.6 (wismod) sqrs
 
-Party Effect: Within 4 sqrs increase Maximum HP by 80 for 5 seconds
+Party Effect: Within 5 (wismod) sqrs increase Maximum HP by 124 (wismod) for 7.7 (wismod) seconds
 
 MP Cost: 130
 
@@ -19,3 +19,7 @@ MP Cost: 130
     +5 Defense
 
 Fame Bonus: 6%
+
+**Drops from all bosses of the Fallen Light raid**
+
+*See FAQ page to see how WisMod is calculated for the items*
