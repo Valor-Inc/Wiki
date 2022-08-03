@@ -23,7 +23,7 @@ Range: 3.8
 
 Effect on Self: Damaging for 3 seconds
 
-Shot Effect: Stunned for 3 seconds
+Shot Effect: Stunned for 5 seconds
 
 Shots pass through obstacles
 
@@ -37,7 +37,9 @@ MP Cost: 110
 
 Fame Bonus: 14%
 
-**Verdant Vanguard: While your Armor Broken doubles your defense and grants a 30% damage increase.**
+***Verdant Vanguard: While your Armor Broken doubles your defense and grants a 30% damage increase.***
+
+**Drops from Granithia of the Garden of Chaos**
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -74,7 +76,9 @@ MP Cost: 110
 
 Fame Bonus: 14%
 
-**Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.**
+***Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.***
+
+**Enchanted Vinelocker with Ancient Air Rune**
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -111,7 +115,9 @@ MP Cost: 110
 
 Fame Bonus: 14%
 
-**Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.**
+***Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.***
+
+**Enchanted Vinelocker with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -146,7 +152,9 @@ MP Cost: 110
 
 Fame Bonus: 14%
 
-**Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.**
+***Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.***
+
+**Enchanted Vinelocker with Ancient Fire Rune**
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -185,7 +193,9 @@ MP Cost: 110
 
 Fame Bonus: 14%
 
-**Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.**
+***Verdant Vangaurd: While you're Armor Broken doubles your defense and grants a 30% damage increase.***
+
+**Enchanted Vinelocker with Ancient Water Rune**
 
 </TabItem>
 </Tabs>
