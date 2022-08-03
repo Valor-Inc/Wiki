@@ -14,6 +14,12 @@ Range: 68
 
 Shots: 20
 
+Shots hit multiple targets
+
+Shots pass through obstacles
+
+Ignroes defense of target
+
 MP Cost 200
 
     +200 Maximum MP
@@ -24,4 +30,6 @@ MP Cost 200
 
 Fame Bonus: 8%
 
-**Expansion: When your surge is at least 50 you gain bonus mana.**
+***Expansion: When your surge is at least 50 you gain bonus mana.***
+
+**Craftable from Shard of Cosmic Collapse**
