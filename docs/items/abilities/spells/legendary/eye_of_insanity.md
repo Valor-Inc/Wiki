@@ -27,3 +27,5 @@ MP Cost 140
     +20 Dexterity
 
 Fame Bonus: 8%
+
+**Drops from the Fallen Light Gatekeeper in the Realm**
