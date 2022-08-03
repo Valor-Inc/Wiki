@@ -18,4 +18,6 @@ sidebar_position: 24
     
 Fame Bonus: 8%
 
-**Undermind: If you have 20 surge you activate a blast around you that inflicts weak**
+***Undermind: If you have 20 surge you activate a blast around you that inflicts weak within 4 sqrs for 2.5 seconds***
+
+**Drops from Chronus, the Guide of the Fallen Light raid**
