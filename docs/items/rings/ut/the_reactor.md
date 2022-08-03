@@ -19,3 +19,5 @@ sidebar_position: 29
     +6 Vitaltiy
     
  Fame Bonus: 4%
+
+**Drops from Dr. Terrible of the Mad Lab**
