@@ -20,7 +20,7 @@ Shot Effect: Slowed for 4 seconds
 
 Shots hit multiple targets
 
-Shots pass through obstacles
+Ignores defense of target
 
 MP Cost: 100
 
@@ -29,3 +29,8 @@ MP Cost: 100
     +50 Maximum HP
 
 Fame Bonus: 6%
+
+***Upgradable with Essence of the Realm!***
+
+**Drops from the Dark Knight of the Unspeakable**
+
