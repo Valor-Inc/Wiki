@@ -18,7 +18,7 @@ While Key Held: Drain increases hp and mp/s
 
 When Key Released: Target enemies are inflicted damage according to amount of item's base damage and how much health and mana were drained
 
-Effect on Self: Speedy for 23.7 seconds
+Effect on Self: Speedy for 3.1 (wismod) seconds
 
     +100 Maximum MP
     
@@ -31,3 +31,7 @@ Effect on Self: Speedy for 23.7 seconds
     +2 Mana Leech
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
+
+*See FAQ page to see how WisMod is calculated for the items*
