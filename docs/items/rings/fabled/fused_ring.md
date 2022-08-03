@@ -19,3 +19,5 @@ sidebar_position: 3
     +2 Mana Leech
     
 Fame Bonus: 6%
+
+**Drops from the Twilight Archmage of the Shatters**
