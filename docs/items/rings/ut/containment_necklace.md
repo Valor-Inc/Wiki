@@ -17,3 +17,5 @@ sidebar_position: 5
     +60 Restoration
     
 Fame Bonus: 6%
+
+**Drops from Larry Giggsman, the Super Mutant of the Superhuman Hideout**
