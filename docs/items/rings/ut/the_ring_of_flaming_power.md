@@ -19,3 +19,5 @@ sidebar_position: 30
     +5 Wisdom
     
 Fame Bonus: 5%
+
+**Drops from both Archdemon Malphas of the Abyss of Demons and Ascended Abyss of Demons**
