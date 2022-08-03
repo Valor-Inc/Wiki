@@ -1,5 +1,5 @@
 ---
-sidebar_position: 28
+sidebar_position: 30
 ---
 
 # The Eye of Peril
@@ -17,3 +17,5 @@ sidebar_position: 28
     +10 Luck
    
 Fame Bonus: 6%
+
+**Drops from Hades of the Crimson Showdown (Crimson Caverns 2nd)
