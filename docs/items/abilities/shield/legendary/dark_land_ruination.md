@@ -29,3 +29,5 @@ MP Cost: 140
     +3% Healing Boost
     
 Fame Bonus: 8%
+
+**Craftable from Shard of Ancient Assault*
