@@ -27,3 +27,5 @@ MP Cost: 135
     +2 Wisdom
 
 Fame Bonus: 6%
+
+**Drops from Janus the Doorwarden**
