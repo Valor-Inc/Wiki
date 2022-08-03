@@ -4,9 +4,11 @@ sidebar_position: 1
 
 # All-Seeing Eye
 
-![ASE]
+![ASE](https://vwiki.valorserver.com/api/item/picture/all-seeing%20eye)
 
 <i>Just open your eyes.....</i>
+
+Grants 'BlindImmune' after 45 seconds
 
     +50 Maximum HP
     
@@ -15,5 +17,7 @@ sidebar_position: 1
     +5 Dexterity
     
     +15 Might
-    
-**Grants 'BlindImmune' after 45 seconds**
+
+Fame Bonus: 6%
+
+**Drops from the Allseeing Horror of the Ascended Tunnel of Pain**
