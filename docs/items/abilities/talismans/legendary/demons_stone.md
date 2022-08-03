@@ -32,4 +32,6 @@ Cooldown: 4 seconds
     
     +20 Might
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Malgor, the Eternal Fiend**
