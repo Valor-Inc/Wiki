@@ -1,5 +1,5 @@
 ---
-sidebar_position: 25
+sidebar_position: 27
 ---
 
 # Ripe Apple
@@ -21,3 +21,5 @@ sidebar_position: 25
     +5 Vitality
     
 Fame Bonus: 4%
+
+**Drops from Ent Ancients in the Realm**
