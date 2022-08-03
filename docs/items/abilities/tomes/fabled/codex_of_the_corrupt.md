@@ -8,8 +8,6 @@ sidebar_position: 1
 
 <i>A tome that contains the notes of the Conjurer. Thanks to: Jaden</i>
 
-Party Heal: 120 HP within 4 sqrs
-
 Party Heal: 187 (wismod) HP within 6.2 (wismod) sqrs
 
 Effect on Self: Damaging for 4 seconds
