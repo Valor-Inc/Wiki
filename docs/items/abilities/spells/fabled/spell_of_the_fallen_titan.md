@@ -14,6 +14,8 @@ Range: 16
 
 Shots: 20
 
+Shot Effect: Slowed for 1.2 seconds
+
 Effect on Self: Bravery for 1.5 seconds
 
 MP Cost 110
@@ -23,3 +25,5 @@ MP Cost 110
     +5 Defense
 
 Fame Bonus: 6%
+
+**Drops from Merganus, the Fallen Titan and the Titans of the Fallen Light raid**
