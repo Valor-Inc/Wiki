@@ -10,9 +10,9 @@ sidebar_position: 3
 
 Steal: 500 HP within 6 sqrs
 
-Effect on Self: Healing for 4.6 seconds
+Effect on Self: Healing for 4.6 (wismod) seconds
 
-Enemy Effect: Within 9.3 sqrs Bleeding for 4.6 seconds
+Enemy Effect: Within 9.3 (wismod) sqrs Bleeding for 4.6 (wismod) seconds
 
 MP Cost: 135
 
