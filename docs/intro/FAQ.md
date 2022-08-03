@@ -4,6 +4,8 @@ Title: FAQ
 description: "Frequently Asked Questions... And Answers!"
 ---
 
+# FAQ
+
 # Q: How do I get gold fast?
 
 ### A: Participate in raids, farm realm event bosses and oryx, and farm mad labs. Raids grant a bunch of chances at legendary and even ancient relic items, along with gold cache and coin drops. Realm events can also drop gold caches, as well as legendary and ancient relic items (That drop from Larry Gigsman and Yazanahar). If you want to get rich quick, you can also purchase items and gold from other players using IRL currency. This action is called real-world-trading, or RWT for short. To find out more about real world trading and Valor's policy on it, visit here: https://wiki-test.valorserver.com/docs/category/rwt-real-world-trading
