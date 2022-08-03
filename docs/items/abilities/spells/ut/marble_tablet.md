@@ -25,3 +25,5 @@ MP Cost 100
     +1 Life Steal
 
 Fame Bonus: 6%
+
+**Drops from the Lord Stone Gargoyle in the Realm**
