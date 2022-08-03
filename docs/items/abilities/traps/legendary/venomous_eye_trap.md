@@ -20,4 +20,6 @@ MP Cost: 130
     
     +2 Speed
 
-Fame Bonus: 4%
+Fame Bonus: 8%
+
+**Craftable from Shard of the Ancients**
