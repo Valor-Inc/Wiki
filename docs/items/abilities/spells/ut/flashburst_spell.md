@@ -18,7 +18,7 @@ Shots hit multiple targets
 
 Shots boomerang
 
-MP Cost 90
+MP Cost: 90
 
     -40 Maximum MP
     
@@ -27,3 +27,5 @@ MP Cost 90
     +1 Mana Leech
 
 Fame Bonus: 6%
+
+**Drops from Codename G-24, Nitrostorm of the Genisus**
