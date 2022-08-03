@@ -21,3 +21,5 @@ MP Cost: 100
 Fame Bonus: No Fame Bonus
 
 **Drops from Eye of the Dragon of the Realm**
+
+*See FAQ page to see how WisMod is calculated for items*
