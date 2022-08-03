@@ -19,3 +19,5 @@ MP Cost: 80
     +10 Attack
 
 Fame Bonus: 6%
+
+**Drops from Riv, the Heavenly Champion of the Heavenly Rift**
