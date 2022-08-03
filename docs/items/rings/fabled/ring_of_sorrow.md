@@ -21,3 +21,5 @@ sidebar_position: 6
     -4 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from the Forgotten King of the Shatters**
