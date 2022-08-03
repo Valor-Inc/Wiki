@@ -32,4 +32,6 @@ Cooldown: 5 seconds
     
     -75 Maximum HP
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 4%
+
+**Drops from Yazanahar in the Realm**
