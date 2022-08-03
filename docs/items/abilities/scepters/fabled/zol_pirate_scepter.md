@@ -17,3 +17,5 @@ MP Cost: 100
     +10 Attack
 
 Fame Bonus:  No Fame Bonus
+
+**Drops from the Zol Ship of the Zol Pirate Cave**
