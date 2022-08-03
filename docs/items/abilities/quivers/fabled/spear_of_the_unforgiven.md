@@ -25,3 +25,5 @@ MP Cost: 150
     -5 Dexterity
 
 Fame Bonus: 8%
+
+**Drops from all bosses of the Zol Awakening raid**
