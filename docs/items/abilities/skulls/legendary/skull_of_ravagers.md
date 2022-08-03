@@ -23,3 +23,5 @@ MP Cost: 110
     +12 Wisdom
 
 Fame Bonus: 8%
+
+**Craftable from Shard of the Grand Challenge**
