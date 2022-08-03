@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # Gauntley of Mayhem
 
-![gauntlet](http://i.imgur.com/d8MiItG.png)
+![mayhem](http://i.imgur.com/4qiS7JN.png)
 
 <i>Venimus ut vinceret...</i> **("We came to win...")**
 
@@ -17,3 +17,5 @@ sidebar_position: 13
     +6 Vitality
     
 Fame Bonus: 4% 
+
+**Drops from the Right Oryx Stone Gaurdian**
