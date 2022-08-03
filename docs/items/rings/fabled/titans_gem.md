@@ -17,3 +17,5 @@ sidebar_position: 8
     +12 Attack
     
 Fame Bonus: 6%
+
+**Drops from Merganus, the Fallen Titan of the Fallen Light raid**
