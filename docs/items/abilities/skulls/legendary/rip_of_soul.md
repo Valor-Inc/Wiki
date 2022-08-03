@@ -19,3 +19,5 @@ MP Cost: 130
     +30 Luck
 
 Fame Bonus: 8%
+
+**Buyable from Zol Awakening Raid Shop for 290 Onrane**
