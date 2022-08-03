@@ -17,3 +17,5 @@ sidebar_position: 25
     +40 Restoration
     
 Fame Bonus: 8%
+
+**Upgraded form of [Funnystone](https://wiki-test.valorserver.com/docs/items/rings/ut/funnystone)**
