@@ -15,3 +15,5 @@ sidebar_position: 14
     +2 Attack
     
 Fame Bonus: 6%
+
+**Drops from all bosses of the Lair of Draconis**
