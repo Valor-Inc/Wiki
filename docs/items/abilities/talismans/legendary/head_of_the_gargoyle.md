@@ -30,4 +30,6 @@ Cooldown: 4 seconds
     
     +20 Wisdom
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Craftable from Shard of the Stone Soul**
