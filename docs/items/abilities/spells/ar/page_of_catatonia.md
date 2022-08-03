@@ -113,9 +113,11 @@ MP Cost 150
 
 Fame Bonus: 14% 
 
-**A Maddening Inference - Shatter: Same as base, except each shot's lifetime is doubled, armor/obstacle pierces, and you gain Armor Broken instead of Cursed. Shots are also wavy.**
+***A Maddening Inference - Shatter: Same as base, except each shot's lifetime is doubled, armor/obstacle pierces, and you gain Armor Broken instead of Cursed. Shots are also wavy.***
 
 **Enchanted Page of Catatonia with Ancient Earth Rune**
+
+*See FAQ page to see how WisMod is calculated for the items*
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -154,11 +156,11 @@ MP Cost 150
 
 Fame Bonus: 14% 
 
-**A Maddening Inference: - Scorch: Same as base, except all debuffs are quadrupled in duration, base Curse duration has been reduced to 33% and you receive Bleeding for the same duration. You also gain a 100% chance to inflict Bleeding. Damaging reduced slightly.**
+***A Maddening Inference: - Scorch: Same as base, except all debuffs are quadrupled in duration, base Curse duration has been reduced to 33% and you receive Bleeding for the same duration. You also gain a 100% chance to inflict Bleeding. Damaging reduced slightly.***
 
 **Enchanted Page of Catatonia with Ancient Fire Rune**
 
-*See FAQ page to see how WisMod is calculated
+*See FAQ page to see how WisMod is calculated*
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -194,6 +196,10 @@ MP Cost 150
 Fame Bonus: 14% 
 
 **A Maddening Inference - Sanguine: Same as base, except the wismod threshold removed, wis-scaling reduced by 40%, base Curse duration is doubled, and on-use max HP reduction is increased in severity by and duration by 50%.**
+
+**Enchanted Page of Catatonia with Ancient Water Rune**
+
+*See FAQ page to see how WisMod is calculated for the items*
 
   </TabItem>
 </Tabs>
