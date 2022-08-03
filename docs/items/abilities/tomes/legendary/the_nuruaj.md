@@ -33,3 +33,5 @@ Cooldown: 3 seconds
     +50 Protection
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Zol Corruption**
