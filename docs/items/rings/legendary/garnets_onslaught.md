@@ -17,3 +17,5 @@ sidebar_position: 5
     +35 Might
     
 Fame Bonus: 8%
+
+**Drops from Garnet Statue in the Realm**
