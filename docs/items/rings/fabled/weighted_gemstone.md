@@ -21,3 +21,5 @@ sidebar_position: 10
     +2 Life Steal
     
 Fame Bonus: 6%
+
+**Drops from the Bridge Sentinel of the Shatters**
