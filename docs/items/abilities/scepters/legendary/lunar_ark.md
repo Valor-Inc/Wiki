@@ -16,4 +16,14 @@ MP Cost: 130
 
 Cooldown: 4 seconds
 
-Fame Bonus: No Fame Bonus
+    +60 Maximum HP
+    
+    +5 Speed
+    
+    +10 Dexterity
+
+Fame Bonus: 8%
+
+***This item is a part of Lunarologist Set***
+
+**Craftable from Shard of the Ancients**
