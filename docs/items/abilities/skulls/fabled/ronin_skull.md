@@ -19,3 +19,5 @@ MP Cost: 100
     +1 Life Steal
 
 Fame Bonus: 6%
+
+**Drops from Araki, the Omega Samurai of the Ascended Dojo**
