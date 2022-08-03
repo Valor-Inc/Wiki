@@ -8,15 +8,15 @@ sidebar_position: 1
 
 <i>A tome that contains the notes of the Conjurer. Thanks to: Jaden</i>
 
-Party Heal: 173 HP within 5.7 sqrs
+Party Heal: 120 HP within 4 sqrs
+
+Party Heal: 187 (wismod) HP within 6.2 (wismod) sqrs
 
 Effect on Self: Damaging for 4 seconds
 
 Effect on Self: Corrupted for 2.5 seconds
 
 MP Cost: 100
-
-Cooldown: 8%
 
     +60 Maximum HP
     
@@ -27,3 +27,9 @@ Cooldown: 8%
     -10 Vitality
 
 Fame Bonus: 8%
+
+***This item is a part of Corrupted Conjurer Set***
+
+**Drops from the Corrupted Conjurer in the Realm**
+
+*See FAQ page to see how WisMod is calculated for the items*
