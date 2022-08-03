@@ -19,3 +19,5 @@ sidebar_position: 19
     -100 Maximum HP
     
 Fame Bonus: 8%
+
+**Drops from Codename G-24, Nitrostorm of the Genisus**
