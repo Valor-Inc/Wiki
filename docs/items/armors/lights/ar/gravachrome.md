@@ -27,8 +27,9 @@ import TabItem from '@theme/TabItem';
 
 Fame Bonus: 16%
 
-**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
+***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
 
+**Drops from the Alien King in the Regolith (Galactic Plateau 2nd)**
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -53,7 +54,9 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
-**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
+***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
+
+**Enchanted Gravachrome with Ancient Air Rune**
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -78,7 +81,9 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
-**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
+***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
+
+**Enchanted Gravachrome with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -103,8 +108,9 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
-**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
+***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
 
+**Enchanted Gravachrome with Ancient Fire Rune**
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -133,7 +139,9 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
-**Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.**
+***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
+
+**Enchanted Gravachrome with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
