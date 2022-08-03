@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <i>A tome that will bless you with the skin of stone.</i>
 
-Party Heal: 130 HP within 4 sqrs
+Party Heal: 202 (wismod) HP within 6.2 (wismod) sqrs
 
 Effect on Self: Invulnerable for 1 secods
 
@@ -21,3 +21,5 @@ MP Cost: 160
     -50 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from all bosses of the Calling of the Titan raid**
