@@ -21,3 +21,5 @@ MP Cost: 90
     +60 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from Malgor, the Eternal Fiend | Public Challenge**
