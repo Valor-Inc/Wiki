@@ -17,3 +17,5 @@ sidebar_position: 9
     +2 Mana Leech
     
 Fame Bonus: 8%
+
+**Drops from the Jade Statue in the Realm**
