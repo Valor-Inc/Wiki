@@ -20,3 +20,4 @@ Fame Bonus: 8%
 
 **Unscathed Legacy: While you are above 70% health, chances of striking a critical are increased by 7.5%**
 
+**Forged from Shard of the Grand Challenge**

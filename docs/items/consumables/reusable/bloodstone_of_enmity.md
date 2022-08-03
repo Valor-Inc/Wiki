@@ -17,3 +17,5 @@ Effect on Self: Bravery for 5 seconds
 Effect on Self: Slowed for 10 seconds
 
 Cooldown: 15 seconds
+
+**Drops from Drannol, the Eternal Beast (Titan Raid Final Boss)**

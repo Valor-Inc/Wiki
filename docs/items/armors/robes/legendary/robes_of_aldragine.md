@@ -21,3 +21,5 @@ Grants 'Empowered' after 60 seconds
     +4 Mana Leech
    
 Fame Bonus: 8%
+
+**Drops from Aldragine (Zol Raid Final Boss)**

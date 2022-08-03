@@ -15,3 +15,5 @@ On Use: +25 Attack for 5 seconds
 On Use: -200 Maximum HP for 10 seconds
 
 Cooldown: 15 seconds
+
+**Drops from Aldragine (Zol Raid Final Boss)**

@@ -17,3 +17,5 @@ sidebar_position: 7
     +25 Speed
     
 Fame Bonus: 8%
+
+**Upgraded from of [Water Dragon Silk Robe](https://www.realmeye.com/wiki/water-dragon-silk-robe)**

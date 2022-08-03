@@ -15,3 +15,5 @@ Upgrade: Combine this with an Ancient Air Rune in the Sor Forge for an upgraded 
 Effect on Self: Speedy for 7 seconds
 
 Cooldown: 20 seconds
+
+**Bought from the Nexus Shop for Fame**

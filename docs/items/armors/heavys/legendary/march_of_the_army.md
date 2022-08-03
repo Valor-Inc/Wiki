@@ -15,3 +15,5 @@ sidebar_position: 7
     +50% Speed
     
 Fame Bonus: 8%
+
+**Drops from the Cerynus the Titan in the Fallen Raid (Black Titan)**

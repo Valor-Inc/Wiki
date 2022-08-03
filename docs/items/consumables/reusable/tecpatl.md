@@ -15,3 +15,5 @@ On Use: -105 Maximum HP for 12 seconds
 On Use: +300 MP
 
 Cooldown: 15 seconds
+
+**Obtained from Scavenger Chests**

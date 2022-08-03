@@ -17,3 +17,5 @@ sidebar_position: 11
     +8 Attack
     
 Fame Bonus: 8%
+
+**Bought from the Zol Awakening Raid Shop**

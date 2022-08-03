@@ -13,3 +13,5 @@ Sprited by: SkySlurp
 On Use: Removes negative conditions
 
 Cooldown: 30 seconds
+
+**Bought from the Nexus Shop for Fame**

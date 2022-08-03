@@ -20,4 +20,6 @@ sidebar_position: 1
     
 Fame Bonus: 8%
 
-**Dark Magic: You have a 25% chance when taking damage to create an AoE bomb around yourself ranging from 1000-5000 damage.**
+***Dark Magic: You have a 25% chance when taking damage to create an AoE bomb around yourself ranging from 1000-5000 damage.***
+
+**Drops from Roger Bacon (Realm Event)**

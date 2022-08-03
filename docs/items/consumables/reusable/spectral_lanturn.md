@@ -15,3 +15,5 @@ Effect on Self: Darkness for 2.5 seconds
 Effect on Self: Speedy for 2 seconds
 
 Cooldown: 11 seconds
+
+**Drops from Ghost Ship (Realm Event)**

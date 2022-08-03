@@ -11,3 +11,5 @@ sidebar_position: 1
 +220 MP restored on use
 
 Effect on Self: Berserk for 5 seconds
+
+**Drops from Belladonna in Belladonna's Garden**

@@ -16,4 +16,6 @@ sidebar_position: 5
     
 Fame Bonus: 8%
 
-**Last Stand: Increased healing when below 25% health.**
+***Last Stand: When below 25% current hp, gain a stronger version of the healing effect.***
+
+**Upraded form of [Fire Dragon Battle Armor](https://www.realmeye.com/wiki/fire-dragon-battle-armor)**
