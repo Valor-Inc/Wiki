@@ -26,4 +26,6 @@ Cooldown: 4 seconds
     
     +100 Maximum HP
 
-Fame Bonus: 4 seconds
+Fame Bonus: 8%
+
+**Craftable from Shard of the Grand Challenge**
