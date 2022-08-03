@@ -17,3 +17,5 @@ MP Cost: 135
 Cooldown: 3 seconds
 
 Fame Bonus: 6%
+
+**Drops from the Queen of Hearts in the Realm**
