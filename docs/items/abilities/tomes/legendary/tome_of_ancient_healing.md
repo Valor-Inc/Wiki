@@ -8,11 +8,11 @@ sidebar_position: 5
 
 <i>A tome that sat unused for eon taking a unique price form the user.</i>
 
-Party Heal: 200 HP within 4 sqrs
+Party Heal: 311 (wismod) HP within 6.2 (wismod) sqrs
 
-Party Effect: Within 3 sqrs increase Maximum HP by 140 for 4.5 seconds
+Party Effect: Within 3.7 (wismod) sqrs increase Maximum HP by 218 (wismod) for 7 (wismod) seconds
 
-Effect on Self: Armored for 3 seconds
+Effect on Self: Armored for 4.6 (wismod) seconds
 
 MP Cost: 130
 
@@ -22,4 +22,8 @@ MP Cost: 130
 
 Fame Bonus: 12%
 
-**Stoneskin: While being above 50% health, you can't be armor broken.**
+***Stoneskin: While being above 50% health, you can't be armor broken.***
+
+**Upgraded form of Tome of Holy Protection**
+
+*See FAQ page to see how WisMod is calculated on the items*
