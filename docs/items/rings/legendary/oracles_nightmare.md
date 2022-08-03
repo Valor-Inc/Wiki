@@ -13,3 +13,5 @@ sidebar_position: 15
     -175 Maximum MP
     
 Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
