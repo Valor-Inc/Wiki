@@ -18,4 +18,6 @@ sidebar_position: 13
     
 Fame Bonus: 8%
 
-**The Long Wake: When using an ability without surge gain a minor dex boost, when surged gain an attack boost scaling with surge.**
+***The Long Wake: When using an ability without surge gain a minor dex boost, when surged gain an attack boost scaling with surge.***
+
+**Craftable from Shard of the Grand Challenge**
