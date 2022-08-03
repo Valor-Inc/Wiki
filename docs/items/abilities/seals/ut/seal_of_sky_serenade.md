@@ -8,9 +8,9 @@ sidebar_position: 3
 
 <i>The weather won't be too good today.</i>
 
-Party Effect: Within 4 sqrs increase Maximum HP by 140 for 6 seconds 
+Party Effect: Within 5 (wismod) sqrs increase Maximum HP by 218 (wismod) for 9.3 (wismod) seconds 
 
-Effect on Self: Within 5 sqrs Armored for 5 seconds
+Effect on Self: Within 6.3 (wismod) sqrs Armored for 7.7 (wismod) seconds
 
 MP Cost: 125
 
@@ -21,3 +21,7 @@ MP Cost: 125
     +10 Protection
 
 Fame Bonus: 6%
+
+**Drops from Colothiossis the Exalted and Zeus of the Sky Palace**
+
+*See FAQ page to see how WisMod is calculated for the items*
