@@ -29,3 +29,5 @@ MP Cost: 100
     +60 Maximum MP
 
 Fame Bonus: 8%
+
+**Upgraded form of [Stormbreaker](https://wiki-test.valorserver.com/docs/items/abilities/shield/ut/stormbreaker)**
