@@ -33,6 +33,8 @@ import TabItem from '@theme/TabItem';
     
 Fame Bonus: 16%
 
+**Drops from the Twilight Archmage of the Shatters**
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -62,6 +64,8 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
 
+**Enchanted Greatcloak of Twilight with Ancient Air Rune**
+
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
@@ -87,12 +91,14 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
+**Enchanted Greatcloak of Twilight with Ancient Earth Rune**
+
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
 # Greatcloak of Twilight Fire
 
-![GCloakTwilightA](https://vwiki.valorserver.com/api/item/picture/greatcloak%20of%20twilight%20fire)
+![GCloakTwilightF](https://vwiki.valorserver.com/api/item/picture/greatcloak%20of%20twilight%20fire)
 
 <i>Infused with the ashes of Inferno, this robe grants great power to anybody brave enough to wear it. Enchanted with the power of the Earth.</i>
 
@@ -112,12 +118,14 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
+**Enchanted Greatcloak of Twilight with Ancient Fire Rune**
+
   </TabItem>
   <TabItem value="Water" label="Water">
 
 # Greatcloak of Twilight Water
 
-![GCloakTwilightA](https://vwiki.valorserver.com/api/item/picture/greatcloak%20of%20twilight%20water)
+![GCloakTwilightW](https://vwiki.valorserver.com/api/item/picture/greatcloak%20of%20twilight%20water)
 
 <i>Infused with the ashes of Inferno, this robe grants great power to anybody brave enough to wear it. Enchanted with the power of the Sea.</i>
 
@@ -142,6 +150,8 @@ Fame Bonus: 16%
     +2 Mana Leech
 
 Fame Bonus: 16%
+
+**Enchanted Greatcloak of Twilight with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
