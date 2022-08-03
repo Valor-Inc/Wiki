@@ -35,6 +35,8 @@ Cooldown: 2 seconds
 
 Fame Bonus: 14%
 
+**Drops from Tridorno of the Catacombs**
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -66,6 +68,8 @@ Cooldown: 2 seconds
 
 Fame Bonus: 14%
 
+**Enchanted Dreadcull with Ancient Air Rune**
+
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
@@ -94,6 +98,8 @@ Cooldown: 2 seconds
     +2 Life Steal
 
 Fame Bonus: 14%
+
+**Enchanted Dreadcull with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -124,9 +130,10 @@ Cooldown: 2 seconds
 
 Fame Bonus: 14%
 
+**Enchanted Dreadcull with Ancient Fire Rune**
+
   </TabItem>
   <TabItem value="Water" label="Water">
-
 
 # Dreadcull Water
 
@@ -153,6 +160,8 @@ Cooldown: 2 seconds
     +2 Mana Leech
 
 Fame Bonus: 14%
+
+**Enchanted Dreadcull with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
