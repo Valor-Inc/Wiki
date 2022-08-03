@@ -27,3 +27,7 @@ Cooldown: 4 seconds
     +6 Speed
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Ascended Septavius the Ghost Goddess of the Ascended Undead Lair**
+
+**Drops from Septavius the Ghost God of the Undead Lair**
