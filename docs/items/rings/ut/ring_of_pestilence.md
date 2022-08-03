@@ -17,3 +17,5 @@ sidebar_position: 24
     +80 Maximum HP
     
 Fame Bonus: 5%
+
+**Drops from Tridorno of the Catacombs**
