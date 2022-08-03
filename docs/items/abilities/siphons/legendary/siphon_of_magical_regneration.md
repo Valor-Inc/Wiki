@@ -34,6 +34,4 @@ Fame Bonus: 8%
 
 ***Regeneration: When no enemies are within 8 squares of you, gain a stronger version of the healing effect***
 
-**Craftable from Shard of Cosmic Collapse**
-
 *See FAQ page to see how WisMod is calculated for the items*
