@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Party Heal: 1000 HP within 2.5 sqrs
 
-Effect on Self: Within 4 sqrs Healing for 3 seconds
+Effect on Self: Within 5 sqrs Healing for 4.6 (wismod) seconds
 
 Removes negative conditions
 
@@ -21,3 +21,7 @@ MP Cost: 110
     +80 Maximum MP
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Urious, God of Elements of the Elemental Ruins**
+
+*See FAQ page to see how WisMod is calculated for items*
