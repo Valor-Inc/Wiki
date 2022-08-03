@@ -15,3 +15,5 @@ sidebar_position: 7
     +2 Defense
     
 Fame Bonus: 6%
+
+**Obtainable through Crates**
