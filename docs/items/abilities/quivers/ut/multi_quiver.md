@@ -23,3 +23,5 @@ MP Cost: 60
     +30 Maximum HP
 
 Fame Bonus: 4%
+
+**Drops from the Forest Maze**
