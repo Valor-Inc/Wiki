@@ -18,4 +18,6 @@ sidebar_position: 23
     
 Fame Bonus: 8%
 
-**Manabond: Having this item equipped restores 1/4th mana cost when using ability.**
+***Manabond: Having this item equipped restores 1/4th mana cost when using ability.***
+
+**Craftable from Shard of Cosmic Collapse**
