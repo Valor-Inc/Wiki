@@ -19,3 +19,5 @@ sidebar_position: 9
     +8 Fortune
     
 Fame Bonus: 8%
+
+**Upgraded form of [Lorespire Robe](https://wiki-test.valorserver.com/docs/items/armors/robes/ut/lorespire_robe/)**

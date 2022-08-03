@@ -19,3 +19,5 @@ sidebar_position: 10
     +4 Fortune
     
 Fame Bonus: 10%
+
+**Drops from Wrackjaw in Wrackjaw's Chasm (Trial 3)**

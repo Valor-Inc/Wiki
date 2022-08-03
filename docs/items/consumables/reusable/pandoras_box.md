@@ -15,3 +15,5 @@ Sprited by: Bituloss
 On Use: +10 Attack for 5 seconds
 
 Cooldown: 10 seconds
+
+**Bought from the Nexus Shop for Fame**

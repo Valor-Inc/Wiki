@@ -21,3 +21,5 @@ sidebar_position: 11
     +2 Life Steal
     
 Fame Bonus: 8%
+
+**Drops from Grand Sphinx (Realm Event)**

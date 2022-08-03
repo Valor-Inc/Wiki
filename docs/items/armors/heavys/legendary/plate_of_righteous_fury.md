@@ -2,9 +2,9 @@
 sidebar_position: 8
 ---
 
-# Plate of Righteous Glory
+# Plate of Righteous Fury
 
-![Righteous](https://vwiki.valorserver.com/api/item/picture/plate%20of%20righteous%20glory)
+![Righteous](https://vwiki.valorserver.com/api/item/picture/plate%20of%20righteous%20fury)
 
 <i>An armor made of sapphire jewels and encrusted with a metal charged with fury.</i>
 
@@ -19,3 +19,5 @@ sidebar_position: 8
     +150 Maximum HP
     
 Fame Bonus: 10%
+
+**Bought from the 2nd trial Krovinger Shop**

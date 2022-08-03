@@ -18,4 +18,6 @@ sidebar_position: 2
     
 Fame Bonus: 8%
 
-**Clarity: When your surge is over 20 you gain a maximum mana boost.**
+***Clarity: When yoru surge is over 20, you gain an additional 60 maximum mp.***
+
+**Drops from Anubis (Alert Boss)**

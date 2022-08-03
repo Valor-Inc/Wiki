@@ -19,3 +19,5 @@ sidebar_position: 1
     -50 Maximum MP
     
 Fame Bonus: 8%
+
+**Drops from Therani in Blackwood Forest (Trial 1)**

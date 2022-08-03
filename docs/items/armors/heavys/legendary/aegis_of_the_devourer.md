@@ -18,4 +18,6 @@ sidebar_position: 1
     
 Fame Bonus: 8%
 
-**Vengeance: The less health that you currently have effects how much more damage you deal.**
+***Vengeance: Gain half of your missing health as additional outputting damage.***
+
+**Bought from the Calling of the Titan Raid Shop**

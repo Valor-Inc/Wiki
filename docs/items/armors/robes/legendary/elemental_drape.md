@@ -21,3 +21,5 @@ sidebar_position: 3
     +20 Might
     
 Fame Bonus: 10%
+
+**Forged from Shard of Ancient Assault**

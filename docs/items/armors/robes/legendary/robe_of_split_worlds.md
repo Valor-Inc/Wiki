@@ -18,6 +18,8 @@ sidebar_position: 8
     
     +12 Defense
     
-    +7% Mana Healing Boost
+    +15% Mana Healing Boost
     
-Fame Bonus: 11%
+Fame Bonus: 8%
+
+**Forged from Shard of the Ancients**

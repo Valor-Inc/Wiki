@@ -18,4 +18,6 @@ sidebar_position: 6
     
 Fame Bonus: 8%
 
-**Stoneheart: While being above 50% of your health you can't be armor broken.**
+***Stoneheart: While being above 50% of your health you can't be armor broken.***
+
+**Forged from Shard of the Stone Soul**

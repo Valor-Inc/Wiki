@@ -16,4 +16,6 @@ sidebar_position: 4
     
 Fame Bonus: 8%
 
-**Titan's Curse: Using your ability also cost health equal to twice your mana cost.**
+***Titan's Curse: Using your ability also cost health equal to twice your mana cost.***
+
+**Drops from Drannol, The Eternal Beast (Titan Raid Final Boss)**

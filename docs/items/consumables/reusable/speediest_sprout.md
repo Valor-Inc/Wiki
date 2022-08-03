@@ -11,3 +11,5 @@ sidebar_position: 6
 Effect on Self: Speedy for 10 seconds
 
 Cooldown: 20 seconds
+
+**Upgraded from of [Speedier Sprout](https://wiki-test.valorserver.com/docs/items/consumables/reusable/speedier_sprout) using an Ancient Air Rune**

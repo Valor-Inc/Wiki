@@ -19,3 +19,5 @@ sidebar_position: 5
     +30 Protection
     
 Fame Bonus: 10%
+
+**Forged from Shard of the Ancients**

@@ -19,3 +19,5 @@ Enhance: The powers of the armor enhances all healing recieved by others.
     +15% Healing Boost
     
 Fame Bonus: 8%
+
+**Forged from Shard of the Ancients**

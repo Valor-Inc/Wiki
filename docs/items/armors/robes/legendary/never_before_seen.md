@@ -23,3 +23,5 @@ sidebar_position: 6
     -4 Wisdom
     
 Fame Bonus: 8%
+
+**Bought from the Calling of the Titan Raid Shop**

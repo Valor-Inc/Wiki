@@ -15,3 +15,5 @@ sidebar_position: 9
     +100 Protection
     
 Fame Bonus: 8%
+
+**Drops from Fallen Light Gatekeeper (Realm Event)**

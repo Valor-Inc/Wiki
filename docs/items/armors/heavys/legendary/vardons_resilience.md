@@ -18,4 +18,6 @@ sidebar_position: 12
     
 Fame Bonus: 8%
 
-**Lifeline: Having less than 1/3rd of your maximum health pool gives you a massive health regeneration boost.**
+**Lifeline: Having less than 1/3rd of your maximum health gives you a stronger version of the healing effect.**
+
+**Drops from the Odeus the Titan in the Fallen Raid (White Titan)**
