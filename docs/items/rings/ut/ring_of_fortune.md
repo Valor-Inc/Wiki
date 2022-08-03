@@ -17,3 +17,5 @@ sidebar_position: 23
     +20 Luck
     
 Fame Bonus: 5%
+
+**Drops from the Mad Jester in the Realm**
