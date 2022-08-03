@@ -34,4 +34,6 @@ Fame Bonus: 8%
 
 ***Regeneration: When no enemies are within 8 squares of you, gain a stronger version of the healing effect***
 
+**Buyable from Zol Awakening Raid Shop for 310 Onrane**
+
 *See FAQ page to see how WisMod is calculated for the items*
