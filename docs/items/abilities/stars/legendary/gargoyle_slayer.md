@@ -29,3 +29,5 @@ MP Cost: 110
     +6 Attack
     
 Fame Bonus: 8%
+
+**Craftable from Shard of the Stone Soul**
