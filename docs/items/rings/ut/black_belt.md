@@ -15,3 +15,9 @@ sidebar_position: 4
     +8 Attack
     
 Fame Bonus: No Fame Bonus
+
+***Upgradable with Essence of the Realm***
+
+**Drops from Arnkz the Mega Samurai of the Dojo**
+
+**Drops from Araki the Omega Samurai of the Ascended Dojo**
