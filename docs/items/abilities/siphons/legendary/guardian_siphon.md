@@ -29,3 +29,5 @@ When Key Released: Target enemies are inflicted damage according to amount of it
     +1 Life Steal
 
 Fame Bonus: 8%
+
+**Craftable from Shard of Ancient Assault**
