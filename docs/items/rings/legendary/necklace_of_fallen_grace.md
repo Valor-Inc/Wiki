@@ -15,3 +15,5 @@ sidebar_position: 11
     +50 Defense
     
 Fame Bonus: 8%
+
+**Buyable from the Fallen Light Raid Shop for 290 Onrane**
