@@ -8,11 +8,11 @@ sidebar_position: 1
 
 <i>A darkseal that is said to be cursed. I would stay away from it.</i>
 
-Party Effect: Within 5.9 sqrs increase Vitality by 7 for 7 seconds
+Party Effect: Within 6.3 (wismod) sqrs increase Vitality by 7 for 7.7 (wismod) seconds
 
-Party Effect: Within 2.8 sqrs Armored for 4.2 seconds
+Party Effect: Within 3.1 (wismod) sqrs Armored for 4.6 (wismod) seconds
 
-Party Effect: Within 5.6 sqrs Damaging for 5.6 sqrs
+Party Effect: Within 6.2 (wismod) sqrs Damaging for 6.2 (wismod) sqrs
 
 MP Cost: 110
 
@@ -21,3 +21,7 @@ MP Cost: 110
     +10 Defense
 
 Fame Bonus: 6%
+
+**Drops from the Dark Sorcerer of the Abandoned Basement**
+
+*See FAQ page to see how WisMod is calculated*
