@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ![armageddonDN](https://vwiki.valorserver.com/api/item/picture/armegeddon)
 
-<i>The only think capable of taking down the highly durable Shrek. A relic of the Ancient Swamp Wars entrusted to Drannol for Safe Keeping.</i>
+<i>This terrifying turret of Destruction was commisioned during the Great Swamp Wars as a weapon of last resort. It was considered lost to the swamps.</i>
 
-Min Damage: 225
+Min Damage: 850
 
-Max Damage: 325
+Max Damage: 1850
 
 Rate of Fire: Shoots every 0.1 seconds
 
@@ -20,10 +20,10 @@ Effect on Self: Speedy for 2.5 seconds
 
 MP Cost: 105 
 
-Cooldown: 5 seconds
-
-    +15 Defense
+Cooldown: 8 seconds
     
-    +2 Life Steal
+    +5 Life Steal
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 8%
+
+**Drops from Uber Shrek in the Realm**
