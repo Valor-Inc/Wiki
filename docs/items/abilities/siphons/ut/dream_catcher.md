@@ -27,3 +27,5 @@ When Key Released: Target enemies are inflicted damage according to amount of it
     -100 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from Ascended Limon, the Lost Sprite of the Ascended Sprite World**
