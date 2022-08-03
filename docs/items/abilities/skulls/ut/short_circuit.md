@@ -19,3 +19,5 @@ MP Cost: 100
     +2 Defense
 
 Fame Bonus: 4%
+
+**Drops from Dr. Terrible of the Mad Lab**
