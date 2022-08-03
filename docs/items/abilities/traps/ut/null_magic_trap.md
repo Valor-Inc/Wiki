@@ -19,3 +19,7 @@ MP Cost: 120
     -60 Maximum MP
 
 Fame Bonus: 6%
+
+***Upgradable with Essence of the Realm***
+
+**Drops from the Illusionist of the Crypt of the Illusionist**
