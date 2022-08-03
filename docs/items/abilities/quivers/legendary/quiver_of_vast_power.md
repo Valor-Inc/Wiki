@@ -8,18 +8,20 @@ sidebar_position: 2
 
 <i>A quiver banished from every kingdom due to it's unthinkable power.</i>
 
-Damage: 1000-3000
+Damage: 2500
 
 Range: 15
 
-Shot Effect: Dazed for 7 seconds
+Effect on Self: Damaging for 3 seconds
 
 Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 140
+MP Cost: 65
 
     +16 Attack
 
 Fame Bonus: 8%
+
+**Drops from the Corrupted Conjurer in the Realm**
