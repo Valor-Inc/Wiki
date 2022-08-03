@@ -19,3 +19,5 @@ Cooldown: 2 seconds
     +2 Life Steal
 
 Fame Bonus: 8%
+
+**Drops from Scorching Wraith of the Calling of the Titan raid**
