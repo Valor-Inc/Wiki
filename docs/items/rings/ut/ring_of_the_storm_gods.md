@@ -1,5 +1,5 @@
 ---
-sidebar_position: 23
+sidebar_position: 25
 ---
 
 # Ring of the Storm Gods
@@ -21,3 +21,5 @@ sidebar_position: 23
     +8 Defense
     
 Fame Bonus: 6%
+
+**Drops from both bosses of the Storm Palace**
