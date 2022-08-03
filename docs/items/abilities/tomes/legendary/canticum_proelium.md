@@ -8,11 +8,11 @@ sidebar_position: 2
 
 <i>The lifetime work of an elder mindmage and her necromantic apprentice, this mythical hymnary imbues the reader with utmost courage at the ultimate price.</i>
 
-Party Heal: 180 HP within 4 sqrs
+Party Heal: 280 (wismod) HP within 6.2 (wismod) sqrs
 
-Effect on Self: Bravery for 3 seconds
+Effect on Self: Bravery for 4.6 (wismod) seconds
 
-Effect on Self: Within 2.5 sqrs Armored for 3 seconds
+Effect on Self: Within 3.1 (wismod) sqrs Armored for 4.6 (wismod) seconds
 
 Effect on Self: Petrify for 1.5 seconds
 
@@ -25,3 +25,5 @@ Cooldown: 4 seconds
     +30 Might
 
 Fame Bonus: 8%
+
+**Drops from Lord Stone Gargoyle in the Realm**
