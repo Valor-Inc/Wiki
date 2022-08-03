@@ -21,3 +21,5 @@ sidebar_position: 9
     +5 Wisdom
     
 Fame Bonus: 6%
+
+**Drops from Janus the Doorwarden**
