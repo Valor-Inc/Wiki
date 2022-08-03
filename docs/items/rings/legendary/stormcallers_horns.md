@@ -21,3 +21,5 @@ sidebar_position: 26
     +2 Mana Leech
     
 Fame Bonus: 8%
+
+**Craftable from Shard of Ancient Assault**
