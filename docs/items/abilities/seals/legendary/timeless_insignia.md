@@ -18,10 +18,12 @@ Cooldown: 5.5 seconds
 
     +8 Dexterity
     
-    -5 Wisdom
+    -15 Wisdom
     
     +25 Protection
 
 Fame Bonus: 8%
 
-**Borrowed Timed: Your protection is restored fully if your MP is full upon using this ability.**
+***Borrowed Timed: Your protection is restored fully if your MP is full upon using this ability.***
+
+**Drops from Truvix, the Lost Wanderer**
