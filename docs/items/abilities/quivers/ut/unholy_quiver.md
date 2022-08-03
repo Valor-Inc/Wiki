@@ -12,9 +12,9 @@ Damage: 375-425
 
 Range: 15
 
-Shot Effect: Paralyzed for 7 seconds
+Shot Effect: Paralyzed for 5 seconds
 
-Shot Effect: Curse for 7 seconds
+Shot Effect: Curse for 5 seconds
 
 MP Cost: 120
 
@@ -25,3 +25,5 @@ Cooldown: 6 seconds
     +2 Wisdom
 
 Fame Bonus: 6%
+
+**Drops from Lord Ruthven of the Manor of the Immortals**
