@@ -30,4 +30,6 @@ MP Cost: 110
     
 Fame Bonus: 8%
 
-**Rockheart: While equipped you are immune to petrify if you have more than 5 surge.**
+***Rockheart: While equipped you are immune to petrify if you have more than 5 surge.***
+
+**Drops from Revil, the Twisted Vanguard of the Calling of the Titan raid**
