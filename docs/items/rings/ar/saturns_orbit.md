@@ -33,6 +33,8 @@ Fame Bonus: 16%
 
 **1000k Gold: 10% chance to revive upon receiving a fatal blow.** 
 
+***Drops from Oryx the Mad God 3***
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -64,6 +66,8 @@ Fame Bonus: 16%
 
 **1Mil Gold: 10% chance to revive upon receiving a fatal blow**
 
+***Enchanted Saturn's Orbit with Ancient Air Rune***
+
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
@@ -92,6 +96,8 @@ Fame Bonus: 16%
 **500k Gold: +15% Rate of Fire**
 
 **1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+
+***Enchanted Saturn's Orbit with Ancient Earth Rune***
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -124,6 +130,8 @@ Fame Bonus: 16%
 
 **1Mil Gold: 10% chance to revive upon receiving a fatal blow**
 
+***Enchanted Saturn's Orbit with Ancient Fire Rune***
+
   </TabItem>
   <TabItem value="Water" label="Water">
 
@@ -150,6 +158,8 @@ Fame Bonus: 16%
 **500k Gold: +15% Rate of Fire**
 
 **1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+
+***Enchanted Saturn's Orbit with Ancient Water Rune***
 
   </TabItem>
 </Tabs>
