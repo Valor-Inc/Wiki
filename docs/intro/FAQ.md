@@ -16,7 +16,7 @@ description: "Frequently Asked Questions... And Answers!"
 
 # Q: What does healing and mana healing boost do?
 
-### A: It increases your global mana regeneration and hp regeneration by whatever percentage it states on the item card. It's largely 
+### A: It increases your global mana regeneration and hp regeneration by whatever percentage it states on the item card. It's largely ineffective and should not play a major factor in deciding whether or not to buy/use an item.
 
 # Q: How do I get ARs (ancient relics)? Is there an AR threshold?
 
