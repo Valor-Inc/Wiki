@@ -27,3 +27,5 @@ MP Cost: 120
     +20 Wisdom
 
 Fame Bonus: 8%
+
+**Buyable from the Fallen Light Raid Shop for 290 Onrane**
