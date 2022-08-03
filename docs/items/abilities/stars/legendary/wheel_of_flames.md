@@ -16,15 +16,15 @@ Damage: 500-3500
 
 Range: 20
 
+Effect on Self: Armored for 4 seconds
+
+Effect on Self: Damaging for 4 seconds
+
 Shots hit multiple targets
 
 Shots pass through obstacles
 
 Ignores defense of target
-
-Effect on Self: Armored for 4 seconds
-
-Effecto n Self: Damaging for 4 seconds
 
 MP Cost: 100
 
@@ -34,4 +34,6 @@ MP Cost: 100
     
     -10% Maximum HP
     
-Fame Bonus: 6%
+Fame Bonus: 8%
+
+**Drops from Gileon of Gileon's Return**
