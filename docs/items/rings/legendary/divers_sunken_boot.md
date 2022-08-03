@@ -23,3 +23,7 @@ sidebar_position: 2
     +2 Mana Leech
     
 Fame Bonus: 8%
+
+***This item is a part of Deep Sea Fishing Set***
+
+**Drops from Wrackjaw | Trial**
