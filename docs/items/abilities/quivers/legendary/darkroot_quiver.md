@@ -12,9 +12,9 @@ Damage: 900-2100
 
 Range: 15
 
-Shot Effect: Curse for 4 seconds
+Shot Effect: Curse for 5 seconds
 
-Shot Effect: Paralyzed for 2.5 seconds
+Shot Effect: Paralyzed for 5 seconds
 
 MP Cost: 130
 
@@ -23,3 +23,5 @@ Cooldown: 4 seconds
     +8 Wisdom
 
 Fame Bonus: 8%
+
+**Drops from Therani | Trial**
