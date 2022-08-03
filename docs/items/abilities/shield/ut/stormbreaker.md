@@ -25,3 +25,7 @@ MP Cost: 70
     +80 Maximum MP
 
 Fame Bonus: 6%
+
+***Upgradable with Essence of the Realm***
+
+**Drops from both bosses of the Storm Palace**
