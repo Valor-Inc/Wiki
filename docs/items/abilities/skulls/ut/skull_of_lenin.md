@@ -39,3 +39,5 @@ MP Cost 120
     +5 Protection
 
 Fame Bonus: 6%
+
+**Drops from Lenin of the Garden of Chaos**
