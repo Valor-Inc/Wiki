@@ -18,12 +18,14 @@ While Key Held: Drain increases hp and mp/s
 
 When Key Released: Target enemies are inflicted damage according to amount of item's base and how much health and mana were drained.
 
-    +10 Wisdom
+    +120 Maximum HP
     
-    +100 Maximum HP
+    +4 Defense
     
-    -10 Vitality
+    +8 Vitality
     
-    -100 Maximum HP
+    +2 Life Steal
 
 Fame Bonus: 6%
+
+**Drops from the Dark Sorcerer of the Abandoned Basement**
