@@ -115,7 +115,7 @@ Fame Bonus: 14%
     
 ***Ocular Damnation: Your damage range is lower, and your ammounts are more consistent. You gain more defensive prowess.***
 
-**Enchanted the Eye with Ancient Earth Rune**
+**Enchanted The Eye with Ancient Earth Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -183,7 +183,7 @@ Fame Bonus: 14%
     
 ***Ocular Damnation: Your magical powers are increased, and your wisdom modification is more powerful.***
 
-**Enchanted the Eye with Ancient Water Rune**
+**Enchanted The Eye with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
