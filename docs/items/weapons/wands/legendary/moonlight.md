@@ -24,9 +24,11 @@ Ignores defense of target
     
     +15 Speed
 
-**Lunar Grandeur: You protection gets restored fully if your MP is full upon using an ability of T6 or higher.**
-
 Fame Bonus: 8%
+
+***Lunar Grandeur: You protection gets restored fully if your MP is full upon using an ability of T6 or higher.***
+
+**Craftable from Shard of Zol Corruption**
 
 ## Projectile
 
