@@ -8,8 +8,6 @@ sidebar_position: 2
 
 <i>A dagger left behind from a great massacre in Bedlam Asylum.</i>
 
-**Drops from Zaragon, the Blood Mage**
-
 Damage: 60-120
 
 Shots: 2
@@ -21,6 +19,8 @@ Range: 5.7
 Fame Bonus: 4%
 
 ***This item can be upgraded with Elemental Sor!***
+
+**Drops from Zaragon, the Blood Mage**
 
 ## Projectile 
 
