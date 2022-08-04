@@ -8,8 +8,6 @@ sidebar_position: 4
 
 <i>Your fate lies within your weapon in times of war.</i>
 
-**Drops from the Abandoned Basement**
-
 Damage: 90-135
 
 Shots: 1
@@ -19,6 +17,8 @@ Rate of Fire: 110%
 Range: 5.9
 
 Fame Bonus: 5%
+
+**Drops from the Abandoned Basement**
 
 ## Projectile
 
