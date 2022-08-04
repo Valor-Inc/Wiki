@@ -24,6 +24,8 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+**Drops from all bosses of the Zol Awakening raid**
+
 ## Projectile
 
 ![BV Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948606447632121887/unknown.png)
