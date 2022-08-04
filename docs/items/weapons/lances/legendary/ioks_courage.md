@@ -28,6 +28,10 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+***Blessing of the Skies: If your protection is depleted your surge increases by 15 everytime you use an ability***
+
+**Craftable from Shard of the Ancients**
+
 ## Projectile
 
 ![New Ioks Projectile](https://i.imgur.com/QISenEm.png)
