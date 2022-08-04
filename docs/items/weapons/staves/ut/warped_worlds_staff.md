@@ -22,4 +22,8 @@ Shots hit multiple targets
 
 Fame Bonus: No Fame Bonus
 
+***Upgradable with Essence of the Realm!***
+
+**Drops from the Illusionist of the Crypt of the Illusionist**
+
 ## Projectile
