@@ -20,6 +20,8 @@ Shot Effect: Curse for 0.8 Seconds
 
 Fame Bonus: 8%
 
+***This item is a part of the Lunarologist Set***
+
 **Craftable from Shard of the Ancients**
 
 ## Projectile
