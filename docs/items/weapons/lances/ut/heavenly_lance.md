@@ -18,9 +18,11 @@ Range: 3.7
 
 Shots hit multiple targets
 
-Ignores defnese of target
+Ignores defense of target
 
 Fame Bonus: 6%
+
+**Drops from Valia the Great Arbiter of the Ascended Heavenly Rift**
 
 ## Projectile
 
