@@ -26,6 +26,8 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+**Upgraded form of [Warped Worlds Staff](https://wiki-test.valorserver.com/docs/items/weapons/staves/ut/warped_worlds_staff)**
+
 ## Projectile
 
 ![Dreamweaver Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953294520294977586/dreamweaver.gif)
