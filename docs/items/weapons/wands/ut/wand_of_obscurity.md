@@ -22,6 +22,10 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+***Upgradable with an Elemental Sor Crystal!***
+
+**Drops from Tunnel of Pain**
+
 ## Projectile
 
 ![WoO Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626729868824636/wandofobscurity.gif)
