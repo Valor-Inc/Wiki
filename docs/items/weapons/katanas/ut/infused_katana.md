@@ -18,7 +18,15 @@ Range: 5.2
 
 5% to inflict Bleeding for 7 seconds
 
+    +60 Maximum HP
+    
+    +20 Restoration
+
 Fame Bonus: 6% 
+
+***Upgradable with Essence of the Realm***
+
+**Drops from Sorgigas the Sor Giant in the Realm**
 
 ## Projectile
 
