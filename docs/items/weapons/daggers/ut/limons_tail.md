@@ -8,8 +8,6 @@ sidebar_position: 13
 
 <i>No one knows how you stole Limon's tail after defeating them. Why would you do that to Limon, can you really live with yourself?</i>
 
-**Drops from the Ascended Sprite World**
-
 Damage: 184-198
 
 Shots: 1
@@ -25,6 +23,8 @@ Ignores defense of target
     +14 Speed
     
 Fame Bonus: 6%
+
+**Drops from Ascended Limon, the Lost Sprite of the Ascended Sprite World**
 
 ## Projectile
 
