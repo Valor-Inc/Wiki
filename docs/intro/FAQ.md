@@ -22,4 +22,8 @@ description: "Frequently Asked Questions... And Answers!"
 
 ### A: While nobody knows for sure and the details are kept under wraps by the developer team, players have reached the conclusion that Ancient Relics typically drop for top damagers. So if you're in a small group of maybe around 5 to 10 people, all of the people in the group get a chance at an ancient relic. In big groups, only a small number of the big group actually get a chance at dropping an AR. This theory has yet to be disproven.
 
+# Q: How is Wis Mod calculated for the item pages?
+
+### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any robe, wand, and ring equipped, having only the item being checked on in question.
+
 # More FAQs will be made in the future.
