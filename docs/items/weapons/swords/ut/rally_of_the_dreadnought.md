@@ -24,5 +24,7 @@ Range: 4
 
 Fame Bonus: 6%
 
+**Drops from the Dreadnought of the Concealment of the Dreadnought**
+
 ## Projectile
 
