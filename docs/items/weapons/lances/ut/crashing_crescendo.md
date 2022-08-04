@@ -18,6 +18,8 @@ Range: 6.4
 
 Shots hit multiple targets
 
+Ignores defense of target
+
     +5 Attack
     
     +5 Speed
@@ -25,6 +27,10 @@ Shots hit multiple targets
     +5 Wisdom
 
 Fame Bonus: 8%
+
+***Upgradable with an Elemental Sor Crystal!***
+
+**Drops from Krokanich of the Ancient Depths**
 
 ## Projectile
 
