@@ -18,5 +18,7 @@ Range: 6.5
 
 Fame Bonus: 4%
 
+**Drops from the Dark Knight of the Unspeakable**
+
 ## Projectile
 
