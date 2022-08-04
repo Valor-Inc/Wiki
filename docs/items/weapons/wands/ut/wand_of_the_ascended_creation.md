@@ -24,6 +24,8 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
 
+**Drops from Ascended Dr. Terrible of the Ascended Mad Lab**
+
 ## Projectile
 
 ![WAC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626727335460915/wandoftheascendedcreation.gif)
