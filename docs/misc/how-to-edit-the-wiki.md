@@ -8,4 +8,6 @@ description: "How to become a Wiki Nerd Yourself!"
 
 Want to be a wiki nerd? Want to simply just be a good samaritan fixing wiki changes for players who come after you? Perfect! By using the edit this page button you can make edits to a change that will be proposed! After a review by an established Wiki Nerd, your change could be made!
 
-## 
+## Want to be a member of the Wiki Team?
+
+If you think you can do more than just wiki changes, let us know! We are always looking for help, as its not just helping the Wiki, its all players! 
