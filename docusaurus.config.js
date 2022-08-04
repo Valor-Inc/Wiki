@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Valor Wiki',
   tagline: 'The #1 source for everything related to Valor.',
-  url: 'https://wiki-test.valorserver.com',
+  url: 'https://wiki.valorserver.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
