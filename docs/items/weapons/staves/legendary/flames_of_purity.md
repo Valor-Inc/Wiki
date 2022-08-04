@@ -24,6 +24,8 @@ Range: 10.0
 
 Fame Bonus: 8%
 
+**Drops from the Elemental Phantom in the Realm**
+
 ## Projectile
 
 ![FOP Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953294048964276234/flamesofpurity.gif)
