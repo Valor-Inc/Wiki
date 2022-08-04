@@ -4,11 +4,9 @@ sidebar_position: 14
 
 # Magic Throwing Cards
 
-![MGK]((https://vwiki.valorserver.com/api/item/picture/magic%20throwing%20cards)
+![MGK](https://vwiki.valorserver.com/api/item/picture/magic%20throwing%20cards)
 
 <i> A set of cards that have accidentally been exposed to dark and powerful energies from magic rituals</i>
-
-**Drops from the Mad Jester**
 
 Damage: 85
 
@@ -20,11 +18,13 @@ Range: 7
 
 Shots hit multiple targets
 
-    + 8 Speed
+    +8 Speed
     
 Fame Bonus: 8%
 
+**Drops from the Mad Jester in the Realm**
+
 ## Projectile
 
-[MGC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727293338705930/magicthrowingcards.gif)
+![MGC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727293338705930/magicthrowingcards.gif)
 
