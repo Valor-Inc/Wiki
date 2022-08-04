@@ -8,8 +8,6 @@ sidebar_position: 6
 
 <i>Extremely sharp and incredibly hot. With such a little thing, you have to be careful.</i>
 
-**Drops from Ascended and Normal Abyss of Demons**
-
 Damage: 100-140
 
 Shots: 1
@@ -21,6 +19,8 @@ Range 5.6
 Ignores defense of target
 
 Fame Bonus: 5%
+
+**Drops from Ascended and Normal Abyss of Demons**
 
 ## Projectile
 
