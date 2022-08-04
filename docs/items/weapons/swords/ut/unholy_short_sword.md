@@ -1,5 +1,5 @@
 ---
-sidebar_position: 17
+sidebar_position: 18
 ---
 
 # Unholy Short Sword
@@ -17,6 +17,8 @@ Rate of Fire: 80%
 Range: 5
 
 Fame Bonus: 4%
+
+**Drops from the Dark Knight of the Unspeakable**
 
 ## Projectile
 
