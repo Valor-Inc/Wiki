@@ -24,5 +24,7 @@ Range: 3.5
 
 Fame Bonus: 4%
 
+**Drops from the Ent Ancient in the Realm**
+
 ## Projectile
 
