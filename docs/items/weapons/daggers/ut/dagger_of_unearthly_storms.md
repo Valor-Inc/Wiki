@@ -8,8 +8,6 @@ sidebar_position: 7
 
 <i>A dagger that will slice through diamond.</i>
 
-**Drops from Storm Palace**
-
 Damage: 90-95
 
 Shots: 1
@@ -27,6 +25,8 @@ Shots hit multiple targets
     +80 Might
     
 Fame Bonus: 6%
+
+**Drops from both bosses of the Storm Palace**
 
 ## Projectile 
 
