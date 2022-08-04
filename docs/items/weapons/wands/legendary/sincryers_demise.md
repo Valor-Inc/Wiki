@@ -22,6 +22,8 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+**Buyable from Zol Awakening Raid Shop for 310 Onrane**
+
 ## Projectile
 
 ![SD Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619545567146074/sincryersdemise.gif)
