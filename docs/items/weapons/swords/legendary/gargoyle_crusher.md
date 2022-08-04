@@ -22,6 +22,8 @@ Shot Effect: Paralyzed for 0.6 seconds
 
 Fame Bonus: 8%
 
+**Craftable from Shard of the Stone Soul**
+
 ## Projectile
 
 ![GargCrush Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950420834726584340/crusher.gif)
