@@ -8,8 +8,6 @@ sidebar_position: 1
 
 <i>A dagger that seems just a tad bit... off</i>
 
-**Drops from the Crawling Depths**
-
 Damage: 240-270
 
 Shots: 1
@@ -21,6 +19,10 @@ Range: 4.8
 Shots hit multiple targets
 
 Shots pass through obstacles
+
+Fame Bonus: No Fane Bonus
+
+**Drops from Son of Arachna of the Crawling Depths**
 
 ## Projectile
 
