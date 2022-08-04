@@ -22,4 +22,6 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
+**Drops from Lucky Djinns, Lucky Ent Gods, and the Puppet Master's Threatre**
+
 ## Projectile
