@@ -22,5 +22,7 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
  
+**Drops from Bedlam**
+
 ## Projectile
 
