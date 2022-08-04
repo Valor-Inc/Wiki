@@ -26,6 +26,8 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
+**Drops from Euryale the Snake Goddess of the Ascended Snake Pit**
+
 ## Projectile
 
 ![Vlance Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769726427369482/virulentlance.gif)
