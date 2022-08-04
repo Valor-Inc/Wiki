@@ -24,5 +24,7 @@ Range: 4.8
 
 Fame Bonus: 6%
 
+**Drops from the Lord Stone Gargoyle in the Realm**
+
 ## Projectile
 
