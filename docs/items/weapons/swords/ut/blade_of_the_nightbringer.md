@@ -18,4 +18,10 @@ Range: 4
 
 Fame Bonus: 6%
 
+***Upgradable with Essence of the Realm!***
+
+**Drops from The Overseer of the Galactic Plateau**
+
+**Drops from the Alien King of the Regolith (Galactic Plateau 2nd)**
+
 ## Projectile
