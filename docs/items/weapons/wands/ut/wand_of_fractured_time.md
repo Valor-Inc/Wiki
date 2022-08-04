@@ -20,6 +20,8 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from the Dark Sorcerer of the Abandoned Basement**
+
 ## Projectile
 
 ![WFT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626729491333120/wandoffracturedtime.gif)
