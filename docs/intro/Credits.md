@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 Title: Credits
 description: "Credit's given where credit's due!"
 ---
@@ -13,7 +13,11 @@ description: "Credit's given where credit's due!"
 
 ### Oddish (Oddish#5906)
 
-### [The Valor Staff](https://wiki-test.valorserver.com/docs/misc/staff)
+## With assistance from:
+
+### [The Valor Staff](https://valorserver.com/staff)
+
+### Liv (endless#0605)
 
 ## ... and maybe you!
 
