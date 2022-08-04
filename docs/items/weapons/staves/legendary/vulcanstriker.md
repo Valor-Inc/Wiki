@@ -26,6 +26,8 @@ Shots pass through obstacles
 
 Fame Bonus: 8%
 
+**Drops from Hades of the Crimson Showdown (Crimson Cavern 2nd)**
+
 ## Projectile
 
 ![Vulcanstriker Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953303799274020944/vulcanstriker.gif)
