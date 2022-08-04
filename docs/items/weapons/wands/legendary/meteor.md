@@ -18,7 +18,9 @@ Range: 7.5
 
 Shots pass through obstacles
 
-**Meteor: "If you have burning tome or scorching scepter equipped using your ability has a chance to throw a meteor that deals damage based on your max health and mana. The impact from this meteor also dazes enemies for 2 seconds.**
+***Meteor: "If you have burning tome or scorching scepter equipped using your ability has a chance to throw a meteor that deals damage based on your max health and mana. The impact from this meteor also dazes enemies for 2 seconds.***
+
+**Craftable from Shard of Eternal Fury**
 
 Fame Bonus: 8%
 
