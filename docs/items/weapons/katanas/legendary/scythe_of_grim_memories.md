@@ -20,6 +20,8 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+**Craftable from Shard of Ancient Assault**
+
 ## Projectile
 
 ![Grimmemories projectile](https://cdn.discordapp.com/attachments/948448304574910534/948596183574667325/unknown.png)
