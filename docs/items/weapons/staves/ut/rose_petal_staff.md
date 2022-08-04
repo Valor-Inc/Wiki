@@ -24,6 +24,8 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
+**Drops from Vitalia of the Garden of Chaos**
+
 ## Projectile
 
 ![RPS Projectile](https://user-images.githubusercontent.com/106563707/178048348-bd631685-5539-4646-b2eb-ab34ae283cad.png)
