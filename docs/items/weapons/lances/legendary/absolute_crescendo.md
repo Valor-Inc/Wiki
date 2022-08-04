@@ -25,6 +25,8 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+**Upgraded form of [Crashing Crescendo](https://wiki-test.valorserver.com/docs/items/weapons/lances/ut/crashing_crescendo)**
+
 ## Projectile
 
 ![Absolute Projectile](https://cdn.discordapp.com/attachments/948363371235913798/960887048653373480/unknown.png)
