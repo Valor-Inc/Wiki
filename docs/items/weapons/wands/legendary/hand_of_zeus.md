@@ -28,6 +28,8 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+**Upgraded form of [Tyhpoon Wand](https://wiki-test.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand)**
+
 ## Projectile
 
 ![HoZ Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619544489214022/handofzeus.gif)
