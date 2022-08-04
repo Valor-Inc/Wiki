@@ -24,7 +24,11 @@ Range: 3.5
     
     +75 Maximum HP
 
-Fame Bonus: 5%
+Fame Bonus: 8%
+
+**Dropped from Merganus, the Fallen Titan of the Fallen Light Raid for Easter 2021**
+
+*This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
 ## Projectile
 
