@@ -77,6 +77,7 @@ const config = {
           {to: 'https://viewer.valorserver.com', label: 'Item Viewer', position: 'left'},
           {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
           {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
+          {to: 'https://discord.gg/valormc', label: 'Discord', position: 'left'},
           {
             href: 'https://github.com/Valor-inc/Wiki',
             label: 'GitHub',
