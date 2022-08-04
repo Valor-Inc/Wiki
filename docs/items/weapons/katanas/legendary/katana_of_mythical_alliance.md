@@ -24,7 +24,8 @@ Shots hit multiple targets
     
     +15 Attack
     
-Fame Bonus: 10%
+Fame Bonus: 8%
 
 ## Projectile
+
 ![KMAProjectile](https://cdn.discordapp.com/attachments/948448304574910534/948596530305183794/unknown.png)
