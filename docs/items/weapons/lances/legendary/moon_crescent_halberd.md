@@ -30,6 +30,8 @@ Fame Bonus: 8%
 
 ***Moonguard: If mana is below 50%, you are immune to slowed***
 
+**Drops from Merganus, the Fallen Titan of the Fallen Light raid**
+
 ## Projectile
 
 ![New MCH Projectile](https://i.imgur.com/7CCYKjx.png)
