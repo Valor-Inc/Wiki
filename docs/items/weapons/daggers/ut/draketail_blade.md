@@ -8,8 +8,6 @@ sidebar_position: 8
 
 <i>A sharp dagger with the tail of a Drake attached to the bottom fo the hilt.</i>
 
-**Drops from Krokanich of the Ancient Depths**
-
 Damage: 135-160
 
 Shots: 1
@@ -27,6 +25,8 @@ Ignores defense of target
     +8 Speed
     
 Fame Bonus: 6%
+
+**Drops from Krokanich of the Ancient Depths**
 
 ## Projectile
 
