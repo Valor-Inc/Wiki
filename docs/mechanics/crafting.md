@@ -18,7 +18,7 @@ Shards are rare legendary items obtained as drops from various bosses or from el
 ![Shard Drops](https://media.discordapp.net/attachments/916852010719014933/916852409752494101/unknown.png?width=687&height=620)
 
 ### Shard Pools
-![Shard Pools](https://cdn.discordapp.com/attachments/955974901787938847/993973483639935016/unknown.png)   
+![Shard Pools](https://media.discordapp.net/attachments/732139834876887100/1004886144615469187/shard_pool.png?width=1166&height=656)   
 
 
 ## Essence of the Realm
@@ -41,8 +41,8 @@ Elemental Sors work similarly to Essences but are cheaper to make & work on a di
 Elemental Sors are soulbound but made with an Ancient Rune (bought with 200k fame in the nexus) + Any Elemental (Air/Earth/Fire/Water) Rune at the forge. They also have a chance to drop from the Elemental Phantom realm event.
 
 ### Upgrade List
-![ESor List](https://media.discordapp.net/attachments/948404602389286922/980294868989517854/unknown.png?width=744&height=418)  
-*Could use visuals, missing new Wand of Obscurity craft*
+![ESor List](https://cdn.discordapp.com/attachments/955249831390105640/1004885413795729428/esor.png)  
+
 
 
 ## Shines
