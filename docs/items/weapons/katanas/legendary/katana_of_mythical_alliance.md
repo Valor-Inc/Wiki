@@ -26,6 +26,8 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
+**Craftable from Shard of the Ancients**
+
 ## Projectile
 
 ![KMAProjectile](https://cdn.discordapp.com/attachments/948448304574910534/948596530305183794/unknown.png)
