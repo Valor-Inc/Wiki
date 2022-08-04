@@ -20,7 +20,7 @@ Fame Bonus: 4%
 
 ***This item can be upgraded with Elemental Sor!***
 
-**Drops from Zaragon, the Blood Mage**
+**Drops from Zaragon, the Blood Mage in the Realm**
 
 ## Projectile 
 
