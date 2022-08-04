@@ -8,8 +8,6 @@ sidebar_position: 5
 
 <i>This dagger was a myth, will you live to tell the tale?</i>
 
-**Drops from Skull Shrine**
-
 Damage: 142-168
 
 Shots: 1
@@ -21,10 +19,14 @@ Range: 4.7
 Shots pass through obstacles
 
     +2 Attack
+    
     +6 Defense
+    
     -60 Maximum HP
     
 Fame Bonus: 6%
+
+**Drops from Skull Shrine in the Realm**
 
 ## Projectile
 
