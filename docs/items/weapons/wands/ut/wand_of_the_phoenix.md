@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Wand_of_the_Phoenix
+# Wand of the Phoenix
 
 ![phoenixwand](http://i.imgur.com/KBNkTsb.png)
 
@@ -17,6 +17,8 @@ Rate of Fire: 100%
 Range: 9
 
 Fame Bonus: No Fame Bonus
+
+**Drops from Phoenix Lords in the Realm**
 
 ## Projectile
 
