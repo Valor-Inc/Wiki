@@ -4,7 +4,7 @@ Title: Helpful Advice
 description: "Advice For New Players"
 ---
 
-# Advice
+# Helpful Advice
 
 ## Getting Started
 
