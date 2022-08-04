@@ -24,6 +24,10 @@ Shots pass through obstacles
 
 Fame Bonus: 8%
 
+***Royalty: When no enemies within 10 squares of you, you gain a stronger version of the healing effect.***
+
+**Craftable from Shard of Cosmic Collapse**
+
 ## Projectile
 
 ![SoRR Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953297490592034856/royalrevenge.gif)
