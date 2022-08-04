@@ -20,6 +20,8 @@ Range: 3.6
 
 Fame Bonus: 8%
 
+**Drops from the Right Zol Lieutenant of the Zol Pirate Cave**
+
 ## Projectile
 
 ![Corruptedcut Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950407443375067186/CorruptedCutlass.gif)
