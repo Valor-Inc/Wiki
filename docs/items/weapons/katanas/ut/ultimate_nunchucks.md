@@ -22,4 +22,6 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from Arnkz, the Mega Samurai of the Dojo**
+
 ## Projectile
