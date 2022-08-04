@@ -28,4 +28,6 @@ Fame Bonus: 8%
 
 ***Relentless: Each surge point you currently have adds an extra 6 outputting damage.***
 
+**Craftable with Shard of Cosmic Collapse**
+
 ## Projectile
