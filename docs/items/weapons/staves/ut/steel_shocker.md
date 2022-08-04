@@ -30,5 +30,7 @@ Shots pass through obstacles
 
 Fame Bonus: 4%
 
+**Drops from Dr. Terrible of the Mad Lab**
+
 ## Projectile
 
