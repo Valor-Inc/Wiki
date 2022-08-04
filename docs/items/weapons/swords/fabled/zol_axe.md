@@ -29,3 +29,5 @@ Fame Bonus: 6%
 ## Projectile
 
 ![ZolAxe Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950406545924063242/ZolAxe.gif)
+
+**Drops from Aldragine of the Zol Awakening raid**
