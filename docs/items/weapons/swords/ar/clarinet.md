@@ -9,9 +9,9 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Clarinet" label="Clarinet" default>
 
-# Clarinet
+# Clarent
 
-![Clarinet](https://vwiki.valorserver.com/api/item/picture/Clarinet)
+![Clarent](https://vwiki.valorserver.com/api/item/picture/Clarinet)
 
 <i>Fear it. Dread it. Destiny arrives all the same.</i>
 
@@ -33,10 +33,11 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Drops from Malgor, the Eternal Fiend (Events) | Public Challenge**
+
 ## Projectile
 
 ![Clarent ile](https://cdn.discordapp.com/attachments/948363241631916122/954070228550189116/Clarent.gif)
-
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -58,12 +59,14 @@ Range: 4
 Shots hit multiple targets
 
 Ignores defense of target
-      
-      +200 Maximum HP
-      
-      +60 Restoration
+
+    +200 Maximum HP
+
+    +60 Restoration
 
 Fame Bonus: 15%
+
+**Enchanted Clarinet with Ancient Air Rune**
 
 ## Projectile
 
@@ -72,7 +75,7 @@ Fame Bonus: 15%
 
 # Clarinet Earth
 
-![ClarinetE](https://vwiki.valorserver.com/api/item/picture/clarinet%20earth)
+![ClarentE](https://vwiki.valorserver.com/api/item/picture/clarinet%20earth)
 
 <i>The very ground withers at your accursed heels, imbuing you with regenerative energy.</i>
 
@@ -88,20 +91,22 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-        +400 Maximum HP
-      
-        +70 Restoration
+    +400 Maximum HP 
+
+    +70 Restoration
 
 Fame Bonus: 15%
+
+**Enchanted Clarinet with Ancient Earth Rune**
 
 ## Projectile
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# Clarient Fire
+# Clarinet Fire
 
-![ClarinetF](https://vwiki.valorserver.com/api/item/picture/clarinet%20fire)
+![ClarentF](https://vwiki.valorserver.com/api/item/picture/clarinet%20fire)
 
 <i>Underneath the flames each swing beckons forth a razor-sharp obsidian edge that flies effortlessly through the air.</i>
 
@@ -117,11 +122,13 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-      +200 Maximum HP
-      
-      +60 Restoration
+    +200 Maximum HP 
+
+    +60 Restoration
 
 Fame Bonus: 15%
+
+**Enchanted Clarinet with Ancient Fire Rune**
 
 ## Projectile
 
@@ -130,7 +137,7 @@ Fame Bonus: 15%
 
 # Clarinet Water
 
-![ClarinetW](https://vwiki.valorserver.com/api/item/picture/clarinet%20water)
+![ClarentW](https://vwiki.valorserver.com/api/item/picture/clarinet%20water)
 
 <i>It reeks of the unnatural, but nothing can withstand the flaming despair of an Eternal.</i>
 
@@ -146,11 +153,13 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-        +200 Maximum HP
-      
-        +60 Restoration
-      
+    +200 Maximum HP
+
+    +60 Restoration
+     
 Fame Bonus: 15%
+
+**Enchanted Clarinet with Ancient Water Rune**
 
 ## Projectile
 
