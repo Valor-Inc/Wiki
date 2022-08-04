@@ -24,4 +24,6 @@ Range: 8.6
 
 Fame Bonus: 5%
 
+**Drops from Riv, the Heavenly Champion of the Heavenly Rift**
+
 ## Projectile
