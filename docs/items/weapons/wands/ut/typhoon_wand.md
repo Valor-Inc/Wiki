@@ -26,6 +26,8 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from both bosses of the Storm Palace**
+
 ## Projectile
 
 ![Typhoon Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626729113850007/typhoonwand.gif)
