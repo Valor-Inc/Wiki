@@ -20,6 +20,8 @@ Shot Effect: Curse for 0.8 Seconds
 
 Fame Bonus: 8%
 
+**Craftable from Shard of the Ancients**
+
 ## Projectile
 
 ![Stargazer Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619546527633468/stargazer.gif)
