@@ -30,4 +30,8 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
 
+***Upgradable with Essence of the Realm!***
+
+**Drops from Hades of the Crimson Showdown (Crimson Caverns 2nd)**
+
 ## Projectile
