@@ -28,7 +28,9 @@ Range: 4
     
     +8 Vitality
 
-Fame Bonus: 12%
+Fame Bonus: 8%
+
+**Craftable from Shard of Cosmic Collapse**
 
 ## Projectile
 
