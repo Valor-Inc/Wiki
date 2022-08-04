@@ -22,6 +22,8 @@ Range: 9.8
 
 Fame Bonus: 6%
 
+**Drops from the Esben, the Unwilling of the Ice Cave**
+
 ## Projectile
 
 ![frostwand Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626728098824222/frostwand.gif)
