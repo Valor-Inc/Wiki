@@ -22,6 +22,8 @@ Ignores defnese of target
 
 Fame Bonus: 8%
 
+**Drops from both Zol Lieutenants of the Zol Pirate Cave**
+
 ## Projectile
 
 ![New ZolT Projectile](https://i.imgur.com/YAQJ30s.png)
