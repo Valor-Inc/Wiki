@@ -25,3 +25,5 @@ Fame Bonus: 8%
 ## Projectile
 
 ![Orbis Projectile](https://media.discordapp.net/attachments/953134990428868629/994767000259797063/orbisterrae.gif)
+
+**Drops from Vitalia of the Garden of Chaos**
