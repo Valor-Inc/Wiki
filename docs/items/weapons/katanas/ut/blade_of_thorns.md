@@ -28,4 +28,6 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from Vitalia of the Garden of Chaos**
+
 ## Projectile
