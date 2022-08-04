@@ -22,5 +22,7 @@ Shots hit multiple targets
 
 Fame Bonus: 4%
 
+**Drops from the Overseer of the Galactic Plateau**
+
 ## Projectile
 
