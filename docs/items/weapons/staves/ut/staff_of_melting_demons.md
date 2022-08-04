@@ -26,6 +26,8 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
+**Drops from Ascended Archdemon Malphas of the Ascended Abyss of Demons**
+
 ## Projectile
 
 ![SMD Projectile](https://user-images.githubusercontent.com/106563707/178049729-db180b87-0871-47fb-9a5f-fe52bbc95d42.png)
