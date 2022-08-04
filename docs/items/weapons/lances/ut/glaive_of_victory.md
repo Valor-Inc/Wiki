@@ -26,6 +26,8 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
+**Drops from the Horrific in the Realm**
+
 ## Projectile
 
 ![GlaiveVic Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769723927580732/glaiveofvictory.gif)
