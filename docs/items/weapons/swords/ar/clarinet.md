@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-Title: Clarinet
+title: Clarinet
 ---
 
 import Tabs from '@theme/Tabs';
