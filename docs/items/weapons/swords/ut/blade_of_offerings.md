@@ -12,13 +12,15 @@ Damage: 100-500
 
 Shots: 1
 
-Rate of Fire:  125%
+Rate of Fire: 125%
 
 Range: 4.5
 
     +1 Defense
 
 Fame Bonus: 6%
+
+**Drops from the Avatar of the Forgotten King in the Realm**
 
 ## Projectile
 
