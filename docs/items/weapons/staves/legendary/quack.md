@@ -18,6 +18,8 @@ Range: 7.5
 
 Fame Bonus: 8% 
 
+**Upgraded form of Anatis Staff**
+
 ## Projectile
 
 ![quack Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953292005226713209/quack.gif)
