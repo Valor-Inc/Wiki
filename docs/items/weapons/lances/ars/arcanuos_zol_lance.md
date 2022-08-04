@@ -12,11 +12,9 @@ import TabItem from '@theme/TabItem';
 # Arcanuo's Zol Lance
 
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
-
     
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
-
-    
+   
 Damage: 880-995
 
 Shots: 2
@@ -33,16 +31,16 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Drops from Aldragine of the Zol Awakening raid**
+
 ## Projectile
 
 ![AZL Projectile](https://cdn.discordapp.com/attachments/948363371235913798/948435863124181022/unknown.png)
   </TabItem>
   <TabItem value="Air" label="Air">
     
-    
 # Arcanuo's Zol Lance Air
-
-    
+   
 ![AZLA](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20air)
     
 <i>The Zol fills your lungs now, giving you unparalleled vigor and ferocity.</i>
@@ -79,7 +77,6 @@ Fame Bonus: 15%
     
 <i>The wounds of this fickle world don't phase you anymore. You know better than them. All of them.</i>
 
-    
 **Earth Rune: Increases your health by 100.**
     
 Damage: 880-995
@@ -110,7 +107,6 @@ Fame Bonus: 15%
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20fire)
 
 <i>All that you know flickers into ghastly embers, leaving only rage with each vicious strike.</i>
-
     
 **Fire Rune: Increases your minimum damage by 45 and maximum by 50.**
     
