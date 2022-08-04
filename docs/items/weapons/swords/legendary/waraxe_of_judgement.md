@@ -18,6 +18,8 @@ Range: 2.9
 
 Fame Bonus: 8%
 
+**Crafted from Shard of Eternal Fury**
+
 ## Projectile
 
 ![Waraxe Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950421184971964417/Waraxe.gif)
