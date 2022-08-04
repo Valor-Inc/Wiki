@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 17
 ---
 
 # Uber Sword
@@ -21,3 +21,5 @@ Range: 4.1
 Fame Bonus: 6%
 
 ## Projectile
+
+
