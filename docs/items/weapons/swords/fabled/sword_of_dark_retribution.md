@@ -24,6 +24,8 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
+**Drop from Ultra The Vision of Aldragine and Ultra Aldragine of the Ultra Zol Awakening raid**
+
 ## Projectile
 
 ![DarkRetSword Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950408053323337728/DarkRetribution.gif)
