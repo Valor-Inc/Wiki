@@ -31,6 +31,8 @@ Shots hit multiple targets
     
 Fame Bonus: 15%
 
+**Drops from Ulgur | Public Challenge**
+
 ## Projectile
 
 ![PC Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948448969028153394/unknown.png)
@@ -67,6 +69,8 @@ Ignores defense of target
     
 Fame Bonus: 15%
 
+**Enchanted Phantom Cleaver with Ancient Air Rune**
+
 ## Projectile
 
 ![PCA Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948449991326834769/unknown.png)
@@ -96,6 +100,8 @@ Range: 4.4
     
 Fame Bonus: 15%
 
+**Enchanted Phantom Cleaver with Ancient Earth Rune**
+
 ## Projectile
 
 ![PCE Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948449714888646686/unknown.png)
@@ -124,6 +130,8 @@ Range: 4.4
     +25 Attack
     
 Fame Bonus: 15%
+
+**Enchanted Phantom Cleaver with Ancient Fire Rune**
 
 ## Projectile
 
@@ -155,6 +163,8 @@ Range: 5.5
     +25 Wisdom
     
 Fame Bonus: 15%
+
+**Enchanted Phantom Cleaver with Ancient Water Rune**
 
 ## Projectile
 
