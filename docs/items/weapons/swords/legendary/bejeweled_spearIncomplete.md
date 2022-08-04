@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Bejeweled Spear
 
-![Bejeweled]
+![Bejeweled](https://vwiki.valorserver.com/api/item/picture/bejeweled%20reason)
 
 <i>A robust seaslayer spear that emanates grandeur and precision. The ruby infused within seems to hae preserved it all these years, its eact purpose still unfulfilled.</i>
 
@@ -25,6 +25,8 @@ Range: 3
     +4 Fortune
 
 Fame Bonus: 12%
+
+**Drops from Wrackjaw | Trial**
 
 ## Projectile
 
