@@ -20,6 +20,12 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+***This item is a part of Cataclysmic Set***
+
+**Craftable from Shard of Ancient Assault**
+
 ## Projectile
 
 ![the2k Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953328064878755951/2-k.gif)
+
+
