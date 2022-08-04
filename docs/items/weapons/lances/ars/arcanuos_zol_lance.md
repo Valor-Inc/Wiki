@@ -38,7 +38,7 @@ Fame Bonus: 15%
 ![AZL Projectile](https://cdn.discordapp.com/attachments/948363371235913798/948435863124181022/unknown.png)
   </TabItem>
   <TabItem value="Air" label="Air">
-    
+
 # Arcanuo's Zol Lance Air
    
 ![AZLA](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20air)
@@ -63,16 +63,16 @@ Ignores defense of target
     
 Fame Bonus: 15%
 
+**Enchanted Arcanuo's Zol Lance with Ancient Air Rune**
+
 ## Projectile
 
     
   </TabItem>
   <TabItem value="Earth" label="Earth">
-    
-    
+
 # Arcanuo's Zol Lance Earth
 
-    
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20earth)
     
 <i>The wounds of this fickle world don't phase you anymore. You know better than them. All of them.</i>
@@ -95,14 +95,15 @@ Ignores defense of target
     
 Fame Bonus: 15%
 
+**Enchanted Arcanuo's Zol Lance with Ancient Earth Rune**
+
 ## Projectile
 
     
   </TabItem>
   <TabItem value="Fire" label="Fire">
-    
-# Arcanuo's Zol Lance Fire
 
+# Arcanuo's Zol Lance Fire
     
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20fire)
 
@@ -126,13 +127,14 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Enchanted Arcanuo's Zol Lance with Ancient Fire Rune**
+
 ## Projectile
 
   
   </TabItem>
-  <TabItem value="Water" label="Water">
-    
-    
+  <TabItem value="Water" label="Water"> 
+
 # Arcanuo's Zol Lance Water
 
 ![AZLW](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20water)
@@ -157,9 +159,11 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Enchanted Arcanuo's Zol lance with Ancient Water Rune**
+
 ## Projectile
-    
-    
+
+
   </TabItem>
 </Tabs>
 
