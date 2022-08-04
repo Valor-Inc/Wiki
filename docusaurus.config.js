@@ -74,7 +74,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: 'https://wiki.valorserver.com', label: 'Item Viewer', position: 'left'},
+          {to: 'https://viewer.valorserver.com', label: 'Item Viewer', position: 'left'},
           {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
           {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
           {
