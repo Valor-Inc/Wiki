@@ -24,6 +24,8 @@ Range: 4.5
 
 Fame Bonus: 8%
 
+**Buyable from the Zol Awakening Raid Shop for 280 Onrane**
+
 ## Projectile
 
 ![Executioner Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948596352202457108/unknown.png)
