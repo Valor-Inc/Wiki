@@ -8,8 +8,6 @@ sidebar_position: 15
 
 <i>Master owned this dagger... Me hold it for safe keeping.</i>
 
-**Drops from 1st boss of Gileon's Return**
-
 Damage: 130-150
 
 Shots: 1
@@ -23,6 +21,8 @@ Shots hit multiple targets
     +10 Defense
     
 Fame Bonus: 6%
+
+**Drops from Staumm of Gileon's Return**
 
 ## Projectile
 
