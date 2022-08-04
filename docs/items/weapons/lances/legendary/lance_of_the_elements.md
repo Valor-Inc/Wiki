@@ -8,8 +8,6 @@ sidebar_position: 4
 
 <i>Its handle shines with raw elemental power.</i>
 
-**Upgraded form of [Earthbound Lance](https://wiki-test.valorserver.com/docs/items/weapons/lances/ut/earthbound_lance)**
-
 Damage: 210-650
 
 Shots: 1
@@ -23,6 +21,8 @@ Ignores defense of target
     +15 Defense
 
 Fame Bonus: 8%
+
+**Upgraded form of [Earthbound Lance](https://wiki-test.valorserver.com/docs/items/weapons/lances/ut/earthbound_lance)**
 
 ## Projectile
 
