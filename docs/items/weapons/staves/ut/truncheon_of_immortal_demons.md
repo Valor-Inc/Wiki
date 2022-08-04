@@ -18,4 +18,6 @@ Range: 8.3
 
 Fame Bonus: 5% 
 
+**Drops from Hades of the Crimson Showdown (Crimson Cavern 2nd)**
+
 ## Projectile
