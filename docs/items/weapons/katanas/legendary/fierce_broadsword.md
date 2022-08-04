@@ -28,4 +28,6 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
+***Plagued Edge: When hit you have a 20% chance to become Weakened for 5 seconds.***
+
 **Drops from Zegaell of Gileon's Return**
