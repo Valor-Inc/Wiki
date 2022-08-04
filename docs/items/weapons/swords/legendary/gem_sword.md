@@ -20,6 +20,8 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+**Upgraded form of Crystal Sword**
+
 ## Projectile
 
 ![Gems Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954067335730302986/gemsword.gif)
