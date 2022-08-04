@@ -18,4 +18,6 @@ Range: 4
 
 Fame Bonus: 5%
 
+**Drops from Eye of the Dragon in the Realm**
+
 ## Projectile
