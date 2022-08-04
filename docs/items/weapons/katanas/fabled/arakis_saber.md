@@ -22,6 +22,8 @@ Range: 5.1
 
 Fame Bonus: 8%
 
+**Drops from Araki the Omega Samurai**
+
 ## Projectile
 
 ![AS Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948606160594927636/unknown.png)
