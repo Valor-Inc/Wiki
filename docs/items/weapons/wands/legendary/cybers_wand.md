@@ -28,6 +28,8 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+**Drops from Cyber Lord in the Realm**
+
 ## Projectile
 
 ![CyberW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619543402877059/cyberswand.gif)
