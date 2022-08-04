@@ -14,7 +14,7 @@ Shots: 4
 
 Rate of Fire: 100%
 
-Range: 3.6
+Range: 4.3
 
 Shots hit multiple targets
 
@@ -25,6 +25,8 @@ Ignores defense of target
     +10 Attack
 
 Fame Bonus: 8%
+
+**Crafted from Shard of Eternal Fury**
 
 ## Projectile
 
