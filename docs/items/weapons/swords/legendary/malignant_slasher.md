@@ -22,6 +22,8 @@ Range: 6
 
 Fame Bonus: 8%
 
+**Drops from the Abomination**
+
 ## Projectile
 
 ![Malignant Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954067969359630376/Slasher.gif)
