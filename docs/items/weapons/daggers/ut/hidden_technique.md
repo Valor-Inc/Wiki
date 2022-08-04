@@ -8,8 +8,6 @@ sidebar_position: 12
 
 <i>Watch as I demonstrate true talent!</i>
 
-**Drops from the Dojo**
-
 Damage: 50-100
 
 Shots: 1
@@ -20,8 +18,12 @@ Range: 5.9
 
 Shots hit multiple targets
 
-    + 1 Life Steal
-    
+    +1 Life Steal
+   
+Fame Bonus: No Fame Bonus:
+
+**Drops from Arnkz the Mega Samurai of the Dojo**
+
 ## Projectile
 
 ![HT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727292508209284/hiddentechnique.gif)
