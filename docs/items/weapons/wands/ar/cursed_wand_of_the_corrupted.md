@@ -27,6 +27,8 @@ Shots hit multiple targets
 
 Fame Bonus: 15%
 
+**Drops from Zol Captain of the Zol Pirate Cave**
+
 ## Projectile
 
 ![CWC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615948070649866/arwand.gif)
@@ -39,7 +41,7 @@ Fame Bonus: 15%
 ![CWCa](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20air)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
-    
+
 Damage: 265-340
 
 Shots: 2
@@ -54,6 +56,8 @@ Shots hit multiple targets
 
 Fame Bonus: 15%
 
+**Enchanted Cursed Wand of Corrupted with Ancient Air Rune**
+
 ## Projectile
 
 ![CWCa Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615948590755870/arwandair.gif)
@@ -66,7 +70,7 @@ Fame Bonus: 15%
 ![CWCe](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20Earth)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
-    
+
 Damage: 265-340
 
 Shots: 2
@@ -80,6 +84,8 @@ Shots hit multiple targets
 Ignores defense of target
 
 Fame Bonus: 15%
+
+**Enchanted Cursed Wand of Corrupted with Ancient Earth Rune**
 
 ## Projectile
 
@@ -105,6 +111,8 @@ Range: 9
 Shots hit multiple targets
 
 Fame Bonus: 15%
+
+**Enchanted Cursed Wand of Corrupted with Ancient Fire Rune**
 
 ## Projectile
 
@@ -133,6 +141,8 @@ Shots hit multiple targets
     +8 Wisdom
     
 Fame Bonus: 15%
+
+**Enchanted Cursed Wand of Corrupted with Ancient Water Rune**
 
 ## Projectile
 
