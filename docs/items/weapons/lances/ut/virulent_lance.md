@@ -28,4 +28,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![ Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769726427369482/virulentlance.gif)
+![Vlance Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769726427369482/virulentlance.gif)
