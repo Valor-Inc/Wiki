@@ -18,6 +18,8 @@ Range: 4
 
 Fame Bonus: 4%
 
+**Drops from the Cyber Lord in the Realm**
+
 ## Projectile
 
 ![Glittzy Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950405096750055444/Glitzy.gif)
