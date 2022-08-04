@@ -26,6 +26,8 @@ Shots are parametric
 
 Fame Bonus: 8%
 
+**Upgraded form of Wand of the Bulwark**
+
 ## Projectile
 
 ![WSG Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619560901525515/wandofthesnakegod.gif)
