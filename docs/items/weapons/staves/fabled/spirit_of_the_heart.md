@@ -26,6 +26,8 @@ Shots Boomerang
 
 Fame Bonus: 8%
 
+**Drops from all bosses of the Zol Awakening raid**
+
 ## Projectile
 
 ![Spirit Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953331150854717460/spiritoftheheart.gif)
