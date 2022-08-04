@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Damage: 175-285
 
-Shots: 9
+Shots: 1
 
 Rate of Fire: 85%
 
@@ -21,6 +21,8 @@ Shots hit multiple targets
     +140 Maximum MP
 
 Fame Bonus: 8%
+
+**Drops from all bosses of the Zol Awakening raid**
 
 ## Projectile
 
