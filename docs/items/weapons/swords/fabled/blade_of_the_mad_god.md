@@ -20,6 +20,10 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+***This item is a part of Mad God Bruiser Set***
+
+**Drops from Oryx, the Mad God 3**
+
 ## Projectile
 
 ![BOTMG Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950407687118667797/BladeOfTheMadGod.gif)
