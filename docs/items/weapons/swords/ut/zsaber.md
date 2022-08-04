@@ -20,5 +20,7 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
 
+**Drops from Davy Jones of Davy Jones' Locker**
+
 ## Projectile
 
