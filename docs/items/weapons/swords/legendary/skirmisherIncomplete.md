@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Skirmisher
 
-![skirmisher]
+![skirmisher](https://vwiki.valorserver.com/api/item/picture/skirmisher)
 
 <i>A sharp and light spear. This ruby infused weapon was forged with one purpose in mind.</i>
 
@@ -23,6 +23,8 @@ Range: 4
     +10 Might
 
 Fame Bonus: 8%
+
+**Buyable from Krovinger Trial Shop for 400 Onrane**
 
 ## Projectile
 
