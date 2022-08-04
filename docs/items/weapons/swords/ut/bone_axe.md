@@ -8,6 +8,8 @@ sidebar_position: 4
 
 <i>An axe made of Malgor's bones.</i>
 
+**Sprited by: BLOODQWEN**
+
 Damage: 150-220
 
 Shots: 4
@@ -23,5 +25,7 @@ Shots hit multiple targets
     +25 Restoration
 
 Fame Bonus: 6%
+
+**Drops from Malgor, the Eternal Fiend | Public Challenge**
 
 ## Projectile
