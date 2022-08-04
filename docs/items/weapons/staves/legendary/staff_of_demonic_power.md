@@ -24,6 +24,8 @@ Shots pass through obstacles
 
 Fame Bonus: 8%
 
+**Drops from Serenity, the Ripper | Public Challenge**
+
 ## Projectile
 
 ![SDP Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953140434589343785/demonic_power.gif)
