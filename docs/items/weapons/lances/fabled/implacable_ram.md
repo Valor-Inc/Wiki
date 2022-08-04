@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Damage: 120-170
 
-Shots: 3
+Shots: 4
 
 Rate of Fire: 80%
 
@@ -23,6 +23,8 @@ Ignores defense of target
     +10 Maximum HP
 
 Fame Bonus: 6%
+
+**Drops from all bosses of the Calling of the Titan raid**
 
 ## Projectile
 
