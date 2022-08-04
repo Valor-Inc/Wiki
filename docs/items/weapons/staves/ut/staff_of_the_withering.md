@@ -26,4 +26,8 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
 
+**Drops from Tridorno of the Catcombs**
+
+**Obtainable through Crates**
+
 ## Projectile
