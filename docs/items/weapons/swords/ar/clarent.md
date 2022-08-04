@@ -33,10 +33,11 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
+**Drops from Malgor, the Eternal Fiend | Public Challenge**
+
 ## Projectile
 
 ![Clarent ile](https://cdn.discordapp.com/attachments/948363241631916122/954070228550189116/Clarent.gif)
-
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -58,12 +59,14 @@ Range: 4
 Shots hit multiple targets
 
 Ignores defense of target
-      
-      +200 Maximum HP
-      
-      +60 Restoration
+
+    +200 Maximum HP
+
+    +60 Restoration
 
 Fame Bonus: 15%
+
+**Enchanted Clarent with Ancient Air Rune**
 
 ## Projectile
 
@@ -88,18 +91,20 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-        +400 Maximum HP
-      
-        +70 Restoration
+    +400 Maximum HP 
+
+    +70 Restoration
 
 Fame Bonus: 15%
+
+**Enchanted Clarent with Ancient Earth Rune**
 
 ## Projectile
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-#
+# Clarent Fire
 
 ![ClarentF](https://vwiki.valorserver.com/api/item/picture/clarent%20fire)
 
@@ -117,11 +122,13 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-      +200 Maximum HP
-      
-      +60 Restoration
+    +200 Maximum HP 
+
+    +60 Restoration
 
 Fame Bonus: 15%
+
+**Enchanted Clarent with Ancient Fire Rune**
 
 ## Projectile
 
@@ -146,12 +153,13 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-        +200 Maximum HP
-      
-        +60 Restoration
-      
+    +200 Maximum HP
 
+    +60 Restoration
+     
 Fame Bonus: 15%
+
+**Enchanted Clarent with Ancient Water Rune**
 
 ## Projectile
 
