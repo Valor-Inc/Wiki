@@ -24,7 +24,9 @@ Shots pass through obstacles
     
     +10 Attack
 
-**Alien Restoration: When using Mana potions, you have a up to 25% chance to restore your protection.**
+***Alien Restoration: When using Mana potions, you have a up to 25% chance to restore your protection.***
+
+**Upgraded form of [Wand of Pristine Environments](https://wiki-test.valorserver.com/docs/items/weapons/wands/ut/wand_of_pristine_environments)**
 
 Fame Bonus: 8%
  
