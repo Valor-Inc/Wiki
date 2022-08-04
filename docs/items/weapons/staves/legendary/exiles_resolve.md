@@ -16,13 +16,15 @@ Rate of Fire: 125%
 
 Range: 7.8
 
-Slowed for 0.5 seconds
+Shot Effect: Slowed for 0.5 seconds
 
     +80 Maximum HP
     
     +160 Maximum MP
 
 Fame Bonus: 8%
+
+**Drops from the Cyber Lord in the Realm**
 
 ## Projectile
 
