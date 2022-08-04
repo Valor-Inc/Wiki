@@ -25,6 +25,8 @@ Range: 8.6
 
 Fame Bonus: 15%
 
+**Drops from Drannol, the Eternal Beast of the Calling of the Titan raid**
+
 ## Projectile
 
 ![Atonement Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953138828854562847/atonement.gif)
@@ -32,7 +34,7 @@ Fame Bonus: 15%
 
   </TabItem>
   <TabItem value="Air" label="Air">
-    
+
 # Atonement Air
 
 ![AtonementA](https://vwiki.valorserver.com/api/item/picture/atonement%20air)
@@ -55,13 +57,15 @@ Range: 8.6
 
 Fame Bonus: 15%
 
+**Enchanted Atonement with Ancient Air Rune**
+
 ## Projectile
 
 ![AtonementA Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953139834694811698/atonement_air.gif)
  
   </TabItem>
   <TabItem value="Earth" label="Earth">
-    
+
 # Atonement Earth
 
 ![AtonementE](https://vwiki.valorserver.com/api/item/picture/atonement%20earth)
@@ -70,7 +74,7 @@ Fame Bonus: 15%
 
 **Earth Rune: Increase +115 Minimum and Maximum damage, and decreases RoF by 25%.**
     
-Damage: 595-680
+Damage: 495-680
 
 Shots: 2
 
@@ -79,6 +83,8 @@ Rate of Fire: 55%
 Range: 8.6
 
 Fame Bonus: 15%
+
+**Enchanted Atonement with Ancient Earth Rune**
 
 ## Projectile
 
@@ -106,6 +112,8 @@ Range: 8.6
     +10 Attack
 
 Fame Bonus: 15%
+
+**Enchanted Atonement with Ancient Fire Rune**
 
 ## Projectile
 
@@ -135,6 +143,8 @@ Range: 8.6
     +2 Mana Leech
 
 Fame Bonus: 15%
+
+**Enchanted Atonement with Ancient Water Rune**
 
 ## Projectile
 
