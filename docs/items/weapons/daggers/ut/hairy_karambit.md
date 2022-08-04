@@ -8,8 +8,6 @@ sidebar_position: 11
 
 <i>The knife has a built in sharp edge, so it doesn't need to shoot one out"</i>
 
-**Drops from the Woodland Labyrinth**
-
 Damage: 100
 
 Shots: 1
@@ -29,6 +27,8 @@ Ignores defense of target
     -10 Vitality
     
 Fame Bonus: 5%
+
+**Drops from the Murderous Megamoth of the Woodland Labyrinth**
 
 ## Projectile
 
