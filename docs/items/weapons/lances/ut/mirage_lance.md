@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ![mirageL](https://vwiki.valorserver.com/api/item/picture/mirage%20lance)
 
-<i>  </i>
+<i>An ethereal lance that creates multiple visions of the lance itself.</i>
 
 Damage: 222-280
 
@@ -18,11 +18,13 @@ Range: 3.4
 
 Shots hit multiple targets
 
-Ignores defnese of target
+Ignores defense of target
 
 10% to inflict Slowed for 3 seconds
 
 Fame Bonus: 6%
+
+**Drops from the Illusionist of the Crypt of the Illusionist**
 
 ## Projectile
 
