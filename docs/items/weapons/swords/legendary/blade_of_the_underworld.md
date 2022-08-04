@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ![DBLADE2](https://vwiki.valorserver.com/api/item/picture/blade%20of%20the%20underworld)
 
-<i>  </i>
+<i>Hades' own blade, specially forged to punish those foolish enough to challenge him.</i>
 
 Damage: 215-355
 
@@ -19,6 +19,8 @@ Range: 4.7
 Ignores defense of target
 
 Fame Bonus: 8%
+
+**Upgraded form of Demon Blade**
 
 ## Projectile
 
