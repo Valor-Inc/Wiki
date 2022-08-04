@@ -6,6 +6,8 @@ description: "A Guide to the Nexus"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+# The Nexus
+
 <Tabs>
   <TabItem value="Nexus" label="Nexus" default>
 

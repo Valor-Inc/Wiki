@@ -4,6 +4,8 @@ Title: Helpful Advice
 description: "Advice For New Players"
 ---
 
+# Advice
+
 ## Getting Started
 
 <i>When coming to Valor, we understand that it may be overwhelming at first when becoming emmirsed in the new content, learning enemy AI, and trying to memorize drops. Fortunately, we are an extremely welcoming community of players who have no problem of assisting newer players. Here are some helpful pointers to get you started!</i>
