@@ -28,6 +28,8 @@ Shots Boomerang
 
 Fame Bonus: 6%
 
+**Drops from all bosses of the Calling of the Titan raid**
+
 ## Projectile
 
 ![evisceration Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997618201854754936/eviscerationclaws.gif)
