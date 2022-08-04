@@ -26,5 +26,7 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from Varghus, the Eye of the Tunnel of Pain**
+
 ## Projectile
 
