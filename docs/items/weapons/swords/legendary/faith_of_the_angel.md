@@ -28,6 +28,9 @@ Shots pass through obstacles
 
 Fame Bonus: 8%
 
+**Craftable from Shard of Cosmic Collapse**
+
 ## Projectile
 
 ![FAngel Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954065303959109682/Faith.gif)
+
