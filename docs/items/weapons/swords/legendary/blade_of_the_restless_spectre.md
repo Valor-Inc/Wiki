@@ -26,6 +26,8 @@ Range: 4.5
 
 Fame Bonus: 8%
 
+**Craftable with Shard of Zol Corruption**
+
 ## Projectile
 
 ![BRS Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954066791091564564/Restless.gif)
