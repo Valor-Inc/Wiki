@@ -24,6 +24,8 @@ Range: 6.7
 
 Fame Bonus: 8%
 
+**Craftable from Shard of Cosmic Collapse**
+
 ## Projectile
 
 ![Sorrowful Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619546108219563/sorrowfulboundtouch.gif)
