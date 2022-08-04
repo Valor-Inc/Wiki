@@ -8,8 +8,6 @@ sidebar_position: 9
 
 <i>Theres a fire, not really a storm but it sounds cooler</i>
 
-**Drops from Rock Dragon**
-
 Damage: 90-145
 
 Shots: 3
@@ -19,6 +17,8 @@ Rate of Fire: 108%
 Range: 5.8
 
 Fame Bonus: 5%
+
+**Drops from the Eye of the Dragon in the Realm**
 
 ## Projectile
 
