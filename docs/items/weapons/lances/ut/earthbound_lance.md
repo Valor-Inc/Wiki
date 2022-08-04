@@ -20,7 +20,11 @@ Ignores defense of target
 
     +10 Defense
 
-Fame Bonus: 8%
+Fame Bonus: 6%
+
+***Upgradable with an Essence of the Realm!***
+
+**Drops from Urious, God of Elements of the Elemental Ruins**
 
 ## Projectile
 
