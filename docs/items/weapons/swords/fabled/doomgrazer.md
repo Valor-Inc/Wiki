@@ -24,6 +24,8 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
+**Drops from Ultra The Vision of Aldragine and Ultra Aldragine of the Ultra Calling of the Titan raid**
+
 ## Projectile
 
 ![DG Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950407098586509312/Doomgrazer.gif)
