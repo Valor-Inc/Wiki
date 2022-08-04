@@ -22,4 +22,6 @@ Shots hit multiple targets
 
 Fame Bonus: 6% 
 
+**Drops from the Ghost King in the Realm**
+
 ## Projectile
