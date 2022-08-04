@@ -26,3 +26,4 @@ Range: 6.3
     
 Fame Bonus: 8%
 
+**Drops from Zeus in the Sky Palace**
