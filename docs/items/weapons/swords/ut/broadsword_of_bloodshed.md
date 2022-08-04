@@ -20,5 +20,9 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+***This item is a part of Dark Knight Set***
+
+**Drops from the Dark Knight of the Unspeakable**
+
 ## Projectile
 
