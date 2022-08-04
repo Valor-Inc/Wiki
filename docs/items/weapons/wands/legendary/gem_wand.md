@@ -20,6 +20,8 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+**Upgraded form of Crystal Wand**
+
 ## Projectile
 
 ![Gem Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619544170438656/gemwand.gif)
