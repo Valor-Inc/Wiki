@@ -7,8 +7,6 @@ sidebar_position: 3
 
 <i>A dagger made of crystal.</i>
 
-**Drops from Crystal Prisoner**
-
 Damage: 125-135
 
 Shots: 1
@@ -18,6 +16,8 @@ Rate of Fire: 100%
 Range: 6.9
 
 Fame Bonus: 5%
+
+**Drops from Crystal Prisoner in the Realm**
 
 ## Projectile
 
