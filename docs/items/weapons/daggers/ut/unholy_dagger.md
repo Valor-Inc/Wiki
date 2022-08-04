@@ -7,8 +7,6 @@ sidebar_position: 17
 
 <i>A true Unholy Dagger, used for many sacrifaces to the Dark Lords of the Realm.</i>
 
-**Drops from 2nd boss of the Unspeakable**
-
 Damage: 80-180
 
 Shots: 1
@@ -18,6 +16,8 @@ Rate of Fire: 120%
 Range: 5.7
 
 Fame Bonus: 4%
+
+**Drops from The Dark Knight of the Unspeakable**
 
 ## Projectile
 
