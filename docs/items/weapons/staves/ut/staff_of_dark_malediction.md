@@ -22,6 +22,10 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from Vargus, the Eye of the Tunnel of Pain**
+
+**Obtainable through crates**
+
 ## Projectile
 
 ![SDM Projectile](https://user-images.githubusercontent.com/106563707/178049140-fd0d9fa5-4c35-4ad8-97bd-afb6d204a317.png)
