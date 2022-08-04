@@ -8,8 +8,6 @@ sidebar_position: 16
 
 <i>2 sides of the problem is that it's a total issue to have twice the stupidity!</i>
 
-**Drops from Hand of Terradius' Alert**
-
 Damage: 122-190
 
 Shots: 4
@@ -21,6 +19,8 @@ Range: 5.6
     +10 Speed
     
 Fame Bonus: 6%
+
+**Drops from Hand of Terradius | Alert**
 
 ## Projectile
 
