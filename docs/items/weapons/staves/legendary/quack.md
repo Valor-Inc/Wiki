@@ -10,7 +10,7 @@ sidebar_position: 5
 
 Damage: 500-700
 
-Shots: 7.5
+Shots: 1
 
 Rate of Fire: 60%
 
