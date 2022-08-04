@@ -28,6 +28,8 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+**Drops from Granithia of the Garden of Chaos**
+
 ## Projectile
 
 ![Granithias Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626728501481694/granithiasblaster.gif)
