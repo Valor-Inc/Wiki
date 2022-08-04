@@ -30,6 +30,8 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
+**Drops from the Twilight Archmage of the Shatters**
+
 ## Projectile
 
 ![Perdition Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953329532612530186/perdition.gif)
