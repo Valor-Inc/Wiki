@@ -22,5 +22,7 @@ Range: 3.9
     
 Fame Bonus: 6%
 
+**Drops from Ogla, the Giant God of the Giant's Hill**
+
 ## Projectile
 
