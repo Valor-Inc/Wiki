@@ -35,6 +35,10 @@ Ignores defense of target
 
 Fame Bonus: 12%
 
+***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
+
+**Drops from Aldragine of the Zol Awaken raid**
+
 ## Projectile
 
 ![Spiritclaw Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950408694015864852/Sclaw.gif)
@@ -68,6 +72,12 @@ Ignores defense of target
 
 Fame Bonus: 12%
 
+***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
+
+**Drops from Aldragine of the Zol Awaken raid**
+
+*This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
+
 ## Projectile
 
 ![Birdclaw Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950409723298078760/Birdclaw.gif)
@@ -100,6 +110,12 @@ Ignores defense of target
     +60 Restoration
 
 Fame Bonus: 12%
+
+***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
+
+**Drops from Aldragine of the Zol Awaken raid**
+
+*This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
 ## Projectile
 
