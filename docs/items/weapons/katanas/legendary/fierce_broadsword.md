@@ -27,3 +27,5 @@ Shots hit multiple targets
     +20% Mana Healing Boost
     
 Fame Bonus: 8%
+
+**Drops from Zegaell of Gileon's Return**
