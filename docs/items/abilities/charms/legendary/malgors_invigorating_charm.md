@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Malgor's Invigorating Charm
 
-![MIC](https://vwiki.valorserver.com/api/item/picture/malgor's%20invigorating%20charm)
+![MIC](https://cdn.discordapp.com/attachments/962723437464395846/1004995285153488896/malgor.png)
 
 <i>We've all seen the impact of Malgor's malicious power already, this time we managed to harness his healing attributes.</i>
 
