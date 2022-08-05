@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Absolute Crescendo
 
-![Absolute Crescendo](https://vwiki.valorserver.com/api/item/picture/absolute%20crescendo)
+![Absolute Crescendo](https://cdn.discordapp.com/attachments/962723437464395846/1004995284482412574/cresc.png)
 
 
 <i>The complete blade of the celestial envoy, rumours say the shattered form became complete after the herald travelled past the stars.</i>
