@@ -41,7 +41,7 @@ Elemental Sors work similarly to Essences but are cheaper to make & work on a di
 Elemental Sors are soulbound but made with an Ancient Rune (bought with 200k fame in the nexus) + Any Elemental (Air/Earth/Fire/Water) Rune at the forge. They also have a chance to drop from the Elemental Phantom realm event.
 
 ### Upgrade List
-![ESor List](https://cdn.discordapp.com/attachments/955249831390105640/1004885413795729428/esor.png)  
+![ESor List](https://media.discordapp.net/attachments/962723437464395846/1004995881684193320/esor.png?width=500&height=1000)  
 
 
 
