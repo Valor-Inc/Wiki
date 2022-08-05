@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Wand of Blinding Power
 
-![WBP](https://vwiki.valorserver.com/api/item/picture/wand%20of%20blinding%20power)
+![WBP](https://cdn.discordapp.com/attachments/635248759126622254/1004994847322685440/blinding.png)
 
 <i>You have seen enough!</i>
 
