@@ -18,7 +18,7 @@ Range: 5.6
 
 Fame Bonus: 8%
 
-**Drops from Aldragine and Nirux, Vision of Aldragine of the Zol Awakening raid**
+**Drops from Aldragine, Nirux and the Vision of Aldragine of the Zol Awakening raid**
 
 ## Projectile
 
