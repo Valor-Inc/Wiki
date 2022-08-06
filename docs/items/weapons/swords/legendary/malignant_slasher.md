@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Malignant Slasdher
+# Malignant Slasher
 
 ![Slasheromg](https://vwiki.valorserver.com/api/item/picture/malignant%20slasher)
 
