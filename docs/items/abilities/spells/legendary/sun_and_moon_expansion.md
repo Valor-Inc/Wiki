@@ -18,7 +18,7 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-Ignroes defense of target
+Ignores defense of target
 
 MP Cost 200
 
