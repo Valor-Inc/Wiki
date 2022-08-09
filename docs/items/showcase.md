@@ -41,11 +41,11 @@ import TabItem from '@theme/TabItem';
 
 # FB
 
-[![](https://vwiki.valorserver.com/api/item/picture/)]()
+[![Darkin](https://vwiki.valorserver.com/api/item/picture/darkin%20blades)](https://wiki-test.valorserver.com/docs/items/weapons/blades/fabled/Darkin_Blades)
 
 # UT
 
-[![](https://vwiki.valorserver.com/api/item/picture/)]()
+[![Hiddenpower](https://vwiki.valorserver.com/api/item/picture/blades%20of%20hidden%20power)](https://wiki-test.valorserver.com/docs/items/weapons/blades/ut/Blades_of_Hidden_Power)
 
   </TabItem>
   <TabItem value="Ancients" label="Ancients">
