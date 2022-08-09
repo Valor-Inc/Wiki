@@ -58,11 +58,9 @@ import TabItem from '@theme/TabItem';
 
 
  </TabItem>
-
-# Shard of Ancient Assault
-
   <TabItem value="Ancient Assault" label="Ancient Assault">
 
+# Shard of Ancient Assault
 
 [![DarkLand](https://vwiki.valorserver.com/api/item/picture/dark%20land%20ruination)](https://wiki-test.valorserver.com/docs/items/abilities/shield/legendary/dark_land_ruination)
 
@@ -94,7 +92,7 @@ import TabItem from '@theme/TabItem';
 
 
  </TabItem>
-     <TabItem value="Grant Challenge" label="Grand Challenge">
+ <TabItem value="Grant Challenge" label="Grand Challenge">
 
 # Shard of the Grand Challenge
 
