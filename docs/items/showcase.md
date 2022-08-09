@@ -31,7 +31,7 @@ import TabItem from '@theme/TabItem';
 
 [![Cloud](https://vwiki.valorserver.com/api/item/picture/cloud%20edge)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/cloud_edge) [![Fierce](https://vwiki.valorserver.com/api/item/picture/fierce%20broadsword)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/fierce_broadsword) [![hellcarver](https://vwiki.valorserver.com/api/item/picture/hellcarver)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/hellcarver) [![KMA](https://vwiki.valorserver.com/api/item/picture/katana%20of%20mythical%20alliance)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/katana_of_mythical_alliance) [![kunai](https://vwiki.valorserver.com/api/item/picture/kunai)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/kunai) [![SGM](https://vwiki.valorserver.com/api/item/picture/scythe%20of%20grim%20memories)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/scythe_of_grim_memories) [![SGS](https://vwiki.valorserver.com/api/item/picture/sor%20giant%20slayer)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/sor_giant_slayer) [![Executioner](https://vwiki.valorserver.com/api/item/picture/the%20executioner)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/the_executioner) [![MockingRaven](https://vwiki.valorserver.com/api/item/picture/the%20mocking%20raven)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/legendary/the_mocking_raven)
 
-[![AbsoluteCrescendo](https://cdn.discordapp.com/attachments/962723437464395846/1004995284482412574/cresc.png)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/absolute_crescendo) [![Dragonslayer](https://vwiki.valorserver.com/api/item/picture/dragonslayer%20lance)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/dragonslayer_lance) [![IoksC](https://vwiki.valorserver.com/api/item/picture/)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/iok's_courage) [![Elements](https://vwiki.valorserver.com/api/item/picture/lance%20of%20the%20elements)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/lance_of_the_elements)
+[![AbsoluteCrescendo](https://cdn.discordapp.com/attachments/962723437464395846/1004995284482412574/cresc.png)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/absolute_crescendo) [![Dragonslayer](https://vwiki.valorserver.com/api/item/picture/dragonslayer%20lance)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/dragonslayer_lance) [![IoksC](https://vwiki.valorserver.com/api/item/picture/iok's%20courage)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/iok's_courage) [![Elements](https://vwiki.valorserver.com/api/item/picture/lance%20of%20the%20elements)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/lance_of_the_elements)
 
 
 
@@ -40,23 +40,31 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="FB/UT" label="FB/UT">
 
+# FB
 
+[![](https://vwiki.valorserver.com/api/item/picture/)]()
 
+# UT
 
-
-
-
+[![](https://vwiki.valorserver.com/api/item/picture/)]()
 
   </TabItem>
   <TabItem value="Ancients" label="Ancients">
 
+# Shard of the Ancients
+
+[![AnAstonish](https://vwiki.valorserver.com/api/item/picture/an%20astonishing%20happening)](https://wiki-test.valorserver.com/docs/items/abilities/sheaths/legendary/an_astonishing_happening) [![Vivacity](https://vwiki.valorserver.com/api/item/picture/cloak%20of%20vivacity)](https://wiki-test.valorserver.com/docs/items/abilities/cloaks/legendary/cloak_of_vivacity)
+
+
 
  </TabItem>
+
+# Shard of Ancient Assault
 
   <TabItem value="Ancient Assault" label="Ancient Assault">
 
 
-
+[![DarkLand](https://vwiki.valorserver.com/api/item/picture/dark%20land%20ruination)](https://wiki-test.valorserver.com/docs/items/abilities/shield/legendary/dark_land_ruination)
 
 
 
@@ -64,7 +72,9 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Cosmic Collapse" label="Cosmic Collapse">
 
+# Shard of the Cosmic Collapse
 
+[![decimator](https://vwiki.valorserver.com/api/item/picture/decimator%20bow)](https://wiki-test.valorserver.com/docs/items/weapons/bows/legendary/decimator_bow)
 
 
 
@@ -74,7 +84,9 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Eternal Fury" label="Eternal Fury">
 
+# Shard of the Eternal Fury
 
+[![caltrops](https://vwiki.valorserver.com/api/item/picture/caltrops)](https://wiki-test.valorserver.com/docs/items/abilities/traps/legendary/caltrops)
 
 
 
@@ -84,7 +96,9 @@ import TabItem from '@theme/TabItem';
  </TabItem>
      <TabItem value="Grant Challenge" label="Grand Challenge">
 
+# Shard of the Grand Challenge
 
+[![destruction](https://vwiki.valorserver.com/api/item/picture/destruction%20spirit)](https://wiki-test.valorserver.com/docs/items/abilities/poisons/legendary/destruction_spirit)
 
 
 
@@ -94,8 +108,9 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Stone Soul" label="Stone Soul">
 
+# Shard of the Stone Soul
 
-
+[![Crusher](https://vwiki.valorserver.com/api/item/picture/gargoyle%20crusher)](https://wiki-test.valorserver.com/docs/items/weapons/swords/legendary/gargoyle_crusher)
 
 
 
@@ -104,8 +119,9 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Zol Corruption" label="Zol Corruption">
 
+# Shard of Zol Corruption
 
-
+[![avalanche](https://vwiki.valorserver.com/api/item/picture/avalanche)](https://wiki-test.valorserver.com/docs/items/abilities/seals/legendary/avalanche)
 
 
 
