@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="AR Siphon" label="AR Siphon" default>
-   
+
 # The Eye
 
 ![TheEye](https://vwiki.valorserver.com/api/item/picture/the%20eye)
