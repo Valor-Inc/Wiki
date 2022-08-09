@@ -6,6 +6,12 @@ title: Showcase
 ***Valor has a lot of items, it sure would be nice if you could see all of them at once and admire em' right?!***
 
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="AR/LG" label="AR/LG" default>
+
 # AR
 
 [![ArcLance](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)](https://wiki-test.valorserver.com/docs/items/weapons/lances/ars/arcanuos_zol_lance) [![atonement](https://vwiki.valorserver.com/api/item/picture/atonement)](https://wiki-test.valorserver.com/docs/items/weapons/staves/ars/atonement)[![BridgeBlades](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)](https://wiki-test.valorserver.com/docs/items/weapons/blades/ars/BladesoftheBridge/) [![Clarent](https://vwiki.valorserver.com/api/item/picture/clarent)](https://wiki-test.valorserver.com/docs/items/weapons/swords/ars/clarent) [![Clarinet](https://vwiki.valorserver.com/api/item/picture/Clarinet)](https://wiki-test.valorserver.com/docs/items/weapons/swords/ar/clarinet) [![PIRATEWAND](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted)](https://wiki-test.valorserver.com/docs/items/weapons/wands/ars/cursed_wand_of_the_corrupted) [![Larry](https://vwiki.valorserver.com/api/item/picture/larry%20gun)](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Larry_Gun)[![Oblivion](https://vwiki.valorserver.com/api/item/picture/oblivion)](https://wiki-test.valorserver.com/docs/items/weapons/bows/ars/Oblivion)[![Phantom](https://vwiki.valorserver.com/api/item/picture/phantom%20cleaver)](https://wiki-test.valorserver.com/docs/items/weapons/katanas/ars/phantom_cleaver)[![Poniard](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)](https://wiki-test.valorserver.com/docs/items/weapons/daggers/ar/poniard_of_ghastly_retribution)
@@ -27,15 +33,83 @@ title: Showcase
 
 [![AbsoluteCrescendo](https://cdn.discordapp.com/attachments/962723437464395846/1004995284482412574/cresc.png)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/absolute_crescendo) [![Dragonslayer](https://vwiki.valorserver.com/api/item/picture/dragonslayer%20lance)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/dragonslayer_lance) [![IoksC](https://vwiki.valorserver.com/api/item/picture/)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/iok's_courage) [![Elements](https://vwiki.valorserver.com/api/item/picture/lance%20of%20the%20elements)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/lance_of_the_elements)
 
-# UT
-
-# Consumables
 
 
 
 
+  </TabItem>
+  <TabItem value="FB/UT" label="FB/UT">
 
 
 
 
-View [Dungeons](https://wiki-test.valorserver.com/docs/category/dungeons)
+
+
+
+
+  </TabItem>
+  <TabItem value="Ancients" label="Ancients">
+
+
+ </TabItem>
+
+  <TabItem value="Ancient Assault" label="Ancient Assault">
+
+
+
+
+
+
+
+  </TabItem>
+  <TabItem value="Cosmic Collapse" label="Cosmic Collapse">
+
+
+
+
+
+
+
+
+  </TabItem>
+  <TabItem value="Eternal Fury" label="Eternal Fury">
+
+
+
+
+
+
+
+
+ </TabItem>
+     <TabItem value="Grant Challenge" label="Grand Challenge">
+
+
+
+
+
+
+
+
+  </TabItem>
+  <TabItem value="Stone Soul" label="Stone Soul">
+
+
+
+
+
+
+
+
+  </TabItem>
+  <TabItem value="Zol Corruption" label="Zol Corruption">
+
+
+
+
+
+
+
+
+  </TabItem>
+</Tabs>
