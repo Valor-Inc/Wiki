@@ -6,8 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Valor Wiki',
+  title: 'Welcome to the Valor Wiki!',
   tagline: 'The #1 source for everything related to Valor.',
+  description: 
+  '[Dungeon Guides](https://wiki.valorserver.com/docs/category/dungeons) : Our WIP Dungeon Guides section will have all dungeons, raids, trials, and alerts!'
+  '[Items](https://wiki.valorserver.com/docs/items/showcase) : Our items section has all items available in game and their drop locations!'
+  '[Mechanics](https://wiki.valorserver.com/docs/category/mechanics) : Confused on Classes? Stats? Crafting? We got you!',
   url: 'https://wiki.valorserver.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
