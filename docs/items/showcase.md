@@ -33,9 +33,6 @@ import TabItem from '@theme/TabItem';
 
 [![AbsoluteCrescendo](https://cdn.discordapp.com/attachments/962723437464395846/1004995284482412574/cresc.png)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/absolute_crescendo) [![Dragonslayer](https://vwiki.valorserver.com/api/item/picture/dragonslayer%20lance)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/dragonslayer_lance) [![IoksC](https://vwiki.valorserver.com/api/item/picture/iok's%20courage)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/iok's_courage) [![Elements](https://vwiki.valorserver.com/api/item/picture/lance%20of%20the%20elements)](https://wiki-test.valorserver.com/docs/items/weapons/lances/legendary/lance_of_the_elements)
 
-
-
-
   </TabItem>
   <TabItem value="FB/UT" label="FB/UT">
 
@@ -86,11 +83,6 @@ import TabItem from '@theme/TabItem';
 
 [![destruction](https://vwiki.valorserver.com/api/item/picture/destruction%20spirit)](https://wiki-test.valorserver.com/docs/items/abilities/poisons/legendary/destruction_spirit) [![fierymagma](https://vwiki.valorserver.com/api/item/picture/fiery%20magma%20stone)](https://wiki-test.valorserver.com/docs/items/abilities/talismans/legendary/fiery_magma_stone) [![flaming](https://vwiki.valorserver.com/api/item/picture/flaming%20horizons%20anchor)](https://wiki-test.valorserver.com/docs/items/abilities/anchors/legendary/flaming_horizons_anchor) [![necklace](https://vwiki.valorserver.com/api/item/picture/necklace%20of%20undead%20support)](https://wiki-test.valorserver.com/docs/items/rings/legendary/necklace_of_undead_support) [![sealinsane](https://vwiki.valorserver.com/api/item/picture/seal%20of%20insane%20reasoning)](https://wiki-test.valorserver.com/docs/items/abilities/seals/legendary/seal_of_insane_reasoning) [![ravagers](https://vwiki.valorserver.com/api/item/picture/skull%20of%20ravagers)](https://wiki-test.valorserver.com/docs/items/abilities/skulls/legendary/skull_of_ravagers) [![vizkels](https://vwiki.valorserver.com/api/item/picture/vizkel's%20unholy%20garments)](https://wiki-test.valorserver.com/docs/items/armors/robes/legendary/vizkels_unholy_garments)
 
-
-
-
-
-
   </TabItem>
   <TabItem value="Stone Soul" label="Stone Soul">
 
@@ -98,9 +90,6 @@ import TabItem from '@theme/TabItem';
 
 [![Crusher](https://vwiki.valorserver.com/api/item/picture/gargoyle%20crusher)](https://wiki-test.valorserver.com/docs/items/weapons/swords/legendary/gargoyle_crusher)
 [![Slayer](https://vwiki.valorserver.com/api/item/picture/gargoyle%20slayer)](https://wiki-test.valorserver.com/docs/items/abilities/stars/legendary/gargoyle_slayer) [![Stoneplate](https://vwiki.valorserver.com/api/item/picture/gargoyle%20stoneplate)](https://wiki-test.valorserver.com/docs/items/armors/heavys/legendary/gargoyle_stoneplate) [![Garugen](https://vwiki.valorserver.com/api/item/picture/garugen)](https://wiki-test.valorserver.com/docs/items/abilities/sheaths/legendary/garugen) [![GargoyleHead](https://vwiki.valorserver.com/api/item/picture/head%20of%20the%20gargoyle)](https://wiki-test.valorserver.com/docs/items/abilities/talismans/legendary/head_of_the_gargoyle)
-
-
-
 
   </TabItem>
   <TabItem value="Zol Corruption" label="Zol Corruption">
