@@ -1,10 +1,10 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 ---
 
 # The Bleeding Fang
 
-![](https://vwiki.valorserver.com/api/item/picture/
+![bloody](https://vwiki.valorserver.com/api/item/picture/the%20bleeding%20fang)
 
 <i>A razor sharp fang that seems to even have the blood of the Eternal Beast on it's tip.</i>
 
