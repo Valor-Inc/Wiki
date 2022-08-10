@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Unoch's Truth
 
-![UnochsT](https://vwiki.valorserver.com/api/item/picture/unoch's%20truth)
+![truth](https://vwiki.valorserver.com/api/item/picture/unoch's%20truth)
 
 <i>Hiding isn't the answer, face it.</i>
 
