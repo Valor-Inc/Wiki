@@ -9,9 +9,9 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Clarinet" label="Clarinet" default>
 
-# Clarent
+# Clarinet
 
-![Clarent](https://vwiki.valorserver.com/api/item/picture/Clarinet)
+![Clarient](https://vwiki.valorserver.com/api/item/picture/Clarinet)
 
 <i>Fear it. Dread it. Destiny arrives all the same.</i>
 
