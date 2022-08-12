@@ -20,4 +20,4 @@ Fame Bonus: 8%
 
 ***Scourge's Light: An ancient, alien evil burns brightly within you. 50% chance to refund MP equal to ability cost and inflict Corrupted for 1s on ability use.***
 
-Item is unobtainable but existing copies can be traded. **Master of the House** has the exact same stats and drops from Phalgomor, the Myth-a-weave.
+***Item is unobtainable but existing copies can be traded.***
