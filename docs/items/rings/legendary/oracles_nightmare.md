@@ -14,4 +14,4 @@ sidebar_position: 15
     
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse**
+**Craftable from Shard of Cosmic Collapse and Shard of Eternal Fury**
