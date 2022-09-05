@@ -26,7 +26,7 @@ Enemy Effect: 0.1% chance to inflict Armored for 3 seconds
     
 Fame Bonus: 6%
 
-**Drops from the Regolith (Galatic Plateu 2nd)**
+**Drops from the Regolith (Galatic Plateau 2nd)**
 
 ## Projectile
 
