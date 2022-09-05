@@ -26,7 +26,7 @@ Shots hit multiple targets
     
     +20 Restoration
     
-Fame Bonus: 8%
+Fame Bonus: 6%
 
 **Drops from the Forgotten King in the Shatters**
 
