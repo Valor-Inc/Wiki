@@ -8,8 +8,6 @@ sidebar_position: 3
 
 <i>A bow forged from a shipwreck-laden barrier reef at the bottom of the ocean. Oceanic scribes describe it as the womb of many of the Realm's waterborne foes.</i>
 
-**Upgraded form of Coral Bow**
-
 Damage: 145-295
 
 Shots: 2
@@ -21,6 +19,8 @@ Range: 7.8
 Shots hit multiple targets
 
 Fame Bonus: 8%
+
+**Drops from the Ascended Ocean Trench**
 
 ## Projectile
 
