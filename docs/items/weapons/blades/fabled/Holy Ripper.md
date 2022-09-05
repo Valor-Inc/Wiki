@@ -8,6 +8,8 @@ sidebar_position: 2
 
 <i>Passed down through generations of Titans, these blades have seen their share of massacre.</i>
 
+
+
 Damage: 140-210
 
 Shots: 2
