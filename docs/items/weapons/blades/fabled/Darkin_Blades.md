@@ -8,6 +8,8 @@ sidebar_position: 1
 
 <i>Dual blades made enchanted by the demons that haunt the Bastille of Drannol.</i>
 
+
+
 Damage: 170-250
 
 Shots: 2
