@@ -20,7 +20,7 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
-**Drops from Valia, the Great Arbiter in the Ascended Heavenly Rift**
+**Drops from Valia, the Great Arbiter of the Ascended Heavenly Rift**
 
 ## Projectile
 
