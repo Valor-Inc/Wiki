@@ -83,7 +83,7 @@ Rate of Fire: 110%
 
 Ignores defense of target
 
-     +100 Protection
+     +100 Protectio
 
      +120 Maximum HP
 
