@@ -7,8 +7,6 @@ sidebar_position: 6
 
 <i>Full of vitriol, the defeated struck under the cover of darkness, slaying all 9 brothers with a single slash</i>
 
-**Craftable from the Shard of the Ancients**
-
 Damage: 185-200
 
 Shots: 3
