@@ -21,7 +21,9 @@ Range: 8.4
 Ignores defense of target
 
     +175 Maximum HP
+    
     +7 Dexterity
+    
     +20 Vitality
     
 Fame Bonus 6%
