@@ -18,7 +18,7 @@ Range: 6.6
 
 Fame Bonus: 8%
 
-**Craftable with Shard of Zol Corruption**
+**Drops from the Septavius the Ghost Goddess of the Ascended Undead Lair**
 
 ## Projectile
 
