@@ -20,7 +20,7 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-Shot Effect: Shots slow for 0.5 seconds
+Shot Effect: Slow for 0.5 seconds
 
     +100 Luck
     
@@ -28,7 +28,7 @@ Shot Effect: Shots slow for 0.5 seconds
     
 Fame Bonus: 8%
 
-**Upgrade of Empowered Whip (t0 Whip + Abyssal Rune) | The t0 Whip drops from the Abyss of Demons**
+**Upgrade of Empowered Whip (t0 Whip + Abyssal Rune)**
 
 ## Projectile
 
