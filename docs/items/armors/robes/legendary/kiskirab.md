@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Kiskirab
 
-![Kiski](https://vwiki.valorserver.com/api/item/picture/kiskirab)
+![Kiskirab](https://vwiki.valorserver.com/api/item/picture/kiskirab)
 
 <i>Everything must come to an end. No thing can be if it has yet to begin.</i>
 
