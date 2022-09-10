@@ -24,9 +24,9 @@ Range: 5.6
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse** 
-
 ***Ghost's Wrath: While you are also invisible, you gain twice the amount of wisdom you have as bonus outputting damage.***
+
+**Craftable from Shard of Cosmic Collapse** 
 
 ## Projectile
 
