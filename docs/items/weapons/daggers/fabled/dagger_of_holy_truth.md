@@ -6,6 +6,8 @@ sidebar_position: 3
 
 ![DHT](https://vwiki.valorserver.com/api/item/picture/dagger%20of%20holy%20truth)
 
+<i>This dagger only responds to the pure!</i>
+
 Damage: 175-215
 
 Shots: 1
