@@ -20,7 +20,7 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-Fame Bonus: No Fane Bonus
+Fame Bonus: No Fame Bonus
 
 **Drops from Son of Arachna of the Crawling Depths**
 
