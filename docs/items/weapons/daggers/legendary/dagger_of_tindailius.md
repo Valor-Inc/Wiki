@@ -28,9 +28,9 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-**Craftable with the Shard of Zol Corruption**
-
 ***Manastrike: If your mana is atleast 1/2 full, your luck is increased by 20%***
+
+**Craftable with the Shard of Zol Corruption**
 
 ## Projectile
 
