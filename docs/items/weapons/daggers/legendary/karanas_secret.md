@@ -21,7 +21,7 @@ Range: 5.6
 	+20 Protection
 		
 	+40 Wisdom
-		
+
 Fame Bonus: 8%
 
 **Craftable from Shard of Cosmic Collapse** 
