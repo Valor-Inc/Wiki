@@ -16,9 +16,9 @@ Range: 6.2
 
 Fame Bonus: 8%
 
-**Craftable from the Shard of Cosmic Collapse**
-
 ***Alliance: If you have another ally close to you, your rate of fire is increased by 60%.***
+
+**Craftable from the Shard of Cosmic Collapse**
 
  ## Projectile 
  
