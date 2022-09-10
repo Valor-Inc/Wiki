@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 15
 ---
 
 # Old Amulet of Resurrection
