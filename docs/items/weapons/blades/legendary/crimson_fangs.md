@@ -22,7 +22,7 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
-***Enraged Strike: On Hit: 33% to increase Attack by 1 for 3 seconds. Stacks up to 20 attack.**
+***Enraged Strike: On Hit: 33% to increase Attack by 1 for 3 seconds. Stacks up to 20 attack.***
 
 **Drops from the Ascended Tunnel of Pain**
 
