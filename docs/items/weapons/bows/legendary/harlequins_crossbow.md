@@ -67,3 +67,5 @@ Ignores defense of target
 Fame Bonus: 8%
 
 ***Was obtainable for ST. Patrick's Day 2022***
+ </TabItem>
+</Tabs>
