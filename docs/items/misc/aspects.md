@@ -64,7 +64,7 @@ import TabItem from '@theme/TabItem';
 
 **You take 25% more damage when you have 0 Reflect stacks**
 
-***Drops from the Crystal Prisoner***
+***Drops from the Crystal Prisoner of the Realm***
 
   </TabItem>
   <TabItem value="Aspect of Drannol" label="Aspect of Drannol">
@@ -108,7 +108,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Gargoyle
 
-![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20%of%20gargoyle)
+![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20gargoyle)
 
 <i>Use this to feel the mighty power of the Stone Gargoyles.</i>
 
@@ -131,82 +131,159 @@ import TabItem from '@theme/TabItem';
 ***Drops from the Lord Stone Gargoyle of the Realm***
 
   </TabItem>
-  <TabItem value="Fire" label="Fire">
+  <TabItem value="Aspect of Garu" label="Aspect of Garu">
 
+# Aspect of Garu
 
+![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20garu)
 
+<i>Use this to feel the mighty power of GARUTIOUS!</i>
 
+**Generates 1 surge for every 10 damage taken**
 
+**Gain buffs while you meet the following surge requirements:**
 
+    30: +5% Rate of Fire
+
+    60: +2 Life Steal
+
+    100: +10% Damage
+
+**Your surge will deplete after not taking damage for 1s, however you can increase the time by taking more damage (100 damage = 1 second).**
+
+***Drops from Garutious of the Realm***
+
+  </TabItem>
+  <TabItem value="Aspect of Oryx" label="Aspect of Oryx">
+
+# Aspect of Oryx
+
+![AO](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20oryx)
+
+<i>Use this to feel the mighty power of Oryx.</i>
+
+**+5% Damage to bosses**
+
+**-15% Damage to regular enemies**
+
+**Your projectiles gain a 10% chance to explode into a burst of 8 piercing projectiles upon hitting an enemy. In total, this burst deals the same damage of the projectile that applied it.**
+
+***Drops from Oryx the Mad God***
+
+  </TabItem>
+ <TabItem value="Aspect of Shrek" label="Aspect of Shrek">
+
+# Aspect of Shrek
+
+![AS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20shrek)
+
+<i>Use this to feel the mighty power of Shrek's Rage.</i>
+
+**You can now use your ability to transform into shrek for 10 seconds on a 20 second cooldown.**
+
+**Gain the following effects while in shrek form:**
+
+    +12% to all overall stats
+
+    +10% chance on shooting to launch a slow boulder that deals damage equal to the damage of the projectile that proceed it
+
+**While the shrek form wears off, you will be inflicted with the following debuffs for 10 seconds:**
+
+    -12% to all base stats and grants self Armor Broken
+
+***Drops from Uber Shrek***
+
+  </TabItem>
+  <TabItem value="Aspect of Stheno" label="Aspect of Stheno">
+
+# Aspect of Stheno 
+
+![AS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20stheno)
+
+<i>Use this to feel the mighty power of Stheno.</i>
+
+**+25% Evasion**
+
+**-1% evasion for every 10 defense over 50 and +1% evasion per 5 defense under 50**
+
+**Gain +1 Speed per 1% evasion gained by the aspect**
+
+***Drops from normal and ascended Snake Pit**
+
+  </TabItem>
+  <TabItem value="Aspect of the Glaciers" label="Aspect of the Glaciers">
+
+# Aspect of the Glaciers
+
+![AtG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20the%20glaciers)
+
+<i>The world will slow and slumber, and a great winter will swallow your soul in her cold embrace...</i>
+
+**You now gain +0.75% chance to critically defend per 1 luck (75% chance at 1000 luck)**
+
+**The following happens upon critically defending an attack:**
+
+    The shot will act as if your defnese is multiplied by your crit multiplier divided by 2, and if your defense is under 50 it will act as if it is 50. 
+
+    The 75% damage reduction cap is increased to 90%
+
+    There is a 50% chance that Armor-piercing shots or shots while armor-broken will act like normal projectiles
+
+***Drops from Bergelmir, the Frost Guardian | Alert***
 
 
   </TabItem>
-  <TabItem value="Water" label="Water">
+  <TabItem value="Aspect of the Seven Seas" label="Aspect of the Seven Seas">
 
+# Aspect of the Seven Seas
 
+![AtSS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20the%20seven%20seas)
 
+<i>Fortune and failure will meet in kind, upon the opulent waves that shall wash over your destiny...</i>
 
+**Upon killing an enemy with a quest tag, roll a 20 sided dice**
 
+**If you roll a 20, gain 20% Loot Boost. If you roll a 1, lost 10% Loot Boost**
 
-
-
-  </TabItem>
- <TabItem value="Air" label="Air">
-
-
-
-
-
-
-
+***Drops from the Kraken | Alert**
 
   </TabItem>
-  <TabItem value="Earth" label="Earth">
+  <TabItem value="Aspect of Vamps" label="Aspect of Vamps">
 
+# Aspect of Vamps
 
+![AV](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20vamps)
 
+<i>Use this to feel the mighty power of the blood suckers themselves.</i>
 
+**+2 Life Steal**
 
+**+2 Mana Leech**
 
+**Double Life Steal and Mana Leech for 3 seconds after consuming a potion**
 
-  </TabItem>
-  <TabItem value="Fire" label="Fire">
+**Potion healing caps at 100 HP**
 
+**Reduces Wisdom and Vitality Stats**
 
-
-
-
-
-
-
-  </TabItem>
-  <TabItem value="Water" label="Water">
-
-
-
-
-
-
-
+***Drops from the Abandoned Basement***
 
   </TabItem>
-  <TabItem value="Fire" label="Fire">
+  <TabItem value="Aspect of Yazanahar" label="Aspects of Yazanahar">
 
+# Aspect of Yazanahar
 
+![AY](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20yazanahar)
 
+<i>Use this to feel the mighty power of THE YAZANAHAR.</i>
 
+**-25% Luck**
 
+**Your crits now can mega crit, this chance is rolled every time you crit regularly and is based on your luck stat--but decreases in effectiveness the greater your luck stat.**
 
+**These mega crits now apply a 2x multiplier after all other crit-increasing effects.**
 
-
-  </TabItem>
-  <TabItem value="Water" label="Water">
-
-
-
-
-
-
-
+***Drops from Yazanahar of the Realm**
 
   </TabItem>
+</Tabs>
