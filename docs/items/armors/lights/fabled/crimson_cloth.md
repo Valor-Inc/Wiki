@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Crimson Cloth
 
-![CCloth](https://vwiki.valorserver.com/api/item/picture/crimson%20cloth)
+![CCloth](https://cdn.discordapp.com/attachments/635248759126622254/1021168019126374411/unknown.png)
 
 <i>A bloody leather hdie that gives a variety of small powerups.</i>
 
