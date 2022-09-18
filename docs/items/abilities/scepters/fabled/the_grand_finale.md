@@ -34,4 +34,4 @@ MP Cost: 100
 
 Fame Bonus: 8%
 
-**Drops from The Vision of Aldragine and Aldragine of the Zol Awakening raid*
+**Drops from The Vision of Aldragine and Aldragine of the Zol Awakening raid**
