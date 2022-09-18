@@ -39,7 +39,7 @@ import TabItem from '@theme/TabItem';
 ***Drops from the Illusionist, Merganus the Fallen Titan, and The Forgotten King***
 
   </TabItem>
-  <TabItem value="Earth" label="Earth">
+  <TabItem value="Ancient Earth Rune" label="Ancient Earth Rune">
 
 # Ancient Earth Rune
 
@@ -54,7 +54,7 @@ import TabItem from '@theme/TabItem';
 ***Drops from Granithia and Chronus the Guide***
 
   </TabItem>
-  <TabItem value="Fire" label="Fire">
+  <TabItem value="Ancient Fire Rune" label="Ancient Fire Rune">
 
 # Ancient Fire Rune
 
@@ -69,7 +69,7 @@ import TabItem from '@theme/TabItem';
 ***Drops from Ascended Archdemon Malphas, the Ascended Fire Wizard, Odeus The TItan and Hades***
 
   </TabItem>
-  <TabItem value="Water" label="Water">
+  <TabItem value="Ancient Water Rune" label="Ancient Water Rune">
 
 # Ancient Water Rune
 
