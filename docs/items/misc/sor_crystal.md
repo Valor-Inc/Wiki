@@ -32,7 +32,7 @@ import TabItem from '@theme/TabItem';
 
 ***This item can be used to forge legendaries***
 
-**Can be forged with an Ancient Rune to obtain an Elemental Sor.**
+**Can be forged with an Ancient Elemental Rune to obtain an Elemental Sor.**
 
   </TabItem>
 
