@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title Ancient Runes
+title: Ancient Runes
 ---
 
 import Tabs from '@theme/Tabs';
