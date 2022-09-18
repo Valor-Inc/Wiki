@@ -20,6 +20,27 @@ import TabItem from '@theme/TabItem';
 ***Combine with an Aspect in the forge to unlock that aspect in the Aspect Hall***
 
   </TabItem>
+ <TabItem value="Aspect of Anubis" label="Aspect of Anbuis">
+
+# Aspect of Anubis
+
+![AAnubis](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20anubis)
+
+<i>As judgement approaches, the scales of fate should sink ever in your favor..</i>
+
+**Every half second you don't move, you gain an Inert stack (up to 10), and begin to sink into the ground as if it were sand.**
+
+**For each stack of inert you gain the following:**
+
+    You sink further into the sand, moving slower
+
+    You gain 1% rate of fire, after 5 stacks this increases to +3 rate of fire
+
+**For every second you move, you lose a stack of Inert, and begin to stop sinking.**
+
+***Drops from Anubis | Alert***
+
+  </TabItem>
   <TabItem value="Aspect of Aldragine" label="Aspect of Aldragine">
 
 # Aspect of Aldragine
@@ -154,6 +175,29 @@ import TabItem from '@theme/TabItem';
 ***Drops from Garutious of the Realm***
 
   </TabItem>
+ <TabItem value="Aspect of Malgor" label="Aspect of Malgor">
+
+# Aspect of Malgor
+
+![Am](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20malgor)
+
+<i>The inferno below becomes both a leash and a whip--to weaken its grip is to taste vicious power.</i>
+
+**-20% overall speed**
+
+**For each half second you are moving without stopping, you gain a stack of Momentum up to 20 stacks**
+
+**You gain +3.5% speed per stack**
+
+**When you reach maximum stacks, you begin to overheat, burning yourself and taking 5% max-hp damage every second, which later doubles**
+
+**While overheating, you will also burn enemies around you, dealing damage based on your speed stat.**
+
+**Upon stopping, you lose all of your stacks and are slowed for 3 seconds, the burn will also take 1.5 seconds to wear off.**
+
+***Drops from Malgor the Eternal Fiend | Public Challenge***
+
+  </TabItem>
   <TabItem value="Aspect of Oryx" label="Aspect of Oryx">
 
 # Aspect of Oryx
@@ -169,6 +213,25 @@ import TabItem from '@theme/TabItem';
 **Your projectiles gain a 10% chance to explode into a burst of 8 piercing projectiles upon hitting an enemy. In total, this burst deals the same damage of the projectile that applied it.**
 
 ***Drops from Oryx the Mad God***
+
+  </TabItem>
+ <TabItem value="Aspect of Phalgomor" label="Aspect of Phalgomor">
+
+# Aspect of Phalgomor
+
+![AP](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)
+
+<i>In times of labored despair, the mind runs free and spins a listless dream. Of delight or doom... it is no longer one's choice.</i>
+
+**On ability use, you will summon a rabbit which will follow you around for 5 seconds**
+
+**For each rabbit following you, you gain +3% wisdom and a +4% chance to not consume any mana upon using your ability.**
+
+**These rabbits will shoot atn earby enemies, there rate of fire and damage is based on your wisdom.**
+
+**You can have a maximum of 5 rabbits following you at once**
+
+***Drops from Phalgomor and Derivatives | Trial***
 
   </TabItem>
  <TabItem value="Aspect of Shrek" label="Aspect of Shrek">
