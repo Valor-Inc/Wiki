@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title:
+title: Harlequin's Crossbow
 ---
 
 import Tabs from '@theme/Tabs';
