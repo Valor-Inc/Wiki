@@ -28,7 +28,7 @@ import TabItem from '@theme/TabItem';
 
 <i>Use this to feel the mighty power of Lord Aldragine.</i>
 
-**50% chance on ability use, you launch a bomb dealing damage based on your wisdom.
+**50% chance on ability use, you launch a bomb dealing damage based on your wisdom.**
 
 ***Drops from Aldragine of the Zol Awakening raid***
 
@@ -245,7 +245,7 @@ import TabItem from '@theme/TabItem';
 
 **If you roll a 20, gain 20% Loot Boost. If you roll a 1, lost 10% Loot Boost**
 
-***Drops from the Kraken | Alert**
+***Drops from the Kraken | Alert***
 
   </TabItem>
   <TabItem value="Aspect of Vamps" label="Aspect of Vamps">
@@ -283,7 +283,7 @@ import TabItem from '@theme/TabItem';
 
 **These mega crits now apply a 2x multiplier after all other crit-increasing effects.**
 
-***Drops from Yazanahar of the Realm**
+***Drops from Yazanahar of the Realm***
 
   </TabItem>
 </Tabs>
