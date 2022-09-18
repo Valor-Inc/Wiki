@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 <i>This material is used to unlock Aspects!</i>
 
-**Crafted using [Ancient Rune]( ) and a [Legendary Sor Crystal](https://wiki-test.valorserver.com/docs/items/misc/sor_crystal)**
+**Crafted using [Ancient Rune](https://wiki-test.valorserver.com/docs/items/misc/ancient_runes) and a [Legendary Sor Crystal](https://wiki-test.valorserver.com/docs/items/misc/sor_crystal)**
 
 ***Combine with an Aspect in the forge to unlock that aspect in the Aspect Hall***
 
