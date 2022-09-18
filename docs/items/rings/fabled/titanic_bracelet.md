@@ -13,3 +13,5 @@ sidebar_position: 8
     +20 Defense
 
 Fame Bonus: 6%
+
+**Drops from all bosses of the Calling of the Titan Raid**
