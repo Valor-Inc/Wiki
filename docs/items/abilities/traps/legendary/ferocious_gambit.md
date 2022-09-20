@@ -14,7 +14,7 @@ Trap Effect: Armor Broken for 3 seconds
 
 Effect on Self: Bravery for 3 seconds
 
-MP Cost: 120
+HP Cost: 120
 
 Cooldown: 3.5 seconds
 
