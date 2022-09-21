@@ -74,9 +74,9 @@ Fame Bonus: 12%
 
 ***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
 
-**Drops from Aldragine of the Zol Awaken raid**
-
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
+
+**From April Fools 2021**
 
 ## Projectile
 
