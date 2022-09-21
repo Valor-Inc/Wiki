@@ -28,7 +28,7 @@ Cooldown: 15 seconds
 **Drops from Drannol, the Eternal Beast (Titan Raid Final Boss)**
 
   </TabItem>
-  <TabItem value="Air" label="Air">
+  <TabItem value="Golden Shamrock" label="Golden Shamrock">
 
 # Golden Shamrock
 
@@ -50,8 +50,5 @@ Cooldown: 15 seconds
 
 **From Saint Patrick's Day 2022**
 
-
   </TabItem>
 </Tabs>
-
-
