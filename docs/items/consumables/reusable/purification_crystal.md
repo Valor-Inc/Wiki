@@ -30,7 +30,7 @@ Cooldown: 30 seconds
 
 ![DBell](https://vwiki.valorserver.com/api/item/picture/divine%20bell)
 
-<i>This golden bell will purify eve nthe nastiest of curses..</i>
+<i>This golden bell will purify even the nastiest of curses..</i>
 
 Sprited by: SkySlurp
 
