@@ -1,6 +1,13 @@
 ---
 sidebar_position: 4
+title: Seal of Insane Reasoning
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="" label=" " default>
 
 # Seal of Insane Reasoning
 
@@ -26,4 +33,12 @@ Cooldown: 1.5 seconds
 
 Fame Bonus: 8%
 
-**Craftable from Shard of the Grand Challenge**
+**Drops from Servant of the Dark Knight in the Unspeakable**
+
+
+
+
+
+
+  </TabItem>
+  <TabItem value="Air" label="Air">
