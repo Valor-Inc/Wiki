@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Spiritclaw" label="Spiritclaw" default>
-   
+
 # Spiritclaw
 
 ![spiritclaw](https://vwiki.valorserver.com/api/item/picture/spiritclaw)
