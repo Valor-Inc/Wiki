@@ -73,3 +73,6 @@ Fame Bonus: 8%
 ## Projectile
 
 ![Dreamweaver Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953294520294977586/dreamweaver.gif)
+
+  </TabItem>
+</Tabs>
