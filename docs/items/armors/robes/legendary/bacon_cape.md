@@ -55,3 +55,6 @@ Fame Bonus: 8%
 ***Dark Magic: You have a 25% chance when taking damage to create an AoE bomb around yourself ranging from 1000-5000 damage.***
 
 **From April Fools 2021**
+
+  </TabItem>
+</Tabs>
