@@ -77,7 +77,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/items/showcase',
+            docId: 'items/showcase',
             position: 'left',
             label: 'Item Showcase',
           },
