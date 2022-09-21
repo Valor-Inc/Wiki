@@ -36,7 +36,7 @@ Fame Bonus: 8%
 ![Malignant Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954067969359630376/Slasher.gif)
 
   </TabItem>
-  <TabItem value="Air" label="Air">
+  <TabItem value="Shamrock Slasher" label="Shamrock Slasher">
 
 # Shamrock Slasher
 
