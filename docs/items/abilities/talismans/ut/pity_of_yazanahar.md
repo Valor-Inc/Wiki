@@ -79,3 +79,6 @@ Cooldown: 5 seconds
 Fame Bonus: 4%
 
 **Drops during Halloween**
+
+</TabItem>
+</Tabs>
