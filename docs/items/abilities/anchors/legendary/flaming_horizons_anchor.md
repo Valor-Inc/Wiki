@@ -84,7 +84,7 @@ Fame Bonus: 8%
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
-**From Christmas 2021**
+**From Valentines Day 2022**
 
  </TabItem>
 </Tabs>
