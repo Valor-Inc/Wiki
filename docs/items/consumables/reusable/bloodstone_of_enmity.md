@@ -32,7 +32,7 @@ Cooldown: 15 seconds
 
 # Golden Shamrock
 
-![BStone](https://vwiki.valorserver.com/api/item/picture/golden%20shamrock)
+![gsham](https://vwiki.valorserver.com/api/item/picture/golden%20shamrock)
 
 <i>Darn, you have got me lucky charms!</i>
 
@@ -48,7 +48,7 @@ Cooldown: 15 seconds
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
-**From Saint Patrick's Day 2022**
+**From Saint Patrick's Day 2021**
 
   </TabItem>
 </Tabs>
