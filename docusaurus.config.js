@@ -74,7 +74,7 @@ const config = {
             position: 'left',
             label: 'Valor Guides',
           },
-          {to: 'https://wiki.valorserver.com/docs/category/items--tiers/', label: 'Item Viewer', position: 'left'},
+          {to: 'https://wiki.valorserver.com/docs/items/showcase', label: 'Item Viewer', position: 'left'},
           {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
           {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
           {to: 'https://discord.gg/valormc', label: 'Discord', position: 'left'},
