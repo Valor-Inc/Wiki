@@ -8,7 +8,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Characters Stat on Max" label="Characters Stat on Max" default>
+  <TabItem value="Pre-Existant Classes" label="Pre-Existant Classes" default>
 
 **Existing classes have had their max stats modified, here are all of them in one place for convenience.**
 
