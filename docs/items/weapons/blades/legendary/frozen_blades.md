@@ -74,9 +74,11 @@ Ignores defense of target
 
  Fame Bonus: 8%
 
+**From April Fools 2021**
+
  ## Projectile
  
-![Frozen Blades Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067827363459122/frozen_blades.gif)
+![Popsicleb Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067827363459122/frozen_blades.gif)
 
  </TabItem>
 </Tabs>
