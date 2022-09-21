@@ -49,3 +49,6 @@ Fame Bonus: 8%
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
 **From Update 2.4.0**
+
+  </TabItem>
+</Tabs>
