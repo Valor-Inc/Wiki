@@ -27,7 +27,7 @@ Shots hit multiple targets
 
 Fame Bonus: 15%  
 
-**Drops from Larry Giggsman, the Superhuman in the Realm during events**
+**From April Fools 2021**
 
 ## Projectile
 
