@@ -73,7 +73,6 @@ const config = {
             docId: '/category/introduction',
             position: 'left',
             label: 'Valor Guides',
-          },
         },
         items: [
           {
