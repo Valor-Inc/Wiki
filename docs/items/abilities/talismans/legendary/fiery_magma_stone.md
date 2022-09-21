@@ -1,6 +1,14 @@
 ---
 sidebar_position: 3
+title: Fiery Magma Stone
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value=" " label=" " default>
+
 
 # Fiery Magma Stone
 
@@ -29,3 +37,6 @@ Cooldown: 4 seconds
 Fame Bonus: 8%
 
 **Craftable from Shard of the Grand Challenge**
+
+  </TabItem>
+  <TabItem value="" label="Air">
