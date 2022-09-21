@@ -40,7 +40,7 @@ Fame Bonus: 8%
 
 ![HRavager](https://vwiki.valorserver.com/api/item/picture/heart%20of%20ravagers)
 
-<i>A symbol of doom pulled from a forbidden realm, this cragged cranium is a reminder that no amount of bloodshed will spare one from their demise.</i>
+<i>A wispy hearthstone of fiery infamy. It is said that the tampered soul of a long-lost lover is barely contained within the ruby-like brooch.</i>
 
 Steal: 650 HP within 6 sqrs
 
