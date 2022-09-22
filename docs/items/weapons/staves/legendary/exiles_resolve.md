@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![EResolve](https://vwiki.valorserver.com/api/item/picture/exile's%20resolve)
 
-<i>Time will cause sufferign that can't be healed by change. ~ Azar</i>
+<i>Time will cause suffering that can't be healed by change. ~ Azar</i>
 
 Damage: 320-440
 
