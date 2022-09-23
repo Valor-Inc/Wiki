@@ -14,7 +14,8 @@ Items in the will cost either Gold, Fame, Kantos, or Onrane and you can upgrade 
 
 ## House Editing
 
-The Housing Editor can be found on the main menu at the bottom right of your characters screen.  
+The Housing Editor can be found on the main menu at the bottom right of your characters screen.
+
 ![HouseEditorButton](https://i.imgur.com/loQV6ZE.png)  
 
 Clicking it will open the editor where you can place the tiles & objects you have on your account in any configuration you want (as long as you have a spawn location) and then Save(Submit) it to the server for you or anyone else to visit later.
