@@ -15,8 +15,7 @@ import TabItem from '@theme/TabItem';
 
 Below is a map of the Nexus, and as you can see there is many locations of interest! We'll go over them so you won't be confused, dont worry!
 
-![NexusMap](https://cdn.discordapp.com/attachments/953134990428868629/1022990601530134528/unknown.png)
-
+![NexusMap](https://cdn.discordapp.com/attachments/953134990428868629/1023003218806059028/unknown.png)
 
   </TabItem>
   <TabItem value="Ascension Enclave" label="Ascension Enclave">
@@ -39,7 +38,7 @@ The layout of the Ascension Enclave is very simple, as it's purpose is only to c
 
 ![Aspect](https://cdn.discordapp.com/attachments/953134990428868629/1022984808411971635/unknown.png)
 
-The Aspect Hall holds all of a players [Aspects](https://wiki-test.valorserver.com/docs/items/misc/aspects). You can only use one aspect at a time so make your choice wisely. A full list of all aspects can be found **[Here](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)**.
+The Aspect Hall holds all of a players [Aspects](https://wiki-test.valorserver.com/docs/items/misc/aspects). You can only use one aspect at a time so make your choice wisely. Not all aspects are items that drop from bosses, so a full list of all aspects can be found **[Here](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)**.
 
 ![AspectHInt](https://cdn.discordapp.com/attachments/953134990428868629/1022987240177156126/unknown.png)
 
@@ -65,37 +64,70 @@ There are 3 different types of missions, Daily which are green, Weekly which are
   </TabItem>
  <TabItem value="Grove" label="Grove">
 
+# The Grove
 
+![Grove](https://cdn.discordapp.com/attachments/953134990428868629/1023002900357726288/unknown.png)
 
+Got Kantos and want to buy some cool and exclusive accessories? Well the Grove is your place; the all in one Kantos Shop includes Skins, Effects, Pets, Boosts, and Item Transformation orbs. You can buy Kantos [here](https://valorserver.com/ranks) if you spot something in the Grove that you just can not stop thinking about!
 
-
-
-
+![GroveInt](https://cdn.discordapp.com/attachments/953134990428868629/1023001833049968721/unknown.png)
 
   </TabItem>
   <TabItem value="Housing" label="Housing">
 
+# Housing
 
+Valor is home to Housing, a system that lets players create houses to hang out in or access certain tiles & placable objects.
 
+## The Home Depot
 
+The Home Depot is where most housing content can be bought or accessed, with a few others coming as rewards from the battle pass. It is located at all the green wizards in the nexus.
 
+![HomeDepot](https://i.imgur.com/7C1O4Ti.png)
 
+Items in the will cost either Gold, Fame, Kantos, or Onrane and you can upgrade your max housing size with gold or kantos via the green allow in the top left of the menu shop.
 
+## House Editing
+
+The Housing Editor can be found on the main menu at the bottom right of your characters screen.
+
+![HouseEditorButton](https://i.imgur.com/loQV6ZE.png)  
+
+Clicking it will open the editor where you can place the tiles & objects you have on your account in any configuration you want (as long as you have a spawn location) and then Save(Submit) it to the server for you or anyone else to visit later.
+
+## Visiting Houses
+
+The command `/vhome [playername]` can be ran ingame to visit their housing, this works for your own house as well. Anybody can do this at any time, even if the owner is offline or elsewhere in Valor.
+
+![HiShad](https://i.imgur.com/DPZEf5b.png)
+
+## Functionality
+  
+The main draws of housing are for creating art, showing off your wealth with an expensive house, having somewhere private for popping keys or what have you, or for using private target dummies to test your damage or other effects.
+
+![PewPew](https://i.imgur.com/XUOW1jh.png)
 
   </TabItem>
  <TabItem value="Lootboxes" label="Lootboxes">
 
+# Loot Boxes
 
+![LBL](https://cdn.discordapp.com/attachments/953134990428868629/1023007770825461850/unknown.png)
 
+Valor has various types of lootboxes; do not worry they all except one are obtained by playing. Each of these lootboxes have different item pools and drop locations, but they can all be checked from the same location: the top left of your screen whilst in the nexus or vault. On the Lootboxes Page, you can find Gold, Silver and Bronze Lootboxes, as well as your collected PackRat bags. Gold, Silver and Bronze lootboxes drop in the Realm, while Packrat bags can be found while doing ascended dungeons.
 
+![GSB](https://i.imgur.com/TrmXd82.png) ![PackRat](https://cdn.discordapp.com/attachments/953134990428868629/1023007499323973672/unknown.png)
 
+# Untiered Lootboxes
 
+![ebox](https://i.imgur.com/3jSgUE4.png) ![scav](https://i.imgur.com/TNozVGl.png) ![Prem](https://i.imgur.com/UsXv5zh.png)
 
+In the Untiered Lootboxes tab, we can find Elite Boxes, Scavenger Chests and Premium Loot Boxes. Elite Boxes are obtained by defeating Raid Boxes and Public Challenges, while Scavenger Chests are earned by completing Daily contracts. Premium Loot Boxes are the only box that can not be earned in-game and instead must be purchased for [Kantos](https://valorserver.com/ranks).
 
   </TabItem>
  <TabItem value="Marketplace" label="Marketplace">
 
-
+# Marketplace
 
 
 
