@@ -129,20 +129,60 @@ In the Untiered Lootboxes tab, we can find Elite Boxes, Scavenger Chests and Pre
 
 # Marketplace
 
+![Marketp](https://cdn.discordapp.com/attachments/953134990428868629/1023009863724449792/unknown.png)
 
+The Marketplace is an incredibly important part of Valor, and acts as the location to buy and sell items for gold. Not all players are allowed to use the Marketplace, as Elite Accounts are not allowed to buy or sell items from other non-elite account players, thus they aren't allowed to use the market. All transactions on the marketplace have an 8% Tax put onto the seller of an item. It also costs 50 gold to remove an item if it isn't your most recently placed item.
 
+![Marketint](https://cdn.discordapp.com/attachments/953134990428868629/1023013544410746920/unknown.png)
 
+You can access the Marketplace GUI by talking to the Human NPCs within the marketplace. In this GUI you can sort every item currently on the market, see all the items you have listed on the market, and you can even buy items directly from the GUI instead of waiting for it to be sorted in!
+
+![Guillbruh](https://cdn.discordapp.com/attachments/953134990428868629/1023014818065694730/unknown.png)
+![Woahbruh](https://cdn.discordapp.com/attachments/953134990428868629/1023015227090014250/unknown.png)
+
+# Market-related Commands
+
+/marketplace [travel to the marketplace quickly] 
+
+/pc (1-16 Inventory Slot) or (Item Name) [Checks Market Price of item]
+
+/market (1-16 Inventory Slot) (Amount of Gold you Want to List item for)
+
+/mall (full item name) (price) [market all of one type of item in your inventory slots 1-16]
+
+/mymarket [all of your active market listings with ID and price]
+
+/rmarket (ID) [removes market listing using ID from above command]
+
+/oops [removes most recent market listing]
 
 
   </TabItem>
- <TabItem value="Public Challenges" label="Public Challenges">
+ <TabItem value="Public Challenges" label="Public Challenges">r
 
+# Public Challenges
 
+Public Challenges are difficult and rewarding bosses summoned by the use of 5 Insignias of Valor in the Nexus. You can check the current number of active Insignia's with the '/cc' command. Once all 5 Insignia's are popped an announcement will be sent to the Notification Squad in the Valor Discord and the following message sent to all players currently in-game:  
 
+    <Sidon, the Dark Elder> Very Impressive. Let's see what your acts of valor have earned you this time.
 
+## Malgor, the Eternal Fiend
 
+![Malg](https://cdn.discordapp.com/attachments/953134990428868629/1023018582059270154/unknown.png)
 
+Appears 100% of the time on Mondays. Watch out for the Super Mega Hot Lava as well as the high damage Meteor shots!
 
+## Ulgur, the Phatom Menace
+
+![Ulg](https://cdn.discordapp.com/attachments/953134990428868629/1023019080451637268/unknown.png)
+
+Appears 100% of the time on Saturdays. Watch out for condensed Shotguns and the Clones spawning!
+
+## Serenity, the Ripper
+
+![Seren](https://cdn.discordapp.com/attachments/953134990428868629/1023018890105729055/unknown.png)
+
+Appears 100% of the time on Wednesdays. Watch out for high damage Shotgun bursts as well as Minions and Lava!
 
   </TabItem>
 </Tabs>
