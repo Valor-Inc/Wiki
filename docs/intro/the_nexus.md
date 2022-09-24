@@ -158,7 +158,7 @@ You can access the Marketplace GUI by talking to the Human NPCs within the marke
 
 
   </TabItem>
- <TabItem value="Public Challenges" label="Public Challenges">r
+ <TabItem value="Public Challenges" label="Public Challenges">
 
 # Public Challenges
 
