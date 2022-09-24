@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 Title: Credits
 description: "Credit's given where credit's due!"
 ---
