@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Ranks
 ***There are many ways to help support Valor and keep the server online! Ranks, cosmetic crates, skin packs, or global loot boost tokens are provided for donators. You can also directly buy the donator currency, "Kantos", for the benefits listed above.***
 
