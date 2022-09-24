@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 title: Custom Classes
 Desc: "Valor has many new custom classes & item types for you to try out, all of them are unlocked by default for every player!"
 ---
