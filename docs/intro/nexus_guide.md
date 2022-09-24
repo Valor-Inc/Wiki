@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 Title: Getting Started
 description: "A Guide to the Nexus"
 ---
