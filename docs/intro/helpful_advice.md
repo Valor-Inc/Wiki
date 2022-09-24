@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 Title: Helpful Advice
 description: "Advice For New Players"
 ---
