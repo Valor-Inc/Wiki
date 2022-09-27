@@ -19,6 +19,4 @@ description: "Credit's given where credit's due!"
 
 ### Liv (endless#0605)
 
-## ... and maybe you!
 
-### To learn how to contribute to the wiki yourself, see [this guide](https://wiki-test.valorserver.com/docs/misc/how-to-edit-the-wiki)
