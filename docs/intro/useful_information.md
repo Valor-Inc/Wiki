@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-Title: Useful Information
+Title: Useful Information 
 ---
 
 import Tabs from '@theme/Tabs';
