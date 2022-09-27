@@ -70,7 +70,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/category/introduction',
+            docId: '/category/valor-guides',
             position: 'left',
             label: 'Valor Guides',
           },
