@@ -1,5 +1,6 @@
 {
-    "label": "Valor Guides",
+    "label": "Introduction",
+    "title": "Valor Guides",
     "position": 1,
     "link": {
       "type": "generated-index",
