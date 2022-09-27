@@ -7,7 +7,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value=" " label=" " default>
+  <TabItem value="Fiery Magma Stone" label="Fiery Magma Stone" default>
 
 # Fiery Magma Stone
 
