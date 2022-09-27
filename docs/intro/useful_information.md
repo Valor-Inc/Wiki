@@ -32,15 +32,17 @@ Every once in a while, Valor Staff will offer special cosmetic items, or similar
   </TabItem>
   <TabItem value="Useful Links" label="Useful Links">
 
-# Waterfiend's DPS Calculator
+# Useful Links
+
+## Waterfiend's DPS Calculator
 
 [Can be found here](https://docs.google.com/spreadsheets/d/1tmiPVNJgPfR2AshHDQWpc-19dcEOhW7W-l_QpPyTFfA/edit#gid=282106093)
 
-# Valor Loot Tracker
+## Valor Loot Tracker
 
 [Can be found here](https://docs.google.com/spreadsheets/d/1ixBf5gxh2i7Llk1am4X0bzunw_aoDwLv8GLYCLStXpc/edit#gid=2038450232)
 
-# HTML Colors
+## HTML Colors
 
 [Can be found here](https://htmlcolorcodes.com/color-picker/)
 
