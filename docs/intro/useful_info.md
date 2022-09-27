@@ -5,6 +5,8 @@ Title: Useful Info
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+# Useful Info
+
 <Tabs>
   <TabItem value= "Discord Integration" label="Discord Integration" default>
 
