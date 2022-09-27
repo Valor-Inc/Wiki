@@ -43,7 +43,7 @@ Vouching is only limited to trading in regard to real-life currency or equivalen
 
 Vouching for non RWT trades is considered a bannable offense. The minimum amount of items/gold value in order to successfully vouch for someone is $5.
 
-Vouch Commands
+**Vouch Commands**
 
 /vouch player @username This will begin the vouching process. It will open a channel and ask you a series of questions. When vouching a new channel will be created, and you will be pinged in it. Answer the prompts to fill out the vouch.
 
