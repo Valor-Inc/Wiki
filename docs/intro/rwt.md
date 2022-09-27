@@ -25,13 +25,34 @@ The Valor Bot will send you a command and cde you have to write in-game to link 
 
 ## Practicing Safe Trading
 
-If you are contacted in-game to do a RWT trade, ask for their discord name. In the #bot channel of the Valor Discord, run '/ign @discordHandle' and double-check that is their linked account.
+f you are contacted in-game or in Discord to do an RWT trade, you should ask for their discord/in-game name, and run /ign @User in #bot channel to double-check that their account is linked. After running /ign you should follow with /vouches to see if the user has 5 or more vouches. Also check if they are [banned here](https://valorserver.com/ban-tracker).
 
-If anything feels off about a deal, you can open a ticket in the Valor Discord and express your concern. Valor Staff will respond as fast as possible. Open a general-ticket and simply say, "Hey, I am doing a trade with [Player Name], and when I mention a MM they don't want" or, "Hey, I am doing a trade with [Player Name], they are selling 30 LGs and their acc is like 5 stars". They will look.
+If anything feels off about a deal, you can open up a ticket and express your concern. Valor Staff will always try to be as fast as possible. You can open a general ticket and simply say, "Hey, I'm doing a trade with [Player Name], and when I mention a MM they don't want" or, "Hey, I'm doing a trade with [Player Name], they are selling 30 LGs and their acc is like 5 stars". They'll take a look. 
 
-To check a player's vouches, head to #bot in the Valor Disocrd and run '/vouches @discordHandle'. If you want to check vouches based off IGN/username, you can check their website profile [right here](https://valorserver.com/user/search?id=userName), and look for the "Vouches" badge. If they are linked and have atleast one vouch, it will show up.
- 
+IF you are skeptical about any trade whatsoever, make them go in-game to message you to get their in-game name or to prove their items/gold, get their Discord ID, PayPal email, anything that can save us both the trouble if a scam does occur.
 
+RWTing with someone who is not Verified in our discord is a bannable offense. "I didn't know" is not an excuse. It's very easy to check that and vouches. Anyone selling goods outside of Valor obtained them through malicious uses, and we would not suggest buying them. Users who have been cracked into will want it back. Furthermore, they frequently scam and most people involved have been banned in the past for chargebacks.
+
+Trading with someone with less than 5 vouches will result in no Moderation Support. Unless you would like to request a Moderator Middleman through our #create-ticket-system. Moderators show up on our sidebar, and will generally MM for free or a small fee depending on how big the transaction is, etc.
+
+## How do Vouches Work? 
+
+In order to get started with Vouching you need to head over to the #bot channel. 
+
+Vouching is only limited to trading in regard to real-life currency or equivalent.
+
+Vouching for non RWT trades is considered a bannable offense. The minimum amount of items/gold value in order to successfully vouch for someone is $5.
+
+Vouch Commands
+
+/vouch player @username This will begin the vouching process. It will open a channel and ask you a series of questions. When vouching a new channel will be created, and you will be pinged in it. Answer the prompts to fill out the vouch.
+
+![waow](https://blog.valorserver.com/content/images/2022/03/Vouching-a-user.gif)
+
+/vouches @username
+This will show the tagged users' vouches, their first trade date, and other general information.
+
+![Woaw](https://blog.valorserver.com/content/images/2022/03/vouches-player.gif)
 
   </TabItem>
   <TabItem value="Rules" label="Rules">
@@ -50,7 +71,9 @@ Any support of payment plans ( ie. Selling an item and paying it off day by day 
 
 Trading with someone with less than 5 vouches will result in no Moderation Support. Unless you would like to request a Moderator Middleman through our #create-ticket system. Moderators show up on our sidebar, and will generally MM for free or a small fee depending on how big the transaction is, etc.
 
-(They will not handle physical funds in most cases, unless pre-agreed in writing by all parties.)***
+***(They will not handle physical funds in most cases, unless pre-agreed in writing by all parties.)***
+
+**Any decision by a moderator is final. They may ban/punish for reasons not stated here if they feel your intent is to be destructive or harmful to the server and/or the community. That includes RWT deals that were not followed as per our RWT rules.**
 
 ## Payment Plans
 
