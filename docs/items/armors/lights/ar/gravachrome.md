@@ -66,7 +66,7 @@ Fame Bonus: 16%
 ![GravachromeE](https://vwiki.valorserver.com/api/item/picture/gravachrome%20earth)
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
-  
+
     +25 Defense
 
     +8 Speed
