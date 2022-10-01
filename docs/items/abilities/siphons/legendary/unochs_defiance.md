@@ -32,6 +32,6 @@ Effect on Self: Speedy for 3.1 (wismod) seconds
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse**
+**Drops from Tridorno of the Catacombs**
 
 *See FAQ page to see how WisMod is calculated for the items*
