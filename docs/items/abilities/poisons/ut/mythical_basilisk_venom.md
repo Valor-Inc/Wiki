@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <i>A specialized poison used to ward off phantoms of the Undead Lair.</i>
 
-Poison Grenade: Within 6 sqrs After  seconds 180 immediately + 720 over 6 seconds
+Poison Grenade: Within 6 sqrs After  seconds 200 immediately + 800 over 6 seconds
 
 Effect on Self: Berserk for 4 seconds
 
@@ -16,6 +16,10 @@ MP Cost: 90
 
     +80 Maximum HP
     
+    +5 Vitality
+    
+    +15 Dexterity
+
     +10 Defense
 
 Fame Bonus: 8%
