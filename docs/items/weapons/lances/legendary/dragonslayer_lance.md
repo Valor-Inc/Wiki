@@ -26,7 +26,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Drops from Rock Dragon in Realm**
+**Drops from the Rock Dragon in the Realm**
 
 ## Projectile
 
