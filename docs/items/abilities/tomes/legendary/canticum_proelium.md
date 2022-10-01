@@ -26,6 +26,6 @@ Cooldown: 4 seconds
 
 Fame Bonus: 8%
 
-**Drops from Lord Stone Gargoyle in the Realm**
+**Drops from the Petrified Overseer of the Ashen Purgatory (Petrified Emporium 2nd)*
 
 *See FAQ page to see how WisMod is calculated for the items*
