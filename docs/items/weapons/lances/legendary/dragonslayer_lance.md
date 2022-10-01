@@ -26,7 +26,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Crafted from Shard of Eternal Fury**
+**Drops from the Rock Dragon in the Realm**
 
 ## Projectile
 
