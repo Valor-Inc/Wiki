@@ -15,6 +15,8 @@ import TabItem from '@theme/TabItem';
 
 Wanna assist the Valor Wiki? Perfect! By making an [Issue Report](https://github.com/Valor-Inc/Wiki/issues), you can make suggestions on what you think should be on the Valor Wiki, as well as make bug reports on pages! This system allows for players to point out these bugs immediately, you don't even need to come here to access that page! Simply clicking the 'Edit this Page' button on any page; and then clicking 'Issues' on Github, you can make a suggestion or bug report!
 
+***Suggestions and Bug Reports are only for Valor Wiki related Suggestions and Bug Reports***
+
 ![Pagebug](https://cdn.discordapp.com/attachments/953134990428868629/1025633451619127316/unknown.png)
 
 You will need to create a Github account--but trust me--it will take you no time at all to make. It will take you around 5 seconds and you could be contributing to a great cause, helping players get the best information possible. Today, we have a Valor Player who seems to have stumbled across a Page Error!
