@@ -26,4 +26,4 @@ Cooldown: 7 Seconds
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse**
+**Drops from Oryx 3**
