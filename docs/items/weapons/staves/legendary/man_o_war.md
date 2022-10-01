@@ -30,7 +30,7 @@ Range: 4
 
 Fame Bonus: 8%
 
-**Drops from Ascended Sprite World**
+**Drops from Ascended Limon, the Lost Sprite of the Ascended Sprite World**
 
 ## Projectile
 
