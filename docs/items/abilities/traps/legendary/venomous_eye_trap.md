@@ -22,4 +22,4 @@ MP Cost: 130
 
 Fame Bonus: 8%
 
-**Drops from Ascended Snake Pit**
+**Drops from Euryale, the Snake Goddess of the Ascended Snake Pit**
