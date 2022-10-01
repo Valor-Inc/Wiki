@@ -26,4 +26,4 @@ Fame Bonus: 8%
 
 ***Borrowed Timed: Your protection is restored fully if your MP is full upon using this ability.***
 
-**Drops from the Galleom of the Time in the Genisus**
+**Drops from the Galleom of Time in the Genisus**
