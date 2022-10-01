@@ -32,5 +32,5 @@ Cooldown: 4 seconds
 
 Fame Bonus: 8%
 
-***Drops from Lord Stone Gargoyle***
+**Drops from Lord Stone Gargoyle**
 
