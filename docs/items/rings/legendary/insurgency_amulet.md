@@ -22,4 +22,4 @@ Fame Bonus: 8%
 
 ***Insurgency: The surge you gain is doubled while this item is equipped***
 
-**Craftable from Shard of Cosmic Collapse**
+**Drops from both bosses of the Storm Palace**
