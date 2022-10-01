@@ -20,4 +20,6 @@ Fame Bonus: 8%
 
 ***Stoneheart: While being above 50% of your health you can't be armor broken.***
 
+**Drops from the Petrified Overseer of the Ashen Purgatory (Petrified Emporium 2nd)**
+
 **Forged from Shard of the Stone Soul**
