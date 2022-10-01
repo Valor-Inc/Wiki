@@ -10,9 +10,9 @@ sidebar_position: 2
 
 Poison Grenade: Within 6 sqrs After  seconds 2028 (wismod) immediately + 0 over 1 seconds
 
-Effect on Self: Armored for 3.3 (wismod) seconds
+Effect on Self: Armored for 4.3 (wismod) seconds
 
-MP Cost: 150
+MP Cost: 120
 
     +20 Wisdom
     
