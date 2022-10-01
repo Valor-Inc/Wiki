@@ -14,4 +14,4 @@ sidebar_position: 16
     
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse**
+**Drops from Krokanich of the Ancient Depths**
