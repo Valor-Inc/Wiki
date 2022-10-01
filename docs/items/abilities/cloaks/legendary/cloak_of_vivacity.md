@@ -24,4 +24,4 @@ Fame Bonus: 8%
 
 **No Speed Bumps: You are immune to Slowed.**
 
-**Craftable with Shard of the Ancients**
+**Drops from Sorgigas the Sor Giant in the Realm**
