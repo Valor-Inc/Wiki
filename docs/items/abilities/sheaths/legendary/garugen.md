@@ -30,6 +30,5 @@ MP Cost: 100
  
 Fame Bonus: 8%
 
-**Crafted from Shard of Ancient Assault**
+***Crafted from Shard of Ancient Assault***
 
-**Crafted from Shard of the Stone Soul**
