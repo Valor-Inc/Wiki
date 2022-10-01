@@ -8,7 +8,7 @@ sidebar_position: 6
 
 <i>This Poison pulses with forgotten magic.</i>
 
-Poison Grenade: Within 12 sqrs After  seconds 850 immediately + 3500 over 4 seconds
+Poison Grenade: Within 12 sqrs After  seconds 1392 immediately + 5733 over 4 seconds
 
 MP Cost: 150
 
@@ -16,6 +16,8 @@ MP Cost: 150
     
     +12 Wisdom
 
-**Upgraded form of Plague Posion**
-
 Fame Bonus: 4%
+
+***Upgraded form of Plague Posion***
+
+*See FAQ page to see how wismod is calculated for the items*
