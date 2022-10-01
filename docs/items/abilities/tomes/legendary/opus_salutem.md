@@ -28,6 +28,6 @@ MP Cost: 120
 
 Fame Bonus: 8%
 
-**Drops from Urious, God of Elements of the Elemental Ruins**
+**Drops from Urios, God of Elements of the Elemental Ruins**
 
 *See FAQ page to see how WisMod is calculated for the items*
