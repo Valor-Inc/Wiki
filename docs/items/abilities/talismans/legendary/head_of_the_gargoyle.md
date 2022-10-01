@@ -32,4 +32,5 @@ Cooldown: 4 seconds
 
 Fame Bonus: 8%
 
-**Craftable from Shard of the Stone Soul**
+***Drops from Lord Stone Gargoyle***
+
