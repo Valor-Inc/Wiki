@@ -28,4 +28,4 @@ MP Cost 115
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Eternal Fury**
+**Drops from Serenity, the Ripper | Public Challenge*
