@@ -22,7 +22,7 @@ Shot Effect: Paralyzed for 0.6 seconds
 
 Fame Bonus: 8%
 
-***Drops from the Stone Guardians of Oryx Castle***
+**Drops from the Stone Guardians of Oryx Castle**
 
 ## Projectile
 
