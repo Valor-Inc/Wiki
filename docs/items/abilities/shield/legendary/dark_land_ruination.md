@@ -30,4 +30,4 @@ MP Cost: 140
     
 Fame Bonus: 8%
 
-**Craftable from Shard of Ancient Assault**
+**Drops from the Dark Knight of the Unspeakable**
