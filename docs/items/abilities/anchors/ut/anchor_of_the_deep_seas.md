@@ -36,4 +36,4 @@ Fame Bonus: 6%
 
 **Drops from the Resthla, The Twisted Mermaid of the Ascended Ocean Trench**
 
-***Can be upgraded with Elemental Sor!***
+***Can be upgraded with Elemental Sor Crystal!***
