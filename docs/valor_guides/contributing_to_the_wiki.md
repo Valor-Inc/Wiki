@@ -1,15 +1,17 @@
 ---
-sidebar_position: 1
+sidebar_position: 8
 title: Contributing to the Wiki
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+# Contributing to the Wiki
+
 <Tabs>
   <TabItem value="Suggestions and Bug Reports" label="Suggestions and Bug Reports" default>
 
-# Suggestions and Bug Reports
+## Suggestions and Bug Reports
 
 ![waow](https://user-images.githubusercontent.com/106563707/193391705-217ad3e8-4181-45a7-aea2-da6c75735643.png)
 
@@ -30,7 +32,7 @@ Hey! Thats you and your bug report! Congratulations, you just contributed to the
   </TabItem>
   <TabItem value="Editting the Wiki" label="Editting the Wiki">
 
-# Editing the Wiki
+## Editing the Wiki
 
 ![EditingPage](https://user-images.githubusercontent.com/106563707/193392739-004015f9-3814-4935-8412-871a4fb41d28.png)
 
