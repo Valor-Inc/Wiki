@@ -34,4 +34,4 @@ MP Cost: 120
     
 Fame Bonus: 8%
 
-**Drops from Zaragon, The Bloodmage in Realm**
+**Drops from Zaragon, the Bloodmage in the Realm**
