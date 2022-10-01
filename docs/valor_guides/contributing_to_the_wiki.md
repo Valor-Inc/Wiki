@@ -7,9 +7,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Suggestions and Bug Reports" label="Suggestions and Bug Reports" default>
+  <TabItem value="Bug Reports and Suggestions" label="Bug Reports and Suggestions" default>
 
-## Suggestions and Bug Reports
+## Bug Reports and Suggestions
 
 ![waow](https://cdn.discordapp.com/attachments/953134990428868629/1025633431851384862/unknown.png)
 
