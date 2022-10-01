@@ -8,25 +8,23 @@ sidebar_position: 1
 
 <i>A blueprint fro a turret that draws its power from light itself.</i>
 
-Min Damage: 155
+Min Damage: 300
 
-Max Damage: 195
+Max Damage: 400
 
 Rate of Fire: Shoots every 0.7 seconds
 
 Duration: 3 seconds
 
-Effect on Self: Surged for 3 seconds
+Effect on Self: Armored for 3 seconds
 
 MP Cost: 110
 
 Cooldown: 4 seconds
 
-    +5 Defense
-    
-    +5 Attack
-    
-    +50 Maximum MP
+    +10 Defense
+    +100 Maximum MP
+    +1 Life Steal
 
 Fame Bonus: No Fame Bonus
 
