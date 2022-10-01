@@ -40,4 +40,4 @@ MP Cost: 120
     
 Fame Bonus: 8%
 
-**Craftable from Shard of the Ancients**
+**Drops from Yazanahar in the Realm**
