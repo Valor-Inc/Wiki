@@ -14,9 +14,8 @@ MP Cost: 90
 
     +10 Attack
     
-    +15 Dexterity
+    +10 Dexterity
     
-    -5 Speed
 
 Fame Bonus: 6%
 
