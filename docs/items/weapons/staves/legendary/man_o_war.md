@@ -30,7 +30,7 @@ Range: 4
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse**
+**Drops from Ascended Limon, the Lost Sprite of the Ascended Sprite World**
 
 ## Projectile
 
