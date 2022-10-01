@@ -22,4 +22,4 @@ MP Cost: 130
 
 Fame Bonus: 8%
 
-**Craftable from Shard of the Ancients**
+**Drops from Ascended Snake Pit**
