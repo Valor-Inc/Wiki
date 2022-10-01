@@ -34,4 +34,4 @@ MP Cost: 120
     
 Fame Bonus: 8%
 
-**Craftable from Shard of Cosmic Collapse**
+**Drops from Zaragon, the Bloodmage in the Realm**
