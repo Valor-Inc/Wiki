@@ -10,9 +10,11 @@ sidebar_position: 4
 
 Poison Grenade: Within 7 sqrs After  seconds 1637 (wismod) immediately + 3508 (wismod) over 4 seconds
 
+Effect on Self: Berserk for 3 seconds
+
 MP Cost: 90
 
-    +15 Attack
+    +10 Attack
 
 Fame Bonus: 8%
 
