@@ -67,7 +67,7 @@ import TabItem from '@theme/TabItem';
 ***Drops from the Grand Sphinx in the Realm***
 
   </TabItem>
-  <TabItem value="Aspect of Crystals" label="Aspect oF Crystals">
+  <TabItem value="Aspect of Crystals" label="Aspect of Crystals">
 
 # Aspect of Crystals
 
