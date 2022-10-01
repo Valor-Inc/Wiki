@@ -34,4 +34,4 @@ Cooldown: 3 seconds
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Zol Corruption**
+**Drops from Zol Lieutenant of the Zol Pirate Cave**
