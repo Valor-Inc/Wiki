@@ -190,7 +190,8 @@ The Mechanic is a heavy armor lance class that uses turrets to deal big damage a
 
 ### Pirate
 ![Pirate](https://i.imgur.com/8ecm8bt.png)  
-The Pirate is an offensive sword class that uses leather armor. His anchor shoots a returning projectile while giving helpful buffs and debuffs.  
+The Pirate is an offensive sword class that uses leather armor. His anchor shoots a returning projectile while giving helpful buffs and debuffs. The Pirate exchanges the high hp and defense of the other sword classes for heavly increased offensive stats. Has below average mana and defense.
+   
 **Stats on max:**
 
     660 Life 
