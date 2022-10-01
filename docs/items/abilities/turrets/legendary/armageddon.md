@@ -22,8 +22,11 @@ MP Cost: 105
 
 Cooldown: 8 seconds
     
-    +5 Life Steal
+    +3 Life Steal
+    +100 Maximum HP
 
 Fame Bonus: 8%
+
+**M.A.D: After a full duration of the turret being active it will explode in a 5 tile radius dealing 6000 damage.**
 
 **Drops from Uber Shrek in the Realm**
