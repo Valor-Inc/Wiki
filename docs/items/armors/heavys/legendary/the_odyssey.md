@@ -18,4 +18,4 @@ sidebar_position: 11
     
 Fame Bonus: 8%
 
-**Bought from the Zol Awakening Raid Shop**
+**Bought from the Zol Awakening Raid Shop for 290 Onrane**
