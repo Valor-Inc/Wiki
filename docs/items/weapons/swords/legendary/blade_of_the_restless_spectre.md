@@ -26,7 +26,7 @@ Range: 4.5
 
 Fame Bonus: 8%
 
-**Craftable with Shard of Zol Corruption**
+**Drops from Valia, the Great Arbiter of the Ascended Heavenly Rift**
 
 ## Projectile
 
