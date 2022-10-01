@@ -22,4 +22,4 @@ Fame Bonus: 8%
 
 **Mana Focus: While having above 20 surge points your mana will regenerated faster.**
 
-**Forged from Shard of Cosmic Collapse**
+**Drops from Abandoned Basement**
