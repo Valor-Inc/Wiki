@@ -51,6 +51,7 @@ Shots: 1
 Rate of Fire: 100%
 
 Range: 5.4
+    
     +10 Speed
 
     +25 Might
