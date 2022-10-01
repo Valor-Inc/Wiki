@@ -30,4 +30,4 @@ MP Cost: 110
     
 Fame Bonus: 8%
 
-**Craftable from Shard of the Stone Soul**
+**Drops from Tridorno of the Catacombs**
