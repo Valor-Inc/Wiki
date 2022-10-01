@@ -28,6 +28,6 @@ Fame Bonus: 8%
 
 ***Relentless: Each surge point you currently have adds an extra 6 outputting damage.***
 
-**Drops from Queen Of Hearts in Realm**
+**Drops from the Queen Of Hearts in the Realm**
 
 ## Projectile
