@@ -1,5 +1,4 @@
-￼
-￼Continue---
+---
 sidebar_position: 6
 title: Orbis Terrae
 ---
