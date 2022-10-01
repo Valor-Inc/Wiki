@@ -20,7 +20,7 @@ Range: 7.3
     
 Fame Bonus: 8%
 
-**Craftable with Shard of Cosmic Collapse**
+**Drops from the Vision of Aldragine of the Zol Awakening raid**
 
 ## Projectile
 
