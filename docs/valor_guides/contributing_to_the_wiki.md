@@ -51,4 +51,4 @@ After editting the page and correcting all bugs, click the **Propose Changes** b
 Wow Valor Player, great job! You are now officially a Wiki Nerd whether you like it or not! We are glad to have you and appreciate your hard work. Keep the hard work up and it will be worth it!
 
   </TabItem>
-  </Tabs>
+</Tabs>
