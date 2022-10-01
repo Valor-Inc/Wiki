@@ -16,9 +16,9 @@ Rate of Fire: Shoots every 0.7 seconds
 
 Duration: 5 seconds
 
-Effect on Self: Berserk for 3 (wismod) seconds
+Effect on Self: Berserk for 4 seconds
 
-Effect on Self: Damaging for 2.3 (wismod) seconds
+Effect on Self: Damaging for 4 seconds
 
 MP Cost: 105
 
@@ -28,8 +28,6 @@ Cooldown: 5 seconds
     
     +15 Attack
     
-    +10 Speed
-
 Fame Bonus: 8%
 
 **Drops from Drannol, the Eternal Beast of the Calling of the Titan raid**
