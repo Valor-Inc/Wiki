@@ -26,7 +26,7 @@ Fame Bonus: 8%
 
 ***Ghost's Wrath: While you are also invisible, you gain twice the amount of wisdom you have as bonus outputting damage.***
 
-**Craftable from Shard of Cosmic Collapse** 
+**Drops from Truvix, the Lost Wanderer in the Realm** 
 
 ## Projectile
 
