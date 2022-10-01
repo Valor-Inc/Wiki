@@ -4,44 +4,48 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Getting Started',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Items',
+    img: 'https://vwiki.valorserver.com/api/item/picture/Larry%20Gun',
     description: (
       <>
-      WIP.
+      Valor has multiple tiers of items, with hundreds of unique items there is a lot to keep track of. All Gear is sorted by class and rarity.
       </>
     ),
+    buttonLink: '/docs/category/items',
   },
   {
-    title: 'Dungeon Guides',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Valor Guides',
+    img: 'https://i.imgur.com/HKW5Kyw.png',
     description: (
       <>
-        You may find dungeon guides here. Dungeon guides are a great way to learn content.
+        Valor has lots of custom mechanics and features. This section explores different areas of the game such as Custom Classes, Alerts, Custom Stats and much more. 
       </>
     ),
+    buttonLink: '/docs/category/valor-guides',
   },
   {
-    title: 'Viewers',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Dungeons',
+    img: 'https://i.imgur.com/qCstxjS.png',
     description: (
       <>
-        The original wiki is still up, and is accessible as an item and shard pool viewer.
+        You may find dungeon guides here. Dungeon guides are a great way to learn content. You can learn more about Ascended Dungeons and Valors endgame content known as Raids.
       </>
     ),
+    buttonLink: '/docs/category/dungeons',
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({img, title, description, buttonLink}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img className={styles.featureSvg} src={img} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
+      <a href={buttonLink} className="button button--secondary button--block">Visit</a>
     </div>
   );
 }
