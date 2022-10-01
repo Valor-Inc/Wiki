@@ -41,7 +41,9 @@ Fame Bonus: 15%
 ![CWCa](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20air)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
-
+    
+**Air Rune: +6 Dex, +6% Rate Of Fire**
+    
 Damage: 265-340
 
 Shots: 2
@@ -71,6 +73,8 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
+**Earth Rune: Ignores Defense**
+    
 Damage: 265-340
 
 Shots: 2
@@ -100,6 +104,8 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
     
+**Increases minimum and maximum damage by +20**
+    
 Damage: 285-360
 
 Shots: 2
@@ -125,6 +131,8 @@ Fame Bonus: 15%
 ![CWCw](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20water)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
+    
+**Water Rune: +80 MP, +8 Wis**
     
 Damage: 265-340
 
