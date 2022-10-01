@@ -41,9 +41,9 @@ Fame Bonus: 15%
 ![CWCa](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20air)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
-    
-**Air Rune: +6 Dex, +6% Rate Of Fire**
-    
+
+**Air Rune: Gain +6 Dexterity and +6% Rate of Fire**
+
 Damage: 265-340
 
 Shots: 2
@@ -53,7 +53,7 @@ Rate of Fire: 146%
 Range: 9
 
 Shots hit multiple targets
-    
+
     +6 Dexterity
 
 Fame Bonus: 15%
@@ -73,8 +73,8 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Earth Rune: Ignores Defense**
-    
+**Earth Rune: Your shots will ignore the defense of your target.*
+
 Damage: 265-340
 
 Shots: 2
@@ -84,7 +84,7 @@ Rate of Fire: 140%
 Range: 9
 
 Shots hit multiple targets
-    
+
 Ignores defense of target
 
 Fame Bonus: 15%
@@ -99,13 +99,13 @@ Fame Bonus: 15%
   <TabItem value="Fire" label="Fire">
 
 # Cursed Wand of the Corrupted Fire
-    
+
 ![CWCf](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20fire)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
-    
-**Increases minimum and maximum damage by +20**
-    
+
+**Fire Rune: Increases minimum and maximum damage by +20.**
+
 Damage: 285-360
 
 Shots: 2
@@ -127,13 +127,13 @@ Fame Bonus: 15%
   <TabItem value="Water" label="Water">
 
 # Cursed Wand of the Corrupted Water
-    
+
 ![CWCw](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20water)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
-    
-**Water Rune: +80 MP, +8 Wis**
-    
+
+**Water Rune: Gain +80 Maximum MP and +8 Wisdom.**
+
 Damage: 265-340
 
 Shots: 2
@@ -145,9 +145,8 @@ Range: 9
 Shots hit multiple targets
 
     +80 Maximum MP
-    
-    +8 Wisdom
-    
+
+    +8 Wisdom 
 Fame Bonus: 15%
 
 **Enchanted Cursed Wand of Corrupted with Ancient Water Rune**
