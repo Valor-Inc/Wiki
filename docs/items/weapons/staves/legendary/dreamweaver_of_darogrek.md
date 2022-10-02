@@ -33,7 +33,7 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
-**Upgraded form of [Warped Worlds Staff](https://wiki-test.valorserver.com/docs/items/weapons/staves/ut/warped_worlds_staff)**
+**Upgraded form of [Warped Worlds Staff](https://wiki.valorserver.com/docs/items/weapons/staves/ut/warped_worlds_staff)**
 
 ## Projectile
 
