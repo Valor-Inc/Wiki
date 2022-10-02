@@ -34,4 +34,4 @@ Cooldown: 4 seconds
 
 Fame Bonus: 8%
 
-**Drops from Malgor, the Eternal Fiend**
+**Drops from Malgor, the Eternal Fiend | Public Challenge**
