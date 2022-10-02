@@ -20,6 +20,6 @@ sidebar_position: 2
     
 Fame Bonus: 8%
 
-***This item is ap part of Corrupted Conjurer Set***
+***This item is a part of Corrupted Conjurer Set***
 
 **Drops from the Corrupted Conjurer in the Realm**
