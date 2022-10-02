@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
     
 Fame Bonus: 8%
 
-**Upgraded form of [Hunter Necklace](https://wiki-test.valorserver.com/docs/items/rings/fabled/hunter_necklace/)**
+**Upgraded form of [Hunter Necklace](https://wiki.valorserver.com/docs/items/rings/fabled/hunter_necklace/)**
 
   </TabItem>
   <TabItem value="Cat Neckace" label="Cat Necklace">
