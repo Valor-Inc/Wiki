@@ -26,7 +26,7 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
-**Upgraded form of Dirk of Chronus**
+**Upgraded form of [Dirk of Chronus](https://www.realmeye.com/wiki/dirk-of-cronus)**
 
 ## Projectile
 
