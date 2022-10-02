@@ -4,9 +4,8 @@ The repository for the Valor Wiki. Built using Docosaurus & React.
 
 ### Contributing
 
-The Valor Community is open to contributions from all members of the Valor Community.
+[The Valor Community is open to contributions from all members of the Valor Community.](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki/)
 
-[insert how to do this]
 
 ### Local Development
 
