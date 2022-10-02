@@ -22,7 +22,7 @@ Range: 5.9
     
 Fame Bonus: 8%
 
-**Can be purchased for 140 Onrane from the Calling of the Titan raid shop**
+**Can be purchased for 310 Onrane from the Calling of the Titan raid shop**
 
 ## Projectile
 
