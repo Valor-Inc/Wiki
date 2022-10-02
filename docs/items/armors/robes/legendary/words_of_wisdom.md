@@ -24,6 +24,6 @@ sidebar_position: 16
    
 Fame Bonus: 8%
 
-**Mindwalker: You are immune to Slowed while this item is equipped**
+***Mindwalker: You are immune to Slowed while this item is equipped***
 
 **Forged from Shard of Zol Corruption**
