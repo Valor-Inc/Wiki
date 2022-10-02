@@ -20,4 +20,6 @@ sidebar_position: 10
     
 Fame Bonus: 10%
 
-**Drops from Wrackjaw in Wrackjaw's Chasm (Trial 3)**
+***This item is a part of Deep Sea Fishing Set***
+
+**Drops from Wrackjaw | Trial**
