@@ -32,6 +32,8 @@ Fame Bonus: 8%
 
 ***Mana Focus: When your surge is at least 10 you regenerate mana faster.***
 
+**Drops from Merganus, the Fallen Titan of the Fallen Light raid**
+
 ## Projectile
 
 ![Oages Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954066232611582052/oathoftheages.gif)
