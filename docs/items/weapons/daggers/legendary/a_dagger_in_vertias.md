@@ -26,7 +26,7 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
-**Upgraded form of [Dagger of Holy Truth](https://wiki-test.valorserver.com/docs/items/weapons/daggers/fabled/dagger_of_holy_truth)**
+**Upgraded form of [Dagger of Holy Truth](https://wiki.valorserver.com/docs/items/weapons/daggers/fabled/dagger_of_holy_truth)**
 
 ## Projectile
 
