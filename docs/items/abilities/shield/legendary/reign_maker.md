@@ -28,6 +28,8 @@ MP Cost: 115
 
 Fame Bonus: 12%
 
+***This item is a part of Righteous Trials Set***
+
 **Buyable at Krovinger Trial Shop for 410 Onrane**
 
 *See FAQ page to see how WisMod is calculated for the items*
