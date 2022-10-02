@@ -22,9 +22,9 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-**Drops from Therani | T1 Trial**
-
 ***This item is a part of Trial of Blackwood Set***
+
+**Drops from Therani | T1 Trial**
 
 ## Projectile 
 
