@@ -26,8 +26,6 @@ Shots pass through obstacles
 
 Fame Bonus: 4%
 
-***Upgradable with Elemental Sor Crystal***
-
 **Drops from Limon the Sprite Goddess of the Sprite World**
 
 **Drops from Ascended Limon, the Lost Sprite of the Ascended Sprite World**
