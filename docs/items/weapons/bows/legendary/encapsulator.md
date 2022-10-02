@@ -22,7 +22,7 @@ Shots pass through obstacles
 
 Fame Bonus: 8%
 
-**Upgraded form of [Protosyphic Launcher](https://wiki-test.valorserver.com/docs/items/weapons/bows/ut/protosyphic_launcher)**
+**Upgraded form of [Protosyphic Launcher](https://wiki.valorserver.com/docs/items/weapons/bows/ut/protosyphic_launcher)**
 
 ## Projectile
 
