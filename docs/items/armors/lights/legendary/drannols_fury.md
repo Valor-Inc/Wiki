@@ -18,4 +18,6 @@ sidebar_position: 2
     
 Fame Bonus: 8%
 
-**Rage of Drannol: Anytime you take damage you receive a 50% rate of fire buff. The amount of surge you have increases the duration of this buff up to a maximum of 4 seconds**
+***Rage of Drannol: Anytime you take damage you receive a 50% rate of fire buff. The amount of surge you have increases the duration of this buff up to a maximum of 4 seconds***
+
+**Can be purchased for 300 Onrane from the Calling of the Titan raid shop
