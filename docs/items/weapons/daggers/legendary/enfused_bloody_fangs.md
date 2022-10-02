@@ -18,7 +18,7 @@ Range: 5.6
 
 Fame Bonus: 8%
 
-**Upgraded Form of [Bloodbath Dagger](https://wiki-test.valorserver.com/docs/items/weapons/daggers/ut/bloodbath_dagger)**
+**Upgraded Form of [Bloodbath Dagger](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/bloodbath_dagger)**
 
 ## Projectile
 
