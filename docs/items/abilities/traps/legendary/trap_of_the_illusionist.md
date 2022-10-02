@@ -28,4 +28,4 @@ Cooldown: 3 seconds
 
 Fame Bonus: 8%
 
-**Upgrade form of [Null-Magic Trap](https://wiki-test.valorserver.com/docs/items/abilities/traps/ut/null_magic_trap)**
+**Upgrade form of [Null-Magic Trap](https://wiki.valorserver.com/docs/items/abilities/traps/ut/null_magic_trap)**
