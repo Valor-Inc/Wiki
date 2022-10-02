@@ -8,8 +8,6 @@ sidebar_position: 2
 
 <i>The torment never stops.</i>
 
-**The Upgraded form of Bow of the Lonesome Wraith**
-
 Damage: 200-225
 
 Shots: 4
