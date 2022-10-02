@@ -7,9 +7,6 @@ sidebar_position: 6
 ![Elimination](https://vwiki.valorserver.com/api/item/picture/elimination)
 
 <i>The crossbow that has destroyed millions of pointless lives.</i>
-
-**Drops from the 3rd Zol Raid boss**
-
 Damage: 225-425
 
 Shots: 3
