@@ -18,4 +18,4 @@ sidebar_position: 26
     
 Fame Bonus: 8%
 
-**Upgraded form of [Funnystone](https://wiki-test.valorserver.com/docs/items/rings/ut/funnystone)**
+**Upgraded form of [Funnystone](https://wiki.valorserver.com/docs/items/rings/ut/funnystone)**
