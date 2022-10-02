@@ -24,4 +24,6 @@ Cooldown: 4 seconds
 
 Fame Bonus: 8%
 
+***This item is a part of Trial of Blackwood Set***
+
 **Drops from Therani | Trial**
