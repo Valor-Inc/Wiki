@@ -24,4 +24,4 @@ Cooldown: 5 seconds
 
 Fame Bonus: 8%
 
-**Upgraded form of [Malgoric Charm](https://wiki-test.valorserver.com/docs/items/abilities/charms/ut/malgoric_charm)**
+**Upgraded form of [Malgoric Charm](https://wiki.valorserver.com/docs/items/abilities/charms/ut/malgoric_charm)**
