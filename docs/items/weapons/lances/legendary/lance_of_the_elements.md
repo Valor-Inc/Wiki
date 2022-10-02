@@ -22,7 +22,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of [Earthbound Lance](https://wiki-test.valorserver.com/docs/items/weapons/lances/ut/earthbound_lance)**
+**Upgraded form of [Earthbound Lance](https://wiki.valorserver.com/docs/items/weapons/lances/ut/earthbound_lance)**
 
 ## Projectile
 
