@@ -7,7 +7,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value=" " label=" " default>
+  <TabItem value=" " label="Garnet's Onslaught" default>
 
 # Garnet's Onslaught
 
