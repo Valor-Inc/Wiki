@@ -20,7 +20,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of Crystal Wand**
+**Upgraded form of [Crystal Wand](https://www.realmeye.com/wiki/crystal-wand)**
 
 ## Projectile
 
