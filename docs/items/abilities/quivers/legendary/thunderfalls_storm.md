@@ -28,4 +28,4 @@ Shots pass through obstacles
 
 Fame Bonus: 8%
 
-**Upgraded form of Quiver of Thunder**
+**Upgraded form of [Quiver of Thunder](https://www.realmeye.com/wiki/quiver-of-thunder)**
