@@ -20,7 +20,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of Demon Blade**
+**Upgraded form of [Demon Blade](https://www.realmeye.com/wiki/demon-blade)**
 
 ## Projectile
 
