@@ -36,7 +36,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of [Thunder and Lightning](https://wiki-test.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
+**Upgraded form of [Thunder and Lightning](https://wiki.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
 
 ## Projectile
 
