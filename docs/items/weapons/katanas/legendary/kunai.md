@@ -22,7 +22,7 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
-**Craftable from Shard of Eternal Fury**
+**Drops from Araki, the Omega Samurai of the Ascended Dojo**
 
 ## Projectile
 
