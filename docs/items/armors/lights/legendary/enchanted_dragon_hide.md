@@ -17,3 +17,5 @@ sidebar_position: 3
     -20 Speed
     
 Fame Bonus: 8%
+
+**Upraded form of [Leaf Dragon Hide Armor](https://www.realmeye.com/wiki/leaf-dragon-hide-armor)**
