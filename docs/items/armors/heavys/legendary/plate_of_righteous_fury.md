@@ -20,4 +20,6 @@ sidebar_position: 8
     
 Fame Bonus: 10%
 
+***This item is a part of Righteous Trials Set***
+
 **Bought from the 2nd trial Krovinger Shop**
