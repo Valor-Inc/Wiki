@@ -32,4 +32,4 @@ MP Cost: 100
 
 Fame Bonus: 8%
 
-**Upgraded form of Shield of Ogmur**
+**Upgraded form of [Shield of Ogmur](https://www.realmeye.com/wiki/shield-of-ogmur)**
