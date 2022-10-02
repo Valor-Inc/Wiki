@@ -20,7 +20,7 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
-**Upgraded form of [Wand of Obscurity](https://wiki-test.valorserver.com/docs/items/weapons/wands/ut/wand_of_obscurity)**
+**Upgraded form of [Wand of Obscurity](https://wiki.valorserver.com/docs/items/weapons/wands/ut/wand_of_obscurity)**
 
 ## Projectile
 
