@@ -20,4 +20,6 @@ sidebar_position: 6
     
 Fame Bonus: 10%
 
+***This item is a part of Lunarologist Set***
+
 **Forged from Shard of the Ancients**
