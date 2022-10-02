@@ -28,7 +28,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of [Tyhpoon Wand](https://wiki-test.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand)**
+**Upgraded form of [Tyhpoon Wand](https://wiki.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand)**
 
 ## Projectile
 
