@@ -24,6 +24,8 @@ Range: 4
 
 Fame Bonus: 8%
 
+***This item is a part of Righteous Trials Set***
+
 **Buyable from Krovinger Trial Shop for 400 Onrane**
 
 ## Projectile
