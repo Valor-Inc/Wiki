@@ -22,6 +22,6 @@ MP Cost: 100
 
 Fame Bonus: 12%
 
-***Crystalic Explosion: Spawns a crystal bomb that explodes into 6 shards and deals 300 dmg and armor breaks enemies for 3s**
+***Crystalic Explosion: Spawns a crystal bomb that explodes into 6 shards and deals 300 dmg and armor breaks enemies for 3s***
 
 **Drops from the Crystal Prisoner in the Realm**
