@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![FierceB](https://vwiki.valorserver.com/api/item/picture/Fierce%20broadsword)
 
-<i>The soul-shattering blade of a Gi**lean** commander, forged from the foul rot that lines the borders of the spirit world.</i>
+<i>The soul-shattering blade of a Gileon commander, forged from the foul rot that lines the borders of the spirit world.</i>
 
 Damage: 350-450
 
