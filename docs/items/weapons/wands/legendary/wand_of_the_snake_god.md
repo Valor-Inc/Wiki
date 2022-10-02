@@ -26,7 +26,7 @@ Shots are parametric
 
 Fame Bonus: 8%
 
-**Upgraded form of Wand of the Bulwark**
+**Upgraded form of [Wand of the Bulwark](https://www.realmeye.com/wiki/wand-of-the-bulwark)**
 
 ## Projectile
 
