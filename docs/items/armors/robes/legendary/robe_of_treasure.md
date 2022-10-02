@@ -20,4 +20,4 @@ sidebar_position: 10
     
 Fame Bonus: 8%
 
-**Upgraded form of [Lorespire Robe](https://wiki-test.valorserver.com/docs/items/armors/robes/ut/lorespire_robe/)**
+**Upgraded form of [Lorespire Robe](https://wiki.valorserver.com/docs/items/armors/robes/ut/lorespire_robe/)**
