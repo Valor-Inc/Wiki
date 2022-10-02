@@ -24,4 +24,4 @@ MP Cost: 90
 
 Fame Bonus: 8%
 
-**Upgraded form of Trap of the Vile Spirit**
+**Upgraded form of [Trap of the Vile Spirit](https://www.realmeye.com/wiki/trap-of-the-vile-spirit)**
