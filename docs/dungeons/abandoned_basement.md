@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 
 ![map](https://cdn.discordapp.com/attachments/953134990428868629/991559620097224835/map.png)
 
-The Abandoned Basement drops from **Sorgigas, the Sor Giant's Sor Crystals** in the Realm. Within the dungeon there are powerful enemies, so make sure to rush with caution and always clear if you do not feel confident. There are 3 Treasure Rooms--indicated by the boxes on the map--which do not attack but are surrounded by enemies, and only one boss, the Dark Sorcerer.
+The Abandoned Basement drops from **Sorgigas, the Sor Giant's Sor Crystals** in the Realm. Within the dungeon there are powerful enemies, so make sure to rush with caution and always clear if you do not feel confident. There are 3 Treasure Rooms--indicated by the boxes on the map--which do not attack but are surrounded by enemies--and only one boss, the Dark Sorcerer.
 
 
   </TabItem>
