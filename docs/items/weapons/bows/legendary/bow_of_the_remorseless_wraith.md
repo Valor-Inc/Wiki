@@ -7,6 +7,7 @@ sidebar_position: 2
 ![BotRW](https://vwiki.valorserver.com/api/item/picture/bow%20of%20the%20remorseless%20wraith)
 
 <i>The torment never stops.</i>
+
 Damage: 200-225
 
 Shots: 4
@@ -21,9 +22,10 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-**The upgraded form of the [Bow of the Lonesome Wraith](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith)**
+**Upgraded form of the [Bow of the Lonesome Wraith](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith)**
 
 ## Projectile
+
 ![BotRW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981322605099372564/wraithbow.gif)
 
 
