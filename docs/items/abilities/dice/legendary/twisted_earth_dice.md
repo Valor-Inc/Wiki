@@ -18,6 +18,6 @@ MP Cost: 90
 
 Fame Bonus: 8%
 
-**Upgraded form of [Earthforce Dice](https://wiki.valorserver.com/docs/items/abilities/dice/ut/earthforce_dice)**
-
 ***Surge Healing: When you have surge, gain a healing effect with a duration scaling off your maximum hp***
+
+**Upgraded form of [Earthforce Dice](https://wiki.valorserver.com/docs/items/abilities/dice/ut/earthforce_dice)**
