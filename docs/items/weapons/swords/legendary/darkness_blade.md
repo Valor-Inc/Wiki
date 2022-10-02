@@ -18,6 +18,6 @@ Range: 5.5
 
 Fame Bonus: 8%
 
-**Upgraded form of [Blade of the Nightbringer](https://wiki-test.valorserver.com/docs/items/weapons/swords/ut/blade_of_the_nightbringer)**
+**Upgraded form of [Blade of the Nightbringer](https://wiki.valorserver.com/docs/items/weapons/swords/ut/blade_of_the_nightbringer)**
 
 ## Projectile
