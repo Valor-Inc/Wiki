@@ -26,4 +26,4 @@ MP Cost: 150
 
 Fame Bonus: 8%
 
-**Upgraded form of the Tablet of the King's Avatar**
+**Upgraded form of the [Tablet of the King's Avatar](https://www.realmeye.com/wiki/tablet-of-the-king-s-avatar)**
