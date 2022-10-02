@@ -22,4 +22,4 @@ Fame Bonus: 8%
 
 ***This item is a part of Trial of Blackwood Set***
 
-**Drops from Therani in Blackwood Forest (Trial 1)**
+**Drops from Therani | Trial**
