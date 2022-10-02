@@ -26,7 +26,7 @@ Shots pass through obstacles
 
 ***Alien Restoration: When using Mana potions, you have a up to 25% chance to restore your protection.***
 
-**Upgraded form of [Wand of Pristine Environments](https://wiki-test.valorserver.com/docs/items/weapons/wands/ut/wand_of_pristine_environments)**
+**Drops from the Regolith (Galatic Plateau 2nd)**
 
 Fame Bonus: 8%
  
