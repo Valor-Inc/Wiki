@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 
 ![Bacon](https://vwiki.valorserver.com/api/item/picture/bacon%20cape)
 
-<i>As much powera s this garment gives, the worrying part isn't that it was once worn by the terrible Roger Bacon, but that for some ungodly reason, it smells like bacon as well.</i>
+<i>As much power as this garment gives, the worrying part isn't that it was once worn by the terrible Roger Bacon, but that for some ungodly reason, it smells like bacon as well.</i>
 
     +140 Maximum HP
     
@@ -38,7 +38,7 @@ Fame Bonus: 8%
 
 ![ABacon](https://vwiki.valorserver.com/api/item/picture/actually%20bacon)
 
-<i>As much powera s this garment gives, the worrying part isn't that it was once worn by the terrible Roger Bacon, but that for some ungodly reason, it smells like bacon as well.</i>
+<i>As much power as this garment gives, the worrying part isn't that it was once worn by the terrible Roger Bacon, but that for some ungodly reason, it smells like bacon as well.</i>
 
     +140 Maximum HP
     
