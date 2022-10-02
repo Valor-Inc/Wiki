@@ -22,4 +22,4 @@ Cooldown: 7 seconds
 
 Fame Bonus: 8%
 
-**Upgraded form of [Shadow Beacon](https://wiki-test.valorserver.com/docs/items/abilities/banners/ut/shadow_beacon/)**
+**Upgraded form of [Shadow Beacon](https://wiki.valorserver.com/docs/items/abilities/banners/ut/shadow_beacon/)**
