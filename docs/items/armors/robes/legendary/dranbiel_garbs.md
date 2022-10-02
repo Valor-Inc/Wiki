@@ -24,4 +24,4 @@ Fame Bonus: 8%
 
 ***Belonging: You feel more at home with this cruel world--it made you, after all. If below 90% HP, you heal 10% HP when using your ability. 3s CD***
 
-**Retool of Kiskiorab**
+**Retool of Kiskirab**
