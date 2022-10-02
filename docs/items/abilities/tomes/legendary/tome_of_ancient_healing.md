@@ -24,6 +24,6 @@ Fame Bonus: 12%
 
 ***Stoneskin: While being above 50% health, you can't be armor broken.***
 
-**Upgraded form of Tome of Holy Protection**
+**Upgraded form of [Tome of Holy Protection](https://www.realmeye.com/wiki/tome-of-holy-protection)**
 
 *See FAQ page to see how WisMod is calculated on the items*
