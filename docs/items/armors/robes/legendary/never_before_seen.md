@@ -24,4 +24,4 @@ sidebar_position: 7
     
 Fame Bonus: 8%
 
-**Bought from the Calling of the Titan Raid Shop**
+**Can be purchased for 280 Onrane from the Calling of the Titan raid shop**
