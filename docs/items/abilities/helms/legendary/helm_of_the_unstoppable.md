@@ -24,4 +24,4 @@ Cooldown: 7 seconds
 
 Fame Bonus: 8%
 
-**Upgraded form of Helm of the Juggernaut**
+**Upgraded form of [Helm of the Juggernaut](https://www.realmeye.com/wiki/helm-of-the-juggernaut)**
