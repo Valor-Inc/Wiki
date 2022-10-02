@@ -25,7 +25,7 @@ import TabItem from '@theme/TabItem';
     
 Fame Bonus: 8% 
 
-**Unscathed Legacy: While you are above 70% health, chances of striking a critical are increased by 7.5%**
+***Unscathed Legacy: While you are above 70% health, chances of striking a critical are increased by 7.5%***
 
 **Craftable from Shard of the Grand Challenge**
 
@@ -48,7 +48,7 @@ Fame Bonus: 8%
     
 Fame Bonus: 8% 
 
-**Unscathed Legacy: While you are above 70% health, chances of striking a critical are increased by 7.5%**
+***Unscathed Legacy: While you are above 70% health, chances of striking a critical are increased by 7.5%***
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
