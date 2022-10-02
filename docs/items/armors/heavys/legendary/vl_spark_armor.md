@@ -24,4 +24,4 @@ Sprited by: Owypo
     
 Fame Bonus: 8%
 
-**Upgraded form of [V-X Spark Armor](https://wiki-test.valorserver.com/docs/items/armors/heavys/ut/vx_spark_armor)**
+**Upgraded form of [V-X Spark Armor](https://wiki.valorserver.com/docs/items/armors/heavys/ut/vx_spark_armor)**
