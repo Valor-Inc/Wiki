@@ -28,4 +28,4 @@ Cooldown: 8.5 Seconds
 
 Fame Bonus: 8%
 
-**Upgraded form of Planewalker**
+**Upgraded form of [Cloak of the Planewalker](https://www.realmeye.com/wiki/cloak-of-the-planewalker)**
