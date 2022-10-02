@@ -14,10 +14,14 @@ Enemies Effect: Within 6 sqrs Armor Broken for 3 seconds.
 
 MP Cost: 100
 
-    +90 Maximum MP
+    +100 Maximum MP
     
-    +15 Attack
+    +10 Attack
+    
+    +2 Mana Leech
 
 Fame Bonus: 12%
+
+***Crystalic Explosion: Spawns a crystal bomb that explodes into 6 shards and deals 300 dmg and armor breaks enemies for 3s**
 
 **Drops from the Crystal Prisoner in the Realm**
