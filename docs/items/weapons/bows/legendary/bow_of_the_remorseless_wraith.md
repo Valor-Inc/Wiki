@@ -7,7 +7,6 @@ sidebar_position: 2
 ![BotRW](https://vwiki.valorserver.com/api/item/picture/bow%20of%20the%20remorseless%20wraith)
 
 <i>The torment never stops.</i>
-
 Damage: 200-225
 
 Shots: 4
