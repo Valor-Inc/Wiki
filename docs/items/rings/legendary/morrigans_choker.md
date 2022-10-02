@@ -22,4 +22,4 @@ sidebar_position: 11
     
 Fame Bonus: 8%
 
-**Upgraded form of [Death Amulet](https://wiki-test.valorserver.com/docs/items/rings/ut/death_amulet)**
+**Upgraded form of [Death Amulet](https://wiki.valorserver.com/docs/items/rings/ut/death_amulet)**
