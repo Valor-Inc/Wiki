@@ -30,7 +30,7 @@ Ignores defense of target
 
 Fame Bonus: 8
 
-**Upgraded form of [Infused Katana](https://wiki-test.valorserver.com/docs/items/weapons/katanas/ut/infused_katana)**
+**Upgraded form of [Infused Katana](https://wiki.valorserver.com/docs/items/weapons/katanas/ut/infused_katana)**
 
 ## Projectile
 
