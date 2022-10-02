@@ -26,6 +26,8 @@ Range: 3
 
 Fame Bonus: 12%
 
+***This item is a part of the Deep Sea Fishing Set***
+
 **Drops from Wrackjaw | Trial**
 
 ## Projectile
