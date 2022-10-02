@@ -24,7 +24,7 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-**The upgraded form of the [Bow of the Lonesome Wraith](https://wiki-test.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith)**
+**The upgraded form of the [Bow of the Lonesome Wraith](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith)**
 
 ## Projectile
 ![BotRW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981322605099372564/wraithbow.gif)
