@@ -8,8 +8,6 @@ sidebar_position: 2
 
 <i>The torment never stops.</i>
 
-**The Upgraded form of Bow of the Lonesome Wraith**
-
 Damage: 200-225
 
 Shots: 4
@@ -24,9 +22,10 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
-**The upgraded form of the [Bow of the Lonesome Wraith](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith)**
+**Upgraded form of the [Bow of the Lonesome Wraith](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith)**
 
 ## Projectile
+
 ![BotRW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981322605099372564/wraithbow.gif)
 
 
