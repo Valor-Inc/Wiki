@@ -20,7 +20,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of Crystal Sword**
+**Upgraded form of [Crystal Sword](https://www.realmeye.com/wiki/crystal-sword)**
 
 ## Projectile
 
