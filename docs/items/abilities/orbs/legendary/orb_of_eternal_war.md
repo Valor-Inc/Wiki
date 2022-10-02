@@ -24,6 +24,6 @@ Cooldown: 5 seconds
 
 Fame Bonus: 8%
 
-**Upgraded form of Orb of Conflict**
+**Upgraded form of [Orb of Conflict](https://www.realmeye.com/wiki/orb-of-conflict)**
 
 *See FAQ Page to see how WisMod is calculated for the items*
