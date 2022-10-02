@@ -26,7 +26,7 @@ Ignores defense of target
 
 Fame Bonus: 8%
 
-**Upgraded form of [Sword of Dark Necromancy](https://wiki-test.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy)**
+**Upgraded form of [Sword of Dark Necromancy](https://wiki.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy)**
 
 ## Projectile
 
