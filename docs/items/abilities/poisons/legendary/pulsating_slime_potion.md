@@ -18,6 +18,6 @@ MP Cost: 150
 
 Fame Bonus: 4%
 
-***Upgraded form of Plague Posion***
+***Upgraded form of [Plague Posion](https://www.realmeye.com/wiki/plague-poison)***
 
 *See FAQ page to see how wismod is calculated for the items*
