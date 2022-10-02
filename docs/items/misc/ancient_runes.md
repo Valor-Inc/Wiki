@@ -30,7 +30,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A rune that contains the force of the unruly skies.</i>
 
-**Can be used with [Speedy Sprout](https://wiki-test.valorserver.com/docs/items/consumables/reusable/speedier_sprout) to create [Speediest Sprout](https://wiki-test.valorserver.com/docs/items/consumables/reusable/speediest_sprout)**
+**Can be used with [Speedy Sprout](https://wiki.valorserver.com/docs/items/consumables/reusable/speedier_sprout) to create [Speediest Sprout](https://wiki.valorserver.com/docs/items/consumables/reusable/speediest_sprout)**
 
 **Can be used to enchant Ancient Relic items**
 
