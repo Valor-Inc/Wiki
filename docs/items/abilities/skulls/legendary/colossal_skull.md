@@ -24,4 +24,4 @@ MP Cost: 90
 
 Fame Bonus: 8%
 
-**Craftable from Shard of Eternal Fury**
+**Upgraded form of [Skull of Lenin](https://wiki.valorserver.com/docs/items/abilities/skulls/ut/skull_of_lenin)**
