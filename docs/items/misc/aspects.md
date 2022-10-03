@@ -306,7 +306,7 @@ import TabItem from '@theme/TabItem';
 
 **Upon killing an enemy with a quest tag, roll a 20 sided dice**
 
-**If you roll a 20, gain 20% Loot Boost. If you roll a 1, lost 10% Loot Boost**
+**If you roll a 20, gain 20% Loot Boost. If you roll a 1, lose 10% Loot Boost**
 
 ***Drops from the Kraken | Alert***
 
