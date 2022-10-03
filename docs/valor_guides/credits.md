@@ -13,4 +13,5 @@ description: "Credit's given where credit's due!"
 
 ![Thruy](https://cdn.discordapp.com/attachments/987312834834739301/1026306526249500772/unknown.png)
 
+![Rina](https://cdn.discordapp.com/attachments/987312834834739301/1026350185439301662/ddddddd.png)
 
