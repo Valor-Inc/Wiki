@@ -24,9 +24,9 @@ Ignores defense of target
     
 Fame Bonus: 6%
 
-**Drops from all bosses of the Fallen Light raid**
+***This item can be upgraded with Elemental Sor Crystal!***
 
-***This item can be upgraded with Elemental Sor!***
+**Drops from all bosses of the Fallen Light raid**
 
 ## Projectile
 
