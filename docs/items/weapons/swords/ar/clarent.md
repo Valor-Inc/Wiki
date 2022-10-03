@@ -48,7 +48,7 @@ Fame Bonus: 15%
 
 <i>The world melts around your blade with every swing, making each slice effortless.</i>
 
-**Air Rune: Gain +8% Rate of Fire**
+**Air Rune: Gain +8% Rate of Fire.**
     
 Damage: 1350-1525
 
@@ -81,7 +81,7 @@ Fame Bonus: 15%
 
 <i>The very ground withers at your accursed heels, imbuing you with regenerative energy.</i>
 
-**Earth Rune: Gain +200 Maximum HP and +10 Restoration**
+**Earth Rune: Gain +200 Maximum HP and +10 Restoration.**
     
 Damage: 1350-1525
 
@@ -114,7 +114,7 @@ Fame Bonus: 15%
 
 <i>Underneath the flames each swing beckons forth a razor-sharp obsidian edge that flies effortlessly through the air.</i>
 
-**Fire Rune: Increases maximum damage by +100**
+**Fire Rune: Increases maximum damage by 100.**
     
 Damage: 1350-1625
 
@@ -147,7 +147,7 @@ Fame Bonus: 15%
 
 <i>It reeks of the unnatural, but nothing can withstand the flaming despair of an Eternal.</i>
 
-**Water Rune: Increases your range by 0.6 tiles**
+**Water Rune: Increases your range by 0.6 tiles.**
     
 Damage: 1350-1525
 
