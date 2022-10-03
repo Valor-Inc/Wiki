@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 ## What is RWT?
 
-Real World Trading (RWT) is when two players trade in-game items in exchange for real-world currnecies or the equivalent. Most commonly, you can expect to RWT with Paypal or Steam balance. There are special rules and regulations by Valor so as to provide the best experience for all users!
+Real World Trading (RWT) is when two players trade in-game items in exchange for real-world currencies or the equivalent. Most commonly, you can expect to RWT with Paypal or Steam balance. There are special rules and regulations by Valor so as to provide the best experience for all users!
 
 ## How to Get Started
 
@@ -25,11 +25,11 @@ The Valor Bot will send you a command and cde you have to write in-game to link 
 
 ## Practicing Safe Trading
 
-f you are contacted in-game or in Discord to do an RWT trade, you should ask for their discord/in-game name, and run /ign @User in #bot channel to double-check that their account is linked. After running /ign you should follow with /vouches to see if the user has 5 or more vouches. Also check if they are [banned here](https://valorserver.com/ban-tracker).
+If you are contacted in-game or in Discord to do an RWT trade, you should ask for their discord/in-game name, and run /ign @User in #bot channel to double-check that their account is linked. After running /ign you should follow with /vouches to see if the user has 5 or more vouches. Also check if they are [banned here](https://valorserver.com/ban-tracker).
 
 If anything feels off about a deal, you can open up a ticket and express your concern. Valor Staff will always try to be as fast as possible. You can open a general ticket and simply say, "Hey, I'm doing a trade with [Player Name], and when I mention a MM they don't want" or, "Hey, I'm doing a trade with [Player Name], they are selling 30 LGs and their acc is like 5 stars". They'll take a look. 
 
-IF you are skeptical about any trade whatsoever, make them go in-game to message you to get their in-game name or to prove their items/gold, get their Discord ID, PayPal email, anything that can save us both the trouble if a scam does occur.
+If you are skeptical about any trade whatsoever, make them go in-game to message you to get their in-game name or to prove their items/gold, get their Discord ID, PayPal email, anything that can save us both the trouble if a scam does occur.
 
 RWTing with someone who is not Verified in our discord is a bannable offense. "I didn't know" is not an excuse. It's very easy to check that and vouches. Anyone selling goods outside of Valor obtained them through malicious uses, and we would not suggest buying them. Users who have been cracked into will want it back. Furthermore, they frequently scam and most people involved have been banned in the past for chargebacks.
 
