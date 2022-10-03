@@ -64,7 +64,7 @@ Fame Bonus: 16%
 
 **500k Gold: +15% Rate of Fire**
 
-**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**1000k Gold: 10% chance to revive upon receiving a fatal blow**
 
 ***Enchanted Saturn's Orbit with Ancient Air Rune***
 
@@ -95,7 +95,7 @@ Fame Bonus: 16%
 
 **500k Gold: +15% Rate of Fire**
 
-**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**1000k Gold: 10% chance to revive upon receiving a fatal blow**
 
 ***Enchanted Saturn's Orbit with Ancient Earth Rune***
 
@@ -128,7 +128,7 @@ Fame Bonus: 16%
 
 **500k Gold: +15% Rate of Fire**
 
-**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**1000k Gold: 10% chance to revive upon receiving a fatal blow**
 
 ***Enchanted Saturn's Orbit with Ancient Fire Rune***
 
@@ -157,7 +157,7 @@ Fame Bonus: 16%
 
 **500k Gold: +15% Rate of Fire**
 
-**1Mil Gold: 10% chance to revive upon receiving a fatal blow**
+**1000k Gold: 10% chance to revive upon receiving a fatal blow**
 
 ***Enchanted Saturn's Orbit with Ancient Water Rune***
 
