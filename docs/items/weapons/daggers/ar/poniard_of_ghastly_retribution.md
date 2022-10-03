@@ -113,7 +113,7 @@ Damage: 565-695
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
 Range: 4.5
 
