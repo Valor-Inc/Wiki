@@ -67,8 +67,8 @@ Fame Bonus: 16%
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
 
-**Earth Rune: Gain +10 Defense, +50 Maximum HP and +3 Life Steal**
-    
+**Earth Rune: Gain +10 Defense, +50 Maximum HP and +3 Life Steal** 
+
     +25 Defense
 
     +8 Speed
@@ -96,8 +96,8 @@ Fame Bonus: 16%
 
 <i>zzzzzt... Temperature module, activated! Offense mechanisms, upgraded.</i>
 
-**Fire Rune: Gain +10 Attack, +15 Might and Lose 5 Defense, 50 Maximum HP**
-    
+**Fire Rune: Gain +10 Attack and +15 Might; but Lose 5 Defense and 50 Maximum HP**
+
     +10 Defense
 
     +8 Speed
@@ -126,7 +126,7 @@ Fame Bonus: 16%
 <i>zzzzzzzzt... Humidity module, activated! Fuel and engines, upgraded.</i>
 
 **Water Rune: Gain +50 Maximum MP, +15 Wisdom, +2 Mana Leech Lose 5 Defense and 50 Maximum HP**
-    
+
     +10 Defense
 
     +8 Speed
