@@ -102,7 +102,7 @@ Fame Bonus: 16%
 
 <i>Infused with the ashes of Inferno, this robe grants great power to anybody brave enough to wear it. Enchanted with the power of the Earth.</i>
 
-**Fire Rune: Increases your maximum hp by 100, maximu maman by 50, attack by 20, defense by 5 and rmeoves dexterity and negative speed.**
+**Fire Rune: Increases your maximum health by 100, maximum mana by 50, attack by 20, defense by 5 and removes dexterity and negative speed.**
 
     +250 Maximum HP
 
@@ -129,7 +129,7 @@ Fame Bonus: 16%
 
 <i>Infused with the ashes of Inferno, this robe grants great power to anybody brave enough to wear it. Enchanted with the power of the Sea.</i>
 
-**Water Rune: Increases your maximum hp by 50, maximum mp by 150, wisdom by 25, and mana leech by 2.**
+**Water Rune: Increases your maximum health by 50, maximum mana by 150, wisdom by 25, and mana leech by 2.**
 
     +200 Maximum HP
 
