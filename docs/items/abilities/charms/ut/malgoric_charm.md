@@ -24,6 +24,6 @@ Cooldown: 3 seconds
 
 Fame Bonus: 6%
 
-**Drops from Malgor, the Eternal Fiend | Public Challenge**
+***Upgradable with an Elemental Sor Crystal!***
 
-***Upgradable with an Elemental Sor!***
+**Drops from Malgor, the Eternal Fiend | Public Challenge**
