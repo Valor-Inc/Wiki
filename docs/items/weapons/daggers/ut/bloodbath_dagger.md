@@ -18,7 +18,7 @@ Range: 5.7
 
 Fame Bonus: 4%
 
-***This item can be upgraded with Elemental Sor!***
+***This item can be upgraded with Elemental Sor Crystal!***
 
 **Drops from Zaragon, the Blood Mage in the Realm**
 
