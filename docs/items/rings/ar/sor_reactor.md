@@ -29,7 +29,7 @@ Fame Bonus: 16%
 
 **100 Frags: +25% Restoration**
 
-**300 Frags: Grants +1 Lifesteal, +1Manasteal**
+**300 Frags: Grants +1 Lifesteal, +1 Manasteal**
 
 **600 Frags: 5% HP Regen**
 
@@ -62,7 +62,7 @@ Fame Bonus: 16%
 
 **100 Frags: +25% Restoration**
 
-**300 Frags: Grants +1 Lifesteal, +1Manasteal**
+**300 Frags: Grants +1 Lifesteal, +1 Manasteal**
 
 **600 Frags: 5% Rate of Fire Regen**
 
@@ -95,7 +95,7 @@ Fame Bonus: 16%
 
 **100 Frags: +25% Restoration**
 
-**300 Frags: Grants +2 Lifesteal, +1Manasteal**
+**300 Frags: Grants +2 Lifesteal, +1 Manasteal**
 
 **600 Frags: 15% additional HP Regen**
 
@@ -126,7 +126,7 @@ Fame Bonus: 16%
 
 **100 Frags: +25% Restoration**
 
-**300 Frags: Grants +1 Lifesteal, +1Manasteal**
+**300 Frags: Grants +1 Lifesteal, +1 Manasteal**
 
 **600 Frags: 5% Damage Increase**
 
