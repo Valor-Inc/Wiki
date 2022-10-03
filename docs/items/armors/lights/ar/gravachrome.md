@@ -40,7 +40,7 @@ Fame Bonus: 16%
 
 <i>brrrrt... Weather module, activated! Radars and thrusters, upgraded!</i>
 
-**Air Rune: Grants 15% chance to Dodge incoming projectiles.**
+**Air Rune: Grants 15% chance to Dodge incoming projectiles**
 
     +5 Defense
 
@@ -66,6 +66,8 @@ Fame Bonus: 16%
 ![GravachromeE](https://vwiki.valorserver.com/api/item/picture/gravachrome%20earth)
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
+
+**Earth Rune: Gain +10 Defense, +50 Maximum HP and +3 Life Steal** 
 
     +25 Defense
 
@@ -94,6 +96,8 @@ Fame Bonus: 16%
 
 <i>zzzzzt... Temperature module, activated! Offense mechanisms, upgraded.</i>
 
+**Fire Rune: Gain +10 Attack and +15 Might; but Lose 5 Defense and 50 Maximum HP**
+
     +10 Defense
 
     +8 Speed
@@ -120,6 +124,8 @@ Fame Bonus: 16%
 ![GravachromeW](https://vwiki.valorserver.com/api/item/picture/gravachrome%20water)
 
 <i>zzzzzzzzt... Humidity module, activated! Fuel and engines, upgraded.</i>
+
+**Water Rune: Gain +50 Maximum MP, +15 Wisdom and +2 Mana Leech; but Lose 5 Defense and 50 Maximum HP**
 
     +10 Defense
 
