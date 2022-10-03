@@ -125,7 +125,7 @@ Fame Bonus: 16%
 
 <i>zzzzzzzzt... Humidity module, activated! Fuel and engines, upgraded.</i>
 
-**Water Rune: Gain +50 Maximum MP, +15 Wisdom, +2 Mana Leech Lose 5 Defense and 50 Maximum HP**
+**Water Rune: Gain +50 Maximum MP, +15 Wisdom and +2 Mana Leech; but Lose 5 Defense and 50 Maximum HP**
 
     +10 Defense
 
