@@ -31,7 +31,7 @@ Fame Bonus: 16%
 
 **500k Gold: +15% Rate of Fire**
 
-**1000k Gold: 10% chance to revive upon receiving a fatal blow.** 
+**1Mil Gold: 10% chance to revive upon receiving a fatal blow.** 
 
 ***Drops from Oryx the Mad God 3***
 
