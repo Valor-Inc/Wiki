@@ -29,7 +29,7 @@ If you are contacted in-game or in Discord to do an RWT trade, you should ask fo
 
 If anything feels off about a deal, you can open up a ticket and express your concern. Valor Staff will always try to be as fast as possible. You can open a general ticket and simply say, "Hey, I'm doing a trade with [Player Name], and when I mention a MM they don't want" or, "Hey, I'm doing a trade with [Player Name], they are selling 30 LGs and their acc is like 5 stars". They'll take a look. 
 
-If you are skeptical about any trade whatsoever, make them go in-game to message you to get their in-game name or to prove their items/gold, get their Discord ID, PayPal email, anything that can save us both the trouble if a scam does occur.
+IF you are skeptical about any trade whatsoever, make them go in-game to message you to get their in-game name or to prove their items/gold, get their Discord ID, PayPal email, anything that can save us both the trouble if a scam does occur.
 
 RWTing with someone who is not Verified in our discord is a bannable offense. "I didn't know" is not an excuse. It's very easy to check that and vouches. Anyone selling goods outside of Valor obtained them through malicious uses, and we would not suggest buying them. Users who have been cracked into will want it back. Furthermore, they frequently scam and most people involved have been banned in the past for chargebacks.
 
