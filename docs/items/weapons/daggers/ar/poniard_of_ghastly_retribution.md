@@ -75,7 +75,7 @@ Fame Bonus: 15%
 
 <i>Forged in the tears of enemies on a full moon</i>
 
-**Earth Rune: Increases range, decreases damage and adds a second projectile. Also sets Vitality to +50.**
+**Earth Rune: Increases range, decreases damage and adds a second projectile. Also sets Vitality to +40.**
 
 Damage: 285-435
 
@@ -85,7 +85,7 @@ Rate of Fire: 110%
 
 Range: 5.2
 
-    +50 Vitality
+    +40 Vitality
     
     +15 Wisdom
     
@@ -113,7 +113,7 @@ Damage: 565-695
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
 Range: 4.5
 
