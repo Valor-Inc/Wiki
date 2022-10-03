@@ -5,18 +5,12 @@ description: "Credit's given where credit's due!"
 ---
 # Credits
 
-### The Valor wiki was created in a joint effort by:
+![deathmod](https://cdn.discordapp.com/attachments/953134990428868629/1026321617124593764/unknown.png)
 
-### Deathmod (Branden#8610) 
+![nordic](https://cdn.discordapp.com/attachments/987312834834739301/1026309391965749288/Background_4.png)
 
-### Nordic (nordic#0148) 
+![Oddish](https://cdn.discordapp.com/attachments/987312834834739301/1026305052610146304/unknown.png)
 
-### Oddish (Oddish#5906)
-
-## With assistance from:
-
-### [The Valor Staff](https://valorserver.com/staff)
-
-### Liv (endless#0605)
+![Thruy](https://cdn.discordapp.com/attachments/987312834834739301/1026306526249500772/unknown.png)
 
 
