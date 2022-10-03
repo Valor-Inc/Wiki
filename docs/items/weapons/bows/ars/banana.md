@@ -1,17 +1,17 @@
 ---
-sidebar_position: 2
-title: Bananablivion
+sidebar_position: 4
+title: Bananalivion
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Bananablivion" label="Bananablivion" default>
+  <TabItem value="Bananalivion" label="Bananalivion" default>
 
-# Bananablivion
+# Bananalivion
 
-![Bananablivion](https://vwiki.valorserver.com/api/item/picture/Bananablivion)
+![Bananalivion](https://vwiki.valorserver.com/api/item/picture/Bananalivion)
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian.</i>
 
@@ -31,14 +31,14 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Bananablivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
+![Bananalivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
 
   </TabItem>
   <TabItem value="Air" label="Air">
 
-# Bananablivion Air 
+# Bananalivion Air 
 
-![BananablivionAir](https://vwiki.valorserver.com/api/item/picture/Bananablivion%20Air)
+![BananalivionAir](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Air)
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Air.</i>
 
@@ -56,18 +56,18 @@ Shots pass through obstacles
 
 Fame Boss: 15%
 
-**Enchanted Bananablivion with Ancient Air Rune**
+**Enchanted Bananalivion with Ancient Air Rune**
 
 ## Projectile
 
-![Bananablivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
+![Bananalivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
-# Bananablivion Earth
+# Bananalivion Earth
 
-![BananablivionEarth](https://vwiki.valorserver.com/api/item/picture/Bananablivion%20Earth)
+![BananalivionEarth](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Earth)
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Earth.</i>
 
@@ -87,19 +87,19 @@ Shots pass through obstacles
 
 Fame Boss: 15%
 
-**Enchanted Bananablivion with Ancient Earth Rune**
+**Enchanted Bananalivion with Ancient Earth Rune**
 
 ## Projectile
 
-![Bananablivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
+![Bananalivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
 
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# Bananablivion Fire
+# Bananalivion Fire
 
-![BananablivionFire](https://vwiki.valorserver.com/api/item/picture/Bananablivion%20Fire)
+![BananalivionFire](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Fire)
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of Fire.</i>
 
@@ -117,18 +117,18 @@ Shots pass through obstacles
 
 Fame Boss: 15%
 
-**Enchanted Bananablivion with Ancient Fire Rune**
+**Enchanted Bananalivion with Ancient Fire Rune**
 
 ## Projectile
 
-![Bananablivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
+![Bananalivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
 
   </TabItem>
   <TabItem value="Water" label="Water">
 
-# Bananablivion Water
+# Bananalivion Water
 
-![BananablivionWater](https://vwiki.valorserver.com/api/item/picture/Bananablivion%20Water)
+![BananalivionWater](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Water)
 
 <i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Sea.</i>
 
@@ -146,11 +146,11 @@ Shots pass through obstacles
 
 Fame Boss: 15%
 
-**Enchanted Bananablivion with Ancient Water Rune**
+**Enchanted Bananalivion with Ancient Water Rune**
 
 ## Projectile
 
-![Bananablivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
+![Bananalivion Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981319720718434304/oblivion.gif)
 
   </TabItem>
 </Tabs>
