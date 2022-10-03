@@ -134,7 +134,7 @@ Fame Bonus: 15%
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Sea.</i>
 
-**Water Rune: Increases your range by 2 tiles, maximum damage by 25 and decreases your minimum damage by 15.**
+**Water Rune: Increases your range by 1 tile, allows your shots to regenerate mana**
 
 Shots: 2
 
