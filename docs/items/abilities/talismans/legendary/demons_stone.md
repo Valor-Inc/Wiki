@@ -10,27 +10,29 @@ sidebar_position: 2
 
 **Spawns a ghost to aid you in combat.**
 
-Damage: 800
+Main Base Damage: 950
 
-Lifetime: 6
+Base Damage: 690
 
-Effect: Dazed for 4 seconds
+Max Summons: 4
 
-Effect on Self: Berserk for 6 seconds
+Soul Cost: 60
 
-Enemy Effect: Within 5 sqrs Paralyzed for 4 seconds
+Additional 40% Main Damage for 5 seconds
 
-MP Cost: 100
-
-Cooldown: 4 seconds
+Effect on Enemy: Paralyzed for 2 seconds
 
     +80 Maximum HP
-    
+
     +10 Protection
-    
+
     +12 Dexterity
-    
+
     +20 Might
+
+MP Cost: 110
+
+Cooldown: 3 seconds
 
 Fame Bonus: 8%
 
