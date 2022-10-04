@@ -8,13 +8,11 @@ sidebar_position: 1
 
 <i>Charged with Zegaell's radiating energy within.</i>
 
-Lightning: 2000 to 3 targets
+Lightning: 1500 to 5 targets
 
 Shot Effect: Paralyzed for 4 seconds
 
-MP Cost: 75
-
-Cooldown: 2 Seconds
+MP Cost: 100
 
     +50 Maximum HP
     
