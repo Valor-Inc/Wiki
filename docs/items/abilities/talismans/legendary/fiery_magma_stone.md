@@ -17,21 +17,25 @@ import TabItem from '@theme/TabItem';
 
 **Spawns a ghost to aid you in combat.**
 
-Damage: 650
+Main Base Damage: 1100
 
-Lifetime: 5
+Base Damage: 720
 
-Effect: Dazed for 3 seconds
+Max Summons: 5
 
-Effect on Self: Vengance for 2 seconds
+Soul Cost: 50
+
+Additional 45% Main Damage for 5 seconds
+
+Effect on Enemy: Curse for 2 seconds
+
+    +15 Dexterity
+
+    +100 Maximum HP
 
 MP Cost: 100
 
-Cooldown: 4 seconds
-
-    +15 Dexterity
-    
-    +100 Maximum HP
+Cooldown: 1 seconds
 
 Fame Bonus: 8%
 
@@ -48,21 +52,25 @@ Fame Bonus: 8%
 
 **Spawns a ghost to aid you in combat.**
 
-Damage: 650
+Main Base Damage: 1100
 
-Lifetime: 5
+Base Damage: 720
 
-Effect: Dazed for 3 seconds
+Max Summons: 5
 
-Effect on Self: Vengance for 2 seconds
+Soul Cost: 50
+
+Additional 45% Main Damage for 5 seconds
+
+Effect on Enemy: Curse for 2 seconds
+
+    +15 Dexterity
+
+    +100 Maximum HP
 
 MP Cost: 100
 
-Cooldown: 4 seconds
-
-    +15 Dexterity
-    
-    +100 Maximum HP
+Cooldown: 1 seconds
 
 Fame Bonus: 8%
 
