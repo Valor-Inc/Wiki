@@ -10,21 +10,27 @@ sidebar_position: 1
 
 **Spawns a ghost to aid you in combat.**
 
-Damage: 680 
+Main Base Damage: 750
 
-Lifetime: 6 
+Base Damage: 480
 
-Effect: Cursed for 4 seconds
+Max Summons: 2
 
-MP Cost: 100
+Soul Cost: 25
 
-Cooldown: 4 seconds
+Additional 30% Main Damage for 5 seconds
+
+Effect on Enemy: Slowed for 2 seconds
 
     +40 Maximum MP
-    
+
     +8 Attack
-    
+
     +6 Speed
+
+MP Cost: 85
+
+Cooldown: 1 seconds
 
 Fame Bonus: No Fame Bonus
 
