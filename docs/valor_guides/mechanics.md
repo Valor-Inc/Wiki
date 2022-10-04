@@ -31,7 +31,7 @@ The Mark Shop allows for the purchase of Marks for 330 Onrane and Nodes for the 
 
 ![Vials](https://cdn.discordapp.com/attachments/953134990428868629/1026690839461773373/unknown.png)
 
-Ready to finally drink these vials?! In order to do so you must use a [Lost Scripture #2](https://wiki.valorserver.com/docs/items/consumables/oneuse/lost_scriptures). You must drink 10 of each vial to unlock 24/24 and Vials can be found in most endgame content such as Raids, Dungeons and Ascended Dungeons.
+Ready to finally drink these vials?! In order to do so you must use a [Lost Scripture #2](https://wiki.valorserver.com/docs/items/consumables/oneuse/lost_scriptures). You must drink 10 of each vial to unlock 24/24 and Vials can be found in most endgame content such as Raids, Dungeons and Ascended Dungeons. Vials can also be crafted by combining 2 greater potions.
 
 
   </TabItem>
@@ -173,6 +173,8 @@ Might effects the critical hit damage multiplier. Every 76 might increases your 
     228 ≤ x < 304 = 4x crits
     304 ≤ x < 380 = 5x crits 
 
+Might effects the critical hit damage multiplier. Every 7 might increases your serverside crit multiplier by 0.1x.
+
 ## Restoration
 
 ![Res](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Restoration)
@@ -195,7 +197,7 @@ Life Steal and Mana Leech apply their respective trait onto your weapon. Every 1
 
 ![Luckybaby](https://vwiki.valorserver.com/api/item/picture/Jackpot)
 
-Fortune is a very strong stat which can aid you when you are grinding. Every 1 fortune boosts your Loot Boost by 1% if that item is equipped. Loot Boost is only tracked the moment an enemy dies meanign you only need to equip your Fortune gear right before an enemy dies, so keep that DPS or Tanky gear on!
+Fortune is a very strong stat which can aid you when you are grinding. Every 1 fortune boosts your Loot Boost by 1% if that item is equipped. Loot Boost is only tracked the moment an enemy dies meaning you only need to equip your Fortune gear right before an enemy dies, so keep that DPS or Tanky gear on!
 
 ## Healing Boost & Mana Boost
 
