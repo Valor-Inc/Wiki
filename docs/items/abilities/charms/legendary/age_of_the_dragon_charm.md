@@ -10,7 +10,7 @@ sidebar_position: 1
 
 **Spawns an offensive Torii, Disappears after  seconds**
 
-Enemy Effect: Within 5 sqrs Curse for 6 seconds
+Enemy Effect: Within 5 sqrs Curse for 5 seconds
 
 MP Cost: 130
 
