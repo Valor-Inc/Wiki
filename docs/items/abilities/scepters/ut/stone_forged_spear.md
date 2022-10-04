@@ -10,13 +10,11 @@ sidebar_position: 1
 
 **Sprited by: BLOODQWEN**
 
-Lightning: 1750 to 4 targets
+Lightning: 1000 to 4 targets
 
 Shot Effect: Armor Broken for 3 seconds
 
-MP Cost: 115
-
-Cooldown: 2 seconds
+MP Cost: 80
 
     +60 Maximum HP
     
