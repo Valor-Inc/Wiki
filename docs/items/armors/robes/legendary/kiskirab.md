@@ -2,21 +2,21 @@
 sidebar_position: 5
 ---
 
-# Kiskirab
+# Kiskiorab
 
-![Kiskirab](https://vwiki.valorserver.com/api/item/picture/kiskirab)
+![Kiskiorab](https://vwiki.valorserver.com/api/item/picture/kiskiorab)
 
 <i>Everything must come to an end. No thing can be if it has yet to begin.</i>
 
     +200 Maximum HP
     
-    +40 Maximum MP
+    +120 Maximum MP
     
-    +16 Attack
+    +15 Attack
     
     +24 Defense
     
-    +26 Wisdom
+    +40 Wisdom
     
     +60 Restoration
 
