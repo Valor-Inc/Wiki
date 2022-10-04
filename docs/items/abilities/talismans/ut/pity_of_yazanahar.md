@@ -17,27 +17,27 @@ import TabItem from '@theme/TabItem';
 
 **Spawns a ghost to aid you in combat.**
 
-Damage: 700
+Main Base Damage: 750
 
-Lifetime: 5
+Base Damage: 500
 
-Effect: Bleeding for 4 seconds
+Max Summons: 2
+
+Soul Cost: 30
+
+Additional 30% Main Damage for 5 seconds
 
 Effect on Self: Damaging for 3 seconds
 
-Effect on Self: Darkness for 2 seconds
-
-Enemy Effect: Within 5 sqrs Bleeding for 4 seconds
-
-MP Cost: 70
-
-Cooldown: 5 seconds
-
     +15 Attack
-    
+
     -5 Defense
-    
+
     -75 Maximum HP
+
+MP Cost: 85
+
+Cooldown: 1 seconds
 
 Fame Bonus: 4%
 
@@ -54,27 +54,27 @@ Fame Bonus: 4%
 
 **Spawns a ghost to aid you in combat.**
 
-Damage: 700
+Main Base Damage: 750
 
-Lifetime: 5
+Base Damage: 500
 
-Effect: Bleeding for 4 seconds
+Max Summons: 2
+
+Soul Cost: 30
+
+Additional 30% Main Damage for 5 seconds
 
 Effect on Self: Damaging for 3 seconds
 
-Effect on Self: Darkness for 2 seconds
-
-Enemy Effect: Within 5 sqrs Bleeding for 4 seconds
-
-MP Cost: 70
-
-Cooldown: 5 seconds
-
     +15 Attack
-    
+
     -5 Defense
-    
+
     -75 Maximum HP
+
+MP Cost: 85
+
+Cooldown: 1 seconds
 
 Fame Bonus: 4%
 
