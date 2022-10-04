@@ -223,10 +223,10 @@ Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphon
     50 Attack
     20 Defense
     50 Speed
-    55 Dexterity
+    50 Dexterity
     35 Vitality
     80 Wisdom
-    50 Might
+    55 Might
     30 Luck
     25 Protection
     60 Restoration
