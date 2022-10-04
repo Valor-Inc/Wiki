@@ -10,13 +10,13 @@ sidebar_position: 2
 
     +200 Maximum HP
     
-    +40 Maximum MP
+    +120 Maximum MP
     
-    +16 Attack
+    +15 Attack
     
     +24 Defense
     
-    +26 Wisdom
+    +40 Wisdom
     
     +60 Restoration
 
