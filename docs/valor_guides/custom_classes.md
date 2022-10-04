@@ -218,11 +218,11 @@ The Pirate is an offensive sword class that uses leather armor. His anchor shoot
 Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphons drain your mana and then health rapidly in order to deal a large amount of damage. The calculation of damage takes Current Mana and how much health was drained. It has very poor stats at max but has the highest mana and wisdom of any other wand class.  
 **Stats on max:**
 
-    600 Life
+    650 Life
     900 Mana
     50 Attack
     20 Defense
-    40 Speed
+    50 Speed
     55 Dexterity
     35 Vitality
     80 Wisdom
