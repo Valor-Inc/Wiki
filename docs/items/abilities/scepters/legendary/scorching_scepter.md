@@ -10,9 +10,9 @@ sidebar_position: 4
 
 Lightning: 2500 to 7 targets
 
-Effect on Self: Damaging for 4 seconds
+Effect on Self: Damaging for 3 seconds
 
-MP Cost: 130
+MP Cost: 120
 
 Cooldown: 2 seconds
 
