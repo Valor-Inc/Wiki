@@ -23,9 +23,16 @@ By now, you may have already seen those cool looking Vial potions you can not dr
 
 ![Marksh](https://cdn.discordapp.com/attachments/953134990428868629/1023039040255168532/unknown.png)
 
-The Mark Shop allows for the purchase of Marks for 330 Onrane and Nodes for the cost of 70 Onrane. This shop can be accessed in the form of a button in the top left of your screen in the nexus, this button will resemble the Lost Scripture #1.
+The Mark Shop allows for the purchase of Marks for 330 Onrane and Nodes for the cost of 70 Onrane. This shop can be accessed in the form of a button in the top left of your screen in the nexus, this button will resemble the Lost Scripture #1. In order to unlock access to the Markshop, you will need to use a [Lost Scripture #1](https://wiki.valorserver.com/docs/items/consumables/oneuse/lost_scriptures).
 
 ![Markshop](https://cdn.discordapp.com/attachments/953134990428868629/1023040521263910992/unknown.png)
+
+## Maxing 24/24
+
+![Vials](https://cdn.discordapp.com/attachments/953134990428868629/1026690839461773373/unknown.png)
+
+Ready to finally drink these vials?! In order to do so you must use a [Lost Scripture #2](https://wiki.valorserver.com/docs/items/consumables/oneuse/lost_scriptures). You must drink 10 of each vial to unlock 24/24 and Vials can be found in most endgame content such as Raids, Dungeons and Ascended Dungeons.
+
 
   </TabItem>
 <TabItem value="Alerts" label="Alerts">
