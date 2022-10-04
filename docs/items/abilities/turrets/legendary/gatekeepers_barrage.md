@@ -12,6 +12,8 @@ Min Damage: 375
 
 Max Damage: 500
 
+Shot Effect: Slows enemies for 1 second
+
 Rate of Fire: Shoots every 0.3 seconds
 
 Duration: 2 seconds
