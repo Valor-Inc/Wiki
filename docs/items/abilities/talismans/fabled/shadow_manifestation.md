@@ -10,21 +10,23 @@ sidebar_position: 1
 
 **Spawns a shadow to aid you in combat.**
 
-Damage: 1200
+Main Base Damage: 800
 
-Lifetime: 4 
+Base Damage: 620
 
-Effect: Dazed for 1 second
- 
-Effect on Self: Berserk for 5 seconds
+Max Summons: 3
 
-MP Cost: 95
+Soul Cost: 35
 
-Cooldown: 4 seconds
+Additional 35% Main Damage for 4 seconds
 
     +12 Attack
-    
+
     +30 Restoration
+
+MP Cost: 90
+
+Cooldown: 2 Seconds
 
 Fame Bonus: 6%
 
