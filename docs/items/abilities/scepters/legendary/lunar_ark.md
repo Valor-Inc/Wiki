@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Lightning: 1800 (wismod) to 3 targets
 
-Shot Effect: Cursed for 3 seconds 
+Shot Effect: Cursed for 4 seconds 
 
 MP Cost: 100
 
