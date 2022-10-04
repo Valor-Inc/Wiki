@@ -10,13 +10,11 @@ sidebar_position: 1
 
 Min Damage: 850
 
-Max Damage: 1850
+Max Damage: 2315
 
-Rate of Fire: Shoots every 0.1 seconds
+Rate of Fire: Shoots every 0.2 seconds
 
 Duration: 6 seconds
-
-Effect on Self: Speedy for 2.5 seconds
 
 MP Cost: 105 
 
