@@ -8,13 +8,11 @@ sidebar_position: 1
 
 <i>Rumor has that this scepter was forged from an ancient lunar meteorite that landed before the Order's founding. It fills the wielder's palm with a chilling warmth, somehow.</i>
 
-Lightning: 1200 to 3 targets
+Lightning: 1800 to 3 targets
 
-Shot Effect: Stunned for 2.5 seconds 
+Shot Effect: Cursed for 3 seconds 
 
-MP Cost: 130
-
-Cooldown: 4 seconds
+MP Cost: 100
 
     +60 Maximum HP
     
