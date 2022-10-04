@@ -141,7 +141,7 @@ Fame Bonus: 15%
     
 <i>The cosmic knowledge of Zol flows through your soul. It burns.</i>
 
-**Water Rune: Increases your ragne by 0.4 tiles.**
+**Water Rune: Increases your range by 0.4 tiles.**
     
 Damage: 880-995
 
