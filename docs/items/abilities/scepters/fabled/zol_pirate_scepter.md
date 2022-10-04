@@ -12,7 +12,7 @@ Lightning: 1250 to 4 targets
 
 Shot Effect: Curse for 3 seconds
 
-MP Cost: 100
+MP Cost: 90
 
     +10 Attack
 
