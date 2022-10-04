@@ -51,7 +51,7 @@ Fame Bonus: 16%
     
     +15 Dexterity
     
-    +15 Speed
+    +25 Speed
 
     +30 Defense
     
