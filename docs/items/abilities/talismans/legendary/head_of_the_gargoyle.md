@@ -10,25 +10,27 @@ sidebar_position: 4
 
 **Spawns a gargoyle to aid you in combat.**
 
-Damage: 1200
+Main Base Damage: 900
 
-Lifetime: 6
+Base Damage: 650
 
-Effect: Dazed for 4 seconds
+Max Summons: 4
 
-Effect on Self: Damaging for 6 seconds
+Soul Cost: 60
 
-Enemy Effect: Within 5 sqrs Bleeding for 4 seconds
+Additional 40% Main Damage for 5 seconds
 
-MP Cost: 100
-
-Cooldown: 4 seconds
+Effect on Enemy: Armor Broken for 2 seconds
 
     +100 Maximum HP
-    
+
     +16 Defense
-    
+
     +20 Wisdom
+
+MP Cost: 110
+
+Cooldown: 3 seconds
 
 Fame Bonus: 8%
 
