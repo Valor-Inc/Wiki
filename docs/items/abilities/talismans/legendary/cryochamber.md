@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Cryo](https://vwiki.valorserver.com/api/item/picture/cryochamber)
 
-<i>A cryogenic chamber designed to rapidly preserve and incubate biological samples. It semes completely functional, though using may not be the best idea...</i>
+<i>A cryogenic chamber designed to rapidly preserve and incubate biological samples. It seems completely functional, though using may not be the best idea...</i>
 
 **Spawns a cryoblob to aid you in combat.**
 
