@@ -6,31 +6,31 @@ sidebar_position: 1
 
 ![Cryo](https://vwiki.valorserver.com/api/item/picture/cryochamber)
 
-<i>A cryogenic chamber designed to rapidly preserve and incubate biological samples. It semes completely functional, though using may not be the best idea.</i>
+<i>A cryogenic chamber designed to rapidly preserve and incubate biological samples. It semes completely functional, though using may not be the best idea...</i>
 
 **Spawns a cryoblob to aid you in combat.**
 
-Damage: 750
+Main Base Damage: 1200
 
-Lifetime: 8
+Base Damage: 740
 
-Effect: Weak for 4 seconds
+Max Summons: 6
 
-Effect on Self: Berserk for 5.5 seconds
+Soul Cost: 40
 
-Enemy Effect: Within 5 sqrs Dazed for 3.5 seconds
-
-MP Cost: 130
-
-Cooldown: 7 seconds
+Additional 50% Main Damage for 6 seconds
 
     +100 Maximum MP
-    
+
     +8 Attack
-    
+
     +15 Wisdom
-    
+
     +75 Restoration
+
+MP Cost: 100
+
+Cooldown: 1 seconds
 
 Fame Bonus: 8%
 
