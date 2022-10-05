@@ -26,6 +26,6 @@ Cooldown: 8 seconds
     
 Fame Bonus: 6%
 
-**Drops from Varghus, the Eye of the Tunnel of Pain**
-
 ***Can be upgraded with Essence of the Realm!***
+
+**Drops from Varghus, the Eye of the Tunnel of Pain**
