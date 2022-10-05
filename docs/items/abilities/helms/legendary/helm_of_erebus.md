@@ -26,4 +26,4 @@ Cooldown: 7 Seconds
 
 Fame Bonus: 8%
 
-**Drops from Oryx 3**
+**Drops from Oryx, the Mad God 3**
