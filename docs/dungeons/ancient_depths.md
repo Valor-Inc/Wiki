@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 title: Ancient Depths
-Desc: "The Ancient Depths Dungeon Guide"
 ---
 
 import Tabs from '@theme/Tabs';
@@ -15,7 +14,6 @@ import TabItem from '@theme/TabItem';
 ![Layout](https://cdn.discordapp.com/attachments/953134990428868629/1027327917031690271/unknown.png)
 
 The Ancient Depths is an event dungeon dropping from **Yazanahar** in the Realm. This is a pretty difficult dungeon that is definitely best completed with a large group with good DPS. Doing this dungeon in small groups can be very slow as well as difficult, so if you do decide to do so make sure to bring allies with Warrior, Paladin, Templar, Mystic and other such buffing/debuffing characters. The dungeon is very short literal length as it is only 3 rooms with one being your spawn, however that does not make it any less threatening.
-
 
   </TabItem>
   <TabItem value="The First Boss" label="The First Boss">
