@@ -8,7 +8,7 @@ sidebar_position: 2
 
 <i>An ethereal pillar that cleanses those who come into contact with it.</i>
 
-Upon use spawns two drones that rotate around the player firing at the nearest enemy every 0.4 seconds. 15% chance to spawn an extra when hitting an enemy capping at 6 drones.
+Upon use it spawns two drones that rotate around the player. 15% chance to spawn an extra when hitting an enemy capping at 6 drones.
 
 Min Damage: 350
 
@@ -16,7 +16,7 @@ Max Damage: 400
 
 Shot Effect: Slows enemies for 1 second
 
-Rate of Fire: Shoots every 0.3 seconds
+Rate of Fire: Shoots every 0.4 seconds
 
 Duration: 4 seconds
 
