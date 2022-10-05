@@ -38,7 +38,7 @@ The first boss of the Ancient Depths, Krokanich, is a big threat to any characte
 
 ## Xanarich, the Chosen One
 
-![Xanarich]https://cdn.discordapp.com/attachments/953134990428868629/991934367955959860/Layer_1_4.png)
+![Xanarich](https://cdn.discordapp.com/attachments/953134990428868629/991934367955959860/Layer_1_4.png)
 
 The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as even near-complete characters can manage to somehow die during this boss fight. The boss will begin the boss invulnerable and summon minions, it is the best call if you clear these minions immediately as they can seriously damage you, and potentially even just outright instakill. Keep your distance from the boss following the spawn of the minions however, as he will begin slowly shuffling toward the nearest player, unleashing shotguns that can easily kill.
 
