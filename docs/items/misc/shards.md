@@ -87,6 +87,8 @@ import TabItem from '@theme/TabItem';
 - [Anguish of Drannol](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/anguish_of_drannol)
 - [The Infernus](https://wiki.valorserver.com/docs/items/armors/lights/legendary/the_infernus)
 
+**Drops from Drannol, the Eternal Beast of the Calling of the Titan raid**
+
   </TabItem>
   <TabItem value="Shard of the Ancients" label="Shard of the Ancients">
 
@@ -131,7 +133,6 @@ import TabItem from '@theme/TabItem';
 **Drops from Therani, Krovinger, and Wrackjaw | Trial**
 
 **Drops from Serenity, the Ripper; Malgor, the Eternal Fiend; and Ulgur, the Phantom Menace | Public Challenge**
-
 
   </TabItem>
 <TabItem value="Shard of Zol Corruption" label="Shard of Zol Corruption">
