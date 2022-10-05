@@ -14,8 +14,6 @@ Range: 14
 
 MP Cost: 20
 
-Cooldown: 0.5 seconds
-
     +4 Defense
     
     +2 Wisdom
