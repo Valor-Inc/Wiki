@@ -22,9 +22,9 @@ Range: 6.6
     
 Fame Bonus: 8%
 
-**Drops from the Ghost King in the Realm**
-
 ***This item can be upgraded using Essence of the Realm!***
+
+**Drops from the Ghost King in the Realm**
 
 ## Projectile
 
