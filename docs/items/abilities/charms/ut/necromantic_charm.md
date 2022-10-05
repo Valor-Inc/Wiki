@@ -20,6 +20,6 @@ Cooldown: 4 seconds
 
 Fame Bonus: 6%
 
-**Drops from Tridorno of the Catacombs**
-
 ***Upgradable with Essence of the Realm!***
+
+**Drops from Tridorno of the Catacombs**
