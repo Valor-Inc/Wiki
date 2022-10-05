@@ -1,17 +1,21 @@
 ---
 sidebar_position: 1
+title: Ancient Depths
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-# Ancient Depths
-![Ancient Depths](https://cdn.discordapp.com/attachments/953134990428868629/991921899284201512/Layer_1_3.png)
 
-### Notable Drops:
-![Ancient Depths Boss1 Drops](https://cdn.discordapp.com/attachments/953134990428868629/991926373260218439/ddc395bb-9151-4125-8f99-10849b1188df.sketchpad_4.png)
-![Ancient Depths Boss2 Drops](https://cdn.discordapp.com/attachments/953134990428868629/991923672262639646/ddc395bb-9151-4125-8f99-10849b1188df.sketchpad.png)
+# The Dungeon:
 
-# Dungeon Layout
+<Tabs>
+  <TabItem value="The Dungeon" label="The Dungeon" default>
+    
 ![Abandoned Basement Layout](https://cdn.discordapp.com/attachments/953134990428868629/991937122573492344/Layer_1_5.png)
-
+   
+  </TabItem>
+  <TabItem value="The Bosses" label="The Bosses">
+    
 # First Boss: Krokanich
 ![Krokanich](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png)
 
@@ -64,3 +68,10 @@ This rage phase isn't too hard of a rage phase. He doesn't chase you, instead ju
 3. Always focus the little flies he spawns
 
 4. You can run back to the previous rooms to heal if you get low health, although the boss does heal too.
+ </TabItem>
+  <TabItem value="Item Drops" label="Item Drops">
+    
+# The Drops:
+    
+![Ancient Depths Boss1 Drops](https://cdn.discordapp.com/attachments/953134990428868629/991926373260218439/ddc395bb-9151-4125-8f99-10849b1188df.sketchpad_4.png)
+![Ancient Depths Boss2 Drops](https://cdn.discordapp.com/attachments/953134990428868629/991923672262639646/ddc395bb-9151-4125-8f99-10849b1188df.sketchpad.png)
