@@ -24,7 +24,7 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
-**Drops from Ultra The Vision of Aldragine and Ultra Aldragine of the Ultra Calling of the Titan raid**
+**Drops from Ultra The Vision of Aldragine and Ultra Aldragine of the Ultra Zol Awakening raid**
 
 ## Projectile
 
