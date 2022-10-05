@@ -18,7 +18,7 @@ The Ancient Depths is an event dungeon dropping from **Yazanahar** in the Realm.
   </TabItem>
   <TabItem value="The First Boss" label="The First Boss">
 
-## Krokinach
+# Krokinach
 
 ![krok](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png)
 
@@ -35,7 +35,7 @@ The first boss of the Ancient Depths, Krokanich, is a big threat to any characte
   </TabItem>
   <TabItem value="The Second Boss" label="The Second Boss">
 
-## Xanarich, the Chosen One
+# Xanarich, the Chosen One
 
 ![Xanarich](https://cdn.discordapp.com/attachments/953134990428868629/991934367955959860/Layer_1_4.png)
 
@@ -52,13 +52,15 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
   </TabItem>
   <TabItem value="Item Drops" label="Item Drops">
 
+# Item Drops
+
 ## Krokinach
 
-![KrokD](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png) [![oracle](https://vwiki.valorserver.com/api/item/picture/oracle's%20nightmare)](https://wiki.valorserver.com/docs/items/rings/legendary/oracles_nightmare) [![crashing](https://vwiki.valorserver.com/api/item/picture/crashing%20crescendo)](https://wiki.valorserver.com/docs/items/weapons/lances/ut/crashing_crescendo) [![drake](https://vwiki.valorserver.com/api/item/picture/draketail%20blade)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/draketail_blade)
+![KrokD](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png)            [![oracle](https://vwiki.valorserver.com/api/item/picture/oracle's%20nightmare)](https://wiki.valorserver.com/docs/items/rings/legendary/oracles_nightmare) [![crashing](https://vwiki.valorserver.com/api/item/picture/crashing%20crescendo)](https://wiki.valorserver.com/docs/items/weapons/lances/ut/crashing_crescendo) [![drake](https://vwiki.valorserver.com/api/item/picture/draketail%20blade)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/draketail_blade)
 
 ## Xanarich, the Chosen One
 
-![xanarichD](https://cdn.discordapp.com/attachments/953134990428868629/991934367955959860/Layer_1_4.png) [![anchor](https://vwiki.valorserver.com/api/item/picture/anchor%20of%20the%20chosen)](https://wiki.valorserver.com/docs/items/abilities/anchors/legendary/anchor_of_the_chosen) [![chosen](https://vwiki.valorserver.com/api/item/picture/chosen%20bow)](https://wiki.valorserver.com/docs/items/weapons/bows/ut/chosen_bow) [![quiver](https://vwiki.valorserver.com/api/item/picture/quiver%20of%20the%20chosen)](https://wiki.valorserver.com/docs/items/abilities/quivers/ut/quiver_of_the_chosen) [![carmor](https://vwiki.valorserver.com/api/item/picture/chosen%20armor)](https://wiki.valorserver.com/docs/items/armors/lights/ut/chosen_armor)
+![xanarichD](https://cdn.discordapp.com/attachments/953134990428868629/991934367955959860/Layer_1_4.png)             [![anchor](https://vwiki.valorserver.com/api/item/picture/anchor%20of%20the%20chosen)](https://wiki.valorserver.com/docs/items/abilities/anchors/legendary/anchor_of_the_chosen) [![chosen](https://vwiki.valorserver.com/api/item/picture/chosen%20bow)](https://wiki.valorserver.com/docs/items/weapons/bows/ut/chosen_bow) [![quiver](https://vwiki.valorserver.com/api/item/picture/quiver%20of%20the%20chosen)](https://wiki.valorserver.com/docs/items/abilities/quivers/ut/quiver_of_the_chosen) [![carmor](https://vwiki.valorserver.com/api/item/picture/chosen%20armor)](https://wiki.valorserver.com/docs/items/armors/lights/ut/chosen_armor)
 
   </TabItem>
 </Tabs>
