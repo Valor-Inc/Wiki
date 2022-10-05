@@ -26,6 +26,8 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+***Upgradable with Essence of the Realm!***
+
 **Drops from both bosses of the Storm Palace**
 
 ## Projectile
