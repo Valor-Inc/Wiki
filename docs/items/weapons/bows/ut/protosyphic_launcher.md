@@ -18,9 +18,9 @@ Range: 7.5
 
 Fame Bonus: 4%
 
-**Drops from Larry Giggsman, the Supermutant in the Superhuman Hideout**
-
 ***Can be upgraded with Essence of the Realm!***
+
+**Drops from Larry Giggsman, the Supermutant in the Superhuman Hideout**
 
 ## Projectile
 
