@@ -60,7 +60,7 @@ He will then move onto a shotgun chase phase, he will shoot out rows of shots at
 #### Rage Phase
 This rage phase isn't too hard of a rage phase. He doesn't chase you, instead just standing still and shooting out the same shots as before (the medium range cone of 6, 150 damage piercing shots as well as the 90 damage sick shots). But this time he shoots them out in a burst, while throwing the 160 damage bomb and spawning in the minions that petrify.
 
-# Second Boss Tips & Tricks
+## Second Boss Tips & Tricks
 1. It is not recommended to solo this on melee.
 
 2. During minion phase you can drag the boss out of the boss room into the first boss's room (which is larger and has more area for you to  if you have enough speed so it is easier for you to focus the minions.
