@@ -22,9 +22,9 @@ Shots hit multiple targets
     
 Fame Bonus: 5%
 
-**Drops from the Abandoned Basement**
-
 ***This item can be upgraded with Essence of the Realm!***
+
+**Drops from the Abandoned Basement**
 
 ## Projectile
 ![BotLW](https://cdn.discordapp.com/attachments/953134990428868629/981402992181932032/lonesomewraith.gif)
