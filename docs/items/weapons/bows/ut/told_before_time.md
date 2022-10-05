@@ -24,9 +24,9 @@ Shots pass through obstacles
     
 Fame Bonus: 8%
 
-**Drops from Codename G-24, Nitrostorm of the Genisus**
-
 ***This item can be upgraded with Essence of the Realm!***
+
+**Drops from Codename G-24, Nitrostorm of the Genisus**
 
 ## Projectile
 
