@@ -32,10 +32,10 @@ Ignores defense of target
     -70 Maximum MP
     
 Fame Bonus: 6%
- 
-**Drops from Zeus annd Colothois the Exalted of the Sky Palace**
- 
+  
 ***This item can be upgraded with Essence of the Realm!***
+
+**Drops from Zeus annd Colothois the Exalted of the Sky Palace**
 
  ## Projectile
  
