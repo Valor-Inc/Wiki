@@ -1,7 +1,6 @@
 ---
 sidebar_position: 5
 title: Shards
-Desc: "Shards are used to craft legendary items!"
 ---
 
 import Tabs from '@theme/Tabs';
