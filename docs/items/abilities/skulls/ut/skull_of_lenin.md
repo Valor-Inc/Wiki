@@ -40,4 +40,6 @@ MP Cost 120
 
 Fame Bonus: 6%
 
+***This item can be upgraded using Essence of the Realm!***
+
 **Drops from Lenin of the Garden of Chaos**
