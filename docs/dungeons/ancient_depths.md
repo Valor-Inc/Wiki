@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Ancient Depths
+Desc: "The Ancient Depths Dungeon Guide"
 ---
 
 import Tabs from '@theme/Tabs';
@@ -9,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="The Dungeon" label="The Dungeon" default>
 
-## Ancient Depths
+# Ancient Depths
 
 ![Layout](https://cdn.discordapp.com/attachments/953134990428868629/1027327917031690271/unknown.png)
 
@@ -55,7 +56,7 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
 
 ## Krokinach
 
-![KrokD](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png) [![oracle](https://vwiki.valorserver.com/api/item/picture/oracle's%20nightmare)](https://wiki.valorserver.com/docs/items/rings/legendary/oracles_nightmare) [![crashing](https://vwiki.valorserver.com/api/item/picture/crashing%20crescendo)](wiki.valorserver.com/docs/items/weapons/lances/ut/crashing_crescendo) [![drake](https://vwiki.valorserver.com/api/item/picture/draketail%20blade)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/draketail_blade)
+![KrokD](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png) [![oracle](https://vwiki.valorserver.com/api/item/picture/oracle's%20nightmare)](https://wiki.valorserver.com/docs/items/rings/legendary/oracles_nightmare) [![crashing](https://vwiki.valorserver.com/api/item/picture/crashing%20crescendo)](https://wiki.valorserver.com/docs/items/weapons/lances/ut/crashing_crescendo) [![drake](https://vwiki.valorserver.com/api/item/picture/draketail%20blade)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/draketail_blade)
 
 ## Xanarich, the Chosen One
 
