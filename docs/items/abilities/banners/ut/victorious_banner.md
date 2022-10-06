@@ -17,3 +17,5 @@ Cooldown: 8 seconds
     +10 Restoration
     
 Fame Bonus: 6%
+
+**Drops from The Horrific in the Realm**
