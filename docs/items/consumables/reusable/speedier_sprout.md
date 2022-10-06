@@ -7,7 +7,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value=" " label=" " default>
+  <TabItem value="Speedier Sprout" label="Speedier Sprout" default>
 
 # Speedier Sprout
 
