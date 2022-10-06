@@ -23,6 +23,8 @@ Shots hit multiple targets
     
 Fame Bonus: 8%
 
+***Swift Strike: On Hit: 50% to increase Speed by 2 for 3 seconds. Stacks up to 30 Speed.***
+
 **Craftable using the Shard of Zol Corruption**
 
 ## Projectile
