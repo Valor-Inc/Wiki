@@ -28,4 +28,4 @@ Cooldown: 3.75 seconds
 
 Fame Bonus: 8%
 
-**Drops from the Horrific**
+**Drops from the Horrific in the Realm**
