@@ -136,7 +136,7 @@ Sor Fragments are similar to fame in their use, however you earn Sor Fragments s
 
 ![Kantos](https://i.imgur.com/lz7wOUG.png)
 
-Kantos are the only premium currency in Valor, and do not worry they are not pay-to-win. Benefits can be earned form purchasing them with money, buying donator ranks, winning competitions and supporting the server with videos and streams. If you got them, you can use them on the following:
+Kantos are the only premium currency in Valor, and do not worry they are not pay-to-win. Benefits can be earned from purchasing them with money, buying donator ranks, winning competitions and supporting the server with videos and streams. If you got them, you can use them on the following:
 
     Buying Cosmetic Pets
 
