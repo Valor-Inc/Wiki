@@ -126,7 +126,7 @@ Onrane is a very important currency in Valor as well, being used forge legendary
 
 ![SF](https://i.imgur.com/CphVnGK.png)
 
-Sor Fragments are similar to fame in their use, however you earn Sor Fragments significantly more passively, and having a benefit you gain more from than fame. It can be earned as dorps from almost all bosses, lootboxes, as well as just buying them off the market. If you have a lot you can do the following: 
+Sor Fragments are similar to fame in their use, however you earn Sor Fragments significantly more passively, and having a benefit you gain more from than fame. It can be earned as drops from almost all bosses, lootboxes, as well as just buying them off the market. If you have a lot you can do the following: 
 
     Forge Sor Crystals
 
