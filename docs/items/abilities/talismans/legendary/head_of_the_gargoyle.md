@@ -22,6 +22,8 @@ Additional 40% Main Damage for 5 seconds
 
 Effect on Enemy: Armor Broken for 2 seconds
 
+Effect on Self: Damaging for 5 seconds
+
     +100 Maximum HP
 
     +16 Defense
