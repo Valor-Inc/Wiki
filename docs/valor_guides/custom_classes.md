@@ -36,6 +36,7 @@ import TabItem from '@theme/TabItem';
 ### Spirithunter
 ![Spirithunter](https://i.imgur.com/oU46IT5.png)  
 The Spirit Hunter is a bow class that uses robes instead of leather armor. It uses a magical talisman that summons a ghost, which can aid you in battle with damage and can also potentially debuff the enemy depending on the Talisman.
+
 **Stats on max:**
 
     660 Life
