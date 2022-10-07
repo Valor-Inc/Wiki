@@ -22,6 +22,8 @@ Additional 40% Main Damage for 5 seconds
 
 Effect on Enemy: Paralyzed for 2 seconds
 
+Effect on Self: Berserk for 5 seconds
+
     +80 Maximum HP
 
     +10 Protection
