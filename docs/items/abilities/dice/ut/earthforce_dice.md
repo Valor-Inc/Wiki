@@ -18,6 +18,6 @@ MP Cost: 110
 
 Fame Bonus: 5%
 
-**Drops from Ogla, the Giant God of the Giant's Hill**
-
 ***Upgradable with Essence of the Realm!***
+
+**Drops from Ogla, the Giant God of the Giant's Hill**
