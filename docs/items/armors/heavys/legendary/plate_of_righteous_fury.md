@@ -22,4 +22,4 @@ Fame Bonus: 10%
 
 ***This item is a part of Righteous Trials Set***
 
-**Bought from the 2nd trial Krovinger Shop**
+**Bought from the 2nd trial Krovinger Shop for 450 Onrane**
