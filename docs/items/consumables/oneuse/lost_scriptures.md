@@ -30,7 +30,7 @@ import TabItem from '@theme/TabItem';
 
 ***Using this makes your character ascended, allowing it to consume vials. [50,000 Base Fame]***
 
-**Drops from Drannol, the Eternal Beast and Merganus, the Fallen Titan**
+**Drops from Drannol, the Eternal Beast, Merganus, the Fallen Titan and Elite Boxes**
 
   </TabItem>
   <TabItem value="Super Scripture" label="Super Scripture">
