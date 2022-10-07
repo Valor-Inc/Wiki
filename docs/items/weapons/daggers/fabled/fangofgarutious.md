@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ![FG](https://vwiki.valorserver.com/api/item/picture/fang%20of%20garutious)
 
-<i>A chipped tooth from the mouth of the beast.Thanks to:Bottle</i>
+<i>A chipped tooth from the mouth of the beast.Thanks to: Bottle</i>
 
 Damage: 400
 
