@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Sor Crystals
 ---
 
@@ -47,6 +47,8 @@ import TabItem from '@theme/TabItem';
 **This item is a crafting material to be used in crafting or enchanting.**
 
 ***Combine with an upgradeable item to create an Elemental/Ascended Version. 10% chance to break when using!***
+
+![Upgradeable](https://cdn.discordapp.com/attachments/948404602389286922/1004888354476806194/unknown.png)
 
   </TabItem>
 </Tabs>
