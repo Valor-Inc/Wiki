@@ -66,6 +66,17 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 ![ihateyou](https://cdn.discordapp.com/attachments/953134990428868629/1023044848401535038/unknown.png)
 
   </TabItem>
+  <TabItem value="Crafting" label="Crafting">
+
+# Crafting
+
+![TheForge](https://cdn.discordapp.com/attachments/953134990428868629/1028034835190661170/unknown.png)
+
+The Forge can be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. Within the forge you can combine craft all types of things, from items, to consumables, to even passive/active buffs like Aspects.
+
+![TheSHeet](https://cdn.discordapp.com/attachments/987312834834739301/1028048633616146535/unknown.png)
+
+  </TabItem>
   <TabItem value="Currency" label="Currency">
 
 # Currency 
