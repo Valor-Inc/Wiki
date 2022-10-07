@@ -20,4 +20,6 @@ sidebar_position: 3
 
 Fame Bonus: 8%
 
+***This item is a part of Loaded Garutious Set***
+
 **Drops from Garutious in the Realm**
