@@ -18,7 +18,7 @@ Range: 7.5
 
 Fame Bonus: 8% 
 
-**Upgraded form of Anatis Staff**
+**Upgraded form of [Anatis Staff](https://www.realmeye.com/wiki/anatis-staff)**
 
 ## Projectile
 
