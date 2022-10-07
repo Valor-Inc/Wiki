@@ -118,7 +118,7 @@ Fame Bonus: 14%
 
 <i>The cloak used by The Forgotten King to morph himself into his crown. Enchanted by the power of the roaring Inferno.</i>
 
-**Fire Rune: Heavily reduces overall cooldowns..**
+**Fire Rune: Heavily reduces overall cooldowns.**
     
 Effect on Self: Invisible for 5 seconds
 
