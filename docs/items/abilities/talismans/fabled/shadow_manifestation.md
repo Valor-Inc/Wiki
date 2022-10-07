@@ -20,9 +20,7 @@ Soul Cost: 35
 
 Additional 35% Main Damage for 4 seconds
 
-Effect on Enemy: Dazed for 2 seconds
-
-Effect on Self: Berserk for 5 seconds
+Effect on Self: Berserk for 4 seconds
 
     +12 Attack
 
