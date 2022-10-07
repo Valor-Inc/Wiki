@@ -25,12 +25,15 @@ The Ancient Depths is an event dungeon dropping from **Yazanahar** in the Realm.
 The first boss of the Ancient Depths, Krokanich, is a big threat to any character. It is best to keep your distance from the boss as it's primary damage is shotgun shots. The minions summoned by the boss are best to be killed as they can apply bleeding. The hardest hitting attack is the wavy shots he shoots in a 90 degree cone, he will shoot out 4 grey shots and 4 green shots. The grey shots deal around 200 damage and inflicts armor broken on the player. The green shots deal around 200 damage that inflicts bleeding on the player. This boss has a rage phase when it grows low on health, becareful and avoid his jumps.
 
 ## Tips
+<ul>
 
-- Play especially cautious on Melee classes, due to the high damage shotguns.
+  <li>Play especially cautious on Melee classes, due to the high damage shotguns.</li>
 
-- There is a delay between the grey/green shotgun so you can use this to go in and attack the boss when his shots are lower damage.
+  <li>There is a delay between the grey/green shotgun so you can use this to go in and attack the boss when his shots are lower damage.</li> 
 
-- Rage phase will jump often so it is recommended to only go in and attack him close range when he has just jumped and shot the grey and green shotguns.
+  <li>Rage phase will jump often so it is recommended to only go in and attack him close range when he has just jumped and shot the grey and green shotguns.</li>
+
+</ul>
 
   </TabItem>
   <TabItem value="The Second Boss" label="The Second Boss">
@@ -43,11 +46,15 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
 
 ## Tips 
 
-- This is another difficult boss fight for Melee classes, play with caution.
+<ul>
 
-- During the minion phase, you can drag Xanarich into Krokinach's boss room.
+  <li>This is another difficult boss fight for Melee classes, play with caution.</li>
 
-- You do not need to kill the minions to kill the boss.
+  <li>During the minion phase, you can drag Xanarich into Krokinach's boss room.</li>
+
+  <li>You do not need to kill the minions to kill the boss.</li>
+
+</ul>
 
   </TabItem>
   <TabItem value="Item Drops" label="Item Drops">
