@@ -27,6 +27,8 @@ Soul Cost: 30
 
 Additional 30% Main Damage for 5 seconds
 
+Effect on Enemy: Bleeding for 2 seconds
+
 Effect on Self: Damaging for 3 seconds
 
     +15 Attack
@@ -64,6 +66,8 @@ Soul Cost: 30
 
 Additional 30% Main Damage for 5 seconds
 
+Effect on Enemy: Bleeding for 2 seconds
+    
 Effect on Self: Damaging for 3 seconds
 
     +15 Attack
