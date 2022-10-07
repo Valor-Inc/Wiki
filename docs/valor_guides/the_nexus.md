@@ -38,7 +38,7 @@ The layout of the Ascension Enclave is very simple, as it's purpose is only to c
 
 ![Aspect](https://cdn.discordapp.com/attachments/953134990428868629/1022984808411971635/unknown.png)
 
-The Aspect Hall holds all of a players [Aspects](https://wiki-test.valorserver.com/docs/items/misc/aspects). You can only use one aspect at a time so make your choice wisely. Not all aspects are items that drop from bosses, so a full list of all aspects can be found **[Here](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)**.
+The Aspect Hall holds all of a players [Aspects](https://wiki.valorserver.com/docs/items/misc/aspects). You can only use one aspect at a time so make your choice wisely. Not all aspects are items that drop from bosses, so a full list of all aspects can be found **[Here](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)**.
 
 ![AspectHInt](https://cdn.discordapp.com/attachments/953134990428868629/1022987240177156126/unknown.png)
 
