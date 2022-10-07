@@ -54,6 +54,8 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
 
   <li>You do not need to kill the minions to kill the boss.</li>
 
+  <li>This boss petrifies! Be extremely careful!</li>
+
 </ul>
 
   </TabItem>
