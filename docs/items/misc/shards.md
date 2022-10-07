@@ -34,7 +34,7 @@ import TabItem from '@theme/TabItem';
 <li> <a href="https://wiki.valorserver.com/docs/items/rings/legendary/stormcallers_horns">Stormcaller's Horns</a> </li>
 </ul>
 
-**Drops from Xanarich, the Chosen One and Yazanahar**
+**Drops from Xanarich, the Chosen One**
 
   </TabItem>
   <TabItem value="Shard of Cosmic Collapse" label="Shard of Cosmic Collapse">
