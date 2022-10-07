@@ -18,7 +18,7 @@ The Ancient Depths is an event dungeon dropping from **Yazanahar** in the Realm.
   </TabItem>
   <TabItem value="The First Boss" label="The First Boss">
 
-# Krokinach
+# Krokanich
 
 ![krok](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png)
 
@@ -50,7 +50,7 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
 
   <li>This is another difficult boss fight for Melee classes, play with caution.</li>
 
-  <li>During the minion phase, you can drag Xanarich into Krokinach's boss room.</li>
+  <li>During the minion phase, you can drag Xanarich into Krokanich's boss room.</li>
 
   <li>You do not need to kill the minions to kill the boss.</li>
 
@@ -63,7 +63,7 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
 
 # Item Drops
 
-## Krokinach
+## Krokanich
 
 ![KrokD](https://cdn.discordapp.com/attachments/953134990428868629/991927240214458439/unknown.png)           [![oracle](https://vwiki.valorserver.com/api/item/picture/oracle's%20nightmare)](https://wiki.valorserver.com/docs/items/rings/legendary/oracles_nightmare) [![crashing](https://vwiki.valorserver.com/api/item/picture/crashing%20crescendo)](https://wiki.valorserver.com/docs/items/weapons/lances/ut/crashing_crescendo) [![drake](https://vwiki.valorserver.com/api/item/picture/draketail%20blade)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/draketail_blade)
 
