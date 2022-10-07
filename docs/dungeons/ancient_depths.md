@@ -26,11 +26,11 @@ The first boss of the Ancient Depths, Krokanich, is a big threat to any characte
 
 ## Tips
 
-1. Play especially cautious on Melee classes, due to the high damage shotguns.
+- Play especially cautious on Melee classes, due to the high damage shotguns.
 
-2. There is a delay between the grey/green shotgun so you can use this to go in and attack the boss when his shots are lower damage.
+- There is a delay between the grey/green shotgun so you can use this to go in and attack the boss when his shots are lower damage.
 
-3. Rage phase will jump often so it is recommended to only go in and attack him close range when he has just jumped and shot the grey/green shotgun.
+- Rage phase will jump often so it is recommended to only go in and attack him close range when he has just jumped and shot the grey and green shotguns.
 
   </TabItem>
   <TabItem value="The Second Boss" label="The Second Boss">
@@ -43,11 +43,11 @@ The second boss of the Ancient Depths, Xanarich, is similarly a major threat, as
 
 ## Tips 
 
-1. This is another difficult boss fight for Melee classes, play with caution.
+- This is another difficult boss fight for Melee classes, play with caution.
 
-2. During the minion phase, you can drag Xanarich into Krokinach's boss room.
+- During the minion phase, you can drag Xanarich into Krokinach's boss room.
 
-3. You do not need to kill the minions to kill the boss.
+- You do not need to kill the minions to kill the boss.
 
   </TabItem>
   <TabItem value="Item Drops" label="Item Drops">
