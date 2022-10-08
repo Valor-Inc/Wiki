@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 
 ![PoGR](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution)
 
-<i>Forged in the tears of enemies on a full moon</i>
+<i>Forged in the tears of enemies on a full moon.</i>
 
 Damage: 565-695
 
@@ -42,7 +42,7 @@ Fame Bonus: 15%
 
 ![PoGRA](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20air)
 
-<i>Forged in the tears of enemies on a full moon</i>
+<i>Forged in the tears of enemies on a full moon.</i>
 
 **Air Rune: Grants 10% chance to dodge incoming projectiles**
 
@@ -73,7 +73,7 @@ Fame Bonus: 15%
 
 ![PoGRE](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20earth)
 
-<i>Forged in the tears of enemies on a full moon</i>
+<i>Forged in the tears of enemies on a full moon.</i>
 
 **Earth Rune: Increases range, decreases damage and adds a second projectile. Also sets Vitality to +50.**
 
@@ -105,7 +105,7 @@ Fame Bonus: 15%
 
 ![PoGR](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20fire)
 
-<i>Forged in the tears of enemies on a full moon</i>
+<i>Forged in the tears of enemies on a full moon.</i>
 
 **Fire Rune: Projectiles can now pierce enemies.**
 
@@ -138,7 +138,7 @@ Fame Bonus: 15%
 
 ![PoGRW](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20water)
 
-<i>Forged in the tears of enemies on a full moon</i>
+<i>Forged in the tears of enemies on a full moon.</i>
 
 **Water Rune: Increases range to 5.4, increases minimum damage by 35, and increases Wisdom to +40.**
 
