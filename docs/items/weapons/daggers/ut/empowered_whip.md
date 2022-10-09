@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 9
 ---
 
 # Empowered Whip
@@ -18,4 +18,9 @@ Range: 5.3
     
     +1 Life Steal
     
-No Fame Bonus
+Fame Bonus: No Fame Bonus
+
+***Upgradable with Essence of the Realm!***
+
+**Forged with a T0 Whip and an Abyssal Rune**
+
