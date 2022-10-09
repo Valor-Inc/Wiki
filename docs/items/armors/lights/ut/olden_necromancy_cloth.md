@@ -16,4 +16,4 @@ sidebar_position: 5
     
 Fame Bonus: 6%
 
-**Drops from Doomages of the Catacombs**
+**Drops from Tridorno and Doomages of the Catacombs**
