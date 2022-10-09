@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Catacombs
-Desc: "The Catacombs Dungeon Guide"
+description: "The Catacombs Dungeon Guide."
 ---
 
 import Tabs from '@theme/Tabs';
@@ -97,24 +97,23 @@ Phase 5: Tridorno will fire a volley of boomerang shots, as well as a quiet shot
 ## Tips
 
 <ul>
-
 <li>Clear the boss room, the enemies can make the boss a much bigger threat than it already is.</li>
 
 <li>The boss does hefty damage and plenty of debuffs, a ranged character would be best to avoid being confused into the boss.</li> 
-
 </ul> 
+
 </TabItem>
   <TabItem value="Item Drops" label="Item Drops">
 
 ## Doomages, the Beast of the Catacombs
 
-Doomages, the Beast of the Catacombs         |  Item Drops
+Doomages, the Beast of the Catacombs | Item Drops
 :-------------------------:|:-------------------------:
 ![Doomd](https://cdn.discordapp.com/attachments/953134990428868629/1028503295054061588/unknown.png)  |  [![Olden](https://vwiki.valorserver.com/api/item/picture/olden%20necromancy%20cloth)](https://wiki.valorserver.com/docs/items/armors/lights/ut/olden_necromancy_cloth) [![Darknecro](https://vwiki.valorserver.com/api/item/picture/sword%20of%20dark%20necromancy)](https://wiki.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy)
 
 ## Corrupted Flames of Fate
 
-Corrupted Flames of Fate           |  Item Drops
+Corrupted Flames of Fate | Item Drops
 :-------------------------:|:-------------------------:
 ![Corruptfd](https://cdn.discordapp.com/attachments/953134990428868629/1028503316927348816/unknown.png)  |  [![Forsaken](https://vwiki.valorserver.com/api/item/picture/forsaken%20shield)](https://wiki.valorserver.com/docs/items/abilities/shield/ut/forsaken_shield) [![Conjurry](https://vwiki.valorserver.com/api/item/picture/ring%20of%20undeadly%20conjury)](https://wiki.valorserver.com/docs/items/rings/ut/ring_of_undeadly_conjury) [![Darknecro](https://vwiki.valorserver.com/api/item/picture/sword%20of%20dark%20necromancy)](https://wiki.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy)
 
