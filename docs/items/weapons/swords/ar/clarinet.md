@@ -72,6 +72,8 @@ Fame Bonus: 15%
 
 ## Projectile
 
+![Clarent ile](https://media.discordapp.net/attachments/948363241631916122/954070580087365742/Clarinet.gif)
+
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
@@ -104,6 +106,8 @@ Fame Bonus: 15%
 **Enchanted Clarinet with Ancient Earth Rune**
 
 ## Projectile
+
+![Clarent ile](https://media.discordapp.net/attachments/948363241631916122/954070580087365742/Clarinet.gif)
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -138,6 +142,8 @@ Fame Bonus: 15%
 
 ## Projectile
 
+![Clarent ile](https://media.discordapp.net/attachments/948363241631916122/954070580087365742/Clarinet.gif)
+
   </TabItem>
   <TabItem value="Water" label="Water">
 
@@ -170,6 +176,8 @@ Fame Bonus: 15%
 **Enchanted Clarinet with Ancient Water Rune**
 
 ## Projectile
+
+![Clarent ile](https://media.discordapp.net/attachments/948363241631916122/954070580087365742/Clarinet.gif)
 
   </TabItem>
 </Tabs>
