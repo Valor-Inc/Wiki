@@ -78,7 +78,7 @@ Phase 4: The boss will chase the nearest player, looking to sit on them with an 
   </TabItem>
 <TabItem value="The Third Boss" label="The Third Boss">
 
-# Tridono the Dreadful Hydra
+# Tridorno the Dreadful Hydra
 
 ![Tridorno](https://cdn.discordapp.com/attachments/962723437464395846/1028503246068789378/cata3.png)
 
