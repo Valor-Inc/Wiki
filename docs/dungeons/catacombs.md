@@ -105,21 +105,12 @@ Phase 5: Tridorno will fire a volley of boomerang shots, as well as a quiet shot
 
 ## Doomages, the Beast of the Catacombs
 
-Doomages, the Beast of the Catacombs | Item Drops
-:-------------------------:|:-------------------------:
-![Doomd](https://cdn.discordapp.com/attachments/953134990428868629/1028503295054061588/unknown.png)  |  [![Olden](https://vwiki.valorserver.com/api/item/picture/olden%20necromancy%20cloth)](https://wiki.valorserver.com/docs/items/armors/lights/ut/olden_necromancy_cloth) [![Darknecro](https://vwiki.valorserver.com/api/item/picture/sword%20of%20dark%20necromancy)](https://wiki.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy)
 
 ## Corrupted Flames of Fate
-
-Corrupted Flames of Fate | Item Drops
-:-------------------------:|:-------------------------:
-![Corruptfd](https://cdn.discordapp.com/attachments/953134990428868629/1028503316927348816/unknown.png)  |  [![Forsaken](https://vwiki.valorserver.com/api/item/picture/forsaken%20shield)](https://wiki.valorserver.com/docs/items/abilities/shield/ut/forsaken_shield) [![Conjurry](https://vwiki.valorserver.com/api/item/picture/ring%20of%20undeadly%20conjury)](https://wiki.valorserver.com/docs/items/rings/ut/ring_of_undeadly_conjury) [![Darknecro](https://vwiki.valorserver.com/api/item/picture/sword%20of%20dark%20necromancy)](https://wiki.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy)
 
 
 
 ## Tridorno the Dreadful Hydra
 
-Tridorno the Dreadful Hydra             |  Item Drops
-:-------------------------:|:-------------------------:
-![Tridornod](https://cdn.discordapp.com/attachments/962723437464395846/1028503246068789378/cata3.png)  |  [![Dread](https://vwiki.valorserver.com/api/item/picture/dreadcull)](https://wiki.valorserver.com/docs/items/abilities/skulls/ar/dreadcull) [![gargs](https://vwiki.valorserver.com/api/item/picture/gargoyle%20slayer)](https://wiki.valorserver.com/docs/items/abilities/stars/legendary/gargoyle_slayer) [![Defiance](https://vwiki.valorserver.com/api/item/picture/unoch's%20defiance)](https://wiki.valorserver.com/docs/items/abilities/siphons/legendary/unochs_defiance) [![daring](https://vwiki.valorserver.com/api/item/picture/daring%20windrage%20robe)](https://wiki.valorserver.com/docs/items/armors/robes/ut/daring_windrage_robe) [![Forsaken](https://vwiki.valorserver.com/api/item/picture/forsaken%20shield)](https://wiki.valorserver.com/docs/items/abilities/shield/ut/forsaken_shield) [![necromantic](https://vwiki.valorserver.com/api/item/picture/necromantic%20charm)](https://wiki.valorserver.com/docs/items/abilities/charms/ut/necromantic_charm) [![Olden](https://vwiki.valorserver.com/api/item/picture/olden%20necromancy%20cloth)](https://wiki.valorserver.com/docs/items/armors/lights/ut/olden_necromancy_cloth) [![glowingp](https://vwiki.valorserver.com/api/item/picture/skull%20of%20glowing%20plagues)](https://wiki.valorserver.com/docs/items/abilities/skulls/ut/skull_of_glowing_plagues) [![withering](https://vwiki.valorserver.com/api/item/picture/staff%20of%20the%20withering)](https://wiki.valorserver.com/docs/items/weapons/staves/ut/staff_of_the_withering/) [![Darknecro](https://vwiki.valorserver.com/api/item/picture/sword%20of%20dark%20necromancy)](https://wiki.valorserver.com/docs/items/weapons/swords/ut/sword_of_dark_necromancy) [![weirditem](https://vwiki.valorserver.com/api/item/picture/ring%20of%20pestilence)](https://wiki.valorserver.com/docs/items/rings/ut/ring_of_pestilence)
+
 </Tabs>
