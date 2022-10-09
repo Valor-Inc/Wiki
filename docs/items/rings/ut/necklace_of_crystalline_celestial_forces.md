@@ -2,7 +2,7 @@
 sidebar_position: 16
 ---
 
-# Necklace of Crystallien Celestial Forces
+# Necklace of Crystalline Celestial Forces
 
 ![NCCF](http://i.imgur.com/S6JMLpv.png)
 
