@@ -30,7 +30,7 @@ import TabItem from '@theme/TabItem';
 
 # Orb of Transformation (S2)
 
-![S2OrbT](https://vwiki.valorserver.com/api/item/picture/orb%20of%20transformations2)
+![S2OrbT](https://vwiki.valorserver.com/api/item/picture/orb%20of%20transformations)
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 2)</i>
 
