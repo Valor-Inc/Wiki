@@ -28,7 +28,7 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
-**Craftable with Shard of Cosmic Collapse**
+**Drops from the Mothership in the Realm**
 
 ## Projectile
 
