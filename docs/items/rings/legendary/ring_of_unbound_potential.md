@@ -18,6 +18,6 @@ sidebar_position: 21
     
 Fame Bonus: 8%
 
-***Health Tap: If your health is atleast 1/2 full you cannot be slowed.***
+***Health Tap: If your health is at least 1/2 full you cannot be slowed.***
 
 **Buyable from the Fallen Light Raid Shop for 300 Onrane**
