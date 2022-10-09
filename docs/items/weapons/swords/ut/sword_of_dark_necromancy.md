@@ -26,6 +26,6 @@ Ignores defense of target
     
 Fame Bonus: No Fame Bonus
 
-***Upgradable with Essence of the Realm***
+***Upgradable with Essence of the Realm!***
 
 **Drops from all bosses of the Catacombs**
