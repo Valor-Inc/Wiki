@@ -74,6 +74,8 @@ Phase 4: The boss will chase the nearest player, looking to sit on them with an 
 <li>Keep your distance from the boss, as it has very high damage shots, so do not get cocky and try to tank it!</li>
 </ul>
 
+
+  </TabItem>
 <TabItem value="The Third Boss" label="The Third Boss">
 
 # Tridono the Dreadful Hydra
