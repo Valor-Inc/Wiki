@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: The Catacombs
+sidebar_position: 3
+title: Catacombs
 Desc: "The Catacombs Dungeon Guide"
 ---
 
