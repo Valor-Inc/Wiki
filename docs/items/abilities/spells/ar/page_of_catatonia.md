@@ -19,7 +19,7 @@ Damage: 1-6
 
 Range: 4.5
 
-Shots: 20o
+Shots: 20
 
 Enemy Effect: Paralyzed for 1.2 seconds
 
