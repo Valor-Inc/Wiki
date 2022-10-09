@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 
 ![TheMap](https://cdn.discordapp.com/attachments/953134990428868629/1028516893247672320/unknown.png)
 
-The Catacombs is an event dungeon dropping from **Zaragon, the Blood Mage** in the Realm, however it can additionally be purchased in the Guild hall. This dungeon is is incredibly large, simalar to the size of the Elemental Ruins. This is THE dungeon for fame farming--assuming you have good damage with enemy pierce or a group. You can get upwards of 10,000 Base Fame per full clear. Enemies within the Catacombs pose a major threat to even high defense players, so be sure to clear carefully and with patience.
+The Catacombs is an event dungeon dropping from **Zaragon, the Blood Mage** in the Realm, however it can additionally be purchased in the Guild hall. This dungeon is is incredibly large, similar to the size of the Elemental Ruins. This is THE dungeon for fame farming--assuming you have good damage with enemy pierce or a group. You can get upwards of 10,000 Base Fame per full clear. Enemies within the Catacombs pose a major threat to even high defense players, so be sure to clear carefully and with patience.
 
 ![key](https://cdn.discordapp.com/attachments/955217334086295652/955622245370327070/unknown.png)
 
