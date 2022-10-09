@@ -26,7 +26,7 @@ Shots pass through obstacles
    
 Fame Bonus: 8%
 
-**Upgraded form of [Told Before Time](https://wiki-test.valorserver.com/docs/items/weapons/bows/ut/told_before_time)**
+**Upgraded form of [Told Before Time](https://wiki.valorserver.com/docs/items/weapons/bows/ut/told_before_time)**
 
 ## Projectile
 
