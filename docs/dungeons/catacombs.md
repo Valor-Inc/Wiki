@@ -40,13 +40,11 @@ Phase 3: The boss will stop moving and flash red, and begin to fire radial red s
 ## Tips
 
 <ul>
-
 <li>This boss is completely optional, so if you struggle, do not feel too bad, there are 2 others!</li>
 
 <li>Avoid the Paralyzing shots during Phase 2, as they can be scary, especially if armor broken by a nearby minion.</li>
 
 <li>Clear all minions to prevent any armor breaking from happening!</li>
-
 </ul>
 
   </TabItem>
