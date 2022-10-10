@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Iok's Courage"
 ---
 
 # Iok's Courage
