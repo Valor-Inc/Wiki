@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Quiver of Denial
 
-![Denial](https://vwiki.valorserver.com/api/item/picture/quiver%20of%20denial)
+![Denial](https://cdn.discordapp.com/attachments/953134990428868629/1028899472077500418/unknown.png)
 
 <i>Tell the truth you evil creature! You cant handle the truth!</i>
 
