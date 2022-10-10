@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 The Storm Palace is a mid-tier dungeon, dropping from the **Thunder God** in the Godlands. It can be easily steam rolled with low amounts of players but can also be challenging to those who cannot kill the boss immediately. 
 
-![badguy](https://i.imgur.com/WavENUh.png)
+![badguy](https://cdn.discordapp.com/attachments/953134990428868629/1028857611472343111/paralyze_guy.png)
 
 If you choose to rush the Storm Palace, keep your eyes out for this enemy type. This enemy will paralyze you and, depending on what room your in and where in that room you are, could be a very very bad outting for your character.
 
