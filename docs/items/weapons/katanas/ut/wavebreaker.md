@@ -22,6 +22,6 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
 
-**Drops from Sea Mares in the Ocean Trench and Ascended Ocean Trench**
+**Drops from Sea Mares in the Ocean Trench**
 
 ## Projectile
