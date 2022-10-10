@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Glaive of Victory"
 ---
 
 # Glaive of Victory
