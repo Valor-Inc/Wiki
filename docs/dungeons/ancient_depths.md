@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Ancient Depths
+description: "The Ancient Depths Dungeon Guide."
 ---
 
 import Tabs from '@theme/Tabs';
