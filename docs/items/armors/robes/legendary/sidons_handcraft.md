@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: "Sidon's Handcraft"
 ---
 
 # Sidon's Handcraft
