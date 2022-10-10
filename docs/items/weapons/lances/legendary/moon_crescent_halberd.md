@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Moon Crescent Halberd"
 ---
 
 # Moon Crescent Halberd
