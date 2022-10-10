@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: " The Heavenly Lance"
 ---
 
 # Heavenly Lance
