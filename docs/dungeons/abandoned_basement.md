@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Abandoned Basement
+description: "The Abandoned Basement Dungeon Guide."
 ---
 
 import Tabs from '@theme/Tabs';
