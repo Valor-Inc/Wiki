@@ -43,8 +43,6 @@ Phase 3: The boss will begin to heal, spawning in 2 minions that will follow you
 <li>Stay away from the boss as its activating, as it will fire a paralyzing shot at the nearest player</li>
 
 <li>The boss will not attack if you are far enough away or invisible, so come with range or invis for the best chance</li>
-
-<li>Do the second boss first, and then do this boss</li>
 </ul>
 
   </TabItem>
@@ -59,6 +57,14 @@ Phase 3: The boss will begin to heal, spawning in 2 minions that will follow you
 Phase 1: He will be armored and stay stationary, unleashing several rounds of very low-damage projectiles and grenades all around him. After a fixed amount of time, he will switch to phase 2. This phase is only ever challenging for extremely early-game players, with extremely low defense or dps.
 
 Phase 2: He will emerge from his crystal form and begin firing a singular shot towards the player that deals very low damage, alongside blasts of paralyzing and darkness-inducing shots (with a very long delay between blasts). This phase is extremely easy as a singular player can just stand still and avoid all the paralyzing and darkness shots.
+
+## Tips
+
+<ul>
+
+<il>I'd recommend doing this boss first, as it is on the way to the boss and is only a slight detour from the main path, and going back later may be more difficult</il>
+
+</ul>
 
   </TabItem>
   <TabItem value="Item Drops" label="Item Drops">
