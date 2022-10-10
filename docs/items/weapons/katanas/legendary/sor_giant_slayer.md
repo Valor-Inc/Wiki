@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Sor Giant Slayer"
 ---
 
 # Sor Giant Slayer
