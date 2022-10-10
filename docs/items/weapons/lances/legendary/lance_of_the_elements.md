@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Lance of the Elements"
 ---
 
 # Lance of the Elements
