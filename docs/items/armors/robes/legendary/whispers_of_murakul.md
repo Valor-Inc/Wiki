@@ -1,5 +1,6 @@
 ---
 sidebar_position: 15
+description: "The Whispers of Murak'ul"
 ---
 
 # Whispers of Murak'ul
