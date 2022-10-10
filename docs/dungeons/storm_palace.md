@@ -62,7 +62,7 @@ Phase 2: He will emerge from his crystal form and begin firing a singular shot t
 
 <ul>
 
-<il>I'd recommend doing this boss first, as it is on the way to the boss and is only a slight detour from the main path, and going back later may be more difficult</il>
+<li>I'd recommend doing this boss first, as it is on the way to the boss and is only a slight detour from the main path, and going back later may be more difficult</li>
 
 </ul>
 
