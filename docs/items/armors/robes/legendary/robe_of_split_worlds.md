@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Robe of Split Worlds"
 ---
 
 # Robe of Split Worlds
