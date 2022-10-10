@@ -47,15 +47,17 @@ Avoid rushing unless confident--if you feel something could go wrong, it might.
   </TabItem>
   <TabItem value="Item Drops" label="Item Drops">
 
-## Item Drops
+## The Dark Sorcerer
 
-**The Treasure Room and Boss drop the same loot, with the exception of the [Aspect of Vamps](https://wiki.valorserver.com/docs/items/misc/aspects), which only drops from the Boss.**
+The Dark Sorcerer           |  Item Drops
+:-------------------------:|:-------------------------:
+![Looting](https://cdn.discordapp.com/attachments/953134990428868629/991568338536898611/Background_1.png)  |  [![vamps](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20vamps)](https://wiki.valorserver.com/docs/items/misc/aspects) [![Blackguard](https://vwiki.valorserver.com/api/item/picture/blackguard%20seal)](https://wiki.valorserver.com/docs/items/abilities/seals/ut/blackguard_seal) [![lonesome](https://vwiki.valorserver.com/api/item/picture/bow%20of%20the%20lonesome%20wraith)](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith) [![benevolence](https://vwiki.valorserver.com/api/item/picture/dirk%20of%20benevolence)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dirk_of_benevolence) [![courage](https://vwiki.valorserver.com/api/item/picture/siphon%20of%20courage)](https://wiki.valorserver.com/docs/items/abilities/siphons/ut/siphon_of_courage) [![fractured](https://vwiki.valorserver.com/api/item/picture/wand%20of%20fractured%20time)](https://wiki.valorserver.com/docs/items/weapons/wands/ut/wand_of_fractured_time)
 
-![Looting](https://cdn.discordapp.com/attachments/953134990428868629/991568338536898611/Background_1.png)    [![vamps](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20vamps)](https://wiki.valorserver.com/docs/items/misc/aspects) [![Blackguard](https://vwiki.valorserver.com/api/item/picture/blackguard%20seal)](https://wiki.valorserver.com/docs/items/abilities/seals/ut/blackguard_seal) [![lonesome](https://vwiki.valorserver.com/api/item/picture/bow%20of%20the%20lonesome%20wraith)](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith) [![benevolence](https://vwiki.valorserver.com/api/item/picture/dirk%20of%20benevolence)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dirk_of_benevolence) [![courage](https://vwiki.valorserver.com/api/item/picture/siphon%20of%20courage)](https://wiki.valorserver.com/docs/items/abilities/siphons/ut/siphon_of_courage) [![fractured](https://vwiki.valorserver.com/api/item/picture/wand%20of%20fractured%20time)](https://wiki.valorserver.com/docs/items/weapons/wands/ut/wand_of_fractured_time)
+## Treasure Room
 
-
-
-
+Treasure Room          |  Item Drops
+:-------------------------:|:-------------------------:
+![troomb](https://i.imgur.com/Mj4FJYD.png)  |  [![Blackguard](https://vwiki.valorserver.com/api/item/picture/blackguard%20seal)](https://wiki.valorserver.com/docs/items/abilities/seals/ut/blackguard_seal) [![lonesome](https://vwiki.valorserver.com/api/item/picture/bow%20of%20the%20lonesome%20wraith)](https://wiki.valorserver.com/docs/items/weapons/bows/ut/bow_of_the_lonesome_wraith) [![benevolence](https://vwiki.valorserver.com/api/item/picture/dirk%20of%20benevolence)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dirk_of_benevolence) [![courage](https://vwiki.valorserver.com/api/item/picture/siphon%20of%20courage)](https://wiki.valorserver.com/docs/items/abilities/siphons/ut/siphon_of_courage) [![fractured](https://vwiki.valorserver.com/api/item/picture/wand%20of%20fractured%20time)](https://wiki.valorserver.com/docs/items/weapons/wands/ut/wand_of_fractured_time)
 
   </TabItem>
 </Tabs>
