@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 title: Storm Palace
 description: "The Storm Palace Guide."
 ---
@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 The Storm Palace is a mid-tier dungeon, dropping from the **Thunder God** in the Godlands. It can be easily steam rolled with low amounts of players but can also be challenging to those who cannot kill the boss immediately. 
 
-![ohno](https://i.imgur.com/WavENUh.png)
+![badguy](https://i.imgur.com/WavENUh.png)
 
 If you choose to rush the Storm Palace, keep your eyes out for this enemy type. This enemy will paralyze you and, depending on what room your in and where in that room you are, could be a very very bad outting for your character.
 
@@ -67,13 +67,13 @@ Phase 2: He will emerge from his crystal form and begin firing a singular shot t
 
 Iegon, the Weather God   |  Item Drops
 :-------------------------:|:-------------------------:
-![iegon](https://cdn.discordapp.com/attachments/953134990428868629/990767833711530034/Layer_1.png)  |  [![(https://vwiki.valorserver.com/api/item/picture/dagger%20of%20unearthly%20storms)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dagger_of_unearthly_storms) [![]()]()
+![iegon](https://cdn.discordapp.com/attachments/953134990428868629/990767833711530034/Layer_1.png)  | [![wtf](https://vwiki.valorserver.com/api/item/picture/insurgency%20amulet)](https://wiki.valorserver.com/docs/items/rings/legendary/insurgency_amulet) [![UNEARTH](https://vwiki.valorserver.com/api/item/picture/dagger%20of%20unearthly%20storms)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dagger_of_unearthly_storms) [![goodring](https://vwiki.valorserver.com/api/item/picture/ring%20of%20the%20storm%20gods)](https://wiki.valorserver.com/docs/items/rings/ut/ring_of_the_storm_gods) [![]()]() [![](https://vwiki.valorserver.com/api/item/picture/stormbreaker)](https://wiki.valorserver.com/docs/items/abilities/shield/ut/stormbreaker) [![typhoon](https://vwiki.valorserver.com/api/item/picture/typhoon%20wand)](https://wiki.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand) ![Nspeed](https://vwiki.valorserver.com/api/item/picture/potion%20of%20speed) ![NLuck](https://vwiki.valorserver.com/api/item/picture/potion%20of%20luck)
 
 ## Construct of the Storm
 
 Construct of the Storm |  Item Drops
 :-------------------------:|:-------------------------:
-![ConstructStorm](https://cdn.discordapp.com/attachments/953134990428868629/991164388339884053/unknown.png)  |  
+![ConstructStorm](https://cdn.discordapp.com/attachments/953134990428868629/991164388339884053/unknown.png)  |  [![UNEARTH](https://vwiki.valorserver.com/api/item/picture/dagger%20of%20unearthly%20storms)](https://wiki.valorserver.com/docs/items/weapons/daggers/ut/dagger_of_unearthly_storms) [![goodring](https://vwiki.valorserver.com/api/item/picture/ring%20of%20the%20storm%20gods)](https://wiki.valorserver.com/docs/items/rings/ut/ring_of_the_storm_gods)  [![stormbreak](https://vwiki.valorserver.com/api/item/picture/stormbreaker)](https://wiki.valorserver.com/docs/items/abilities/shield/ut/stormbreaker) [![typhoon](https://vwiki.valorserver.com/api/item/picture/typhoon%20wand)](https://wiki.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand) ![gspd](https://vwiki.valorserver.com/api/item/picture/greater%20potion%20of%20speed) ![glck](https://vwiki.valorserver.com/api/item/picture/greater%20potion%20of%20luck)
 
   </TabItem>
 </Tabs>
