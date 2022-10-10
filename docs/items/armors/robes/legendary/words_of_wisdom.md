@@ -1,5 +1,6 @@
 ---
 sidebar_position: 16
+description: "The Words of Wisdom"
 ---
 
 # Words of Wisdom
