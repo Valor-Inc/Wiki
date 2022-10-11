@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Force Between Avex"
 ---
 
 # Force Between Avex
