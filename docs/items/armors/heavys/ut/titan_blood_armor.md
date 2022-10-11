@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Titan Blood Armor"
 ---
 
 # Titan Blood Armor
