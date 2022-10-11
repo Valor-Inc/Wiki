@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Shiny Divers Breastplate"
 ---
 
 # Shiny Divers Breastplate
