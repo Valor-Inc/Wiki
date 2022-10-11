@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Corpse of an Ent Ancient"
 ---
 
 # Corpse of an Ent Ancient
