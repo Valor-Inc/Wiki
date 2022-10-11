@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Cleansing Cleric Breastplate"
 ---
 
 # Cleansing Cleric Breastplate
