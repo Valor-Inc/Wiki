@@ -48,7 +48,7 @@ Fame Bonus: 14%
 
 ![VLA](https://vwiki.valorserver.com/api/item/picture/vinelocker%20air)
 
-<i>The fabled shield of the long-lost forest titans, eroded by eternity and quick ot flutter in the breeze. The roots of the soul give way to exhaustion as one realizes they have come far too late.</i>
+<i>The fabled shield of the long-lost forest titans, eroded by eternity and quick to flutter in the breeze. The roots of the soul give way to exhaustion as one realizes they have come far too late.</i>
 
 **Air Rune: Gain speed and higher shield range.**
 
@@ -126,7 +126,7 @@ Fame Bonus: 14%
 
 ![VLF](https://vwiki.valorserver.com/api/item/picture/vinelocker%20fire)
 
-<i>The fabled shield of the long-lost forest titans, wrought of scorched rockwood and tainted by long-charred hexes. A solemn rage awakens i the soul as a memory of hope is smothered by an ancient pyre.</i>
+<i>The fabled shield of the long-lost forest titans, wrought of scorched rockwood and tainted by long-charred hexes. A solemn rage awakens in the soul as a memory of hope is smothered by an ancient pyre.</i>
 
 **Fire Rune: Gain Attack, higher Damaging uptime and shield damage.**
 
