@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: RWT
-description: "RWT Info"
+description: "Information on Real World Trading (RWT)"
 ---
 
 import Tabs from '@theme/Tabs';
