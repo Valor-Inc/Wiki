@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Cloak of Terradius"
 ---
 
 # Cloak of Terradius
