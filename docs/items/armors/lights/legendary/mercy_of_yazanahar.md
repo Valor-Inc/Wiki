@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Mercy of Yazanahar"
 ---
 
 # Mercy of Yazanahar
