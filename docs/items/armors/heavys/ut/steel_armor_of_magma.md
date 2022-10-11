@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Steel Armor of Magma"
 ---
 
 # Steel Armor of Magma
