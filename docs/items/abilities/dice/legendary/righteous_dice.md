@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Righteous Dice
+description: "The Righteous Dice"
 ---
 
 import Tabs from '@theme/Tabs';
