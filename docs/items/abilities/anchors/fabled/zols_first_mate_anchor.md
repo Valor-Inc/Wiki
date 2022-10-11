@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Zol's First Mate Anchor"
 ---
 
 # Zol's First Mate Anchor
