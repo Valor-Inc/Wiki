@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Breastplate of the Mad God"
 ---
 
 # Breastplate of the Mad God
