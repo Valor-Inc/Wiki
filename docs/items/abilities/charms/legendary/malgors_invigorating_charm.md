@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Malgor's Invigorating Charm"
 ---
 
 # Malgor's Invigorating Charm
