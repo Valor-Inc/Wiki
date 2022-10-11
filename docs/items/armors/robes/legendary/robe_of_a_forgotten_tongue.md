@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Robe of a Forgotten Tongue"
 ---
 
 # Robe of a Forgotten Tongue
