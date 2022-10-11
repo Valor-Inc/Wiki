@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Vinelocker
+description: "Vinelocker"
 ---
 
 import Tabs from '@theme/Tabs';
