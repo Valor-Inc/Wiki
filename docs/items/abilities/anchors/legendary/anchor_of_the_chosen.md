@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+description: "Anchor of the Chosen
 ---
 
-# Anchor of the Chosem
+# Anchor of the Chosen
 
 ![AC](https://vwiki.valorserver.com/api/item/picture/anchor%20of%20the%20chosen)
 
