@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Anchor of Coral Treasure"
 ---
 
 # Anchor of Coral Treasure
