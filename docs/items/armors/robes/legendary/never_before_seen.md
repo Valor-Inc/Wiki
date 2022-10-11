@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-description "Never Before Seen"
+description: "Never Before Seen"
 ---
 
 # Never Before Seen
