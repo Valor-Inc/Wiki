@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Helmet of Oryx"
 ---
 
 # Helmet of Oryx
