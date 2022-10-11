@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Helm of the Timewarper"
 ---
 
 # Helm of the Timewarper
