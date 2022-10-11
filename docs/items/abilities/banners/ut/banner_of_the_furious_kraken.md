@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Banner of the Furious Kraken"
 ---
 
 # Banner of the Furious Kraken
