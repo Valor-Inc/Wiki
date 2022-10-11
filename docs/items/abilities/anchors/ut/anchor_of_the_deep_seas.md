@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Anchor of the Deep Seas"
 ---
 
 # Anchor of the Deep Seas
@@ -34,6 +35,6 @@ Cooldown: 2.5
 
 Fame Bonus: 6%
 
-**Drops from the Resthla, The Twisted Mermaid of the Ascended Ocean Trench**
-
 ***Can be upgraded with Elemental Sor Crystal!***
+
+**Drops from the Resthla, The Twisted Mermaid of the Ascended Ocean Trench**
