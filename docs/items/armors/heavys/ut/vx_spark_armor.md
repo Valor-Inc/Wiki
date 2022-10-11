@@ -1,5 +1,6 @@
 ---
 sidebar_position: 14
+description: "V-X Spark Armor"
 ---
 
 # V-X Spark Armor
