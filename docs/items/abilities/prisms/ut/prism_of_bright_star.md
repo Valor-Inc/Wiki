@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Prism of Bright Star"
 ---
 
 # Prism of Bright Star
