@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Skinned Toad Armor"
 ---
 
 # Skinned Toad Armor
