@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Revenant Prism
+description: "The Revenant Prism"
 ---
 
 import Tabs from '@theme/Tabs';
