@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Armor of Masochism"
 ---
 
 # Armor of Masochism
