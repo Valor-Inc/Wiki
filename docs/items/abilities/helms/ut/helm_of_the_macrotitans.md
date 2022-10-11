@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Helm of the Macrotitans"
 ---
 
 # Helm of the Macrotitans
