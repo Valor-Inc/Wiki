@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Armor of Dark Retribution"
 ---
 
 # Armor of Dark Retribution
