@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Helldom Shell
+description: "Helldom Shell"
 ---
 
 import Tabs from '@theme/Tabs';
