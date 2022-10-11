@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Helm of the Zol Commander"
 ---
 
 # Helm of the Zol Commander
