@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: "V-L Spark Armor"
 ---
 
 # V-L Spark Armor
