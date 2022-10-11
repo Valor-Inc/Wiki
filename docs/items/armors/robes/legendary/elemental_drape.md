@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description "The Elemental Drape"
+description: "The Elemental Drape"
 ---
 
 # Elemental Drape
