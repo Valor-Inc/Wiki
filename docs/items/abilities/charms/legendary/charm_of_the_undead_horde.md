@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Charm of the Undead Horde"
 ---
 
 # Charm of the Undead Horde
