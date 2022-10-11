@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Robe of Treasure"
 ---
 
 # Robe of Treasure
