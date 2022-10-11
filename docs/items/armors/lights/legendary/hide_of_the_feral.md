@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Hide of the Feral"
 ---
 
 # Hide of the Feral
