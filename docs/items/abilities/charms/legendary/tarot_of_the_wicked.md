@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Tarot of the Wicked"
 ---
 
 # Tarot of the Wicked
