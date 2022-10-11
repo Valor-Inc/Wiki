@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Deception
+description: "The Deception"
 ---
 
 import Tabs from '@theme/Tabs';
