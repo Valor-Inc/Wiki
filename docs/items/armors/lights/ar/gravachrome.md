@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Gravachrome
+description: "Gravachrome"
 ---
 
 import Tabs from '@theme/Tabs';
