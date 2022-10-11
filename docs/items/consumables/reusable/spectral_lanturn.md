@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Spectral Lantern
 
-![SLatern](https://vwiki.valorserver.com/api/item/picture/spectral%20lantern)
+![SLatern](https://cdn.discordapp.com/attachments/953134990428868629/1029325884219478046/Spectrallantern.png)
 
 <i>A spectral artifact, useful to smugglers and pirates.</i>
 
