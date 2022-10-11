@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Twisted Earth Dice"
 ---
 
 # Twisted Earth Dice
