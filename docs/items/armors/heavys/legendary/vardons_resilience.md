@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Vardon's Resilience"
 ---
 
 # Vardon's Resilience
