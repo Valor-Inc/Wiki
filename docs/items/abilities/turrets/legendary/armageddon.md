@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Armageddon
 
-![armageddonDN](https://vwiki.valorserver.com/api/item/picture/armegeddon)
+![armageddonDN](https://cdn.discordapp.com/attachments/953134990428868629/1029587133591203840/armageddon.png)
 
 <i>This terrifying turret of Destruction was commisioned during the Great Swamp Wars as a weapon of last resort. It was considered lost to the swamps.</i>
 
