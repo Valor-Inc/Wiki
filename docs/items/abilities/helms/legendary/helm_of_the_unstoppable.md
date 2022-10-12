@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Helm of the Unstoppable"
 ---
 
 # Helm of the Unstoppable
