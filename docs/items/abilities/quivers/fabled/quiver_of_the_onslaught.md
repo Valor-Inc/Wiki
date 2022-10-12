@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Quiver of the Onslaught"
 ---
 
 # Quiver of the Onslaught
