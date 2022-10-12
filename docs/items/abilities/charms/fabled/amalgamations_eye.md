@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Amalgmation's Eye"
 ---
 
 # Amalgamation's Eye
