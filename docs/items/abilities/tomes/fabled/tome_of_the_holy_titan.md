@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Tome of the Holy Titan"
 ---
 
 # Tome of the Holy Titan
