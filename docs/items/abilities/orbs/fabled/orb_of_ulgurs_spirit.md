@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Orb of Ulgur's Spirit"
 ---
 
 # Orb of Ulgur's Spirit
