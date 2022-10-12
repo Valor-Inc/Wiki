@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Siphon of Magical Regeneration"
 ---
 
 # Siphon of Magical Regeneration
