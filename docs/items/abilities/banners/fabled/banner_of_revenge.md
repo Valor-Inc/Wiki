@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Banner of Revenge"
 ---
 
 # Banner of Revenge
