@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Drannol's Fury"
 ---
 
 # Drannol's Fury
