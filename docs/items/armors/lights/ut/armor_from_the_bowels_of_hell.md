@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2 
+description: "Armor from the Bowels of Hell"
 ---
 
 # Armor from the Bowels of Hell
