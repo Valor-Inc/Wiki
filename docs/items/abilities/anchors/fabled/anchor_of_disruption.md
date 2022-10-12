@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Anchor of Disruption"
 ---
 
 # Anchor of Disruption
