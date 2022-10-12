@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Helm of Erebus"
 ---
 
 # Helm of Erebus
