@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Beacon of the Void"
 ---
 
 # Beacon of the Void
