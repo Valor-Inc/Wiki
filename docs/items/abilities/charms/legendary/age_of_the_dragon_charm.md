@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Age of the Dragon Charm"
 ---
 
 # Age of the Dragon Charm
