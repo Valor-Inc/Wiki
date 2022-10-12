@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Beastly Dice"
 ---
 
 # Beastly Dice
@@ -24,6 +25,6 @@ Cooldown: 2 seconds
 
 Fame Bonus: 8%
 
-**Drops from Garutious in the Realm**
-
 ***This item is a part of Loaded Garutious Set***
+
+**Drops from Garutious in the Realm**
