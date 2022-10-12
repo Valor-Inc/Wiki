@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Merit of Rebellion"
 ---
 
 # Merit of Rebellion
