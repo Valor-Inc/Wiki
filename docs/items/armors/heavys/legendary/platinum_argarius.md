@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Platinum Argarius"
 ---
 
 # Platinum Argarius
