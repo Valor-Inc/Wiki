@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Ulgur's Spectral Quiver"
 ---
 
 # Ulgur's Spectral Quiver
