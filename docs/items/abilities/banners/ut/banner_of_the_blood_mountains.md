@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Banner of the Blood Mountains"
 ---
 
 # Banner of the Blood Mountains
