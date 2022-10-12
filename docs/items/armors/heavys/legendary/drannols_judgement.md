@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Drannol's Judgement"
 ---
 
 # Drannol's Judgement
