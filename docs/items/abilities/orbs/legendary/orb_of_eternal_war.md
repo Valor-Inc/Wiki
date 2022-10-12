@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Orb of Eternal War"
 ---
 
 # Orb of Eternal War
