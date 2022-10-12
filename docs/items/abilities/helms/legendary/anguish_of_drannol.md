@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Anguish of Drannol"
 ---
 
 # Anguish of Drannol
