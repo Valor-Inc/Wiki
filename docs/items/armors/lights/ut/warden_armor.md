@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Warden Armor"
 ---
 
 # Warden Armor
