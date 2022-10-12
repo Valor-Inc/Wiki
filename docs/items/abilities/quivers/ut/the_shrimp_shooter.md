@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Shrimp Shooter"
 ---
 
 # The Shrimp Shooter
