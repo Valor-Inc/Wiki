@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: The Eye
+description: "The Eye"
 ---
 
 import Tabs from '@theme/Tabs';
