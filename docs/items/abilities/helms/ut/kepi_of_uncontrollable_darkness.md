@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Kepi of Uncontrollable Darkness"
 ---
 
 # Kepi of Uncontrollable Darkness
