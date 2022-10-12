@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Toxin of the Vicious"
 ---
 
 # Toxin of the Vicious
