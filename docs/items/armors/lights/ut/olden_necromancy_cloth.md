@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Olden Necromancy Cloth"
 ---
 
 # Olden Necromancy Cloth
