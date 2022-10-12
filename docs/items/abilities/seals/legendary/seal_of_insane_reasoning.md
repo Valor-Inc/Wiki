@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Seal of Insane Reasoning
+description: "The Seal of Insane Reasoning"
 ---
 
 import Tabs from '@theme/Tabs';
