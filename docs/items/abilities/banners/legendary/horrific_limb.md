@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Horrific Limb"
 ---
 
 # Horrific Limb
