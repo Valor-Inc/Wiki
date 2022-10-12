@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Plate of Righteous Fury"
 ---
 
 # Plate of Righteous Fury
