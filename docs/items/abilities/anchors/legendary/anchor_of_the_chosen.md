@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-description: "Anchor of the Chosen
+description: "Anchor of the Chosen"
 ---
 
 # Anchor of the Chosen
