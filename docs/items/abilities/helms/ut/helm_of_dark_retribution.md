@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Helm of Dark Retrubution"
 ---
 
 # Helm of Dark Retribution
