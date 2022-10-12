@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "The Unlucky Leprachaun's Coat"
 ---
 
 # Unlucky Leprachaun's Coat
