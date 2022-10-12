@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Anchor of Titanic Might"
 ---
 
 # Anchor of Titanic Might
