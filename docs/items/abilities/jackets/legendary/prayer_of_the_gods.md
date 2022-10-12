@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Prayer of the Gods"
 ---
 
 # Prayer of the Gods
