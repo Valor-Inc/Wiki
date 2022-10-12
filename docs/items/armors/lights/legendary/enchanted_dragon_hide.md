@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Enchanted Dragon Hide"
 ---
 
 # Enchanted Dragon Hide
