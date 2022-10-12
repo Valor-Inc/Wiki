@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Jacket of the Scientist"
 ---
 
 # Jacket of the Scientist
