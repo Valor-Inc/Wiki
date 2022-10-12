@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Banner of Last Resort"
 ---
 
 # Banner of Last Resort
