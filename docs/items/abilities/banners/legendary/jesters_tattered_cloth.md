@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Jester's Tattered Cloth"
 ---
 
 # Jester's Tattered Cloth
