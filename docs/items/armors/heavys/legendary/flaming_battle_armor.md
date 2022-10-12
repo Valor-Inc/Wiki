@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Flaming Battle Armor"
 ---
 
 # Flaming Battle Armor
