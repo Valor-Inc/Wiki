@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Seal of Splashing Lava"
 ---
 
 # Seal of Splashing Lava
