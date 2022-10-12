@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Zol Pirate Scepter"
 ---
 
 # Zol Pirate Scepter
@@ -8,7 +9,7 @@ sidebar_position: 3
 
 <i>A pirate's curse has been placed upon this item.</i>
 
-Lightning: 1250 to 4 targets
+Lightning: 1250 (wismod) to 4 targets
 
 Shot Effect: Curse for 3 seconds
 
