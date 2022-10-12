@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Adroit Armor"
 ---
 
 # Adroit Armor
