@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Zol Pirate Siphon"
 ---
 
 # Zol Pirate Siphon
