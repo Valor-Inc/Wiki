@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Aegis of the Devourer"
 ---
 
 # Aegis of the Devourer
