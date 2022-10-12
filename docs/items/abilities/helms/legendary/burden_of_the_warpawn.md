@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Burden of the Warpawn"
 ---
 
 # Burden of the Warpawn
