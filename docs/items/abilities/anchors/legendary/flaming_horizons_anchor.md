@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Flaming Horizons Anchor
+description: "The Flaming Horizons Anchor"
 ---
 
 import Tabs from '@theme/Tabs';
