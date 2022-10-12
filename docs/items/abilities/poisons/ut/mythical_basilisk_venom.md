@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Mythical Basilisk Venom"
 ---
 
 # Mythical Basilisk Venom
