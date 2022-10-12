@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # The Forgotten Conduit
 
-![TFC](https://vwiki.valorserver.com/api/item/picture/the%20forgotten%20conduit)
+![TFC](https://cdn.discordapp.com/attachments/953134990428868629/1029583166811426957/forgottencond.png)
 
 <i>Within is a dark power which once wsought to take over the Realm.</i>
 
