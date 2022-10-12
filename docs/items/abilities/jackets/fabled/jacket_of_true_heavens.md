@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Jacker of True Heavens"
 ---
 
 # Jacket of True Heavens
