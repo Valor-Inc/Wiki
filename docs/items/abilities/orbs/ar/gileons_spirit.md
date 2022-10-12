@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Gileon's Spirit
+description: "Gileon's Spirit"
 ---
 
 import Tabs from '@theme/Tabs';
