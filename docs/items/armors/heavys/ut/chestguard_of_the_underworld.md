@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Chestguard of the Underworld"
 ---
 
 # Chestguard of the Underworld
