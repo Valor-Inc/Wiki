@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Reinforced Prism"
 ---
 
 # Reinforced Prism
