@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "Sidon's Masterpiece"
 ---
 
 # Sidon's Masterpiece
