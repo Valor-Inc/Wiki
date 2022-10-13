@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Zeal of the Far-Ranger"
 ---
 
 # Zeal of the Far-Ranger
