@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Blessing of Yazanahar"
 ---
 
 # Blessing of Yazanahar
