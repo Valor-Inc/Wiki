@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Seal of Sky Serenade"
 ---
 
 # Seal of Sky Serenade
