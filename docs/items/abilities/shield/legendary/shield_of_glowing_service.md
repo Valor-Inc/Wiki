@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "The Shield of Glowing Service"
 ---
 
 # Shield of Glowing Service
