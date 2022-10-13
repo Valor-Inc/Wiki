@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "An Astonishing Happening"
 ---
 
 # An Astonishing Happening
