@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Trap of the Illusionist"
 ---
 
 # Trap of the Illusionist
