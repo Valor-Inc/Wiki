@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Eye of Insanity"
 ---
 
 # Eye of Insanity
