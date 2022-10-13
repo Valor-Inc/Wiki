@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Turret of Holy Light"
 ---
 
 # Turret of Holy Light
@@ -23,7 +24,9 @@ MP Cost: 110
 Cooldown: 4 seconds
 
     +10 Defense
+    
     +100 Maximum MP
+    
     +1 Life Steal
 
 Fame Bonus: No Fame Bonus
