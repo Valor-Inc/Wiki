@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Pernicious Fate-36"
 ---
 
 # Pernicious Fate-36
@@ -8,7 +9,7 @@ sidebar_position: 2
 
 <i>Don't believe them when they say you'll become a demon. We are your friends not your end.</i>
 
-Lightning: 2000 to 10 targets
+Lightning: 2000 (wismod) to 10 targets
 
 Shot Effect: Slowed for 3 seconds
 
