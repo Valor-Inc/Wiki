@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Master's Betrayal"
 ---
 
 # The Master's Betrayal
