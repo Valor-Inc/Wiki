@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Flashburst Spell"
 ---
 
 # Flashburst Spell
