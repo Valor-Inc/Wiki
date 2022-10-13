@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Wheel of Flames"
 ---
 
 # Wheel of Flames
