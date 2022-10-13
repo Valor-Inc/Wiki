@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Percussion Shield"
 ---
 
 # Percussion Shield
