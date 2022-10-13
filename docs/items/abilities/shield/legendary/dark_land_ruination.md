@@ -1,12 +1,13 @@
 ---
 sidebar_position: 1
+description: "Dark Land Ruination"
 ---
 
 # Dark Land Ruination
 
 ![coolnamebaditem](https://vwiki.valorserver.com/api/item/picture/dark%20land%20ruination)
 
-<i>The shield was a seal used to keep the Dark Knight from breaking into our world; ripping apart the fabric fo reality.</i>
+<i>The shield was a seal used to keep the Dark Knight from breaking into our world; ripping apart the fabric of reality.</i>
 
 Damage: 575-875
 
