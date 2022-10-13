@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Forgotten Conduit"
 ---
 
 # The Forgotten Conduit
@@ -8,7 +9,7 @@ sidebar_position: 5
 
 <i>Within is a dark power which once wsought to take over the Realm.</i>
 
-Lightning: 5000 to 8 targets
+Lightning: 5000 (wismod) to 8 targets
 
     +10 Defense
 
