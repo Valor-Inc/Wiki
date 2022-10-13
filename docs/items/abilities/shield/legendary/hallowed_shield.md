@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Hallowed Shield"
 ---
 
 # Hallowed Shield
