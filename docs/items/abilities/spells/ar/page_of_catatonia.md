@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Page of Catatonia
+description: "The Page of Catatonia"
 ---
 
 import Tabs from '@theme/Tabs';
