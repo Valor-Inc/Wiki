@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+description: "The Jacket of True Darkness"
 ---
 
-# Jacket of True Darknesss
+# Jacket of True Darkness
 
 ![JTD](https://vwiki.valorserver.com/api/item/picture/jacket%20of%20true%20darkness)
 
