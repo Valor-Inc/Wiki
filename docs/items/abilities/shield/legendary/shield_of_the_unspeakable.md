@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Shield of the Unspeakable"
 ---
 
 # Shield of the Unspeakable
