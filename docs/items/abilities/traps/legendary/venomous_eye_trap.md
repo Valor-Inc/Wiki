@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Venomus Eye Trap"
 ---
 
 # Venomous Eye Trap
