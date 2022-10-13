@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-description: "The Phantomus Blight"
+description: "The Phantmous Blight"
 ---
 
 # Phantomous Blight
