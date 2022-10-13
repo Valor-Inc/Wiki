@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-description: "The Luminous Horizon'\
+description: "The Luminous Horizon"
 ---
 
 # Luminous Horizon
