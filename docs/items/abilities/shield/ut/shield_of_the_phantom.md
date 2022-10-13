@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Shield of the Phantom"
 ---
 
 # Shield of the Phantom
