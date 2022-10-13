@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "The Pulsating Slime Potion"
 ---
 
 # Pulsating Slime Potion
