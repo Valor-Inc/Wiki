@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Code of the Corrupt"
 ---
 
 # Codex of the Corrupt
