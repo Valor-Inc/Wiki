@@ -8,28 +8,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Pre-Existant Classes" label="Pre-Existant Classes" default>
-
-**Existing classes have had their max stats modified, here are all of them in one place for convenience.**
-
-**Rogue:** `680 Life, 252 Mana, 55 Attack, 25 Defense, 75 Speed, 75 Dexterity, 40 Vitality, 55 Wisdom, 60 Might, 75 Luck, 25 Protection, 60 Restoration`  
-**Archer:** `680 Life, 252 Mana, 75 Attack, 25 Defense, 50 Speed, 50 Dexterity, 40 Vitality, 50 Wisdom, 80 Might, 40 Luck, 25 Protection, 60 Restoration`  
-**Wizard:** `630 Life, 385 Mana, 75 Attack, 25 Defense, 50 Speed, 75 Dexterity, 40 Vitality, 60 Wisdom, 30 Might, 20 Luck, 25 Protection, 60 Restoration`  
-**Priest:** `630 Life, 385 Mana, 65 Attack, 25 Defense, 55 Speed, 60 Dexterity, 40 Vitality, 75 Wisdom, 40 Might, 70 Luck, 60 Protection, 60 Restoration`  
-**Warrior:** `830 Life, 252 Mana, 75 Attack, 25 Defense, 50 Speed, 50 Dexterity, 75 Vitality, 50 Wisdom, 50 Might, 10 Luck, 25 Protection, 60 Restoration`  
-**Knight:** `950 Life, 252 Mana, 50 Attack, 40 Defense, 50 Speed, 50 Dexterity, 75 Vitality, 50 Wisdom, 50 Might, 15 Luck, 40 Protection, 60 Restoration`  
-**Paladin:** `820 Life, 252 Mana, 50 Attack, 30 Defense, 55 Speed, 45 Dexterity, 40 Vitality, 75 Wisdom, 30 Might, 10 Luck, 50 Protection, 60 Restoration`  
-**Assassin:** `680 Life, 252 Mana, 65 Attack, 25 Defense, 75 Speed, 75 Dexterity, 50 Vitality, 75 Wisdom, 80 Might, 80 Luck, 25 Protection, 60 Restoration`  
-**Necromancer:** `630 Life, 385 Mana, 65 Attack, 30 Defense, 50 Speed, 60 Dexterity, 65 Vitality, 75 Wisdom, 45 Might, 20 Luck, 40 Protection, 60 Restoration`  
-**Huntress:** `660 Life, 252 Mana, 75 Attack, 25 Defense, 55 Speed, 50 Dexterity, 35 Vitality, 50 Wisdom, 70 Might, 50 Luck, 25 Protection, 60 Restoration`  
-**Mystic:** `630 Life, 385 Mana, 60 Attack, 25 Defense, 60 Speed, 55 Dexterity, 40 Vitality, 75 Wisdom, 40 Might, 50 Luck, 50 Protection, 60 Restoration`  
-**Trickster:** `680 Life, 252 Mana, 85 Attack, 25 Defense, 80 Speed, 65 Dexterity, 50 Vitality, 60 Wisdom, 80 Might, 25 Luck, 40 Protection, 60 Restoration`  
-**Sorcerer:** `670 Life, 425 Mana, 70 Attack, 25 Defense, 60 Speed, 65 Dexterity, 75 Vitality, 80 Wisdom, 50 Might, 45 Luck, 25 Protection, 60 Restoration`  
-**Ninja:** `680 Life, 252 Mana, 80 Attack, 25 Defense, 65 Speed, 80 Dexterity, 35 Vitality, 70 Wisdom, 70 Might, 95 Luck, 25 Protection, 60 Restoration`  
-
-
-  </TabItem>
-  <TabItem value="Bow Classes" label="Bow Classes">
+  <TabItem value="Bow Classes" label="Bow Classes" default>
 
 ## Bow Classes
 
@@ -230,6 +209,28 @@ Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphon
     30 Luck
     25 Protection
     60 Restoration
+
+  </TabItem>
+<TabItem value="Pre-Existant Classes" label="Pre-Existant Classes">
+
+# Pre-Existant Classes
+
+**Existing classes have had their max stats modified, here are all of them in one place for convenience.**
+
+**Rogue:** `680 Life, 252 Mana, 55 Attack, 25 Defense, 75 Speed, 75 Dexterity, 40 Vitality, 55 Wisdom, 60 Might, 75 Luck, 25 Protection, 60 Restoration`  
+**Archer:** `680 Life, 252 Mana, 75 Attack, 25 Defense, 50 Speed, 50 Dexterity, 40 Vitality, 50 Wisdom, 80 Might, 40 Luck, 25 Protection, 60 Restoration`  
+**Wizard:** `630 Life, 385 Mana, 75 Attack, 25 Defense, 50 Speed, 75 Dexterity, 40 Vitality, 60 Wisdom, 30 Might, 20 Luck, 25 Protection, 60 Restoration`  
+**Priest:** `630 Life, 385 Mana, 65 Attack, 25 Defense, 55 Speed, 60 Dexterity, 40 Vitality, 75 Wisdom, 40 Might, 70 Luck, 60 Protection, 60 Restoration`  
+**Warrior:** `830 Life, 252 Mana, 75 Attack, 25 Defense, 50 Speed, 50 Dexterity, 75 Vitality, 50 Wisdom, 50 Might, 10 Luck, 25 Protection, 60 Restoration`  
+**Knight:** `950 Life, 252 Mana, 50 Attack, 40 Defense, 50 Speed, 50 Dexterity, 75 Vitality, 50 Wisdom, 50 Might, 15 Luck, 40 Protection, 60 Restoration`  
+**Paladin:** `820 Life, 252 Mana, 50 Attack, 30 Defense, 55 Speed, 45 Dexterity, 40 Vitality, 75 Wisdom, 30 Might, 10 Luck, 50 Protection, 60 Restoration`  
+**Assassin:** `680 Life, 252 Mana, 65 Attack, 25 Defense, 75 Speed, 75 Dexterity, 50 Vitality, 75 Wisdom, 80 Might, 80 Luck, 25 Protection, 60 Restoration`  
+**Necromancer:** `630 Life, 385 Mana, 65 Attack, 30 Defense, 50 Speed, 60 Dexterity, 65 Vitality, 75 Wisdom, 45 Might, 20 Luck, 40 Protection, 60 Restoration`  
+**Huntress:** `660 Life, 252 Mana, 75 Attack, 25 Defense, 55 Speed, 50 Dexterity, 35 Vitality, 50 Wisdom, 70 Might, 50 Luck, 25 Protection, 60 Restoration`  
+**Mystic:** `630 Life, 385 Mana, 60 Attack, 25 Defense, 60 Speed, 55 Dexterity, 40 Vitality, 75 Wisdom, 40 Might, 50 Luck, 50 Protection, 60 Restoration`  
+**Trickster:** `680 Life, 252 Mana, 85 Attack, 25 Defense, 80 Speed, 65 Dexterity, 50 Vitality, 60 Wisdom, 80 Might, 25 Luck, 40 Protection, 60 Restoration`  
+**Sorcerer:** `670 Life, 425 Mana, 70 Attack, 25 Defense, 60 Speed, 65 Dexterity, 75 Vitality, 80 Wisdom, 50 Might, 45 Luck, 25 Protection, 60 Restoration`  
+**Ninja:** `680 Life, 252 Mana, 80 Attack, 25 Defense, 65 Speed, 80 Dexterity, 35 Vitality, 70 Wisdom, 70 Might, 95 Luck, 25 Protection, 60 Restoration`  
 
   </TabItem>
 </Tabs>
