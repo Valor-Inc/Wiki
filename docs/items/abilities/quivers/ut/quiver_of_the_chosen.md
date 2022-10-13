@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Quiver of the Chosen"
 ---
 
 # Quiver of the Chosen
