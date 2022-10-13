@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Seal of Glowing Honor"
 ---
 
 # Seal of Glowing Honor
