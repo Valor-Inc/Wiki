@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Unoch's Defiance"
 ---
 
 # Unoch's Defiance
