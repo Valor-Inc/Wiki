@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "A Clump of Bark"
 ---
 
 # Clump of Bark
