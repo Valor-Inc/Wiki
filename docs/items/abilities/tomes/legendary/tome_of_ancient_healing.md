@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Tome of Ancient Healing"
 ---
 
 # Tome of Ancient Healing
