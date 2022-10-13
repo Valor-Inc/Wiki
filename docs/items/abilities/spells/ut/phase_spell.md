@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Phase Spell"
 ---
 
 # Phase Spell
