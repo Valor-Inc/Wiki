@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Unholy Wand"
 ---
 
 # Unholy Wand
@@ -22,7 +23,7 @@ Shots pass through obstacles
 
 Fame Bonus: 6%
  
-**Drops from Bedlam**
+**Drops from Bedlam (Currently Unobtainable)**
 
 ## Projectile
 
