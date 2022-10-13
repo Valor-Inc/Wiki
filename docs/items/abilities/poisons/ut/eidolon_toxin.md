@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Eidolon Toxin"
 ---
 
 # Eidolon Toxin
@@ -20,6 +21,8 @@ MP Cost: 90
 
 Fame Bonus: 6%
 
-**Upgraded with an Elemental Sor Crystal!**
+***Upgraded with an Elemental Sor Crystal!***
+
+**Drops from Septavius, the Ghost God from the Undead Lair**
 
 *See FAQ page to see how WisMod is calculated for the items*
