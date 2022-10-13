@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: "The Thunderfall's Storm"
+description: "Thunderfall's Storm"
 ---
 
 # Thunderfall's Storm
