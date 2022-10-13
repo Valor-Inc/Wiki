@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Dynamized Rod"
 ---
 
 # Dynamized Rod
@@ -8,7 +9,7 @@ sidebar_position: 1
 
 <i>Charged with Zegaell's radiating energy within.</i>
 
-Lightning: 1500 to 5 targets
+Lightning: 1500 (wismod) to 5 targets
 
 Shot Effect: Paralyzed for 4 seconds
 
