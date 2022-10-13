@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Quiver of Denial"
 ---
 
 # Quiver of Denial
