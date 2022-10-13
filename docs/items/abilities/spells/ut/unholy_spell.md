@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Unholy Spell"
 ---
 
 # Unholy Spell
@@ -26,4 +27,4 @@ MP Cost 100
 
 Fame Bonus: 6%
 
-**Drops from Bedlam**
+**Drops from Bedlam (Currently Unobtainable)**
