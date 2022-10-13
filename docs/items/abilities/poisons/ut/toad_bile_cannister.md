@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Toad Bile Cannister"
 ---
 
 # Toad Bile Cannister
