@@ -9,7 +9,7 @@ description: "The Lunar Ark"
 
 <i>Rumor has that this scepter was forged from an ancient lunar meteorite that landed before the Order's founding. It fills the wielder's palm with a chilling warmth, somehow.</i>
 
-Lightning: 1800 (wismod) to 3 targets
+Lightning: 2936 (wismod) to 3 targets
 
 Shot Effect: Cursed for 4 seconds 
 
