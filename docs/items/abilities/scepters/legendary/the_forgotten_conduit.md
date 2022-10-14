@@ -9,7 +9,7 @@ description: "The Forgotten Conduit"
 
 <i>Within is a dark power which once wsought to take over the Realm.</i>
 
-Lightning: 5000 (wismod) to 8 targets
+Lightning: 6368 (wismod) to 8 targets
 
     +10 Defense
 
