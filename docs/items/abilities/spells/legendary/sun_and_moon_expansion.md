@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Sun and Moon Expansion"
 ---
 
 # Sun and Moon Expansion
