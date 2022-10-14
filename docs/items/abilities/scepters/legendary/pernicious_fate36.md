@@ -9,7 +9,7 @@ description: "The Pernicious Fate-36"
 
 <i>Don't believe them when they say you'll become a demon. We are your friends not your end.</i>
 
-Lightning: 2000 (wismod) to 10 targets
+Lightning: 3184 (wismod) to 10 targets
 
 Shot Effect: Slowed for 3 seconds
 
