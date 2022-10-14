@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The King's Tablet"
 ---
 
 # The King's Tablet
