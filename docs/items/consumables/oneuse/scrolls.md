@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Scrolls
+description: "All the Scrolls"
 ---
 
 import Tabs from '@theme/Tabs';
