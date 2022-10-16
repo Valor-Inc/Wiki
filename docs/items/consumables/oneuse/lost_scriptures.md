@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Lost Scriptures
+description: "Lost Scriptures"
 ---
 
 import Tabs from '@theme/Tabs';
