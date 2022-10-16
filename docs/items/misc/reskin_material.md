@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Reskin Material
+description: "Want to reskin an item?"
 ---
 
 import Tabs from '@theme/Tabs';
