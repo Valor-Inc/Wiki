@@ -53,7 +53,6 @@ import TabItem from '@theme/TabItem';
 <td style="text-align: center;"><a href="https://www.realmeye.com/wiki/ent-ancient" target="_blank"><img src="http://static.drips.pw/rotmg/wiki/Enemies/Ent%20Ancient.png" title="Ent Ancient" height="64px" alt="Ent%20Ancient.png" class="image"></a><br>
 <a href="http://www.realmeye.com/wiki/ent-ancient" target="_blank">Ent Ancient</a><br>
 <a href="https://wiki.valorserver.com/docs/items/weapons/swords/ut/ent_ancients_log"><img src="http://i.imgur.com/1BogvcE.png" title="Ent Ancients Log" alt="1BogvcE.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/abilities/shield/ut/clump_of_bark"><img src="http://i.imgur.com/WHMj6oV.png" title="Clump of Bark" alt="WHMj6oV.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/armors/heavys/ut/corpse_of_an_ent_ancient"><img src="http://i.imgur.com/ilZCAuR.png" title="Corpse of an Ent Ancient" alt="ilZCAuR.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/rings/ut/ripe_apple"><img src="http://i.imgur.com/XGSqhpd.png" title="Ripe Apple" alt="XGSqhpd.png" class="image"></a></td>
-<td colspan="4"></td>
 </tr>
 <tr>
 <th colspan="5">Realm Events</th>
@@ -186,21 +185,28 @@ import TabItem from '@theme/TabItem';
 <center>
 
 <table class="wiki-content-table">
-<tbody><tr>
-<th colspan="2">Dungeon Bosses</th>
-</tr>
 <tr>
+<th colspan="4">Dungeons with Ascended Variants</th>
+<tbody><tr>
+<th colspan="2">The Dojo</th>
+</tr>
 <td style="text-align: center;"><a href="https://viewer.valorserver.com/boss/Arnkz%20the%20Mega%20Samurai" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031020613818654820/Arnkz.png" title="Arknz, the Mega Samurai" height="64px" class="image"></a><br>
 <a href="https://viewer.valorserver.com/boss/Arnkz%20the%20Mega%20Samurai" target="_blank">Arnkz, the Mega Samurai</a><br>
 <a href="https://wiki.valorserver.com/docs/items/rings/ut/black_belt" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/black%20belt" title="Black Belt" height="40px" class="image"><a href="https://wiki.valorserver.com/docs/items/weapons/daggers/ut/hidden_technique" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/hidden%20technique" title="Hidden Technique" height="40px" class="image"><a href="https://wiki.valorserver.com/docs/items/weapons/katanas/ut/ultimate_nunchucks" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/ultimate%20nunchucks" title="Ultimate Nunchucks" height="40px" class="image"><a href="https://wiki.valorserver.com/docs/items/consumables/oneuse/hidden_technique_potion" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/hidden%20technique%20potion" title="Hidden Technique Potion" height="40px" class="image"></td>
 <td style="text-align: center;"><a href="https://viewer.valorserver.com/boss/Araki%20the%20Omega%20Samurai" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031026132184740030/Araki.png" title="Araki, the Omega Samurai" height="64px" class="image"></a><br>
-<a href="https://vwiki.valorserver.com/api/item/picture/piece%20of%20the%20realm"><img src="https://vwiki.valorserver.com/api/item/picture/piece%20of%20the%20realm" height='40px' title="Piece of the Realm" class="image"></a> href="https://viewer.valorserver.com/boss/Araki%20the%20Omega%20Samurai" target="_blank">Araki, the Omega Samurai</a><br>
-<a href="https://wiki.valorserver.com/docs/items/rings/ut/black_belt" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/black%20belt" title="Black Belt" height="40px" class="image"><a href="https://wiki.valorserver.com/docs/items/rings/ut/death_amulet"><img src="https://vwiki.valorserver.com/api/item/picture/death%20amulet" height='40px' title="Death Amulet" class="image"></a></td>
-<td style="text-align: center;"><a href="https://www.realmeye.com/wiki/phoenix-lord" target="_blank"><img src="http://static.drips.pw/rotmg/wiki/Enemies/Phoenix%20Lord.png" title="Phoenix Lord" height="64px" alt="Phoenix%20Lord.png" class="image"></a><br>
-<a href="https://www.realmeye.com/wiki/phoenix-lord" target="_blank">Phoenix Lord</a><br>
+<a href="https://viewer.valorserver.com/boss/Araki%20the%20Omega%20Samurai" target="_blank">Araki, the Omega Samurai</a><br>
+<a href="https://vwiki.valorserver.com/api/item/picture/piece%20of%20the%20realm"><img src="https://vwiki.valorserver.com/api/item/picture/piece%20of%20the%20realm" height='40px' title="Piece of the Realm" class="image"></a><a href="https://wiki.valorserver.com/docs/items/weapons/katanas/fabled/arakis_saber"><img src="https://vwiki.valorserver.com/api/item/picture/araki's%20saber" height='40px' title="Araki's Saber" class="image"></a><a href="https://wiki.valorserver.com/docs/items/abilities/skulls/fabled/ronin_skull"><img src="https://vwiki.valorserver.com/api/item/picture/ronin%20skull" height='40px' title="Death Ronin Skull" class="image"></a>
+
+<a href="https://wiki.valorserver.com/docs/items/rings/ut/black_belt" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/black%20belt" title="Black Belt" height="40px" class="image"><a href="https://wiki.valorserver.com/docs/items/abilities/sheaths/ut/final_hour"><img src="https://vwiki.valorserver.com/api/item/picture/final%20hour" height='40px' title="Final Hour" class="image"></a><a href="https://wiki.valorserver.com/docs/items/abilities/stars/ut/shinobi_striker"><img src="https://vwiki.valorserver.com/api/item/picture/shinobi%20striker" height='40px' title="Shinobi Striker" class="image"></a></td>
+</center>
+<tbody><tr>
+<th colspan="2"></th>
+</tr>
+<td style="text-align: center;"><a href="https://viewer.valorserver.com/boss/Riv%20the%20Heavenly%20Champion" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031041136397144134/Riv.png" title="Riv the Heavenly Champion" height="64px" class="image"></a><br>
+<a href="https://viewer.valorserver.com/boss/Riv%20the%20Heavenly%20Champion" target="_blank">Riv, the Heavenly Champion</a><br>
 <a href="https://wiki.valorserver.com/docs/items/weapons/wands/ut/wand_of_the_phoenix"><img src="http://i.imgur.com/KBNkTsb.png" title="Wand of the Phoenix" alt="KBNkTsb.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/rings/ut/phoenix_ring"><img src="http://i.imgur.com/ZMRfAns.png" title="Phoenix Ring" alt="ZMRfAns.png" class="image"></a></td>
-<td style="text-align: center;"><a href="https://www.realmeye.com/wiki/ghost-king" target="_blank"><img src="http://static.drips.pw/rotmg/wiki/Enemies/Ghost%20King.png" title="Ghost King" height="64px" alt="Ghost%20King.png" class="image"></a><br>
-<a href="http://www.realmeye.com/wiki/ghost-king" target="_blank">Ghost King</a><br>
+<td style="text-align: center;"><a href="https://cdn.discordapp.com/attachments/953134990428868629/1031042400807829616/Valia.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031042400807829616/Valia.png" title="Valia, the Great Arbiter" height="64px" alt="Ghost%20King.png" class="image"></a><br>
+<a href="https://cdn.discordapp.com/attachments/953134990428868629/1031042400807829616/Valia.png" target="_blank">Ghost King</a><br>
 <a href="https://wiki.valorserver.com/docs/items/weapons/swords/ut/sadist_blade_of_the_king"><img src="http://i.imgur.com/psAw460.png" title="Sadist Blade" alt="psAw460.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/abilities/helms/ut/the_kings_crown"><img src="http://i.imgur.com/BSsGoNT.png" title="The King's Crown" alt="BSsGoNT.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/armors/heavys/ut/armor_of_masochism"><img src="http://i.imgur.com/MJUMYS1.png" title="Armor of Masochism" alt="MJUMYS1.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/rings/ut/ring_of_ashen_matrimony"><img src="http://i.imgur.com/t6YLzlG.png" title="Ring of Ashen Matrimony" alt="t6YLzlG.png" class="image"></a><a href="https://wiki.valorserver.com/docs/items/weapons/bows/ut/deathwanderer"><img src="https://vwiki.valorserver.com/api/item/picture/deathwanderer" height='40px' title="Deathwanderer" alt="t6YLzlG.png" class="image"></a></td>
 <td></td>
 </tr>
