@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: "The Turret of Aldagine"
+description: "The Turret of Aldragine"
 ---
 
 # Turret of Aldragine
