@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Protector of Grandeur"
 ---
 
 # Protector of Grandeur
