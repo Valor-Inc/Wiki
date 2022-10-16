@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Protector of Ogmur"
 ---
 
 # Protector of Ogmur
