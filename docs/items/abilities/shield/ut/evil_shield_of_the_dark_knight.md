@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Evil Shield of the Dark Knight"
 ---
 
 # Evil Shield of the Dark Knight
