@@ -9,7 +9,7 @@ description: "The Zol Pirate Scepter"
 
 <i>A pirate's curse has been placed upon this item.</i>
 
-Lightning: 1250 (wismod) to 4 targets
+Lightning: 1990 (wismod) to 4 targets
 
 Shot Effect: Curse for 3 seconds
 
