@@ -11,7 +11,7 @@ description: "The Stone-Forged Spear"
 
 **Sprited by: BLOODQWEN**
 
-Lightning: 1000 (wismod) to 4 targets
+Lightning: 1592 (wismod) to 4 targets
 
 Shot Effect: Armor Broken for 3 seconds
 
