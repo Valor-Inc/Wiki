@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Sor Crystals
-descriptino: "Every type of Sor Crystal"
+description: "Every type of Sor Crystal"
 ---
 
 import Tabs from '@theme/Tabs';
