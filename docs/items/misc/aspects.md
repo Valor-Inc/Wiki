@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Aspects
+description: "All of the Aspects"
 ---
 
 import Tabs from '@theme/Tabs';
