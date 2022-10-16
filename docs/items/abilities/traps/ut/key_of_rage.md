@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Key of Rage"
 ---
 
 # Key of Rage
