@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Bleeding Fang"
 ---
 
 # The Bleeding Fang
@@ -29,5 +30,8 @@ Fame Bonus: 8%
 **Craftable from Shard of the Eternal Fury**
 
 ## Projectile
+
+![bleedfang](https://user-images.githubusercontent.com/114798136/196013553-35caa184-ca8c-4099-ad06-1527a0cfa0a9.png)
+
 
 
