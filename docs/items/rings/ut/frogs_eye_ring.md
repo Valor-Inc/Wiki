@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Frog's Eye Ring"
 ---
 
 # Frog's Eye Ring
