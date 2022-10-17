@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "The Robe of Wrath"
 ---
 
 # Robe of Wrath
