@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Crorrupted Conjurer's Cloak"
 ---
 
 # The Corrupted Conjurer's Cloak
