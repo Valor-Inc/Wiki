@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Robe of the Battle Monk"
 ---
 
 # Robe of the Battle Monk
