@@ -1,6 +1,7 @@
 ---
 sidebar_position: 14
 title: Vizkel's Unholy Garments
+description: "Vizkel's Unholy Garments"
 ---
 
 import Tabs from '@theme/Tabs';
