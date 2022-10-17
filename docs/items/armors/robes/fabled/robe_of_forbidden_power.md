@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+descriptionL: "The Robe of Forbidden Power"
 ---
 
 # Robe of Forbidden Power
