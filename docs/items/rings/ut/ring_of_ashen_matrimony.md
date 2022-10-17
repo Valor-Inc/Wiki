@@ -1,5 +1,6 @@
 ---
 sidebar_position: 20
+description: "The Ring of Ashen Matrimony"
 ---
 
 # Ring of Ashen Matrimony
