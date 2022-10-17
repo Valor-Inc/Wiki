@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Daring Windrage Robe"
 ---
 
 # Daring Windrage Robe
