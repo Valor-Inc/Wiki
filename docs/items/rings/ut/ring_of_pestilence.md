@@ -1,5 +1,6 @@
 ---
 sidebar_position: 24
+description: "The Ring of Pestilence"
 ---
 
 # Ring of Pestilence
