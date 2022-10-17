@@ -1,5 +1,6 @@
 ---
 sidebar_position: 27
+description: "The Ripe Apple"
 ---
 
 # Ripe Apple
