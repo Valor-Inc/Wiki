@@ -1,5 +1,6 @@
 ---
 sidebar_position: 29
+description: "The Bloody Legacy"
 ---
 
 # The Bloody Legacy
