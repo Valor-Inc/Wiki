@@ -1,5 +1,6 @@
 ---
 sidebar_position: 23
+description: "The Ring of Fortune"
 ---
 
 # Ring of Fortune
