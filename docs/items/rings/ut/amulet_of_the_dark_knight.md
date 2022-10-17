@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Amulet of the Dark Knight"
 ---
 
 # Amulet of the Dark Knight
