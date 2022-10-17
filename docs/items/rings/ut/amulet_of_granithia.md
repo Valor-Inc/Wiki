@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Amulet of Granithia"
 ---
 
 # Amulet of Granithia
