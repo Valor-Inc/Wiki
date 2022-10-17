@@ -1,5 +1,6 @@
 ---
 sidebar_position: 33
+description: "The Truestone Ring"
 ---
 
 # Truestone Ring
