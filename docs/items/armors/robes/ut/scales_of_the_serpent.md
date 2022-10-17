@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "The Scales of the Serpent"
 ---
 
 # Scales of the Serpent
