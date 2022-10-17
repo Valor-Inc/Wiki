@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "The Gauntlet of Chaos"
 ---
 
 # Gauntlet of Chaos
