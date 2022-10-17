@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Eye of Janus"
 ---
 
 # Eye of Janus
