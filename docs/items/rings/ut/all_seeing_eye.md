@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The All-Seeing Eye"
 ---
 
 # All-Seeing Eye
