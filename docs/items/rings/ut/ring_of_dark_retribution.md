@@ -1,5 +1,6 @@
 ---
 sidebar_position: 22
+description: "The Ring of Dark Retribution"
 ---
 
 # Ring of Dark Retribution
