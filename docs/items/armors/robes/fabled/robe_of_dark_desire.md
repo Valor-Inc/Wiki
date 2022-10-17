@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Robe of Dark Desire"
 ---
 
 # Robe of Dark Desire
