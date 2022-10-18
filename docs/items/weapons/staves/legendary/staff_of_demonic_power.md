@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "The Staff of Demonic Power"
 ---
 
 # Staff of Demonic Power
