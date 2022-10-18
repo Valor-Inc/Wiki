@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Dreamweaver of Darogek
+description: "The Dreamweaver of Darogek"
 ---
 
 import Tabs from '@theme/Tabs';
