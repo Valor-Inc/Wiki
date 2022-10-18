@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-description: "Wand of Obscurity"
+description: "The Wand of Obscurity"
 ---
 
 # Wand of Obscurity
