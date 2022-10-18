@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Truncheon of Immortal Demons"
 ---
 
 # Truncheon of Immortal Demons
