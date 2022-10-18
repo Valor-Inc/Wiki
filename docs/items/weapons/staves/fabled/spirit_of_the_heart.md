@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Spirit of the Heart"
 ---
 
 # Spirit of the Heart
