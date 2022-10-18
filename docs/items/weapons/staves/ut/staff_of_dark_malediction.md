@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Staff of Dark Malediction"
 ---
 
 # Staff of Dark Malediction
