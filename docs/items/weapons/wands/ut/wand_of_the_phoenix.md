@@ -1,5 +1,6 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
+description: "The Wand of the Phoenix"
 ---
 
 # Wand of the Phoenix
