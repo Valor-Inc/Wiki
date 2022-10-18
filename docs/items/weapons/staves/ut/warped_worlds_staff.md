@@ -1,6 +1,7 @@
 ---
 sidebar_position: 10
 title: Warped Worlds Staff
+description: "The Warped Worlds Staff"
 ---
 
 import Tabs from '@theme/Tabs';
