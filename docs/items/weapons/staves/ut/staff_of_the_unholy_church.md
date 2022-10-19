@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "Staff of the Unholy Church"
 ---
 
 # Staff of the Unholy Church
