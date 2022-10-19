@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Poniard of Ghastly Retribution 
+description: "The Poniard of Ghastly Retribution"
 ---
 
 import Tabs from '@theme/Tabs';
