@@ -1,5 +1,6 @@
 ---
 sidebar_position: 25
+description: "Ring of the Storm Gods"
 ---
 
 # Ring of the Storm Gods
