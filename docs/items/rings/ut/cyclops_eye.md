@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-description: "The Cyclop's Eye"
+description: "The Cyclops' Eye"
 ---
 
 # Cyclops' Eye
