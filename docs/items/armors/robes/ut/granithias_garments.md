@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Granithia's Garments"
 ---
 
 # Granithia's Garments
