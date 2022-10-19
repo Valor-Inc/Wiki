@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "Karana's Secret"
 ---
 
 # Karana's Secret
