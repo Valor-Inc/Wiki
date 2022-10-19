@@ -1,5 +1,6 @@
 ---
 sidebar_position: 32
+description: "The Ring of Flaming Power"
 ---
 
 # The Ring of Flaming Power
