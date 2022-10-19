@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Empowered Whip"
 ---
 
 # Empowered Whip
