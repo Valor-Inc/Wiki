@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Staff of Sworn Duty"
 ---
 
 # Staff of Sworn Duty
