@@ -2,6 +2,7 @@
 sidebar_position: 3
 description: "The Crystal Dagger"
 ---
+
 # Crystal Dagger
 
 ![CrystalD](https://vwiki.valorserver.com/api/item/picture/crystal%20dagger)
