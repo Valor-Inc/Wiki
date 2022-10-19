@@ -1,5 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
+description: "The Wand of Fractured Time"
 ---
 
 # Wand of Fractured Time
