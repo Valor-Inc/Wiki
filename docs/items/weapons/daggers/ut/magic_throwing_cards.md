@@ -1,5 +1,6 @@
 ---
 sidebar_position: 15
+description: "The Magic Throwing Cards"
 ---
 
 # Magic Throwing Cards
