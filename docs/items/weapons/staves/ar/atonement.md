@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Atonement
+description: "The Atonement"
 ---
 
 import Tabs from '@theme/Tabs';
