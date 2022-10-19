@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Greatcloak of Twilight
+description: "The Greatcloak of Twilight"
 ---
 
 import Tabs from '@theme/Tabs';
