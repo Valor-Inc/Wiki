@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "The Ghilact Dagger"
 ---
 
 # Ghilact Dagger
