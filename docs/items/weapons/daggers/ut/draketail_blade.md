@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Draketail Blade"
 ---
 
 # Draketail Blade
