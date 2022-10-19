@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-description: "A Dagger of the Flaming Stinger"
+description: "Dagger of the Flaming Stinger"
 ---
 
 # Dagger of the Flaming Stinger
