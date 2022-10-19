@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "The Dagger of Unearthly Storms"
 ---
 
 # Dagger of Unearthly Storms
