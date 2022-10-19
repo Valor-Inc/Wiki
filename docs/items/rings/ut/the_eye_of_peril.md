@@ -1,5 +1,6 @@
 ---
 sidebar_position: 30
+description: "The Eye of Peril"
 ---
 
 # The Eye of Peril
