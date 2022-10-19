@@ -1,6 +1,6 @@
 ---
 sidebar_position: 16
-description: The Necklace of Crystalline Celestial Forces"
+description: "The Necklace of Crystalline Celestial Forces"
 ---
 
 # Necklace of Crystalline Celestial Forces
