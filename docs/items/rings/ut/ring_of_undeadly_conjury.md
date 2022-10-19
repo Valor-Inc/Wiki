@@ -1,5 +1,6 @@
 ---
 sidebar_position: 26
+description: "The Ring of Undeadly Conjury"
 ---
 
 # Ring of Undeadly Conjury
