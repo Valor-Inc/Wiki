@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Mechanics
+description: "Explanation of Valors Mechanics"
 ---
 
 import Tabs from '@theme/Tabs';
@@ -251,7 +252,7 @@ Guilds gain EXP by having members play the game, once a guild recieves enough EX
 
 ![Trial Icon](https://i.imgur.com/zyOu61C.png)  
 
-Trials are a unique mechanic to Valor, allowing you to fight Unique Bosses with accumulated Trial Tokens. Each boss has a unique loot table. In order to enter a Trial, you need Trial Tokens which can be obtained by doing your daily Trial Contracts obtained with '/daily' and from the Battle Pass. From Daily Trial Contracts you gain +10 trial tokens + 2 (per living LS#1 Character) + 3 (per living LS#2 Character) per Contract hand-in.
+Trials are a unique mechanic to Valor, allowing you to fight Unique Bosses with accumulated Trial Tokens. Each boss has a unique loot table. In order to enter a Trial, you need Trial Tokens which can be obtained by doing your daily Trial Contracts obtained with '/daily' and from the Battle Pass. From Daily Trial Contracts you gain +10 trial tokens + 2 (per living LS#1 Character) + 3 (per living LS#2 Character) per Contract hand-in. Unlike alerts you can summon others to your trial via partys.
 
 **The Trial Bosses are listed below:**
 
