@@ -1,5 +1,6 @@
 ---
 sidebar_position: 21
+description: "The Ring of Boiling Lava"
 ---
 
 # Ring of Boiling Lava
