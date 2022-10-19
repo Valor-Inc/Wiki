@@ -1,8 +1,9 @@
 ---
 sidebar_position: 13
+description: "The Gauntlet of Mayhem"
 ---
 
-# Gauntley of Mayhem
+# Gauntlet of Mayhem
 
 ![mayhem](http://i.imgur.com/4qiS7JN.png)
 
