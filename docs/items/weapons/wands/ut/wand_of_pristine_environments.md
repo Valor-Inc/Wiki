@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "The Wand of Pristine Enviroments"
 ---
 
 # Wand of Pristine Environments
