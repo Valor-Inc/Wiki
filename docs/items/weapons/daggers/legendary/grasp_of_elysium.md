@@ -1,5 +1,6 @@
 ---
 sidebar_projectile: 8
+description: "The Grasp of Elysium"
 ---
 
 # Grasp of Elysium
