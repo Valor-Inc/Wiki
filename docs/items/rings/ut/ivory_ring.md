@@ -1,5 +1,6 @@
 ---
 sidebar_position: 14
+description: "The Ivory Ring"
 ---
 
 # Ivory Ring
