@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Exile's Resolve"
 ---
 
 # Exile's Resolve
