@@ -1,5 +1,6 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
+description: "Wand of the Ascended Creation"
 ---
 
 # Wand of the Ascended Creation
