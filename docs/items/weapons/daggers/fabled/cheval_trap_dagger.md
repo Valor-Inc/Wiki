@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Cheval Trap Dagger"
 ---
 
 # Cheval Trap Dagger
