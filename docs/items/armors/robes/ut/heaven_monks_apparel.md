@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Heaven Monk's Apparel"
 ---
 
 # Heaven Monk's Apparel
