@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Flames of Purity"
 ---
 
 # Flames of Purity
