@@ -1,5 +1,6 @@
 ---
 sidebar_position: 27
+description: "The Stormcaller's Horns"
 ---
 
 # Stormcaller's Horns
