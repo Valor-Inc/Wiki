@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Staff of Noble Magic"
 ---
 
 # Staff of Noble Magic
