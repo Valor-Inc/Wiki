@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-description: "The Contaiment Necklace"
+description: "The Containment Necklace"
 ---
 
 # Containment Necklace
