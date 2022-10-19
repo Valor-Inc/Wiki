@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Staff of the Withering"
 ---
 
 # Staff of the Withering
