@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Staff of Melting Demons"
 ---
 
 # Staff of Melting Demons
