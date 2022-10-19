@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Dagger of Holy Truth"
 ---
 
 # Dagger of Holy Truth
