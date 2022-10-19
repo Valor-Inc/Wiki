@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Fang of Garutious"
 ---
 
 # Fang of Garutious
