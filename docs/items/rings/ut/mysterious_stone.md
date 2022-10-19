@@ -1,5 +1,6 @@
 ---
 sidebar_position: 15
+description: "The Mysterious Stone"
 ---
 
 # Mysterious Stone
