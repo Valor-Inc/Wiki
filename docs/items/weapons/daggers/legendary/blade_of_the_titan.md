@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Blade of the Titan"
 ---
 
 # Blade of the Titan
