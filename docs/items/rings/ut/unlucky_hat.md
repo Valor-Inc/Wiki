@@ -1,5 +1,6 @@
 ---
 sidebar_position: 34
+description: "The Unlucky Leprechaun's Hat"
 ---
 
 # Unlucky Leprechaun's Hat
