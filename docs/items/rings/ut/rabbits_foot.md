@@ -1,5 +1,6 @@
 ---
 sidebar_position: 19
+description: "The Rabbit's Foot"
 ---
 
 # Rabbit's Foot
