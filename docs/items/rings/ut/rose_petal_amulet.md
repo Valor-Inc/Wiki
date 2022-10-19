@@ -1,5 +1,6 @@
 ---
 sidebar_position: 28
+description: "The Rose Petal Amulet"
 ---
 
 # Rose Petal Amulet
