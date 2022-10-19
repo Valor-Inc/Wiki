@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-description: "The Gauntlet of Mayhem
+description: "The Gauntlet of Mayhem"
 ---
 
 # Gauntlet of Mayhem
