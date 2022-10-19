@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Coat of the Devil"
 ---
 
 # Coat of the Devil
