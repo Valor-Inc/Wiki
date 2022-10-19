@@ -29,4 +29,6 @@ Fame Bonus: 6%
 
 **Drops from Valia, the Great Arbiter of the Ascended Heavenly Rift**
 
+**Obtainable through Crates**
+
 *See FAQ page to see how WisMod is calculated for the items*
