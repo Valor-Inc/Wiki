@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "A Dagger in Vertias"
 ---
 
 # A Dagger in Vertias
