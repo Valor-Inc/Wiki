@@ -1,5 +1,6 @@
 ---
 sidebar_position: 17
+description: "The Necklace of Victory"
 ---
 
 # Necklace of Victory
