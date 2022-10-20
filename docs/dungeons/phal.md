@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Phalgomor
-description: "The Phalgomor Trial Guide."
+description: "The Phalgomor Trial Guide. (Credit: Voidentity)"
 ---
 
 import Tabs from '@theme/Tabs';
