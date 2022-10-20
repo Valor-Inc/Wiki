@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "The Speediest Sprout"
 ---
 
 # Speediest Sprout
