@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Thunder and Lighting"
 ---
 # Thunder and Lightning
 
