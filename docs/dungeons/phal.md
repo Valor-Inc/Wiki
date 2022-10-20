@@ -77,7 +77,7 @@ but they're like a lock, so you can kill the wizard and the fight ends.
     
  # Deathdream
  
-    ![image](https://user-images.githubusercontent.com/114798136/196880214-d35e94bb-12ed-4a90-9075-d5939a94d755.png)
+![image](https://user-images.githubusercontent.com/114798136/196880214-d35e94bb-12ed-4a90-9075-d5939a94d755.png)
 
 This dungeon is now the party vs him now we've pissed him off
  
