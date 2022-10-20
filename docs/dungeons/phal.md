@@ -36,7 +36,7 @@ At 1st phase he will summon all the mini's dps and will have ar spell air in the
 
  
 PROGRESS
-Everyone should be letting in the mini’s teleport to the group to get stunned from the tori’s make sure to spawn it after they’ve spawned next to it. Do not panic as this will draw attention to all mini’s and will get stunned in the process except plant weaver he will decide where to teleport and attack as he isn’t very threatful careful with wizard/plant weaver purple shots as the can quiet your party for 10 seconds or less.
+Everyone should be letting in the mini’s teleport to the group to get stunned from the tori’s make sure to spawn it after they’ve spawned next to it. Do not panic as this will draw attention to all mini’s and will get stunned in the process except plant weaver he will decide where to teleport and attack as he isn’t very threatful careful with wizard/plant weaver purple shots as they can quiet your party for 10 seconds or less.
 
  ![image](https://user-images.githubusercontent.com/114798136/196879944-2d37aafb-e0ba-422d-8058-efa3497a5d29.png)
 
