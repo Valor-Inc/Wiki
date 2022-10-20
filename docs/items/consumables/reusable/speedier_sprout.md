@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: Speedier Sprout
+description: "The Speedier Sprout"
 ---
 
 import Tabs from '@theme/Tabs';
