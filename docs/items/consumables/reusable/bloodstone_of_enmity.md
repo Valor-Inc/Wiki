@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Bloodstone of Enmity
+description: "The Bloodstone of Enmity"
 ---
 
 import Tabs from '@theme/Tabs';
