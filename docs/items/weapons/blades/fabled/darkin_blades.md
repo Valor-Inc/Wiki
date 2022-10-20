@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Darkin Blades"
 ---
 
 # Darkin Blades
@@ -7,8 +8,6 @@ sidebar_position: 1
 ![darkin](https://vwiki.valorserver.com/api/item/picture/darkin%20blades)
 
 <i>Dual blades made enchanted by the demons that haunt the Bastille of Drannol.</i>
-
-
 
 Damage: 170-250
 
