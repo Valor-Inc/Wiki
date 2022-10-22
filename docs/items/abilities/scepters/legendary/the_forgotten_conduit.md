@@ -7,7 +7,7 @@ description: "The Forgotten Conduit"
 
 ![TFC](https://cdn.discordapp.com/attachments/953134990428868629/1029583166811426957/forgottencond.png)
 
-<i>Within is a dark power which once wsought to take over the Realm.</i>
+<i>Within is a dark power which once sought to take over the Realm.</i>
 
 Lightning: 6368 (wismod) to 8 targets
 
