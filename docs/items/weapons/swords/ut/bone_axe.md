@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Bone Axe"
 ---
 
 # Bone Axe
