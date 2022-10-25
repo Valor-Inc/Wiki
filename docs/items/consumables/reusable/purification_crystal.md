@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Purification Crystal
+description: "The Purification Crystal"
 ---
 
 import Tabs from '@theme/Tabs';
