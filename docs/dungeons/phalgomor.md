@@ -15,9 +15,9 @@ import TabItem from '@theme/TabItem';
 <ul>
 <li>DPS: Any sor reactor combo can be dps as long you have an ar wizard spell user.</li>
 <li>SUPPORT: Templar, Pally, Necro spam your spacebars.</li>
-<li>Shrine Maiden: STUN TORI , WEAKEN TORI < Only in hardmode HIGH PRIORITY CLASS AND CHEAP WITH MLEECH T4<./li>
+<li>Shrine Maiden: STUN TORI, WEAKEN TORI Only in hardmode HIGH PRIORITY CLASS AND CHEAP WITH MLEECH T4.</li>
 <li>HOST: As the Host you’re providing the run take a seat and pray for goodies just HIT EVERYTHING YOU CAN.</li>
-<li>EXTRA: You may choose to provide from the 3 above except host<./li>
+<li>EXTRA: You may choose to provide from the 3 above except host.</li>
   
 </ul> 
   
