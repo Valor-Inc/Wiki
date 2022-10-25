@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Blades of the Bridge
+description: "Blades of the Bridge"
 ---
 
 import Tabs from '@theme/Tabs';
