@@ -1,5 +1,6 @@
 --- 
 sidebar_position: 4
+description: "The Sword of Dark Retribution"
 ---
 
 # Sword of Dark Retribution
