@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+description: "The Corrupted Cutlass"
 ---
 
-# Corrupted Cutlas
+# Corrupted Cutlass
 
 ![CorruptedCut](https://vwiki.valorserver.com/api/item/picture/corrupted%20cutlass)
 
