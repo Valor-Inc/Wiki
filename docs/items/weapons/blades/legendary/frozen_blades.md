@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Frozen Blades
+description: "The Frozen Blades"
 ---
 
 import Tabs from '@theme/Tabs';
