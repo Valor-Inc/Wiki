@@ -1,5 +1,6 @@
 ---
 sidebar_position: 19
+description: "The Z-Saber"
 ---
 
 # Z-Saber
