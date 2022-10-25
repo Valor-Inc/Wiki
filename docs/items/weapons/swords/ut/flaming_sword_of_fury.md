@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Flaming Sword of Fury"
 ---
 
 # Flaming Sword of Fury
