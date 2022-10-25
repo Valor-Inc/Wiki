@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: "The Rally of the Dreadnought"
 ---
 
 # Rally of the Dreadnought
