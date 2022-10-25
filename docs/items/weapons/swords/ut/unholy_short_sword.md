@@ -1,5 +1,6 @@
 ---
 sidebar_position: 18
+description: "The Unholy Short Sword"
 ---
 
 # Unholy Short Sword
