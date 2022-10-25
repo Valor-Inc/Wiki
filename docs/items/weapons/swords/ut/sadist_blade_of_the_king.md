@@ -1,5 +1,6 @@
 ---
 sidebar_position: 14
+description: "Sadist Blade of the King"
 ---
 
 # Sadist Blade of the King
