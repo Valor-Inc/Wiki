@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "An Ent Ancients Log"
 ---
 
 # Ent Ancients Log
