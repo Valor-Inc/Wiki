@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Blade of the Mad God"
 ---
 
 # Blade of the Mad God
