@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "The Nether Blade"
 ---
 
 # Nether Blade
