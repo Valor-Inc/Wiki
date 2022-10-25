@@ -1,5 +1,6 @@
 ---
 sidebar_position: 16
+description: "The Sword of Dark Necromancy"
 ---
 
 # Sword of Dark Necromancy
