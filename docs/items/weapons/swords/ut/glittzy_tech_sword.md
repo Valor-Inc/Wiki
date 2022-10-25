@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Glittzy Tech Sword 9000"
 ---
 
 # Glittzy Tech Sword 9000 
