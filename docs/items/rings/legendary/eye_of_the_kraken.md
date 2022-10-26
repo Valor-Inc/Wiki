@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Eye of the Kraken"
 ---
 
 # Eye of The Kraken
