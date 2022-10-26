@@ -28,7 +28,11 @@ import TabItem from '@theme/TabItem';
 <TabItem value="Pre Deathdream" label="Pre Deathdream">
 
 # Pre Deathdream
+  
+## START
+Upon entering with your party prepared. The room will be dark very dark.. there are candles to light over the map walk over them but before you do don't walk out on this one as this post deathdream is the circle arena. begin to summon your party first and then light all candles to begin the fight, once you have awaken him bring everyone to the bottom side to fight. (Make sure to keep your toe on the circle arena as a shadow can chase after you. Make sure to go back in the purple tiles in this arena)
 
+![image](https://user-images.githubusercontent.com/114798136/197919721-d13d142f-06de-48a6-8f16-079106c39f58.png)
 ## 1ST PHASE
 There's only 2 intermission needed to activate hardmode which is making him fall twice before dealing with mini's or instakilling them
 
