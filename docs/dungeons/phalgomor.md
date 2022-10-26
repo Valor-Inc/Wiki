@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="Important Basic Info" label="Important Basic Info" default>
 
 # IMPORTANT
-### T4 phalgomor needs 3 variant roles dps,shrine maiden stun and support these are the best options
+### T4 Phalgomor needs 3 variant roles dps,shrine maiden stun and support these are the best options
 
 **DPS: Any sor reactor combo can be dps as long you have an ar wizard spell user.**
 
