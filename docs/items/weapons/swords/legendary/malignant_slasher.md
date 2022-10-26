@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Malignant Slasher
+description: "The Malignant Slasher"
 ---
 
 import Tabs from '@theme/Tabs';
