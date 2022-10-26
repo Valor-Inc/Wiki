@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Titan's Gem"
 ---
 
 # Titan's Gem
