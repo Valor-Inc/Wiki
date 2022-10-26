@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Bow of Ruin"
 ---
 
 # Bow of Ruin
