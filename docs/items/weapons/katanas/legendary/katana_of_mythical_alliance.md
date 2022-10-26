@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Katana of Mythical Alliance"
 ---
 
 # Katana of Mythical Alliance
