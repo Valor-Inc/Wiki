@@ -1,5 +1,6 @@
 ---
 sidebar_position: 25
+description: "The Starmind Gauntlet"
 ---
 
 # Starmind Gauntlet
