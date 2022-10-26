@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Divers Sunken Boot"
 ---
 
 # Divers Sunken Boot
