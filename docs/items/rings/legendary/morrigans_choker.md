@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "Morrigan's Choker"
 ---
 
 # Morrigan's Choker
