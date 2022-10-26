@@ -1,5 +1,6 @@
 ---
 sidebar_position: 19
+description: "The Ring of Solar Focus"
 ---
 
 # Ring of Solar Focus
