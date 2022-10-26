@@ -25,7 +25,7 @@ import TabItem from '@theme/TabItem';
 
 
 </TabItem> 
-  <TabItem value="Pre Deathdream" label="Pre Deathdream">
+<TabItem value="Pre Deathdream" label="Pre Deathdream">
 
 # Pre Deathdream
 
@@ -128,14 +128,4 @@ This arena is safe to walk on just never touch the purple phalgomor force field.
 Other than that the map will become pitch dark black and phalgomor will thank you for defeating him.
 
 </TabItem>
-
-  <TabItem value="Item Drops" label="Item Drops">
-
-## Phalgomor
-
-Phalgomor          |  Item Drops
-:-------------------------:|:-------------------------:
-![Phalgomor](Phalgomor)    |[![moth](https://vwiki.valorserver.com/api/item/picture/master%20of%20the%20house)](https://wiki.valorserver.com/docs/items/rings/legendary/master_of_the_house) [![robe](https://vwiki.valorserver.com/api/item/picture/kiskiorab)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/kiskiorab) [![ascpet](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)](https://wiki.valorserver.com/docs/items/misc/aspects/)
-
-  </TabItem>
 </Tabs>
