@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "The Blade of the Underworld"
 ---
 
 # Blade of the Underworld
