@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Bane of the Vision"
 ---
 
 # Bane of the Vision
