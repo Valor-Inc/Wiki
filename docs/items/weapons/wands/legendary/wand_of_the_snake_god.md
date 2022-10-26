@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "The Wand of the Snake God"
 ---
 
 # Wand of the Snake God
