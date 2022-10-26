@@ -277,12 +277,19 @@ Trials are a unique mechanic to Valor, allowing you to fight Unique Bosses with 
   <TabItem value="Rat Pack Bags" label="Rat Pack Bags">
     
 # Rat Pack Bags   
+    
+    
   
 ![image](https://user-images.githubusercontent.com/114798136/197986607-e555d359-9389-46be-ab38-d63667e4761b.png)
     
+    
+    
 You obtain Rat Pack Bags from killing ascended dungon boss at a fairly common rate. They are added to a menu with other loot boxes.
     
-*The loot obtainable from each tier are:*
+    
+The loot obtainable from each tier are:
+    
+    
     
     Tier 1
     - Onrane
@@ -306,6 +313,6 @@ You obtain Rat Pack Bags from killing ascended dungon boss at a fairly common ra
     - Zol Cave Key
     - Ultimate Onrane Cache
     
-    
+  
 </TabItem>
 </Tabs>
