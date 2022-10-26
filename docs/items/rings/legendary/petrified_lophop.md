@@ -1,5 +1,6 @@
 ---
 sidebar_position: 17
+description: "The Petrified Lophop"
 ---
 
 # Petrified Lophop
