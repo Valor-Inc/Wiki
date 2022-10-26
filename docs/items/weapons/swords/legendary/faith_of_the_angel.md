@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Faith of the Angel"
 ---
 
 # Faith of the Angel
