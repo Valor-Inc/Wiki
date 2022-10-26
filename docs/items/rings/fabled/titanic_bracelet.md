@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Titanic Bracelet"
 ---
 
 # Titanic Bracelet
