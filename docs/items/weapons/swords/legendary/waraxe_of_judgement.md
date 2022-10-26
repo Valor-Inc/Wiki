@@ -1,8 +1,9 @@
 ---
 sidebar_position: 14
+description: "The Waraxe of Judgement"
 ---
 
-# Waraxe of Judgemnet
+# Waraxe of Judgement
 
 ![Waraxe](https://vwiki.valorserver.com/api/item/picture/waraxe%20of%20judgement)
 
