@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Araki's Saber"
 ---
 
 # Araki's Saber
