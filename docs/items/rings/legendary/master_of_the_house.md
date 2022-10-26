@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Master Of The House"
 ---
 
 # Master Of The House
