@@ -1,6 +1,7 @@
 ---
 sidebar_position: 18
 title: Predator Necklace
+description: "The Predator Necklace"
 ---
 
 import Tabs from '@theme/Tabs';
