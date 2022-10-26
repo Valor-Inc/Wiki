@@ -1,5 +1,6 @@
 ---
 sidebar_position: 28
+description: "The Warped Judgement Necklace"
 ---
 
 # Warped Judgement Necklace
