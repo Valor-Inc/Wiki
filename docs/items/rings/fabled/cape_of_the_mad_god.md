@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Cape of the Mad God"
 ---
 
 # Cape of the Mad God
