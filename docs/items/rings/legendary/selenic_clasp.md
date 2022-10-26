@@ -1,5 +1,6 @@
 ---
 sidebar_position: 22
+description: "The Selenic Clasp"
 ---
 
 # Selenic Clasp
