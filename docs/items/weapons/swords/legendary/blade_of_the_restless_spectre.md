@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Blade of Restless Spectre"
 ---
 
 # Blade of the Restless Spectre
