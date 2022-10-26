@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Sor Reactor
+description: "The Sor Reactor"
 ---
 
 import Tabs from '@theme/Tabs';
