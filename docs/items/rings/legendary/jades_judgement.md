@@ -1,6 +1,7 @@
 ---
 sidebar_position: 9
 title: Jade's Judgement
+description: "Jade's Judgement"
 ---
 
 import Tabs from '@theme/Tabs';
