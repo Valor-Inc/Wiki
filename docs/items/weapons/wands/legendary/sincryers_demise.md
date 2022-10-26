@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "The Sincryer's Demise"
 ---
 
 # Sincryer's Demise
