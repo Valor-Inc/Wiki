@@ -1,5 +1,6 @@
 ---
 sidebar_position: 26
+description: "The Stone of Stolen Laughter"
 ---
 
 # Stone of Stolen Laughter
