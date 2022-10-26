@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "The Executioner"
 ---
 
 # The Executioner
