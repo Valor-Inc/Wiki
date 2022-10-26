@@ -1,5 +1,6 @@
 ---
 sidebar_position: 15
+description: "The Old Amulet of Resurrection"
 ---
 
 # Old Amulet of Resurrection
