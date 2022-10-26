@@ -1,5 +1,6 @@
 ---
 sidebar_position: 23
+description: "The Sky Palace Gem"
 ---
 
 # Sky Palace Gem
