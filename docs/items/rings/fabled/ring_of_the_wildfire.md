@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "The Ring of the Wildfire"
 ---
 
 # Ring of the Wildfire
