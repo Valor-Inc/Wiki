@@ -1,5 +1,6 @@
 ---
 sidebar_position: 20
+description: "Ring of the Unstable Mind"
 ---
 
 # Ring of the Unstable Mind
