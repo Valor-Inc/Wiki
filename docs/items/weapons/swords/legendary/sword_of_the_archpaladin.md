@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Sword of the Archpaladin"
 ---
 
 # Sword of the Archpaladin
