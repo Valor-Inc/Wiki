@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Bracelet of the Demolished"
 ---
 
 # Bracelet of the Demolished
