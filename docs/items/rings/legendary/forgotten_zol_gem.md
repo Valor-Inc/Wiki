@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "The Forgotten Zol Gem"
 ---
 
 # Forgotten Zol Gem
