@@ -1,5 +1,6 @@
 ---
 sidebar_position: 24
+description: "The Starcrash Ring"
 ---
 
 # Starcrash Ring
