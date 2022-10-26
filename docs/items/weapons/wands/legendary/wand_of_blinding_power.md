@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "The Wand of Blinding Power"
 ---
 
 # Wand of Blinding Power
