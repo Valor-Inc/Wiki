@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Jackpot
+description: "The Jackpot"
 ---
 
 import Tabs from '@theme/Tabs';
