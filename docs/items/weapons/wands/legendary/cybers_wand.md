@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Cyber's Wand"
 ---
 
 # Cyber's Wand
