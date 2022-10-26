@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Blade of Thorns"
 ---
 
 # Blade of Thorns
