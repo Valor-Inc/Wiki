@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "The Twisted Amulet"
 ---
 
 # Twisted Amulet
