@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "The Scyth of Grim Memories"
 ---
 
 # Scythe of Grim Memories
