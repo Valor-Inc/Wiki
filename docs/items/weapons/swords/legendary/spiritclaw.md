@@ -1,6 +1,7 @@
 ---
 sidebar_position: 11
 title: Spiritclaw
+description: "The Spiritclaw"
 ---
 
 import Tabs from '@theme/Tabs';
