@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "The Necklace of Fallen Grace"
 ---
 
 # Necklace of Fallen Grace
