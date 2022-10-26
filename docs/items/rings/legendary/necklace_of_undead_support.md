@@ -1,6 +1,7 @@
 ---
 sidebar_position: 14
 title: Necklace of Undead Support
+description: "The Necklace of Undead Support"
 ---
 
 import Tabs from '@theme/Tabs';
