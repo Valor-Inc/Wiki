@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Garnet's Onslaught
+description: "The Garnet's Onslaught"
 ---
 
 import Tabs from '@theme/Tabs';
