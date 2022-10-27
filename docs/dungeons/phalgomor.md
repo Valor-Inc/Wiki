@@ -1,25 +1,35 @@
 ---
 sidebar_position: 6
 title: Phalgomor
-description: "The Phalgomor Trial Guide. Credit: Voidentity"
+description: "The Phalgomor Trial Guide. Credit: (Voidentity)"
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Important Basic Info" label="Important Basic Info" default>
+  <TabItem value="Important Role Infomation" label="Important Role Infomation" default>
 
 # IMPORTANT
 ### T4 Phalgomor needs 3 variant roles dps,shrine maiden stun and support these are the best options
 
 **DPS: Any sor reactor combo can be dps as long you have an ar wizard spell user.**
+    
+ - Wizards Want to utilze the [Page of Catatonia](https://wiki.valorserver.com/docs/items/abilities/spells/ar/page_of_catatonia.md) due to it being able to insta kill most of the minions with enough wisdom.
 
-**SUPPORT: Templar, Pally, Necro spam your spacebars.**
+**SUPPORTS: Templar, Pally or Necro.**
+    
+ - Templar's Should use ethier the [Kraken Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/banner_of_the_furious_kraken) For its party MP Boost or [Banner of Last Resort](https://wiki.valorserver.com/docs/items/abilities/banners/legendary/banner_of_last_resort) For its higher radius.
+ 
+ - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confdent to not need the heals.
 
-**Shrine Maiden: STUN TORI, WEAKEN TORI Only in hardmode HIGH PRIORITY CLASS AND CHEAP WITH MLEECH T4.**
+**Shrine Maiden** ***THIS IS A HIGH PRIORITY CLASS AND CHEAP WITH MLEECH***
+    
+ - Shrine's Want to be using [Charm of the Undead Horde](https://wiki.valorserver.com/docs/items/abilities/charms/legendary/charm_of_the_undead_horde.md) for the marjorty of the fight due to its massive stun raduis.
+    
+ - [Necromancy Chamr](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
 
-**HOST: As the Host youre providing the run take a seat and pray for goodies just HIT EVERYTHING YOU CAN.**
+**HOST: As you're providing the run most groups will allow you to leech out of the danger and just collect soulbound.**
 
 **EXTRA: You may choose to provide from the 3 above except host.**
 
@@ -34,7 +44,7 @@ Upon entering with your party prepared. The room will be dark very dark.. there 
 
 ![image](https://user-images.githubusercontent.com/114798136/197919721-d13d142f-06de-48a6-8f16-079106c39f58.png)
 ## 1ST PHASE
-There's only 2 intermission needed to activate hardmode which is making him fall twice before dealing with mini's or instakilling them
+There's only 2 intermission needed to activate hardmode which is making him fall twice before dealing with mini's or instakilling them.
 
 At 1st phase he will summon all the mini's dps and will have ar spell air in their party spellbomb before insta killing or pushing them back to 2nd phase to follow up hardmode.
 
@@ -84,10 +94,8 @@ but they're like a lock, so you can kill the wizard and the fight ends.
  # The Deathdream
 
 ![4th](https://user-images.githubusercontent.com/114798136/196880214-d35e94bb-12ed-4a90-9075-d5939a94d755.png)
-
-This dungeon is now the party vs him now we've pissed him off
-
-Enough to possibly ruin our career's
+ 
+At this point the dungon get's ALOT harder and more dangrous procced with caution at every point.
 
 The boss fight starts when there's a red dot in the map and to activate boss there an tile activation to the bottom right go there to begin the fight
 
