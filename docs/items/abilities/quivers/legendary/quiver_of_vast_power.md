@@ -19,9 +19,9 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 65
+MP Cost: 140
 
-    +16 Attack
+    +10 Attack
 
 Fame Bonus: 8%
 
