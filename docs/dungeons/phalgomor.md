@@ -27,7 +27,7 @@ import TabItem from '@theme/TabItem';
     
  - Shrine's Want to be using [Charm of the Undead Horde](https://wiki.valorserver.com/docs/items/abilities/charms/legendary/charm_of_the_undead_horde.md) for the marjorty of the fight due to its massive stun raduis.
     
- - [Necromancy Chamr](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
+ - [Necromancy Charm](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
 
 **HOST: As you're providing the run most groups will allow you to leech out of the danger and just collect soulbound.**
 
