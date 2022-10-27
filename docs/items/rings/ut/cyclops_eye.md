@@ -7,7 +7,7 @@ description: "The Cyclops' Eye"
 
 ![Cyclops](https://vwiki.valorserver.com/api/item/picture/cyclops'%20eye)
 
-<i>A cyclops god's eye that god ripped out.</i>
+<i>A cyclops god's eye that goT ripped out.</i>
 
     +40 Maximum HP
     
