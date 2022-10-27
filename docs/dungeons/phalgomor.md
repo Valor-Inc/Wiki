@@ -89,7 +89,7 @@ This dungeon is now the party vs him now we've pissed him off
 
 Enough to possibly ruin our career's
 
-The boss fight starts when there's a red dot in the map and to activate boss there an tile activation to the bottom right go there to being the fight
+The boss fight starts when there's a red dot in the map and to activate boss there an tile activation to the bottom right go there to begin the fight
 
 He will appear second by second. You can decide to deal early damage after once his eyes glow because he can be also damaged for a split second or window frame in the beginning.
 
