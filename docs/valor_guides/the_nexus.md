@@ -112,9 +112,7 @@ The main draws of housing are for creating art, showing off your wealth with an 
 
 # Loot Boxes
 
-![LBL](https://cdn.discordapp.com/attachments/953134990428868629/1023007770825461850/unknown.png)
-
-Valor has various types of lootboxes; do not worry they all except one are obtained by playing. Each of these lootboxes have different item pools and drop locations, but they can all be checked from the same location: the top left of your screen whilst in the nexus or vault. On the Lootboxes Page, you can find Gold, Silver and Bronze Lootboxes, as well as your collected PackRat bags. Gold, Silver and Bronze lootboxes drop in the Realm, while Packrat bags can be found while doing ascended dungeons.
+Valor has various types of lootboxes; do not worry they all except one are obtained by playing. Each of these lootboxes have different item pools and drop locations, but they can all be checked from the same location: the top left of your screen whilst in the nexus or vault. On the Lootboxes Page, you can find Gold, Silver and Bronze Lootboxes, as well as your collected Pack Rat bags. Gold, Silver and Bronze lootboxes drop in the Realm, while Pack Rat bags can be found while doing ascended dungeons.
 
 ![GSB](https://i.imgur.com/TrmXd82.png) ![PackRat](https://cdn.discordapp.com/attachments/953134990428868629/1023007499323973672/unknown.png)
 
