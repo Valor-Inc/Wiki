@@ -21,7 +21,7 @@ import TabItem from '@theme/TabItem';
     
  - Templar's Should use ethier the [Kraken Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/banner_of_the_furious_kraken) For its party MP Boost or [Banner of Last Resort](https://wiki.valorserver.com/docs/items/abilities/banners/legendary/banner_of_last_resort) For its higher radius.
  
- - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confdent to not need the heals.
+ - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confident to not need the heals.
 
 **Shrine Maiden** ***THIS IS A HIGH PRIORITY CLASS AND CHEAP WITH MLEECH***
     
