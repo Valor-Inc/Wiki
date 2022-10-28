@@ -15,6 +15,7 @@ import TabItem from '@theme/TabItem';
 ### Spirithunter
 ![Spirithunter](https://i.imgur.com/oU46IT5.png)  
 The Spirit Hunter is a bow class that uses robes instead of leather armor. It uses a magical talisman that summons a ghost, which can aid you in battle with damage and can also potentially debuff the enemy depending on the Talisman.
+    
 **Stats on max:**
 
     660 Life
@@ -39,7 +40,8 @@ Blades are a weapon type unique to the blademaster that have medium range but go
 
 ### Blademaster
 ![Blademaster](https://i.imgur.com/Qxq9wUS.png)  
-The Blademaster is a unique leather armor class using both a new item called Blades and an ability called Jackets. They are an adaptive class, using their jackets in order to boost their attack or defense, depending on the situation. Most jackets give invincibility, a special buff that lets incoming damage be avoided! It has below average defense and attack, but exchanges it for high maneuverability, health and dexterity.  
+The Blademaster is a unique leather armor class using both a new item called Blades and an ability called Jackets. They are an adaptive class, using their jackets in order to boost their attack or defense, depending on the situation. Most jackets give invincibility, a special buff that lets incoming damage be avoided! It has below average defense and attack, but exchanges it for high maneuverability, health and dexterity. Jackets on use shoot a small projetilce and switch between offensive and defenive modes.
+   
 **Stats on max:**
 
     720 Life
@@ -63,6 +65,7 @@ The Blademaster is a unique leather armor class using both a new item called Bla
 ### Gambler
 ![Gambler](https://i.imgur.com/2z0Ypy2.png)  
 The Gambler is a high-risk high reward leather class that uses a dagger. Gambler uses a dice that gives a variety of different buffs, but sometimes one debuff. These status effects are usually Bravery, Berserk, or Sick. The Gambler has high attack and the most luck and might to max but has low health in exchange for it's insane damage.  
+    
 **Stats on max:**
 
     580 Life
@@ -85,7 +88,8 @@ The Gambler is a high-risk high reward leather class that uses a dagger. Gambler
 
 ### Samurai
 ![Samurai](https://i.imgur.com/T33yDwb.png)  
-The samurai is an offensive class similar to ninja but with a heavy armor. Their Sheath works as a consistent buff similar to a ninja star, and can be released to do AoE damage around itself (Depending on sheath) and gain a certain status effect. Has slightly above average stats.  
+The samurai is an offensive class similar to ninja but with a heavy armor. Their Sheath works as a consistent buff similar to a ninja star, and can be released to do AoE damage around itself (Depending on sheath) and gain a certain status effect. Has slightly above average stats. 
+    
 **Stats on max:**
 
     810 Life 
@@ -104,6 +108,7 @@ The samurai is an offensive class similar to ninja but with a heavy armor. Their
 ### Shrine Maiden
 ![Shrine Maiden](https://i.imgur.com/6P1eDCb.png)  
 The shrine maiden is a supportive katana class that uses her mystical charm to debuff her enemies or buff her allies. The "Torii" will spawn on the cursor upon ability use and has a radius of effect. She has equivalent stats to other katana users.  
+    
 **Stats on max:**
 
     650 Life 
@@ -127,7 +132,8 @@ Lances are the shortest range weapons but deal good damage & pierce armor.
 
 ### Templar
 ![Templar](https://i.imgur.com/kuQV1GB.png)  
-The Templar is a heavy armor lance class that uses banners to support his allies. His banner upon ability use drops a zone that empowers all allies, making them regenerate their mana faster. They have high survivability stats, but poor mana and below average dexterity.  
+The Templar is a heavy armor lance class that uses banners to support his allies. His banner upon ability use drops a zone that empowers all allies, making them regenerate their mana faster. They have high survivability stats, but poor mana and below average dexterity. 
+    
 **Stats on max:**
 
     880 Life
@@ -195,6 +201,7 @@ The Pirate is an offensive sword class that uses leather armor. His anchor shoot
 ### Drakzix
 ![Drakzix](https://i.imgur.com/FMmlOgy.png)  
 Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphons drain your mana and then health rapidly in order to deal a large amount of damage. The calculation of damage takes Current Mana and how much health was drained. It has very poor stats at max but has the highest mana and wisdom of any other wand class.  
+   
 **Stats on max:**
 
     650 Life
