@@ -9,6 +9,8 @@ description: "Malgor's Invigorating Charm"
 
 <i>We've all seen the impact of Malgor's malicious power already, this time we managed to harness his healing attributes.</i>
 
+**Currently bugged and does not work**
+
 **Spawns an offensive Torii, Disappears after  seconds**
 
 Applies 'Healing' in a 5 sqrs area for 2 seconds
