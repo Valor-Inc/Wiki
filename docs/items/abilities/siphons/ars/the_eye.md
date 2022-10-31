@@ -8,7 +8,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="AR Siphon" label="AR Siphon" default>
+  <TabItem value="The Eye" label="The Eye" default>
 
 # The Eye
 
