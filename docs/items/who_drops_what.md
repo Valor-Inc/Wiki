@@ -189,6 +189,7 @@ import TabItem from '@theme/TabItem';
 <th colspan="4">Dungeons with Ascended Variants</th>
 <tbody><tr>
 <th colspan="2">The Dojo</th>
+<th colspan="2">Heavenly Rift</th>
 </tr>
 <td style="text-align: center;"><a href="https://viewer.valorserver.com/boss/Arnkz%20the%20Mega%20Samurai" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031020613818654820/Arnkz.png" title="Arknz, the Mega Samurai" height="64px" class="image"></a><br>
 <a href="https://viewer.valorserver.com/boss/Arnkz%20the%20Mega%20Samurai" target="_blank">Arnkz, the Mega Samurai</a><br>
@@ -199,13 +200,6 @@ import TabItem from '@theme/TabItem';
 
 <a href="https://wiki.valorserver.com/docs/items/rings/ut/black_belt" target="_blank"><img src="https://vwiki.valorserver.com/api/item/picture/black%20belt" title="Black Belt" height="40px" class="image"><a href="https://wiki.valorserver.com/docs/items/abilities/sheaths/ut/final_hour"><img src="https://vwiki.valorserver.com/api/item/picture/final%20hour" height='40px' title="Final Hour" class="image"></a><a href="https://wiki.valorserver.com/docs/items/abilities/stars/ut/shinobi_striker"><img src="https://vwiki.valorserver.com/api/item/picture/shinobi%20striker" height='40px' title="Shinobi Striker" class="image"></a></td>
 
-</center>
-
-<center>
-
-<tbody><tr>
-<th colspan="2">Heavenly Rift</th>
-</tr>
 <td style="text-align: center;"><a href="https://viewer.valorserver.com/boss/Riv%20the%20Heavenly%20Champion" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031041136397144134/Riv.png" title="Riv the Heavenly Champion" height="64px" class="image"></a><br>
 <a href="https://viewer.valorserver.com/boss/Riv%20the%20Heavenly%20Champion" target="_blank">Riv, the Heavenly Champion</a><br>
 <a href="https://wiki.valorserver.com/docs/items/weapons/staves/ut/staff_of_noble_magic"><img src="http://i.imgur.com/m6ZB8vF.png" title="Staff of Noble Magic" height='40px' class="image"></a><a href="https://wiki.valorserver.com/docs/items/abilities/orbs/ut/orb_of_heavenly_sight"><img src="http://i.imgur.com/iys4Uco.png" title="Orb of Heavenly Sight" height='40px' class="image"></a><a href="https://wiki.valorserver.com/docs/items/armors/robes/ut/heaven_monks_apparel"><img src="http://i.imgur.com/dAnqw6P.png" title="Heaven Monk's Apparel" height='40px' class="image"></a><a href="https://wiki.valorserver.com/docs/items/rings/ut/necklace_of_crystalline_celestial_forces"><img src="http://i.imgur.com/S6JMLpv.png" title="Necklace of Crystalline Celestial Forces" height='40px' class="image"></a>
@@ -214,7 +208,7 @@ import TabItem from '@theme/TabItem';
 
 <td style="text-align: center;"><a href="https://cdn.discordapp.com/attachments/953134990428868629/1031042400807829616/Valia.png" target="_blank"><img src="https://cdn.discordapp.com/attachments/953134990428868629/1031042400807829616/Valia.png" title="Valia, the Great Arbiter" height="64px" alt="Ghost%20King.png" class="image"></a><br>
 <a href="https://cdn.discordapp.com/attachments/953134990428868629/1031042400807829616/Valia.png" target="_blank">Valia, the Great Arbiter</a><br>
-<a href="https://wiki.valorserver.com/docs/items/weapons/swords/ut/sadist_blade_of_the_king"><img src="http://i.imgur.com/psAw460.png" title="Sadist Blade" alt="psAw460.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/abilities/helms/ut/the_kings_crown"><img src="http://i.imgur.com/BSsGoNT.png" title="The King's Crown" alt="BSsGoNT.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/armors/heavys/ut/armor_of_masochism"><img src="http://i.imgur.com/MJUMYS1.png" title="Armor of Masochism" alt="MJUMYS1.png" class="image"></a> <a href="https://wiki.valorserver.com/docs/items/rings/ut/ring_of_ashen_matrimony"><img src="http://i.imgur.com/t6YLzlG.png" title="Ring of Ashen Matrimony" alt="t6YLzlG.png" class="image"></a><a href="https://wiki.valorserver.com/docs/items/weapons/bows/ut/deathwanderer"><img src="https://vwiki.valorserver.com/api/item/picture/deathwanderer" height='40px' title="Deathwanderer" alt="t6YLzlG.png" class="image"></a></td>
+<a href="https://vwiki.valorserver.com/api/item/picture/piece%20of%20the%20realm"><img src="https://vwiki.valorserver.com/api/item/picture/piece%20of%20the%20realm" height='40px' title="Piece of the Realm" class="image"></a><a href="https://wiki.valorserver.com/docs/items/weapons/swords/legendary/blade_of_the_restless_spectre"><img src="https://vwiki.valorserver.com/api/item/picture/blade%20of%20the%20restless%20spectre" title="Restless Spectre" height='40px' class="image"></a> <a href="https://wiki.valorserver.com/docs/items/weapons/lances/ut/heavenly_lance"><img src="https://vwiki.valorserver.com/api/item/picture/heavenly%20lance" title="Heavenly Lance" height='40px' class="image"></a> <a href="https://wiki.valorserver.com/docs/items/weapons/bows/ut/valias_light_bow"><img src="https://vwiki.valorserver.com/api/item/picture/Valia's%20light%20bow" title="Valia's Light Bow" height='40px' class="image"></a>
 <td></td>
 </tr>
 
