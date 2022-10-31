@@ -12,6 +12,8 @@ import TabItem from '@theme/TabItem';
 
 # IMPORTANT
 ### T4 Phalgomor needs 3 variant roles for a clean and easy run.
+    
+*All roles excluding Shrine Maiden NEED to be 24/24 and fully noded*
 
 **DPS: Any sor reactor combo can be dps as long you have an ar wizard spell user.**
     
