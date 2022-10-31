@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Contributing to the Wiki
+description: "How to Contribute to the Wiki"
 ---
 
 import Tabs from '@theme/Tabs';
