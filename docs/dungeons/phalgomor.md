@@ -18,10 +18,16 @@ import TabItem from '@theme/TabItem';
 **DPS: Any sor reactor combo can be dps as long you have an ar wizard spell user.**
     
  - Wizards Want to utilze the [Page of Catatonia](https://wiki.valorserver.com/docs/items/abilities/spells/ar/page_of_catatonia.md) due to it being able to insta kill most of the minions with enough wisdom.
+    
+ - Necromancers/Mystics Should be utizling the standered triple buff skull/orb set up. 
+    
+ - Mechaincs and Ninjas while having the highest dps are at a severe disadtavge due to lack of range; Mechs should use [Orbis Terrae](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/orbis_terrae) or [The Moon Crescent Halbard](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/moon_crescent_halberd) over the AR lance, With Ninja's using [Mythical Alliance](https://wiki.valorserver.com/docs/items/weapons/weapons/katanas/legendary/katana_of_mythical_alliance).
+    
+ - The Bows while providing good dps at a range are outclassed by the dps classes which provide far more dmg/utilty; However if you must Archers should have [Ulgurs Quiver](https://wiki.valorserver.com/docs/items/abilities/quivers/fabled/ulgurs_spectral_quiver) To act as weaken. The Huntress and Spirt Hunter sadly don't have any usefull debuffs. 
 
 **SUPPORTS: Templar, Pally or Necro.**
     
- - Templar's Should use ethier the [Kraken Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/banner_of_the_furious_kraken) For its party MP Boost or [Banner of Last Resort](https://wiki.valorserver.com/docs/items/abilities/banners/legendary/banner_of_last_resort) For its higher radius.
+ - Templar's Should use ethier the [Kraken Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/banner_of_the_furious_kraken) For the party MP Boost or [Banner of Last Resort](https://wiki.valorserver.com/docs/items/abilities/banners/legendary/banner_of_last_resort)/[Victorious Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/victorious_banner) For their higher radius.
  
  - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confident to not need the heals.
 
