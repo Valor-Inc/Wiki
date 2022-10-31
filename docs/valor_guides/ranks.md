@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Basic Infomation on the Donor Ranks in Valor"
 ---
 
 # Ranks
