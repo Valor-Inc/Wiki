@@ -123,6 +123,8 @@ YOU need to be quick before anything else and back out, also look at your mini m
 
 Once he finish doing that you'll have to find 3 different types of shades throughout the map
 they appear from inner, middle outer, and then outer they will spawn glowing they dont do anything but rotate slowly 
+    
+**SHADES ARE NOT IMMUNE TO STASIS MYSTICS WILL NEED TO FOUCS EXTRA WHEN USING THEIR ORB TO NOT SLOW THE RUN DOWN**
 
 **DONT INSTA THE LAST SHADE THAT IS OUTER IT WILL BREAK THE BOSS AND THE FIGHT WONT END AT ALL.**
 
