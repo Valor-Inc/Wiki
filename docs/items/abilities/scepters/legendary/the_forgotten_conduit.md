@@ -15,7 +15,7 @@ Lightning: 6368 (wismod) to 8 targets
 
     +8 Speed
 
-MP Cost: 90
+MP Cost: 120
 
 Fame Bonus: 8%
 
