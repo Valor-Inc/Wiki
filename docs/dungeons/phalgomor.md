@@ -152,7 +152,7 @@ Other than that the map will become pitch dark black and phalgomor will thank yo
 </TabItem>
 <TabItem value="Item Drops" label="Item Drops">
   
-  ## Phalgomor, the Myth-a-Weave
+## Phalgomor, the Myth-a-Weave
 
 Phalgomor, the Myth-a-Weave   |  Item Drops
 :-------------------------:|:-------------------------:
