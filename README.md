@@ -4,7 +4,7 @@ The repository for the Valor Wiki. Built using Docosaurus & React.
 
 ### Contributing
 
-The Valor Community is open to contributions from all members of the Valor Community.
+The Valor Wiki is open to contributions from all members of the Valor Community.
 If you see a bug or problem with the wiki, please open an issue. The same can be done for suggestions.
 
 The contributor guide for Valor players is located [here](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki/).
