@@ -50,7 +50,7 @@ import TabItem from '@theme/TabItem';
 
 ![distone](https://vwiki.valorserver.com/api/item/picture/distransformation%20stone)
 
-<i>Removes reskins from itemst.</i>
+<i>Removes reskins from items.</i>
 
 Removes the reskin from an item
 
