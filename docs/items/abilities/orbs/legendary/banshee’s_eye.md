@@ -15,7 +15,7 @@ Effect on Enemy: Within 4 sqrs BannsheeCurse for 5 seconds
 
 Effect on Self: Damaging for 4 seconds
 
-MP Cost 100
+MP Cost: 100
 
     +7 Speed
     
