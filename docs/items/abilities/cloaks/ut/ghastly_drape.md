@@ -23,4 +23,4 @@ Cooldown: 6.5 seconds
 
 Fame Bonus: 6%
 
-**Drops from the Ghost of Skuld**
+**Drops from the Ghost of Skuld in the Haunted Cemetery**
