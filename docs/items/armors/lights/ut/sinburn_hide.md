@@ -1,6 +1,6 @@
 ---
-sidebar_position: 7
-description: "Sinburn Hide"
+sidebar_position: 8
+description: "The Sinburn Hide"
 ---
 
 # Sinburn Hide
