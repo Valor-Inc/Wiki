@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Demon's Stone"
 ---
 
 # Demon's Stone
