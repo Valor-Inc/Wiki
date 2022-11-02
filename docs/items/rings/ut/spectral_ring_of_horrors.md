@@ -21,4 +21,4 @@ description: "The Spectral Ring of Horrors"
     
 Fame Bonus: 4%
 
-**Drops from Ghost Bride**
+**Drops from Ghost Bride in Haunted Cemetery**
