@@ -16,6 +16,7 @@ Effect on Self: Speedy for 4 seconds
 MP Cost: 120
 
     +50 Might
+    
     +50 Luck
 
 Fame Bonus: 5%
