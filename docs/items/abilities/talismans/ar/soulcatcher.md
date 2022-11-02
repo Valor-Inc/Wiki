@@ -44,7 +44,7 @@ Fame Bonus: 14%
 
   </TabItem>
   <TabItem value="Air" label="Air">
-      
+
 # Soulcatcher Air
 
 ![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
@@ -79,7 +79,7 @@ Fame Bonus: 14%
       
   </TabItem>
   <TabItem value="Fire" label="Fire">
-      
+
 # Soulcatcher Fire
 
 ![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
@@ -114,7 +114,7 @@ Fame Bonus: 14%
       
   </TabItem>
   <TabItem value="Earth" label="Earth">
-      
+
 # Soulcatcher Earth
 
 ![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
@@ -149,7 +149,7 @@ Fame Bonus: 14%
       
  </TabItem>
  <TabItem value="Water" label="Water">
-       
+ 
 # Soulcatcher Water
 
 ![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
