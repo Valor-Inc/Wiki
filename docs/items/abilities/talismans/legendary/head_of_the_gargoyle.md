@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Head of the Gargoyle"
 ---
 
 # Head of the Gargoyle
