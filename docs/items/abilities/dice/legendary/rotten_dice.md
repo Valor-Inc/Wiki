@@ -7,7 +7,7 @@ description: "The Rotten Dice"
 
 ![rot](https://vwiki.valorserver.com/api/item/picture/rotten%20dice)
 
-<i>A dice infused with the power of the earth itself.</i>
+<i>Carved from the skull of a deceased gambler who crumpled to the horrors inside the haunted cemetery. With Skuld's magic, the dice fused with the rotten flesh and mind of its original user, forever torturing the desperate soul inside of it on each roll it gives out.</i>
 
 Grants either **Damaging, Sick, or Berserk** for 4 seconds 
 
