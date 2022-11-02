@@ -272,7 +272,7 @@ import TabItem from '@theme/TabItem';
 
 **Gain +1 Speed per 1% evasion gained by the aspect**
 
-***Drops from normal and ascended Snake Pit**
+***Drops from normal and ascended Snake Pit***
 
   </TabItem>
   <TabItem value="Aspect of the Glaciers" label="Aspect of the Glaciers">
