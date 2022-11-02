@@ -3,6 +3,7 @@ sidebar_position: 1
 title: "The Soulcatcher"
 description: "The Soulcatcher"
 ---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -112,7 +113,7 @@ MP Cost: 100
 Fame Bonus: 14%
       
   </TabItem>
-  <TabItem value="Water" label="Water">
+  <TabItem value="Earth" label="Earth">
       
 # Soulcatcher Earth
 
@@ -181,5 +182,5 @@ MP Cost: 100
      
 Fame Bonus: 14%
      
-</TabItem>
+  </TabItem>
 </Tabs>
