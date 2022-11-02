@@ -24,4 +24,4 @@ description: "The Mantle of Skuld"
     
 Fame Bonus: 6%
 
-**Drops from Grave Caretaker**
+**Drops from Grave Caretaker in Haunted Cemetery**
