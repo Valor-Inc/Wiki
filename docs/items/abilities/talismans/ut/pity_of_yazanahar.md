@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Pity of Yazanahar
+description: "The Pity of Yazanahar"
 ---
 
 import Tabs from '@theme/Tabs';
