@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Fiery Magma Stone
+description: "The Fiery Magma Stone"
 ---
 
 import Tabs from '@theme/Tabs';
