@@ -14,8 +14,7 @@ import TabItem from '@theme/TabItem';
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance)
     
 <i>Arcanuo once used this weapon before the Zol corrupted it.</i>
-    
-   
+
 Damage: 880-995
 
 Shots: 2
@@ -109,8 +108,7 @@ Fame Bonus: 15%
 ![AZL](https://vwiki.valorserver.com/api/item/picture/arcanuo's%20zol%20lance%20fire)
 
 <i>All that you know flickers into ghastly embers, leaving only rage with each vicious strike.</i>
-    
-    
+
 **Fire Rune: Increases your minimum damage by 45 and maximum by 50.**
     
 Damage: 925-1045
