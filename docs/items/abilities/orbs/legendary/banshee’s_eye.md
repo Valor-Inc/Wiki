@@ -7,7 +7,7 @@ description: "The Banshee’s Eye"
 
 ![eye](https://vwiki.valorserver.com/api/item/picture/banshee’s%20eye)
 
-<i>The severed eye of a mythical banshee, imbued with all the hatred and symphonies of death it once preached against anyone unlucky enough to hear them, now the still lingering spirtual coirs signal dispair into the souls of its enemies.<i>
+<i>The severed eye of a mythical banshee, imbued with all the hatred and symphonies of death it once preached against anyone unlucky enough to hear them, now the still lingering spirtual coirs signal dispair into the souls of its enemies.</i>
 
 Effect on Enemy: Within 4 sqrs Curse for 5 seconds
 
