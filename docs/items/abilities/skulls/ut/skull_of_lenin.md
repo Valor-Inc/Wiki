@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "The Skull of Lenin"
 ---
 
 # Skull of Lenin
