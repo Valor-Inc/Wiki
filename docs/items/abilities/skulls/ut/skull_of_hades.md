@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "The Skull of Hades"
 ---
 
 # Skull of Hades
