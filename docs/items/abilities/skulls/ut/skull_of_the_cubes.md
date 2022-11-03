@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Skull of the Cubes"
 ---
 
 # Skull of the Cubes
