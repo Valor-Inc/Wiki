@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Skull of Ravagers
+description: "The Skull of Ravagers"
 ---
 
 import Tabs from '@theme/Tabs';
