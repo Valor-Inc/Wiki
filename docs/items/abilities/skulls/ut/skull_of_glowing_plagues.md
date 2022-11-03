@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "The Skull of Glowing Plagues"
 ---
 
 # Skull of Glowing Plagues
