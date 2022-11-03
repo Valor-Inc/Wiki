@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "The Ronin Skull"
 ---
 
 # Ronin Skull
