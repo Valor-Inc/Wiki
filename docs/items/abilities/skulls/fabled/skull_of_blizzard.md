@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "The Skull of Blizzard"
 ---
 
 # Skull of Blizzard
