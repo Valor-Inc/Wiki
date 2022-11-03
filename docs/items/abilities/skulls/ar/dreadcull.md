@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Dreadcull
+description: "The Dreadcull"
 ---
 
 import Tabs from '@theme/Tabs';
