@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Dragonslayer Projectile](https://cdn.discordapp.com/attachments/948363371235913798/949152410922795068/unknown.png)
+![Dragonslayer Projectile](https://user-images.githubusercontent.com/114798136/199895325-142747d8-ea49-4c05-b8b0-397dec0b84e6.png)
