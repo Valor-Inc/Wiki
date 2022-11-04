@@ -21,7 +21,7 @@ Range: 4.0
 Ignores defense of target
 
     +20 Defense
-    
+
     +15 Wisdom
 
 Fame Bonus: 8%
@@ -30,4 +30,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Absolute Projectile](https://cdn.discordapp.com/attachments/948363371235913798/960887048653373480/unknown.png)
+![Absolute Projectile](https://user-images.githubusercontent.com/114798136/199895547-dfac4dd6-9806-46f3-b5d5-b63142f27f1b.png)
