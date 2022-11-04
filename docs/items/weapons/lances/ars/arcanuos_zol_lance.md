@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Arcanuo's Zol Lance 
+title: Arcanuo's Zol Lance
+description: "Arcanuo's Zol Lance"
 ---
 
 import Tabs from '@theme/Tabs';
@@ -98,7 +99,7 @@ Fame Bonus: 15%
 **Enchanted Arcanuo's Zol Lance with Ancient Earth Rune**
 
 ## Projectile
-
+![earth](https://user-images.githubusercontent.com/114798136/199929295-def4c598-682a-4d94-b780-34a57e6feedf.png)
     
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -130,6 +131,7 @@ Fame Bonus: 15%
 **Enchanted Arcanuo's Zol Lance with Ancient Fire Rune**
 
 ## Projectile
+![fire](https://user-images.githubusercontent.com/114798136/199929422-394579f5-f7e6-4875-97c4-d91e20143291.png)
 
   
   </TabItem>
@@ -162,7 +164,7 @@ Fame Bonus: 15%
 **Enchanted Arcanuo's Zol lance with Ancient Water Rune**
 
 ## Projectile
-
+![water](https://user-images.githubusercontent.com/114798136/199929467-299511f9-dd54-4b3f-b3af-b4638b9043ce.png)
 
   </TabItem>
 </Tabs>
