@@ -31,7 +31,7 @@ import TabItem from '@theme/TabItem';
 
 **This item is a crafting material to be used in crafting or enchanting.**
 
-***This item can be used to forge legendaries***
+***Combine with a Shard to forge legendaries***
 
 **Can be forged with an Ancient Elemental Rune to obtain an Elemental Sor.**
 
