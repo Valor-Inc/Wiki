@@ -60,13 +60,13 @@ const config = {
     ],
   ],
   themeConfig:
-      colorMode: {
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+        colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
       navbar: {
         title: 'Valor',
         logo: {
