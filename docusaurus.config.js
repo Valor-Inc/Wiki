@@ -13,7 +13,11 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://i.imgur.com/HKW5Kyw.png',
-
+  defaultMode: 'darkTheme',
+  disableSwitch: false,
+  respectPrefersColorScheme: false,
+  
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Valor', // Usually your GitHub org/user name.
@@ -121,11 +125,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-          themeConfig: {
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
       },
     }),
 };
