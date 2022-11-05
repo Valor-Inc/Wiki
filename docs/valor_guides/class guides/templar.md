@@ -13,7 +13,7 @@ The Templar is a heavy armor lance class that uses banners to support his allies
 
 # Lances
 
-**Lances are a very powerful weapon type originally created for templar; They generally have much higher base damage then other weapon types and pierce defense.**
+**Lances are a very powerful weapon type that sacrifce range; They generally have much higher base damage then other weapon types and pierce defense.**
 
 ![image](https://user-images.githubusercontent.com/114798136/200083388-ec1ebd8f-105c-4d83-9490-fc7211c8c342.png)![image](https://user-images.githubusercontent.com/114798136/200083398-2bd028e4-f474-43a8-bf28-ce08c3676e09.png)
 
