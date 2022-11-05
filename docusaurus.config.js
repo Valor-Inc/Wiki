@@ -13,9 +13,6 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://i.imgur.com/HKW5Kyw.png',
-  defaultMode: 'darkTheme',
-  disableSwitch: false,
-  respectPrefersColorScheme: false,
   
   
   // GitHub pages deployment config.
@@ -63,6 +60,11 @@ const config = {
     ],
   ],
   themeConfig:
+      colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
