@@ -80,6 +80,10 @@ In Valor, you can use the Forge in the Nexus in a variety of ways. You can use i
 
 ![EleSorCraft](https://cdn.discordapp.com/attachments/1033413517161791539/1034158911210655764/craftable_things.JPG) 
 
+### Understanding Essence of the Realm Crafts
+
+![EssCraft](https://media.discordapp.net/attachments/1033413517161791539/1038742217331847168/crafts_anscede_lg_items.JPG)
+
 ### Understanding Crafting and Shining
 
 ![CraftingandShining](https://cdn.discordapp.com/attachments/1033413517161791539/1034155976745562222/unknown.png)
@@ -88,9 +92,9 @@ In Valor, you can use the Forge in the Nexus in a variety of ways. You can use i
 
 ![CostofShining](https://cdn.discordapp.com/attachments/1033413517161791539/1033829405677600849/shinign_tiems.JPG)
 
-### Using Aspects [WIP]
+### Using Aspects 
 
-![wip](https://cdn.discordapp.com/attachments/1033413517161791539/1033834867198275594/aspects.JPG)
+![aspects](https://cdn.discordapp.com/attachments/1033413517161791539/1038743176195870750/aspects_2.JPG)
 
 
   </TabItem>
