@@ -114,13 +114,7 @@ The main draws of housing are for creating art, showing off your wealth with an 
 
 Valor has various types of lootboxes; do not worry they all except one are obtained by playing. Each of these lootboxes have different item pools and drop locations, but they can all be checked from the same location: the top left of your screen whilst in the nexus or vault. On the Lootboxes Page, you can find Gold, Silver and Bronze Lootboxes, as well as your collected Pack Rat bags. Gold, Silver and Bronze lootboxes drop in the Realm, while Pack Rat bags can be found while doing ascended dungeons.
 
-![GSB](https://i.imgur.com/TrmXd82.png) ![PackRat](https://cdn.discordapp.com/attachments/953134990428868629/1023007499323973672/unknown.png)
-
-# Untiered Lootboxes
-
-![ebox](https://i.imgur.com/3jSgUE4.png) ![scav](https://i.imgur.com/TNozVGl.png) ![Prem](https://i.imgur.com/UsXv5zh.png)
-
-In the Untiered Lootboxes tab, we can find Elite Boxes, Scavenger Chests and Premium Loot Boxes. Elite Boxes are obtained by defeating Raid Boxes and Public Challenges, while Scavenger Chests are earned by completing Daily contracts. Premium Loot Boxes are the only box that can not be earned in-game and instead must be purchased for [Kantos](https://valorserver.com/ranks).
+![Lootboxes](https://media.discordapp.net/attachments/1033413517161791539/1034155978255507526/unknown.png)
 
   </TabItem>
  <TabItem value="Marketplace" label="Marketplace">
