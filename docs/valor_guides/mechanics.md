@@ -71,11 +71,27 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 
 # Crafting
 
+## Understanding Crafting
+
+In Valor, you can use the Forge in the Nexus in a variety of ways. You can use it to craft legendary items, edit items, upgrade items, activate aspects, and other things. The Forge can be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. 
 ![TheForge](https://cdn.discordapp.com/attachments/953134990428868629/1028034835190661170/unknown.png)
 
-The Forge can be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. Within the forge you can combine craft all types of things, from items, to consumables, to even passive/active buffs like Aspects.
+### Understanding Elemental Sor Crafts
 
-![TheSHeet](https://cdn.discordapp.com/attachments/987312834834739301/1028048633616146535/unknown.png)
+![EleSorCraft](https://cdn.discordapp.com/attachments/1033413517161791539/1034158911210655764/craftable_things.JPG) 
+
+### Understanding Crafting and Shining
+
+![CraftingandShining](https://cdn.discordapp.com/attachments/1033413517161791539/1034155976745562222/unknown.png)
+
+### Cost of Shining
+
+![CostofShining](https://cdn.discordapp.com/attachments/1033413517161791539/1033829405677600849/shinign_tiems.JPG)
+
+### Using Aspects [WIP]
+
+![wip](https://cdn.discordapp.com/attachments/1033413517161791539/1033834867198275594/aspects.JPG)
+
 
   </TabItem>
   <TabItem value="Currency" label="Currency">
