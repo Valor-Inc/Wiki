@@ -1,0 +1,8 @@
+{
+    "label": "Anchors",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Anchors are used by Pirate, these are all of them."
+    }
+  }
