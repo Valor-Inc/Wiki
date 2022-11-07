@@ -5,7 +5,7 @@ description: "The Reign Maker"
 
 # Reign Maker
 
-![reign](https://vwiki.valorserver.com/api/item/picture/reign%20maker)
+![reign](https://i.imgur.com/Xgvwdfh.png)
 
 <i>A regal shield native to a forlorn order of titanweft knights from the planes below, which they seem to have conquered with ease.</i>
 
