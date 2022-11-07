@@ -5,7 +5,7 @@ description: "The Pulsating Slime Potion"
 
 # Pulsating Slime Potion
 
-![pulsating](https://vwiki.valorserver.com/api/item/picture/pulsating%20slime%20potion)
+![pulsating](https://i.imgur.com/wTzLO6Y.png)
 
 <i>This Poison pulses with forgotten magic.</i>
 
