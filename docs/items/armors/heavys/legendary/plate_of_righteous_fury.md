@@ -5,7 +5,7 @@ description: "The Plate of Righteous Fury"
 
 # Plate of Righteous Fury
 
-![Righteous](https://vwiki.valorserver.com/api/item/picture/plate%20of%20righteous%20fury)
+![Righteous](https://i.imgur.com/gARczWe.png)
 
 <i>An armor made of sapphire jewels and encrusted with a metal charged with fury.</i>
 
