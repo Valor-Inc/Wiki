@@ -5,7 +5,7 @@ description: "The Skirmisher"
 
 # Skirmisher
 
-![skirmisher](https://vwiki.valorserver.com/api/item/picture/skirmisher)
+![skirmisher](https://i.imgur.com/zAGqsYX.png)
 
 <i>A sharp and light spear. This ruby infused weapon was forged with one purpose in mind.</i>
 
