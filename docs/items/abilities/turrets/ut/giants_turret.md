@@ -5,7 +5,7 @@ description: "The Giant's Turret"
 
 # Giant's Turret
 
-![gturret](https://vwiki.valorserver.com/api/item/picture/giant's%20turret)
+![gturret](https://i.imgur.com/YwRcN72.png)
 
 <i>An exact replica of what the giants used to defend their hills.</i>
 
