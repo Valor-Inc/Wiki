@@ -43,7 +43,7 @@ Fame Bonus: 16%
 
 # Sor Reactor Air
 
-![Sor ReactorA](https://vwiki.valorserver.com/api/item/picture/sor%20reactor%20air)
+![Sor ReactorA](https://i.imgur.com/yuzyYQK.png)
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit white.</i>
 
@@ -76,7 +76,7 @@ Fame Bonus: 16%
 
 # Sor Reactor Earth
 
-![Sor ReactorE](https://vwiki.valorserver.com/api/item/picture/sor%20reactor%20earth)
+![Sor ReactorE](https://i.imgur.com/A0blDaz.png)
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit brown.</i>
 
@@ -109,7 +109,7 @@ Fame Bonus: 16%
 
 # Sor Reactor Fire
 
-![Sor ReactorF](https://vwiki.valorserver.com/api/item/picture/sor%20reactor%20fire)
+![Sor ReactorF](https://i.imgur.com/VrBUL4R.png)
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit orange.</i> 
 
@@ -140,7 +140,7 @@ Fame Bonus: 16%
 
 # Sor Reactor Water
 
-![Sor ReactorW](https://vwiki.valorserver.com/api/item/picture/sor%20reactor%20water)
+![Sor ReactorW](https://i.imgur.com/yEDdvOk.png)
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit blue.</i>
 
