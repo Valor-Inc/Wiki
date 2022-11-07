@@ -5,7 +5,7 @@ description: "The Plungerplonk"
 
 # Plungerplonk
 
-![plunger](https://vwiki.valorserver.com/api/item/picture/plungerplonk)
+![plunger](https://i.imgur.com/Wni4lJB.png)
 
 <i>An unusual helm narrowly pulled from Wrackjaw's foul maw. The harrowing encounter inspires great swiftness in the wearer.</i>
 
