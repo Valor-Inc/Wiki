@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 # Soulcatcher
 
-![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
+![Soulcatcher](https://i.imgur.com/GPEhK9u.png)
 
 <i>Trapped inside the boundaries placed by ancient forces, the lantem gives home to powerful ancient spirits deemed uncontrollable to the inexperienced mind.</i>
 
@@ -35,7 +35,7 @@ Effect on Enemy DeathCurse for 2 seconds
 Additional 45% Main Damage for 5 seconds
 
     +75 Maximum HP
-    
+
     +30 Protection 
 
 MP Cost: 100 
@@ -49,7 +49,7 @@ Fame Bonus: 14%
 
 # Soulcatcher Air
 
-![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
+![Soulcatcher](https://i.imgur.com/EgtWin5.png)
 
 <i>Trapped inside the boundaries placed by ancient forces, the lantem gives home to powerful ancient spirits deemed uncontrollable to the inexperienced mind.</i>
 
@@ -72,7 +72,7 @@ Effect on Enemy: DeathCurse for 2 seconds
 Additional 55% Main Damage for 5 seconds
 
     +10 Dexterity
-    
+
     +15 Speed 
 
 MP Cost: 100 
@@ -80,50 +80,13 @@ MP Cost: 100
 Fame Bonus: 14%
 
 **Enchanted Soulcatcher with Ancient Air Rune**
-      
-  </TabItem>
-  <TabItem value="Fire" label="Fire">
 
-# Soulcatcher Fire
-
-![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
-
-<i>Trapped inside the boundaries placed by ancient forces, the lantem gives home to powerful ancient spirits deemed uncontrollable to the inexperienced mind.</i>
-
-**Spawns a ghost to aid you in combat.**
-
-**Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
-
-Max Summons: 4 
-
-Infused Cost: 16
-
-Effect on Self: Damaging for 4 seconds 
-
-Main Base Damage 800,1750,2600,4200 
-
-Base Damage: 650 
-
-Effect on Enemy: DeathCurse for 2 seconds
-
-Additional 60% Main Damage for 5 seconds
-
-    +10 Attack
-    
-    +20 Might 
-
-MP Cost: 100 
-
-Fame Bonus: 14%
-    
-**Enchanted Soulcatcher with Ancient Fire Rune**
-      
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
 # Soulcatcher Earth
 
-![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
+![Soulcatcher](https://i.imgur.com/s2pwPrr.png)
 
 <i>Trapped inside the boundaries placed by ancient forces, the lantem gives home to powerful ancient spirits deemed uncontrollable to the inexperienced mind.</i>
 
@@ -146,7 +109,7 @@ Effect on Enemy: DeathCurse for 2 seconds
 Additional 50% Main Damage for 5 seconds
 
     +150 Maximum HP
-    
+
     +2 Life Steal
 
 MP Cost: 100 
@@ -156,11 +119,48 @@ Fame Bonus: 14%
 **Enchanted Soulcatcher with Ancient Earth Rune**
       
  </TabItem>
+  <TabItem value="Fire" label="Fire">
+
+# Soulcatcher Fire
+
+![Soulcatcher](https://i.imgur.com/qJEXzNq.png)
+
+<i>Trapped inside the boundaries placed by ancient forces, the lantem gives home to powerful ancient spirits deemed uncontrollable to the inexperienced mind.</i>
+
+**Spawns a ghost to aid you in combat.**
+
+**Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
+
+Max Summons: 4 
+
+Infused Cost: 16
+
+Effect on Self: Damaging for 4 seconds 
+
+Main Base Damage 800,1750,2600,4200 
+
+Base Damage: 650 
+
+Effect on Enemy: DeathCurse for 2 seconds
+
+Additional 60% Main Damage for 5 seconds
+
+    +10 Attack
+
+    +20 Might 
+
+MP Cost: 100 
+
+Fame Bonus: 14%
+    
+**Enchanted Soulcatcher with Ancient Fire Rune**
+      
+  </TabItem>
  <TabItem value="Water" label="Water">
  
 # Soulcatcher Water
 
-![Soulcatcher](https://vwiki.valorserver.com/api/item/picture/soulcatcher)
+![Soulcatcher](https://i.imgur.com/58Vn5pb.png)
 
 <i>Trapped inside the boundaries placed by ancient forces, the lantem gives home to powerful ancient spirits deemed uncontrollable to the inexperienced mind.</i>
 
@@ -183,14 +183,14 @@ Effect on Enemy: DeathCurse for 2 seconds
 Additional 50% Main Damage for 5 seconds
 
     +200 Maximum MP
-    
+
     +2 Mana Leech
 
 MP Cost: 100 
-     
+
 Fame Bonus: 14%
-   
+
 **Enchanted Soulcatcher with Ancient Water Rune**
-     
+
   </TabItem>
 </Tabs>
