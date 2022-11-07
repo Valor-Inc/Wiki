@@ -43,7 +43,7 @@ Fame Bonus: 14%
 
 # Dreadcull Air
 
-![dreadcullA](https://vwiki.valorserver.com/api/item/picture/dreadcull%20air)
+![dreadcullA](https://i.imgur.com/oMwMaYU.png)
 
 <i>...Father?</i>
 
@@ -76,7 +76,7 @@ Fame Bonus: 14%
 
 # Dreadcull Earth
 
-![dreadcullE](https://vwiki.valorserver.com/api/item/picture/dreadcull%20earth)
+![dreadcullE](https://i.imgur.com/cWWMj5W.png)
 
 <i>...Father?</i>
 
@@ -107,7 +107,7 @@ Fame Bonus: 14%
 
 # Dreadcull Fire
 
-![dreadcullF](https://vwiki.valorserver.com/api/item/picture/dreadcull%20fire)
+![dreadcullF](https://i.imgur.com/67l0IGC.png)
 
 <i>...Father?</i>
 
@@ -138,7 +138,7 @@ Fame Bonus: 14%
 
 # Dreadcull Water
 
-![dreadcullW](https://vwiki.valorserver.com/api/item/picture/dreadcull%20water)
+![dreadcullW](https://i.imgur.com/YIx0fMt.png)
 
 <i>...Father?</i>
 
