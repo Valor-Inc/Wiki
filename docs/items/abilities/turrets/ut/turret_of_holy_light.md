@@ -1,11 +1,11 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 description: "The Turret of Holy Light"
 ---
 
 # Turret of Holy Light
 
-![THL](https://vwiki.valorserver.com/api/item/picture/turret%20of%20holy%20light)
+![THL](https://i.imgur.com/JEANwWE.png)
 
 <i>A blueprint fro a turret that draws its power from light itself.</i>
 
