@@ -5,7 +5,7 @@ description: "The Rotten Dice"
 
 # Rotten Dice
 
-![rot](https://vwiki.valorserver.com/api/item/picture/rotten%20dice)
+![rot](https://i.imgur.com/venIWII.png)
 
 <i>Carved from the skull of a deceased gambler who crumpled to the horrors inside the haunted cemetery. With Skuld's magic, the dice fused with the rotten flesh and mind of its original user, forever torturing the desperate soul inside of it on each roll it gives out.</i>
 
