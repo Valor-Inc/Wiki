@@ -5,7 +5,7 @@ description: "The Turret of Aldragine"
 
 # Turret of Aldragine
 
-![ATurret](https://vwiki.valorserver.com/api/item/picture/turret%20of%20aldragine)
+![ATurret](https://i.imgur.com/XvdPgsb.png)
 
 <i>A portable deployable turret, that blends perfectly into shrub.</i>
 
