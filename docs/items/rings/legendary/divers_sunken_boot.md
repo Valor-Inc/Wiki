@@ -5,7 +5,7 @@ description: "The Divers Sunken Boot"
 
 # Divers Sunken Boot
 
-![Divers](https://vwiki.valorserver.com/api/item/picture/divers%20sunken%20boot)
+![Divers](https://i.imgur.com/lghffcF.png)
 
 <i>This sky will split and shatter, like prisms of light landing on a bygone land.</i>
 
