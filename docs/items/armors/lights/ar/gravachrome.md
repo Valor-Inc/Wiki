@@ -37,7 +37,7 @@ Fame Bonus: 16%
 
 # Gravachrome Air
 
-![GravachromeA](https://vwiki.valorserver.com/api/item/picture/gravachrome%20air)
+![GravachromeA](https://i.imgur.com/BJb1QeF.png)
 
 <i>brrrrt... Weather module, activated! Radars and thrusters, upgraded!</i>
 
@@ -64,7 +64,7 @@ Fame Bonus: 16%
 
 # Gravachrome Earth
 
-![GravachromeE](https://vwiki.valorserver.com/api/item/picture/gravachrome%20earth)
+![GravachromeE](https://i.imgur.com/EVd6VFT.png)
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
 
@@ -93,7 +93,7 @@ Fame Bonus: 16%
 
 # Gravachrome Fire
 
-![GravachromeF](https://vwiki.valorserver.com/api/item/picture/gravachrome%20fire)
+![GravachromeF](https://i.imgur.com/woDjxCO.png)
 
 <i>zzzzzt... Temperature module, activated! Offense mechanisms, upgraded.</i>
 
@@ -122,7 +122,7 @@ Fame Bonus: 16%
 
 # Gravachrome Water
 
-![GravachromeW](https://vwiki.valorserver.com/api/item/picture/gravachrome%20water)
+![GravachromeW](https://i.imgur.com/0OkffQh.png)
 
 <i>zzzzzzzzt... Humidity module, activated! Fuel and engines, upgraded.</i>
 
