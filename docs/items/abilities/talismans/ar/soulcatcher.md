@@ -78,6 +78,8 @@ Additional 55% Main Damage for 5 seconds
 MP Cost: 100 
 
 Fame Bonus: 14%
+
+**Enchanted Soulcatcher with Ancient Air Rune**
       
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -113,6 +115,8 @@ Additional 60% Main Damage for 5 seconds
 MP Cost: 100 
 
 Fame Bonus: 14%
+    
+**Enchanted Soulcatcher with Ancient Fire Rune**
       
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -148,6 +152,8 @@ Additional 50% Main Damage for 5 seconds
 MP Cost: 100 
 
 Fame Bonus: 14%
+    
+**Enchanted Soulcatcher with Ancient Earth Rune**
       
  </TabItem>
  <TabItem value="Water" label="Water">
@@ -183,6 +189,8 @@ Additional 50% Main Damage for 5 seconds
 MP Cost: 100 
      
 Fame Bonus: 14%
+   
+**Enchanted Soulcatcher with Ancient Water Rune**
      
   </TabItem>
 </Tabs>
