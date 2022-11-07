@@ -1,0 +1,8 @@
+{
+    "label": "Charms",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Charms are used by the Shrine Maiden, these are all of them"
+    }
+  }
