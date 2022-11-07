@@ -5,7 +5,7 @@ description: "The Shiny Divers Breastplate"
 
 # Shiny Divers Breastplate
 
-![Shiny](https://vwiki.valorserver.com/api/item/picture/shiny%20divers%20breastplate)
+![Shiny](https://i.imgur.com/P2C2Ons.png)
 
 <i>An armor made of sapphire jewels and encrusted with a metal charged with fury.</i>
 
