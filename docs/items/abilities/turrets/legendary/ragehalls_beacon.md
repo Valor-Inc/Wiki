@@ -5,7 +5,7 @@ description: "The Ragehall's Beacon"
 
 # Ragehall's Beacon
 
-![Ragehalls](https://vwiki.valorserver.com/api/item/picture/ragehall%20beacon)
+![Ragehalls](https://i.imgur.com/HnQJGBs.png)
 
 <i>This blood red beacon embodies all of Drannol's pent up rage.</i>
 
