@@ -5,7 +5,7 @@ description: "The Crimson Fangs"
 
 # Crimson Fangs
 
-![CFang](https://vwiki.valorserver.com/api/item/picture/crimson%20fangs)
+![CFang](https://i.imgur.com/pcp26pb.png)
 
 <i>Whoever wields these blades can grant themselves unforseen power upon every strike.</i>
 
