@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 # The Eye
 
-![TheEye](https://vwiki.valorserver.com/api/item/picture/the%20eye)
+![TheEye](https://i.imgur.com/svwl7Ow.png)
 
 <i>It stares back.</i>
 
@@ -51,7 +51,7 @@ Fame Bonus: 14%
 
 # The Eye Air
 
-![TheEyeAir](https://vwiki.valorserver.com/api/item/picture/the%20eye%20air)
+![TheEyeAir](https://i.imgur.com/HurB8nD.png)
 
 <i>Soothed by the endless winds.</i>
 
@@ -88,7 +88,7 @@ Fame Bonus: 14%
 
 # The Eye Earth
 
-![TheEyeEarth](https://vwiki.valorserver.com/api/item/picture/the%20eye%20earth)
+![TheEyeEarth](https://i.imgur.com/uMdTv4l.png)
 
 <i>Infused with the stability of the earth.</i>
 
@@ -123,7 +123,7 @@ Fame Bonus: 14%
 
 # The Eye Fire
 
-![TheEyeFire](https://vwiki.valorserver.com/api/item/picture/the%20eye%20fire)
+![TheEyeFire](https://i.imgur.com/t81vkRv.png)
 
 <i>Blinded by fury.</i>
 
@@ -158,7 +158,7 @@ Fame Bonus: 14%
 
 # The Eye Water
  
-![TheEyeWater](https://vwiki.valorserver.com/api/item/picture/the%20eye%20water)
+![TheEyeWater](https://i.imgur.com/4HXKxFT.png)
 
 <i>Granted wisdom of the ever dominant tides.</i>
 
