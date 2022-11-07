@@ -42,7 +42,7 @@ Fame Bonus: 16%
 
 # Helldom Shell Air
 
-![HelldomA](https://vwiki.valorserver.com/api/item/picture/helldom%20shell%20air)
+![HelldomA](https://i.imgur.com/mdVZp8I.png)
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their fallen souls are doomed to crack and splinter upon the wind-woven cliffside carved into the plates.</i>
 
@@ -77,7 +77,7 @@ Fame Bonus: 16%
 
 # Helldom Shell Earth
 
-![HelldomE](https://vwiki.valorserver.com/api/item/picture/helldom%20shell%20earth)
+![HelldomE](https://i.imgur.com/fqE2BVO.png)
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their buried souls are doomed to claw for all of eternity from beneath miles of earth, gilded in careful layers on the plate.</i>
 
@@ -110,7 +110,7 @@ Fame Bonus: 16%
 
 # Helldom Shell Fire
 
-![HelldomF](https://vwiki.valorserver.com/api/item/picture/helldom%20shell%20fire)
+![HelldomF](https://i.imgur.com/NBxS8S5.png)
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their damned souls are doomed to burn for all of time under the blistering sun torched into the plates.</i>
 
@@ -145,7 +145,7 @@ Fame Bonus: 16%
 
 # Helldom Shell Water
 
-![HelldomW](https://vwiki.valorserver.com/api/item/picture/helldom%20shell%20water)
+![HelldomW](https://i.imgur.com/RX3qW4L.png)
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their suffocating souls are doomed to drown for all of time under an ocean of glittering rhinestones.</i>
 
