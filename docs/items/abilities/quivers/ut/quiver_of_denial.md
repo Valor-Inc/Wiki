@@ -5,7 +5,7 @@ description: "The Quiver of Denial"
 
 # Quiver of Denial
 
-![Denial](https://cdn.discordapp.com/attachments/953134990428868629/1028899472077500418/unknown.png)
+![Denial](https://i.imgur.com/yFOe9fY.png)
 
 <i>Tell the truth you evil creature! You cant handle the truth!</i>
 
