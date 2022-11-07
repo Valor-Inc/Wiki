@@ -5,7 +5,7 @@ description: "The Bejewled Spear"
 
 # Bejeweled Spear
 
-![Bejeweled](https://vwiki.valorserver.com/api/item/picture/bejeweled%20reason)
+![Bejeweled](https://i.imgur.com/kJEOJEl.png)
 
 <i>A robust seaslayer spear that emanates grandeur and precision. The ruby infused within seems to hae preserved it all these years, its eact purpose still unfulfilled.</i>
 
