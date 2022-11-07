@@ -47,7 +47,7 @@ Fame Bonus: 14%
 
 # Vinelocker Air
 
-![VLA](https://vwiki.valorserver.com/api/item/picture/vinelocker%20air)
+![VLA](https://i.imgur.com/RCE6vOb.png)
 
 <i>The fabled shield of the long-lost forest titans, eroded by eternity and quick to flutter in the breeze. The roots of the soul give way to exhaustion as one realizes they have come far too late.</i>
 
@@ -86,7 +86,7 @@ Fame Bonus: 14%
 
 # Vinelocker Earth
 
-![VLE](https://vwiki.valorserver.com/api/item/picture/vinelocker%20Earth)
+![VLE](https://i.imgur.com/YyhMKFV.png)
 
 <i>The fabled shield of the long-lost forest titans, packed with detrimental fel-muds and possessed by brutish construction. In time, the soul is buried by this terrible thing--one of the two must be left behind.</i>
 
@@ -125,7 +125,7 @@ Fame Bonus: 14%
 
 # Vinelocker Fire
 
-![VLF](https://vwiki.valorserver.com/api/item/picture/vinelocker%20fire)
+![VLF](https://i.imgur.com/UU5ZluO.png)
 
 <i>The fabled shield of the long-lost forest titans, wrought of scorched rockwood and tainted by long-charred hexes. A solemn rage awakens in the soul as a memory of hope is smothered by an ancient pyre.</i>
 
@@ -162,7 +162,7 @@ Fame Bonus: 14%
 
 # Vinelocker Water
 
-![VLW](https://vwiki.valorserver.com/api/item/picture/vinelocker%20water)
+![VLW](https://i.imgur.com/WOKWNID.png)
 
 <i>The fabled shield of the long-lost forest titans, clogged with water and creeping with unnatural energies. The tides have overwritten a soulbound prophecy--it has been drowned in malicious neglect.</i>
 
