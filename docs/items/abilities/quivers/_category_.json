@@ -1,0 +1,8 @@
+{
+    "label": "Quivers",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "Quivers are used by Archer, these are all of them"
+    }
+  }
