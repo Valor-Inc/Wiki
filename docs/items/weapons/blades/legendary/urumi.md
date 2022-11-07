@@ -13,7 +13,7 @@ Damage: 185-200
 
 Shots: 3
 
-Rate of Fire: 100%
+Rate of Fire: 110%
 
 Range: 4.6
 
