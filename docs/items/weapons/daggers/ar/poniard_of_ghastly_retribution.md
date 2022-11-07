@@ -137,7 +137,7 @@ Fame Bonus: 15%
 
 # Poniard of Ghastly Retribution Water
 
-![PoGRW](https://vwiki.valorserver.com/api/item/picture/poniard%20of%20ghastly%20retribution%20water)
+![PoGRW](https://i.imgur.com/vDxM5Ov.png)
 
 <i>Forged in the tears of enemies on a full moon.</i>
 
