@@ -42,6 +42,8 @@ MP Cost: 100
 
 Fame Bonus: 14%
 
+**Drops from the Ghost of Skuld in the Haunted Cemetery.**
+    
   </TabItem>
   <TabItem value="Air" label="Air">
 
