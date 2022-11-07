@@ -26,16 +26,16 @@ import TabItem from '@theme/TabItem';
     
 Fame Bonus: 16%
 
-**Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts enemy 1s. The closer you are the more the damage is dealt.**
+***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts enemy 1s. The closer you are the more the damage is dealt.***
 
-**5 Tile: 1000 damage**
+***5 Tile: 1000 damage***
 
-**3 Tile: 2250 damage**
+***3 Tile: 2250 damage***
 
-**2 Tile: 3750 damage.**
+***2 Tile: 3750 damage.***
 
 
-***Drops from Serenity, the Ripper | Public Challenge***
+**Drops from Serenity, the Ripper | Public Challenge**
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -62,15 +62,15 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
 
-**Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.2s. The closer you are the more the damage is dealt.**
+***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.2s. The closer you are the more the damage is dealt.***
 
-**5 Tile: 500 damage**
+***5 Tile: 500 damage***
 
-**3 Tile: 1125 damage**
+***3 Tile: 1125 damage***
 
-**2 Tile: 1875 damage.**
+***2 Tile: 1875 damage.***
 
-***Enchanted Helldom Shell with Ancient Air Rune***
+**Enchanted Helldom Shell with Ancient Air Rune**
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -95,15 +95,15 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
-**Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.6s. The closer you are the more the damage is dealt.**
+***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.6s. The closer you are the more the damage is dealt.***
 
-**5 Tile: 1500 damage**
+***5 Tile: 1500 damage***
 
-**3 Tile: 3375 damage**
+***3 Tile: 3375 damage***
 
-**2 Tile: 5625 damage.**
+***2 Tile: 5625 damage.***
 
-***Enchanted Helldom Shell with Ancient Fire Rune***
+**Enchanted Helldom Shell with Ancient Fire Rune**
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -130,15 +130,15 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
 
-**Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.4s. The closer you are the more the damage is dealt.**
+***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.4s. The closer you are the more the damage is dealt.***
 
-**5 Tile: 1200 damage**
+***5 Tile: 1200 damage***
 
-**3 Tile: 2700 damage**
+***3 Tile: 2700 damage***
 
-**2 Tile: 4500 damage.**
+***2 Tile: 4500 damage.***
 
-***Enchanted Helldom Shell with Ancient Fire Rune***
+**Enchanted Helldom Shell with Ancient Fire Rune**
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -165,15 +165,15 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
 
-**Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts enemy 0.4s. The closer you are the more the damage is dealt.**
+***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts enemy 0.4s. The closer you are the more the damage is dealt.***
 
-**7 Tile: 1000 damage**
+***7 Tile: 1000 damage***
 
-**5 Tile: 2250 damage**
+***5 Tile: 2250 damage***
 
-**3 Tile: 3750 damage.**
+***3 Tile: 3750 damage.***
 
-***Enchanted Helldom Shell with Ancient Water Rune***
+**Enchanted Helldom Shell with Ancient Water Rune**
 
   </TabItem>
 </Tabs>
