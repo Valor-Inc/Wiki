@@ -78,8 +78,8 @@ Ignores defense of target
 **From April Fools 2021**
 
  ## Projectile
- 
-![Popsicleb Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067827363459122/frozen_blades.gif)
+
+![mechs5](https://user-images.githubusercontent.com/114798136/201545285-2d5565bf-ad0e-4c2d-a87b-7b02f19e6f24.png)
 
  </TabItem>
 </Tabs>
