@@ -65,7 +65,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Malignant Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954067969359630376/Slasher.gif)
+![mechs6](https://user-images.githubusercontent.com/114798136/201545200-d3a7df2e-ecda-4734-8e4f-b376372fa446.png)
 
  </TabItem>
 </Tabs>
