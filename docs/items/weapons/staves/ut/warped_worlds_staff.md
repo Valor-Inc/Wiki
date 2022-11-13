@@ -65,5 +65,7 @@ Fame Bonus: No Fame Bonus
 
 ## Projectile
 
+![mechs7](https://user-images.githubusercontent.com/114798136/201545252-797bd50c-7e89-4cd9-bef6-1adc1133c9c0.png)
+
   </TabItem>
 </Tabs>
