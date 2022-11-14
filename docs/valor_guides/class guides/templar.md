@@ -17,7 +17,7 @@ The Templar is a heavy armor lance class that uses banners to support his allies
 
 ![image](https://user-images.githubusercontent.com/114798136/200083388-ec1ebd8f-105c-4d83-9490-fc7211c8c342.png)![image](https://user-images.githubusercontent.com/114798136/200083398-2bd028e4-f474-43a8-bf28-ce08c3676e09.png)
 
-The Elemental Lance and Moon Crescent Halberd offer high damage at a long range 5.4 and 5 respectively. The Elemental Lance has more dmg and range with Halberd having better on equip stats and passive that makes you immune to slow when below 50% MP.
+The Elemental Lance and Moon Crescent Halberd offer high damage at a long range 5.4 and 5 respectively. The Elemental Lance has slighty better range with Halberd having better on equip stats and passive that makes you immune to slow when below 50% MP.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200083915-27185516-c08b-4fa1-a36b-144ab3504a65.png)![image](https://user-images.githubusercontent.com/114798136/200083948-56f015e1-f67d-4cfe-83f6-14cdaf87b23f.png)![image](https://user-images.githubusercontent.com/114798136/200083958-03f179db-3204-480c-b8f1-9074af3e632d.png)
@@ -28,7 +28,7 @@ The Dragonslayer Lance, Ioks Courage, And Zol Trident are lances that exchange r
   
  - With Ioks courage providing the lowest but having excellent equipment stats.
 
-Overall these are good options if you are willing to take the hit to range.
+Overall these are serviceable options if you are willing to take the hit to range.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200084585-06c20737-6c99-446a-b2f2-1490b3ae0b7d.png)
@@ -88,7 +88,7 @@ The Horrific Limb is an odd banner throwing a poison, giving Damaging for 3 seco
 
 **Heavy Armors Generally have high defense with less in other stats**
 
-![image](https://user-images.githubusercontent.com/114798136/200111544-092afe09-6b92-4dcc-a022-341128aa9f68.png)![Righteous](https://vwiki.valorserver.com/api/item/picture/plate%20of%20righteous%20fury)
+![image](https://user-images.githubusercontent.com/114798136/200111544-092afe09-6b92-4dcc-a022-341128aa9f68.png)![Righteous](https://i.imgur.com/gARczWe.png)
 
 
 The Odyssey and Plate of Righteous Fury Are the main DPS armors you'll be using, providing large amounts of luck and might. The Odyssey has slightly more DPS then Fury but loses out on Furys massive 150 HP Bonus. While Fury has a large HP boost the Templars already high HP makes it slightly less appealing then Odyssey. Overall if you want DPS these are great and won't break the bank.
