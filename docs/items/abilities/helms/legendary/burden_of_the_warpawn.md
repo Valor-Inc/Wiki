@@ -17,6 +17,8 @@ Enemy Effect: Within 4 (wismod) sqrs stunned for 2.7 (WisMod) seconds
 
 MP Cost: 200
 
+Cooldown: 8 seconds
+
     +100 Maximum HP
     
     +15 Defense
