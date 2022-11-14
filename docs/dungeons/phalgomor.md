@@ -19,7 +19,7 @@ import TabItem from '@theme/TabItem';
     
  - Wizards Want to utilze the [Page of Catatonia](https://wiki.valorserver.com/docs/items/abilities/spells/ar/page_of_catatonia.md) due to it being able to insta kill most of the minions with enough wisdom.
  
- - Drakz: With this class you pretty much have to ask the pally to perma heal you after you've charged up all your mp this is useful to instantly deal with all the 4x minions but this equipment is required you to wear asc wand , guardian siphon , murak'ul , forgotten zol gem or starmind gauntlet preference is yours as long everyone is safe under the torri charm be aware to make sure the group has pushed phalgomor before killing the minions otherwise the run would risk into failing this class is required to be precise and knowing when to push phalgomor making this class compete with ar spell what only lack is pushing and timing very oft
+ - Drakz: With this class you pretty much have to ask the pally to perma heal you after you've charged up all your mp this is useful to instantly deal with all the 4x minions but this equipment is required you to wear asc wand , guardian siphon , murak'ul , forgotten zol gem or starmind gauntlet preference is yours as long everyone is safe under the torri charm be aware to make sure the group has pushed phalgomor before killing the minions otherwise the run would risk into failing this class is required to be precise and knowing when to push phalgomor making this class compete with ar spell what only lack is pushing and timing very often.
 
  - Necromancers/Mystics Should be utizling the standered triple buff skull/orb set up. 
     
@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
 
 **VINELOCKER**
 
- - Knight: you're pretty much almost invincible at this point, but stay with your group until deathdream you can actually keep phalgomor in middle as long you don't take as much damage from it also keep it from dragging to players as they're trying to search for shades to prevent from being dragged. In this case this is a much more efficient way to do deathdream while the other players are eliminating all 3 shades and end phalgom
+ - Knight: you're pretty much almost invincible at this point, but stay with your group until deathdream you can actually keep phalgomor in middle as long you don't take as much damage from it also keep it from dragging to players as they're trying to search for shades to prevent from being dragged. In this case this is a much more efficient way to do deathdream while the other players are eliminating all 3 shades and end phalgomor.
 
 **EXTRA: You may choose to provide from the 3 above except host.**
 
