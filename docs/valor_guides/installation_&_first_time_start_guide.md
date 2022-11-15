@@ -1,9 +1,11 @@
 ---
 sidebar_position: 7
-Title: "Installation & First Time Start Guide"
+Title: Installation & First Time Start Guide
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+
+# Installation & First Time Start Guide
 
 <Tabs>
   <TabItem value= "Installation & First Time Start Guide" label="Installation & First Time Start Guide" default>
