@@ -1,13 +1,13 @@
 ---
 sidebar_position: 7
-Title: Installation & First Time Start Guide
+Title: "Installation & First Time Start Guide"
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value= "Installation & First Time Start Guide" label="Installation & First Time Start Guide" default>
-    
+
 ## **WITH AUTO-UPDATER**
 
 - Download the Client from [here](https://api.valorserver.com/api/launcher)
@@ -30,7 +30,7 @@ Extraction GIF:
 
   </TabItem>
   <TabItem value="Common Problems" label="Common Problems">
-    
+
 ## **Common Problems**
 
 **AUTO-UPDATER**
