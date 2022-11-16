@@ -7,7 +7,7 @@ description: "The Gauntlet of Chaos"
 
 ![Chaos](http://i.imgur.com/d8MiItG.png)
 
-<i>Nos ad delendam...</i>**("We are to destroy...")**
+*Nos ad delendam...* **("We are to destroy...")**
 
     +130 Maximum MP
     
