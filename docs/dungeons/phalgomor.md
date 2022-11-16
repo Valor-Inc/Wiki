@@ -9,7 +9,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Important Role Information" label="Important Role Information" default>
+  <TabItem value="Imporant Role Information" label="Important Role Information" default>
 
 # IMPORTANT
 ### T4 Phalgomor needs 3 variant roles for a clean and easy run.
