@@ -7,7 +7,7 @@ description: "The Gauntlet of Mayhem"
 
 ![mayhem](http://i.imgur.com/4qiS7JN.png)
 
-<i>Venimus ut vinceret...</i> **("We came to win...")**
+*Venimus ut vinceret...* **("We came to win...")**
 
     +130 Maximum HP
     
