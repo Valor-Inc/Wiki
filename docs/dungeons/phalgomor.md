@@ -2,6 +2,7 @@
 sidebar_position: 6
 title: Phalgomor
 description: "The Phalgomor Trial Guide. Credit: (Voidentity)"
+icon: "https://user-images.githubusercontent.com/114798136/202235193-49fa2c89-e88b-45f4-9f40-91567ef96322.png"
 ---
 
 import Tabs from '@theme/Tabs';
