@@ -155,14 +155,12 @@ Other than that the map will become pitch dark black and phalgomor will thank yo
 
 </TabItem>
 <TabItem value="Item Drops" label="Item Drops">
-  
-  
+
 ## Phalgomor, the Myth-a-Weave
 
-  
 Phalgomor, the Myth-a-Weave   |  Item Drops
 :-------------------------:|:-------------------------:
-![Phalgomor](https://cdn.discordapp.com/attachments/953134990428868629/1023055816502300732/unknown.png)  | [![MoTH](https://vwiki.valorserver.com/api/item/picture/master%20of%20the%20house)](https://wiki.valorserver.com/docs/items/rings/legendary/master_of_the_house) [![Kiskiorab](https://vwiki.valorserver.com/api/item/picture/kiskorab)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/kiskiorab) [![Aspect](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)](https://wiki.valorserver.com/docs/items/misc/aspects/)
+![Phalgomor](https://user-images.githubusercontent.com/114798136/202235193-49fa2c89-e88b-45f4-9f40-91567ef96322.png) | [![MoTH](https://vwiki.valorserver.com/api/item/picture/master%20of%20the%20house)](https://wiki.valorserver.com/docs/items/rings/legendary/master_of_the_house) [![Kiskiorab](https://vwiki.valorserver.com/api/item/picture/kiskorab)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/kiskiorab) [![Aspect](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)](https://wiki.valorserver.com/docs/items/misc/aspects/) [![Philo](https://vwiki.valorserver.com/api/item/picture/philosopher%20stone)](https://wiki.valorserver.com/docs//items/misc/philosophers_stone/) [![shard](https://vwiki.valorserver.com/api/item/picture/shard%20of%20cosmic%20collapse)](https://wiki.valorserver.com/docs//items/misc/shards/) [![shard2](https://vwiki.valorserver.com/api/item/picture/shard%20of%20the%20grand%20challenge)](https://wiki.valorserver.com/docs//items/misc/shards/)
   
 </TabItem>
 </Tabs>
