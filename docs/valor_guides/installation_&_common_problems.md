@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 # Installation & Common Problems
 
 <Tabs>
-  <TabItem value= "Installation & First Time Start Guide" label="Installation & First Time Start Guide" default>
+  <TabItem value= "Installation" label="Installation" default>
 
 ## **WITH AUTO-UPDATER**
 
