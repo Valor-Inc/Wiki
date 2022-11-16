@@ -1,27 +1,27 @@
 ---
 sidebar_position: 7
-Title: Installation & First Time Start Guide
+Title: Installation & Common Problems
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Installation & First Time Start Guide
+# Installation & Common Problems
 
 <Tabs>
   <TabItem value= "Installation & First Time Start Guide" label="Installation & First Time Start Guide" default>
 
 ## **WITH AUTO-UPDATER**
 
-- Download the Client from [here](https://api.valorserver.com/api/launcher)
+- Download the Client from [here](https://api.valorserver.com/api/launcher).
 - Extract ALL files into a folder.
-- Double Click ValorAutoUpdater.Exe 
+- Double Click *ValorAutoUpdater.Exe*
 - Click Update and watch the bar fill up.
 - Once the bar is filled up, click it again to launch Valor.
-- Once generated you may enter the Valor folder and run Valor.exe if this is quicker.
+- Once generated you may enter the Valor folder and run *Valor.exe* if this is quicker.
 
 ## **STANDALONE CLIENT**
 
-- Download the Client from [here](https://api.valorserver.com/api/download)
+- Download the Client from [here](https://api.valorserver.com/api/download).
 
 - Extract ALL files into a folder
 - Open the folder containing the extracted files
@@ -59,7 +59,7 @@ Extraction GIF:
 
 We do not have native Mac or Linux ports, but there has been success stories running Valor under wine. 
 
-Read more [here.](https://blog.valorserver.com/valor-on-macos/)
+If on Mac you can read more [here.](https://blog.valorserver.com/valor-on-macos/), For Linux users you can simply install Wine via your distros packge manger; Install vc++ and you'll be running no problems.
     
   </TabItem>
 </Tabs>
