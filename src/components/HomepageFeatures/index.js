@@ -31,7 +31,7 @@ const FeatureList = [
         You may find dungeon guides here. Dungeon guides are a great way to learn content. You can learn more about Ascended Dungeons and Valors endgame content known as Raids.
       </>
     ),
-    buttonLink: '/docs/category/dungeons',
+    buttonLink: '/docs/category/dungeon-guides',
   },
 ];
 
