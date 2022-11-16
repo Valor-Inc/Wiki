@@ -2,7 +2,6 @@
 sidebar_position: 6
 title: Phalgomor
 description: "The Phalgomor Trial Guide. Credit: (Voidentity)"
-icon: 📦
 ---
 
 import Tabs from '@theme/Tabs';
