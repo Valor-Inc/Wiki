@@ -90,9 +90,9 @@ Damage: 1350-1525
 
 Shots: 1
 
-Rate of Fire: 4
+Rate of Fire: 70%
 
-Range: 70%
+Range: 4
 
 Shots hit multiple targets
 
