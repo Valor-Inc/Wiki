@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 Title: Installation & Common Problems
+description: "Installation Help & Fixes to Common Problems"
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
