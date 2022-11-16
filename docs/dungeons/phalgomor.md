@@ -37,13 +37,11 @@ import TabItem from '@theme/TabItem';
     
  - Shrine's Want to be using [Charm of the Undead Horde](https://wiki.valorserver.com/docs/items/abilities/charms/legendary/charm_of_the_undead_horde.md) for the majority of the fight due to its massive stun radius.
     
- - [Necromancy Charm](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
+    - [Necromancy Charm](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
 
 **VINELOCKER**
 
  - Knight: you're pretty much almost invincible at this point, but stay with your group until deathdream you can actually keep phalgomor in middle as long you don't take as much damage from it also keep it from dragging to players as they're trying to search for shades to prevent from being dragged. In this case this is a much more efficient way to do deathdream while the other players are eliminating all 3 shades and end phalgomor.
-
-**EXTRA: You may choose to provide from the 3 above except the host.**
 
 
 </TabItem> 
@@ -58,7 +56,7 @@ Upon entering with your party prepared. The room will be dark, very dark.. there
 ## 1ST PHASE
 There's only 2 intermissions needed to activate hardmode which is making him fall twice before dealing with mini's or instakilling them.
 
-At 1st phase he will summon all the mini's dps and will have ar spell air in their party spellbomb before insta killing or pushing them back to 2nd phase to follow up hardmode.
+At 1st phase he will summon all the mini's dps and you should have the AR spell in your party spellbomb before insta killing or pushing them back to 2nd phase to follow up hardmode.
 
 ![1st](https://user-images.githubusercontent.com/114798136/196879843-8fc9ef16-6dfc-4e30-bd9e-3c93154adfd5.png)
 
