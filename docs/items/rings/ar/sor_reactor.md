@@ -65,7 +65,7 @@ Fame Bonus: 16%
 
 **300 Frags: Grants +1 Lifesteal, +1 Manasteal**
 
-**600 Frags: 5% Rate of Fire Regen**
+**600 Frags: 5% Rate of Fire**
 
 **1000 Frags: Slowed is 50% less effective**
 
