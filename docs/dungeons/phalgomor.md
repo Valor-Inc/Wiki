@@ -8,42 +8,40 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Important Role Infomation" label="Important Role Infomation" default>
+  <TabItem value="Important Role Information" label="Important Role Information" default>
 
 # IMPORTANT
 ### T4 Phalgomor needs 3 variant roles for a clean and easy run.
     
 *All roles excluding Shrine Maiden NEED to be 24/24 and fully noded*
 
-**DPS: Any sor reactor combo can be dps as long you have an ar wizard spell user.**
+**DPS: Any sor reactor combo can be dps as long as you have an ar wizard spell user.**
     
- - Wizards Want to utilze the [Page of Catatonia](https://wiki.valorserver.com/docs/items/abilities/spells/ar/page_of_catatonia.md) due to it being able to insta kill most of the minions with enough wisdom.
+ - Wizards Want to utilize the [Page of Catatonia](https://wiki.valorserver.com/docs/items/abilities/spells/ar/page_of_catatonia.md) due to it being able to insta kill most of the minions with enough wisdom.
  
- - Drakz: With this class you pretty much have to ask the pally to perma heal you after you've charged up all your mp this is useful to instantly deal with all the 4x minions but this equipment is required you to wear asc wand , guardian siphon , murak'ul , forgotten zol gem or starmind gauntlet preference is yours as long everyone is safe under the torri charm be aware to make sure the group has pushed phalgomor before killing the minions otherwise the run would risk into failing this class is required to be precise and knowing when to push phalgomor making this class compete with ar spell what only lack is pushing and timing very often.
+ - **(ONLY RECOMMEND IF EXPERIENCED IN PHALGOMOR AND CHARING)** Drakz: With this class you pretty much have to ask the pally to perma heal you after you've charged up all your mp this is useful to instantly deal with all the 4x minions but this equipment is required you to wear [Ascended Creation Wand](https://wiki.valorserver.com/docs/items/weapons/wands/ut/wand_of_the_ascended_creations) , [The Guardian Siphon](https://wiki.valorserver.com/docs/items/abilities/siphons/legendary/guardian_siphon) , [Murak'ul](https://wiki.valorserver.com/docs/items/armors/robes/legendary/whispers_of_murakul) , [The Forgotten Zol Gem/Master Of The House](https://wiki.valorserver.com/docs/items/rings/legendary/master_of_the_house) or [The Starmind Gauntlet](https://wiki.valorserver.com/docs/items/rings/legendary/starmind_gauntlet) the preference is yours as long everyone is safe under the torri charm be aware to make sure the group has pushed phalgomor before killing the minions otherwise the run would risk into failing this class is required to be precise and knowing when to push phalgomor making this class compete with ar spell what only lack is pushing and timing very often.
 
- - Necromancers/Mystics Should be utizling the standered triple buff skull/orb set up. 
+ - Necromancers/Mystics Should be utilizing the standard triple buff skull/orb set up. 
     
- - Mechaincs and Ninjas while having the highest dps are at a severe disadtavge due to lack of range; Mechs should use [Orbis Terrae](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/orbis_terrae) or [The Moon Crescent Halbard](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/moon_crescent_halberd) over the AR lance, With Ninja's using [Mythical Alliance](https://wiki.valorserver.com/docs/items/weapons/weapons/katanas/legendary/katana_of_mythical_alliance).
+ - Mechanics and Ninjas while having the highest dps are at a severe disadvantage due to lack of range; Mechs should use [Orbis Terrae](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/orbis_terrae) or [The Moon Crescent Halbard](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/moon_crescent_halberd) over the AR lance, With Ninja's using [Mythical Alliance](https://wiki.valorserver.com/docs/items/weapons/weapons/katanas/legendary/katana_of_mythical_alliance).
     
- - The Bows while providing good dps at a range are outclassed by the dps classes which provide far more dmg/utilty; However if you must Archers should have [Ulgurs Quiver](https://wiki.valorserver.com/docs/items/abilities/quivers/fabled/ulgurs_spectral_quiver) To act as weaken. The Huntress and Spirt Hunter sadly don't have any usefull debuffs. 
+ - The Bows while providing good dps at a range are outclassed by the dps classes which provide far more dmg/utility; However if you must Archers should have [Ulgurs Quiver](https://wiki.valorserver.com/docs/items/abilities/quivers/fabled/ulgurs_spectral_quiver) To act as weaken. The Huntress and Spirt Hunter sadly don't have any useful debuffs. 
 
 **SUPPORTS: Templar, Pally or Necro.**
     
  - Templar's Should use ethier the [Kraken Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/banner_of_the_furious_kraken) For the party MP Boost or [Banner of Last Resort](https://wiki.valorserver.com/docs/items/abilities/banners/legendary/banner_of_last_resort)/[Victorious Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/victorious_banner) For their higher radius.
  
- - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confident to not need the heals.
+ - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confident that they do not need the heals.
 
 **Shrine Maiden** ***THIS IS A HIGH PRIORITY CLASS AND CHEAP WITH MLEECH***
     
- - Shrine's Want to be using [Charm of the Undead Horde](https://wiki.valorserver.com/docs/items/abilities/charms/legendary/charm_of_the_undead_horde.md) for the marjorty of the fight due to its massive stun raduis.
+ - Shrine's Want to be using [Charm of the Undead Horde](https://wiki.valorserver.com/docs/items/abilities/charms/legendary/charm_of_the_undead_horde.md) for the majority of the fight due to its massive stun radius.
     
- - [Necromancy Charm](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
+    - [Necromancy Charm](https://wiki.valorserver.com ) Should be used during hardmode for its weaken effect.
 
 **VINELOCKER**
 
  - Knight: you're pretty much almost invincible at this point, but stay with your group until deathdream you can actually keep phalgomor in middle as long you don't take as much damage from it also keep it from dragging to players as they're trying to search for shades to prevent from being dragged. In this case this is a much more efficient way to do deathdream while the other players are eliminating all 3 shades and end phalgomor.
-
-**EXTRA: You may choose to provide from the 3 above except host.**
 
 
 </TabItem> 
@@ -52,19 +50,19 @@ import TabItem from '@theme/TabItem';
 # Pre Deathdream
   
 ## START
-Upon entering with your party prepared. The room will be dark very dark.. there are candles to light over the map walk over them but before you do don't walk out on this one as this post deathdream is the circle arena. begin to summon your party first and then light all candles to begin the fight, once you have awaken him bring everyone to the bottom side to fight. (Make sure to keep your toe on the circle arena as a shadow can chase after you. Make sure to go back in the purple tiles in this arena)
+Upon entering with your party prepared. The room will be dark, very dark.. there are candles to light over the map walk over them but before you do don't walk out on this one as this post deathdream is the circle arena. begin to summon your party first and then light all candles to begin the fight, once you have awaken him bring everyone to the bottom side to fight. (Make sure to keep your toe on the circle arena as a shadow can chase after you. Make sure to go back in the purple tiles in this arena)
 
 ![image](https://user-images.githubusercontent.com/114798136/197919721-d13d142f-06de-48a6-8f16-079106c39f58.png)
 ## 1ST PHASE
-There's only 2 intermission needed to activate hardmode which is making him fall twice before dealing with mini's or instakilling them.
+There's only 2 intermissions needed to activate hardmode which is making him fall twice before dealing with mini's or instakilling them.
 
-At 1st phase he will summon all the mini's dps and will have ar spell air in their party spellbomb before insta killing or pushing them back to 2nd phase to follow up hardmode.
+At 1st phase he will summon all the mini's dps and you should have the AR spell in your party spellbomb before insta killing or pushing them back to 2nd phase to follow up hardmode.
 
 ![1st](https://user-images.githubusercontent.com/114798136/196879843-8fc9ef16-6dfc-4e30-bd9e-3c93154adfd5.png)
 
 
 ### PROGRESS
-Everyone should be letting in the minis teleport to the group to get stunned from the toris make sure to spawn it after they've spawned next to it. Do not panic as this will draw attention to all minis and will get stunned in the process except plant weaver he will decide where to teleport and attack as he isnt very threatful careful with wizard/plant weaver purple shots as they can quiet your party for 10 seconds or less.
+Everyone should be letting in the minis teleport to the group to get stunned from the toris make sure to spawn it after they've spawned next to it. Do not panic as this will draw attention to all minis and will get stunned in the process except plant weaver he will decide where to teleport and attack as he isn't very threatful, careful with wizard/plant weaver purple shots as they can quiet your party for 10 seconds or less.
 
 ![1.5](https://user-images.githubusercontent.com/114798136/196879944-2d37aafb-e0ba-422d-8058-efa3497a5d29.png)
 
@@ -80,7 +78,7 @@ The Dps will spellbomb/push him again and then back to focus on pushing them bac
 ![2.5](https://user-images.githubusercontent.com/114798136/196880055-81a57359-b810-4b10-9085-c51dd877a8f0.png)
 
 
-Once they're dealt with he can push to 3rd phase.
+Once they're dealt with he can push to the 3rd phase.
 
 
 
@@ -89,7 +87,7 @@ Once they're dealt with he can push to 3rd phase.
 ![3rd](https://user-images.githubusercontent.com/114798136/196880129-c32bd7b1-4db4-42cd-82d3-4ad7d885aa2d.png)
 
 
-DPS or anyone should not damage him as he will always be shooting regardless as for this is not needed.
+DPS or anyone should not damage him as he will always be shooting regardless as this is not needed.
 
 **After pushing him to 3rd phase all the remaining mini's will become voided requiring you to kill the leftovers.**
 
@@ -107,7 +105,7 @@ but they're like a lock, so you can kill the wizard and the fight ends.
 
 ![4th](https://user-images.githubusercontent.com/114798136/196880214-d35e94bb-12ed-4a90-9075-d5939a94d755.png)
  
-At this point the dungon get's ALOT harder and more dangrous procced with caution at every point.
+At this point the dungeon get's ALOT harder and more dangerous proceed with caution at every point.
 
 The boss fight starts when there's a red dot in the map and to activate boss there an tile activation to the bottom right go there to begin the fight
 
@@ -126,21 +124,21 @@ YOU need to be quick before anything else and back out, also look at your mini m
 ![5](https://user-images.githubusercontent.com/114798136/196880404-ccccd205-5c88-49ce-8ad9-fc1fc36ddb3f.png)
 
 Once he finish doing that you'll have to find 3 different types of shades throughout the map
-they appear from inner, middle outer, and then outer they will spawn glowing they dont do anything but rotate slowly 
+they appear from inner, middle outer, and then outer they will spawn glowing they don't do anything but rotate slowly 
     
-**SHADES ARE NOT IMMUNE TO STASIS MYSTICS WILL NEED TO FOUCS EXTRA WHEN USING THEIR ORB TO NOT SLOW THE RUN DOWN**
+**SHADES ARE NOT IMMUNE TO STASIS MYSTICS WILL NEED TO FOCUS EXTRA WHEN USING THEIR ORB TO NOT SLOW THE RUN DOWN**
 
-**DONT INSTA THE LAST SHADE THAT IS OUTER IT WILL BREAK THE BOSS AND THE FIGHT WONT END AT ALL.**
+**DON'T INSTANT THE LAST SHADE THAT IS OUTER IT WILL BREAK THE BOSS AND THE FIGHT WONT END AT ALL.**
 
 Phalgomor will also spawn 2 orbs at the furthest player possible during the fight.
 
 ![6](https://user-images.githubusercontent.com/114798136/196880455-43dc5403-e633-4650-9282-54726a1c8f31.png)
 
-Once you've manage to kill all 3 shades you can now properly attack phalgomor until the group has dealt 10% of his hp and the fight ends.
+Once you've managed to kill all 3 shades you can now properly attack phalgomor until the group has dealt 10% of his hp and the fight ends.
 
 Be aware of phalgomor chase attacks you might need to slow him or use a speedy sprout at all cost.
 
-Its best for ranged classes to take him down or an vinelocker knight.
+It's best for ranged classes to take him down or a vinelocker knight.
 
 Orbs and phalgomor can be slowed to make things easier as well.
 
@@ -155,14 +153,12 @@ Other than that the map will become pitch dark black and phalgomor will thank yo
 
 </TabItem>
 <TabItem value="Item Drops" label="Item Drops">
-  
-  
+
 ## Phalgomor, the Myth-a-Weave
 
-  
 Phalgomor, the Myth-a-Weave   |  Item Drops
 :-------------------------:|:-------------------------:
-![Phalgomor](https://cdn.discordapp.com/attachments/953134990428868629/1023055816502300732/unknown.png)  | [![MoTH](https://vwiki.valorserver.com/api/item/picture/master%20of%20the%20house)](https://wiki.valorserver.com/docs/items/rings/legendary/master_of_the_house) [![Kiskiorab](https://vwiki.valorserver.com/api/item/picture/kiskorab)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/kiskiorab) [![Aspect](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)](https://wiki.valorserver.com/docs/items/misc/aspects/)
+![Phalgomor](https://user-images.githubusercontent.com/114798136/202235193-49fa2c89-e88b-45f4-9f40-91567ef96322.png) | [![MoTH](https://vwiki.valorserver.com/api/item/picture/master%20of%20the%20house)](https://wiki.valorserver.com/docs/items/rings/legendary/master_of_the_house) [![Kiskiorab](https://vwiki.valorserver.com/api/item/picture/kiskorab)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/kiskiorab) [![Aspect](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)](https://wiki.valorserver.com/docs/items/misc/aspects/) [![Philo](https://vwiki.valorserver.com/api/item/picture/philosopher%20stone)](https://wiki.valorserver.com/docs//items/misc/philosophers_stone/) [![shard](https://vwiki.valorserver.com/api/item/picture/shard%20of%20cosmic%20collapse)](https://wiki.valorserver.com/docs//items/misc/shards/) [![shard2](https://vwiki.valorserver.com/api/item/picture/shard%20of%20the%20grand%20challenge)](https://wiki.valorserver.com/docs//items/misc/shards/)
   
 </TabItem>
 </Tabs>
