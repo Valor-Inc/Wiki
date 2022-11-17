@@ -10,7 +10,7 @@ description: "Frequently Asked Questions... And Answers!"
 
 # Q: Why game no work?????
 
-### A: The game does! Check out the soloutions in [Common Problems](coomon).
+### A: The game does! Check out the soloutions in [Common Problems](https://github.com/Valor-Inc/Wiki/blob/main/docs/valor_guides/class%20guides/templar.md).
 
 # Q: How do I get gold fast?
 
