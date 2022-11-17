@@ -67,7 +67,7 @@ Extraction GIF:
 
 We do not have native Mac or Linux ports, but there has been success stories running Valor under wine. 
 
-If on Mac you can read more [here.](https://blog.valorserver.com/valor-on-macos/), For Linux users you can simply install Wine via your distros packge manger; Install vc++ and you'll be running no problems.
+If on Mac you can read more [here](https://blog.valorserver.com/valor-on-macos/), For Linux users you can simply install Wine via your distros packge manger; Install vc++ and you'll be running no problems.
     
   </TabItem>
 </Tabs>
