@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Larry Gun
+description: "The Larry Gun"
 ---
 
 import Tabs from '@theme/Tabs';
