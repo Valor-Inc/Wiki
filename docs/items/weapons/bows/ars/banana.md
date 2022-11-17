@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Bananalivion
+description: "The Bannalivion"
 ---
 
 import Tabs from '@theme/Tabs';
