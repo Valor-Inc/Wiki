@@ -29,9 +29,9 @@ import TabItem from '@theme/TabItem';
 
 - Download the Client from [here](https://api.valorserver.com/api/download).
 
-- Extract ALL files into a folder
+- Extract ALL files into a folder.
     
-- Open the folder containing the extracted files
+- Open the folder containing the extracted files.
 
 Extraction GIF: 
 
