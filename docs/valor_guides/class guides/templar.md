@@ -84,6 +84,10 @@ The Banner of the Furious Kraken (Commonly referred to as kraken banner) Is the 
 The Horrific Limb is an odd banner throwing a poison, giving Damaging for 3 seconds and Invulnerable for 0.75 seconds on a cooldown of 3 seconds; This ironically gives it the highest uptime of DPS buffs and Invulnerable but due to its poison you will need Mana Leech to use it properly.
 
 
+![image](https://vwiki.valorserver.com/api/item/picture/iok's%20relief)
+
+Once again an odd choice Iok's Relief provides the same empowered raduis as the Victory Banner with 1.5/3 seconds of Invulnerable/Healing meaning it could be used as a "High End" replacement/upgrade; But this banners real potential comes from the massive +200 Protection, While it is good on its own combiend with other gear that gives large amounts of prot and Ascpet of Terra you can create a surprisingly powerful build for survivability.
+
 # Heavy Armors
 
 **Heavy Armors Generally have high defense with less in other stats**
