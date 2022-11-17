@@ -1,5 +1,4 @@
 ---
-sidebar_position: 11
 Title: FAQ
 description: "Frequently Asked Questions... And Answers!"
 ---
