@@ -38,8 +38,6 @@ Fame Bonus: 16%
 
 **Craftable with Sor Nucleus and Protagonite Chassis | Drops from Mad Lab
 
-***1/134345642 Drop Rate***
-
   </TabItem>
   <TabItem value="Air" label="Air">
 
