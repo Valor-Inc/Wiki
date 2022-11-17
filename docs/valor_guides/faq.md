@@ -36,4 +36,4 @@ description: "Frequently Asked Questions... And Answers!"
 
 ### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any robe, wand, and ring equipped, having only the item being checked on in question.
 
-# More FAQs will be made in the future.
+# More FAQs will be Added.
