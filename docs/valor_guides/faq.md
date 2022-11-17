@@ -1,9 +1,8 @@
 ---
-sidebar_position: 12
+sidebar_position: 11
 Title: FAQ
 description: "Frequently Asked Questions... And Answers!"
 ---
-
 # FAQ
 
 # Q: What is the best class?
