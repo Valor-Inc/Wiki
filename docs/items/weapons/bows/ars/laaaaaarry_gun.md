@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: LAAAAAARRY Gun
+description: "The LAAAAAARRY Gun"
 ---
 
 import Tabs from '@theme/Tabs';
