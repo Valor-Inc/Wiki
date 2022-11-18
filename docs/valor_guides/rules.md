@@ -7,11 +7,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Start" label="Start" default>
-
-**Any decision by a moderator is final. They may ban/punish for reasons not stated here, if they feel your intent is to be destructive or harmful to the server and/or the community. Rules are also subject to change at any time.**
-
-</TabItem>
 <TabItem value="General" label="General" default>
 
 # General 
@@ -28,7 +23,7 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 <TabItem value="In Game" label="In Game" default>
-  
+
 # In Game
 
  - Exploiting of any kind is **NOT** tolerated.
@@ -48,7 +43,7 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 <TabItem value="Discord And In Game Chat" label="Discord And In Game Chat" default>
-  
+
 # Discord And In Game Chat
 
  - Until the Discord bot handles Notification Squad, double pings will result in 3 strikes.
