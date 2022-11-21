@@ -6,7 +6,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-<TabItem value="In Game" label="In Game default>
+<TabItem value="In Game" label="In Game" default>
 
 # FAQ
 
