@@ -6,10 +6,11 @@ description: "Frequently Asked Questions... And Answers!"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+# FAQ
+
 <Tabs>
   <TabItem value="In Game" label="In Game" default>
 
-# FAQ
 
 # Q: What is the best class?
 
