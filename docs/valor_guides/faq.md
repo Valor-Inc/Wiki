@@ -2,6 +2,12 @@
 Title: FAQ
 description: "Frequently Asked Questions... And Answers!"
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="In Game" label="In Game default>
+
 # FAQ
 
 # Q: What is the best class?
@@ -37,3 +43,23 @@ description: "Frequently Asked Questions... And Answers!"
 ### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any robe, wand, and ring equipped, having only the item being checked on in question.
 
 # More FAQs will be Added.
+
+  </TabItem>
+ <TabItem value="Wiki label="Wiki">
+
+# Wiki FAQ
+
+# Q: THERES A MISSPELLING/WRONG STATS!!!!
+
+### A: Well thats a prolbem luckly it can easlity be fixed, Check [Here](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki).
+
+# Q: Why doesnt this page exist/Wiki should have this!
+
+### A: The Valor wiki is currently still in its early stages and might not have the exact thing your looking for like raid/class guides, But you can add those pages yourself [here](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki) or if you dont want to do that you can follow the steps to make an issue and instead click suggestion and somone will try to get it added (If reasonable)
+
+# Q: Wiki bad.
+
+### A: Then improve it by editing or telling editors about mistakes the wiki is a commuinty effort that needs more then just "Wiki Bad." to improve it.
+
+ </TabItem>
+</Tabs>
