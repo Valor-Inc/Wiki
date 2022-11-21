@@ -156,7 +156,8 @@ You can access the Marketplace GUI by talking to the Human NPCs within the marke
 
 Public Challenges are difficult and rewarding bosses summoned by the use of 5 Insignias of Valor in the Nexus. You can check the current number of active Insignia's with the '/cc' command. Once all 5 Insignia's are popped an announcement will be sent to the Notification Squad in the Valor Discord and the following message sent to all players currently in-game:  
 
-    <Sidon, the Dark Elder> Very Impressive. Let's see what your acts of valor have earned you this time.
+   [<Sidon, the Dark Elder> Very Impressive. Let's see what your acts of valor have earned you this time.](yellow)
+
 
 ## Malgor, the Eternal Fiend
 
