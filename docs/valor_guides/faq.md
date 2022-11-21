@@ -51,7 +51,7 @@ import TabItem from '@theme/TabItem';
 
 # Q: THERES A MISSPELLING/WRONG STATS!!!!
 
-### A: Well thats a prolbem luckly it can easlity be fixed, Check [Here](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki).
+### A: Well thats a problem luckly it can easlity be fixed, Check [Here](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki).
 
 # Q: Why doesnt this page exist/Wiki should have this!
 
