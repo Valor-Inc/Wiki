@@ -59,6 +59,7 @@ import TabItem from '@theme/TabItem';
  
  - Harassment of other users will **NOT** be tolerated. This includes threats, repetitive name calling, or harassment of a person's family and/or personal life.
 
+ - Anyone caught redistributing the testing client to non donors will forfeit their rank/and or risk a ban.
 
 </TabItem>
 <TabItem value="Discord And In Game Chat" label="Discord And In Game Chat" default>
@@ -111,6 +112,51 @@ import TabItem from '@theme/TabItem';
 
 ### Reason
  - This was a frequent problem across 2021, and was a major problem in the last few months. These don't fit well in our current vouch and tracking system, and open up the traders to multiple opportunities for something to go awry. It's almost impossible for us to keep track of what was paid, and overall does not seem to work in our ecosystem based on the amount of problems.
+
+</TabItem>
+<TabItem value="In Game" label="In Game" default>
+
+# Refund
+
+**Must have a first-person recording of what happened.**
+**You are limited to a maximum of two approved refunds within a 30 day period. When opening a refund ticket be extremely careful about what you want to have refunded, tiered items are worse to refund than a character with legendary item's/ancient relic's.**
+ 
+ Refunds will only be for Server related issues. This is including but not limited to:
+
+    - Frame skipping due to high stressed instances. This will NOT be "I frame skipped two tiles and died, i would have survived!"
+
+    - Server crashing and rollbacks (specific instances, will be determined when it happens, and this is specifically due to the server crashing, not you crashing. Very different scenarios.)
+
+    - Bugs that have to do with behaviors of certain mobs. This will NOT be a "oryx dashed to me and killed me in 0 seconds I had no time to react" or "i was sitting on oryx and suddenly i instantly died", this will be limited to stacked shots and misc, Things like Zaragon or raids.
+
+
+Refunds will NOT be for the following:
+ 
+    - Internet/PC issues that cause you to die.
+
+    - Dragging deaths. The person dragging can be punished, but you will not receive a refund. It is your responsibility to not leech/AFK in a spot you are not safe in.
+
+    - Suggestively fabricated scenarios different from the one that transpired in your death. Some people think they're real slick trying to get refunds for mistakes that are not our fault. This happens a lot, if you don't nexus or you panic and die, this still doesn't make the refund valid, it just shows a lack of effort in wanting to live. Risk versus reward.
+
+    - Sob stories about how you know you don't have a video to back up the claim yet you swear that it happened. These will be instantly ignored.
+
+    - Hacked accounts. This is due to one of three things, the first one being it's our fault and the database is leaked, which will never happen. Second being that you used your password and email from another website or private server that was stolen from their database. Third being that you actually have a really bad password and it was easily brute forced. Please choose a respectable password and do not re-use your passwords anywhere else.
+
+    - AFK or tabbed out deaths.
+
+    - Purposefully sitting on mobs and dying.
+
+    - Not having a first-person recording of what happened.
+
+# Misc Refund Rules
+
+ - Lies, misleading statements, or edited clips will result in a permanent ban both in-game and Discord.
+ - You should not be making a refund ticket for every death. We will limit you if we feel it is excessive or spam.
+ - Refunds are not quick business. You are asking us to revive your character from the dead. Be prepared to wait.
+ - Refunds for deaths must be made within the first five days. Refund for everything else such as items is two weeks.
+ - Referencing another refund ticket/user or clip as supporting evidence for why you should be refunded will instantly result in a deny.
+ - Abuse or verbal harassment of the moderation team inside of tickets will result in a mute/ticket-ban, and other escalating punishments.
+ - Opening more refund ticket's after having two already approved will result in a ticket-ban.
 
 </TabItem>
 </Tabs>
