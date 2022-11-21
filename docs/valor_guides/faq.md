@@ -44,7 +44,7 @@ import TabItem from '@theme/TabItem';
 ### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any robe, wand, and ring equipped, having only the item being checked on in question.
 
   </TabItem>
-  <TabItem value="Wiki label="Wiki">
+  <TabItem value="Wiki" label="Wiki">
 
 # Wiki FAQ
 
