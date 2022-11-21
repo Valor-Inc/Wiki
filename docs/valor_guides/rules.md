@@ -114,7 +114,7 @@ import TabItem from '@theme/TabItem';
  - This was a frequent problem across 2021, and was a major problem in the last few months. These don't fit well in our current vouch and tracking system, and open up the traders to multiple opportunities for something to go awry. It's almost impossible for us to keep track of what was paid, and overall does not seem to work in our ecosystem based on the amount of problems.
 
 </TabItem>
-<TabItem value="In Game" label="In Game" default>
+<TabItem value="Refunds" label="Refunds" default>
 
 # Refund
 
