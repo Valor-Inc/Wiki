@@ -2,11 +2,12 @@
 Title: FAQ
 description: "Frequently Asked Questions... And Answers!"
 ---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-<TabItem value="In Game" label="In Game" default>
+  <TabItem value="In Game" label="In Game" default>
 
 # FAQ
 
@@ -42,10 +43,8 @@ import TabItem from '@theme/TabItem';
 
 ### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any robe, wand, and ring equipped, having only the item being checked on in question.
 
-# More FAQs will be Added.
-
-</TabItem>
-<TabItem value="Wiki label="Wiki">
+  </TabItem>
+  <TabItem value="Wiki label="Wiki">
 
 # Wiki FAQ
 
@@ -61,5 +60,6 @@ import TabItem from '@theme/TabItem';
 
 ### A: Then improve it by editing or telling editors about mistakes the wiki is a commuinty effort that needs more then just "Wiki Bad." to improve it.
 
-</TabItem>
+  </TabItem>
 </Tabs>
+                                                                                                                                     
