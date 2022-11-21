@@ -1,5 +1,5 @@
 ---
-Title: FAQ
+title: FAQ
 description: "Frequently Asked Questions... And Answers!"
 ---
 
