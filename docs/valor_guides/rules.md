@@ -90,7 +90,7 @@ import TabItem from '@theme/TabItem';
 
 # RWT
  
- - Exchanging other game items is unsupported ( This includes other private servers ). Meaning it will receive no Moderation Support nor help if the trade results in a scam. The only thing we can do from our side is a ban to the scammer from our server and Discord.
+ - Exchanging other game items is unsupported (This includes other private servers). Meaning it will receive no Moderation Support nor help if the trade results in a scam. The only thing we can do from our side is a ban to the scammer from our server and Discord.
 
  - All talk in the #rwt channel should be strictly related to RWT offers. If you are discussing a deal, please do so in DMs.
 
