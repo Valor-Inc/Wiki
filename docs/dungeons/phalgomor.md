@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 
  - Necromancers/Mystics Should be utilizing the standard triple buff skull/orb set up. 
     
- - Mechanics and Ninjas while having the highest dps are at a severe disadvantage due to lack of range; Mechs should use [Orbis Terrae](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/orbis_terrae) or [The Moon Crescent Halbard](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/moon_crescent_halberd) over the AR lance, With Ninja's using [Mythical Alliance](https://wiki.valorserver.com/docs/items/weapons/weapons/katanas/legendary/katana_of_mythical_alliance).
+ - Mechanics and Ninjas while having the highest dps are at a severe disadvantage due to lack of range; Mechs should use [Orbis Terrae](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/orbis_terrae) or [The Moon Crescent Halbard](https://wiki.valorserver.com/docs/items/weapons/lances/legendary/moon_crescent_halberd) over the AR lance, With Ninja's using [Mythical Alliance](https://wiki.valorserver.com/docs/items/weapons/katanas/legendary/katana_of_mythical_alliance).
     
  - The Bows while providing good dps at a range are outclassed by the dps classes which provide far more dmg/utility; However if you must Archers should have [Ulgurs Quiver](https://wiki.valorserver.com/docs/items/abilities/quivers/fabled/ulgurs_spectral_quiver) To act as weaken. The Huntress and Spirt Hunter sadly don't have any useful debuffs. 
 
