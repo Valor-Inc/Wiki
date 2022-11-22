@@ -161,6 +161,7 @@ Refunds will NOT be for the following:
 </TabItem>
 </Tabs>
 
-<h1 style="color:red;">Any decision by a moderator is final. They may ban/punish for reasons not stated here, if they feel your intent is to be destructive or harmful to the server and/or the community. Rules are also subject to change at any time.</h1>
+
+## Any decision by a moderator is final. They may ban/punish for reasons not stated here, if they feel your intent is to be destructive or harmful to the server and/or the community. Rules are also subject to change at any time.
 
 
