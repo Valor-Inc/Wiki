@@ -25,7 +25,8 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Anubis
 
-![AAnubis](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20anubis)
+![AAnubis](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20anubis)![anubis](https://user-images.githubusercontent.com/114798136/203229340-73aa7cd5-b8da-4863-8915-65561d0a0fb9.png)
+
 
 <i>As judgement approaches, the scales of fate should sink ever in your favor..</i>
 
@@ -46,7 +47,8 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Aldragine
 
-![AA](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20aldragine)
+![AA](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20aldragine)![aldragine](https://user-images.githubusercontent.com/114798136/203230172-89bbd462-8915-42e1-84b8-bcc96157c4d8.png)
+
 
 <i>Use this to feel the mighty power of Lord Aldragine.</i>
 
@@ -59,7 +61,8 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Baast
 
-![AB](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20baast)
+![AB](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20baast)![baast](https://user-images.githubusercontent.com/114798136/203229925-403b547d-1dfe-45a7-9b14-6cdf8f30cbd6.png)
+
 
 <i>Use this to feel the mighty power of Geb's Cousin.</i>
 
@@ -70,9 +73,10 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Aspect of Crystals" label="Aspect of Crystals">
 
+
 # Aspect of Crystals
 
-![AC](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20crystals)
+![AC](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20crystals)![crystal](https://user-images.githubusercontent.com/114798136/203230617-de3da9cb-f245-4fe0-98dc-aa2fe32eb297.png)
 
 <i>Use this to feel the mighty power of the Crystal!</i>
 
@@ -93,7 +97,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Drannol
 
-![AD](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20drannol)
+![AD](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20drannol)![drannol](https://user-images.githubusercontent.com/114798136/203232034-106c2223-09b7-49cd-bc8e-72e6a095e3d8.png)
 
 <i>Use this to feel the mighty power of Lord Drannol.</i>
 
@@ -108,7 +112,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Fallen
 
-![AF](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20fallen)
+![AF](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20fallen)![fall](https://user-images.githubusercontent.com/114798136/203232260-c568f0bb-0536-46b7-be1e-159d70d7ac4c.png)
 
 <i>Use this to feel the mighty power of the Fallen.</i>
 
@@ -130,7 +134,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Gargoyle
 
-![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20gargoyle)
+![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20gargoyle)![garg](https://user-images.githubusercontent.com/114798136/203231604-017ebe4b-deea-4c90-8028-821a1c4255b6.png)
 
 <i>Use this to feel the mighty power of the Stone Gargoyles.</i>
 
@@ -157,7 +161,8 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Garu
 
-![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20garu)
+![AG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20garu)![garu](https://user-images.githubusercontent.com/114798136/203230813-df188197-84fc-481a-9e05-28b6a02f5fde.png)
+
 
 <i>Use this to feel the mighty power of GARUTIOUS!</i>
 
@@ -180,7 +185,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Malgor
 
-![Am](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20malgor)
+![Am](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20malgor)![malg](https://user-images.githubusercontent.com/114798136/203232415-22cc02b7-24be-497f-b957-77996732b560.png)
 
 <i>The inferno below becomes both a leash and a whip--to weaken its grip is to taste vicious power.</i>
 
@@ -203,7 +208,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Oryx
 
-![AO](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20oryx)
+![AO](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20oryx)![oryx](https://user-images.githubusercontent.com/114798136/203231809-2b755e7a-97df-4915-8cc5-69210b4a74a1.png)
 
 <i>Use this to feel the mighty power of Oryx.</i>
 
@@ -220,7 +225,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Phalgomor
 
-![AP](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)
+![AP](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)![phalg](https://user-images.githubusercontent.com/114798136/203232493-dc0b8bbd-946b-430e-9dab-ec71499f5189.png)
 
 <i>In times of labored despair, the mind runs free and spins a listless dream. Of delight or doom... it is no longer one's choice.</i>
 
@@ -239,7 +244,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Shrek
 
-![AS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20shrek)
+![AS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20shrek)![shrek](https://user-images.githubusercontent.com/114798136/203231483-48577b8b-e409-4515-853a-8a1bfe6bf051.png)
 
 <i>Use this to feel the mighty power of Shrek's Rage.</i>
 
@@ -262,7 +267,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Stheno 
 
-![AS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20stheno)
+![AS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20stheno)![snake](https://user-images.githubusercontent.com/114798136/203231017-5717bbad-ab05-4da3-8570-03d55888db8a.png)
 
 <i>Use this to feel the mighty power of Stheno.</i>
 
@@ -301,7 +306,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of the Seven Seas
 
-![AtSS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20the%20seven%20seas)
+![AtSS](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20the%20seven%20seas)![sea](https://user-images.githubusercontent.com/114798136/203232141-d9d371ae-3ca8-4498-94e6-142be3796c06.png)
 
 <i>Fortune and failure will meet in kind, upon the opulent waves that shall wash over your destiny...</i>
 
@@ -316,7 +321,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Vamps
 
-![AV](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20vamps)
+![AV](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20vamps)![vamp](https://user-images.githubusercontent.com/114798136/203231143-9d4d3818-89bf-4289-9985-455c49c13cfb.png)
 
 <i>Use this to feel the mighty power of the blood suckers themselves.</i>
 
@@ -337,7 +342,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Yazanahar
 
-![AY](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20yazanahar)
+![AY](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20yazanahar)![yaza](https://user-images.githubusercontent.com/114798136/203231308-a7c25a1e-fc9c-4ddf-af40-f2ca1b01a301.png)
 
 <i>Use this to feel the mighty power of THE YAZANAHAR.</i>
 
@@ -354,7 +359,8 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Terra
 
-![AT](https://vwiki.valorserver.com/api/item/picture/aspect%20of%terra)
+![AT](https://vwiki.valorserver.com/api/item/picture/aspect%20of%terra)![terra](https://user-images.githubusercontent.com/114798136/203228922-fcdeb68b-74e1-49b1-82d8-ccf477567cd7.png)
+
 
 **You now generate 1 Surge every 2 seconds (Increased by your Protection stat)**
 
