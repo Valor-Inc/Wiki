@@ -92,7 +92,7 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +320 Maximum HP
+    +300 Maximum HP
     
 Fame Bonus: 15%
 

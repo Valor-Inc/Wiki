@@ -19,6 +19,10 @@ import TabItem from '@theme/TabItem';
 
 ### A: The game does! Check out the soloutions in [Common Problems](https://github.com/Valor-Inc/Wiki/blob/main/docs/valor_guides/class%20guides/templar.md).
 
+# Q: What is "Godstruck"
+
+### A: When inflicted with godstruck you cant be invulable (Jackets, Lumi, Avalanche) Currently this effect is only given by Avalanche seal at apoxmitly double the invul time. ***BEWARE USING AVALANCHE AROUND BMS AS YOU MAY CUASE THEM TO DIE***
+
 # Q: How do I get gold fast?
 
 ### A: Participate in raids, farm realm event bosses and oryx, and farm mad labs if you are desperte you can farm illsuions though this is signfacinclty harder then the rest. Raids grant a bunch of chances at legendary and even ancient relic items, along with gold cache and coin drops. Realm events can also drop gold caches, as well as legendary and ancient relic items (That drop from Larry Gigsman and Yazanahar). If you want to get rich quick, you can also purchase items and gold from other players using IRL currency. This action is called real-world-trading, or RWT for short. To find out more about real world trading and Valor's policy on it, visit here: https://wiki.valorserver.com/docs/category/rwt-real-world-trading
