@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Custom Classes
-Desc: "Valor has many new custom classes & item types for you to try out, all of them are unlocked by default for every player!"
+description: "Valor has many new custom classes & item types for you to try out, all of them are unlocked by default for every player!"
 ---
 
 import Tabs from '@theme/Tabs';
@@ -64,7 +64,7 @@ The Blademaster is a unique leather armor class using both a new item called Bla
 
 ### Gambler
 ![Gambler](https://i.imgur.com/2z0Ypy2.png)  
-The Gambler is a high-risk high reward leather class that uses a dagger. Gambler uses a dice that gives a variety of different buffs, but sometimes one debuff. These status effects are usually Bravery, Berserk, or Sick. The Gambler has high attack and the most luck and might to max but has low health in exchange for it's insane damage.  
+The Gambler is a high-risk high reward leather class that uses a dagger. Gambler uses a dice that gives a variety of different buffs, but sometimes one debuff. These status effects are usually Bravery, Berserk, or Sick. The Gambler has above average attack and the most luck and might to max but has low health in exchange for it's insane damage.  
     
 **Stats on max:**
 
@@ -175,7 +175,7 @@ The Mechanic is a heavy armor lance class that uses turrets to deal big damage a
 
 ### Pirate
 ![Pirate](https://i.imgur.com/8ecm8bt.png)  
-The Pirate is an offensive sword class that uses leather armor. His anchor shoots a returning projectile while giving helpful buffs and debuffs. The Pirate exchanges the high hp and defense of the other sword classes for heavly increased offensive stats. Has below average mana and defense.
+The Pirate is an offensive sword class that uses leather armor. His anchor shoots a returning projectile while giving helpful buffs and debuffs. The Pirate exchanges the high HP and defense of the other sword classes for heavly increased offensive stats. Has below average mana and defense.
    
 **Stats on max:**
 
