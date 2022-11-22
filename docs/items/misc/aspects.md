@@ -350,4 +350,19 @@ import TabItem from '@theme/TabItem';
 ***Drops from Yazanahar of the Realm***
 
   </TabItem>
+  <TabItem value="Aspect of Terra" label="Aspects of Terra">
+
+# Aspect of Terra
+
+![AT](https://vwiki.valorserver.com/api/item/picture/aspect%20of%terra)
+
+**You now generate 1 Surge every 2 seconds (Increased by your Protection stat)**
+
+**Your prot will now begin to regenerate after going 15 seconds without being hit (Time is decreased by your Protection stat)**
+
+**Upon being hit by an enemy projectile, you will lose Surge equal to 1/5 of the damage dealt**
+
+**You no longer regenerate all of your prot at 100 surge**
+
+  </TabItem>
 </Tabs>
