@@ -8,7 +8,7 @@ description: "The Templar Class Guide"
 
 ![image](https://user-images.githubusercontent.com/114798136/200082665-821c7ed2-7324-46b5-bf04-1f15d68eb654.png)
 
-The Templar is a heavy armor lance class that uses banners to support his allies and buff himself. The Templar while not changing too much since his addition has been phased out of meta due to being forced to compete with Mechanic and Tepcal.
+The Templar is a heavy armor lance class that uses banners to support his allies and buff himself. The Templar while not changing too much since his addition has been phased out of meta due to being forced to compete with Mechanic, Tepcal, easily accessible Mana Leech and Paladin being a much better support class. The Templar in its current state has found a small niche in making phalgomor runs more safe due to the infinte uptime of empowred on banners.
 
 
 # Lances
@@ -26,9 +26,11 @@ The Dragonslayer Lance, Ioks Courage, And Zol Trident are lances that exchange r
 
  - The Zol Trident provides the highest DPS of the 3 offering DPS similar to the Orbis Terrae at a much cheaper price point.
   
+  - The Dragonslayer Lance is a mid ground providing some decent stats and more DPS then Ioks.
+
  - With Ioks courage providing the lowest but having excellent equipment stats.
 
-Overall these are serviceable options if you are willing to take the hit to range.
+Overall these are serviceable options if you are willing to take the hit to range. However if you have and orbis terrae these lances become obsolete.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200084585-06c20737-6c99-446a-b2f2-1490b3ae0b7d.png)
@@ -43,7 +45,7 @@ The Orbis Terrae is the most powerful LG lance providing the highest DPS at a la
 
 ![image](https://user-images.githubusercontent.com/114798136/200085575-a1591d5f-a6d9-452c-b392-5a0ba587a7a8.png)
 
-The Implacable Ram while not seeming like much at first glance providing mediocre dmg and range, The real power comes from its stun allowing the templar to fill the role of knight. While not good for dmg it is a very fun weapon to play with.
+The Implacable Ram while not seeming like much at first glance providing dmg just bellow Absolute and range lower then a tiered lance, The real power comes from its stun allowing the templar to fill the role of knight. While not good for dmg it is a very fun weapon to play with.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200112266-99a38e9b-2e04-4ba6-b210-254b0c1d4ba7.png)
@@ -57,12 +59,12 @@ Arc's Zol Lance is extremely powerful containing the **Highest DPS** of all lanc
 
 ![image](https://user-images.githubusercontent.com/114798136/200085251-337a8fb7-6047-416d-ad8f-02e7608c96de.png)
 
-The Jester's Tattered Cloth is the best general purpose banner, Giving Berserk and Armoured for 5 seconds on a 6 second cooldown; The second highest uptime of self buffs on all banners. It also provides 12 Dex and 2 Life Steal improving DPS and survivability by a small amount. Overall if you can afford this extremely rare item it is worth it.
+The Jester's Tattered Cloth is the best general purpose banner, Giving Berserk and Armoured for 5 seconds on a 6 second cooldown; The second highest uptime of self buffs on all banners. It also provides 12 Dex and 2 Life Steal improving DPS and survivability by a small amount. However it drops from Encore which drops from Janus making this item along with the other LG (Harlquins Bow) rare and expensive. Overall if you can afford this extremely rare item it is worth it.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200085746-a3f95832-5336-438c-8b71-aa30767d4a26.png)
 
-If you can't afford jesters or want to run a crit build the Beacon of the Void is for you; Giving Damaging and Bravery for 3 seconds with a cooldown of 7. While being the only double buff banner it is stripped of being BIS due to its long cooldown.
+If you can't afford jesters or want to run a crit build the Beacon of the Void is for you; Giving Damaging and Bravery for 3 seconds with a cooldown of 7. While being the only double buff banner it is stripped of being BIS due to its long cooldown. Ironicly its unupgraded version gives Armored which could make it more desirable in some cases.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200085975-82eaa980-e8f9-49d6-83b4-38e0cd60b270.png)![image](https://user-images.githubusercontent.com/114798136/200085999-1bba6e00-2c56-403e-9831-1b81c546a795.png)
@@ -76,12 +78,12 @@ The Banner of Last Resort and Victorious banner provide the largest empowered ra
 
 ![image](https://user-images.githubusercontent.com/114798136/200086286-678e569b-b56d-4f73-8bd0-38b35cdba925.png)
 
-The Banner of the Furious Kraken (Commonly referred to as kraken banner) Is the BIS for Templars looking to support the group, Providing a wismod Max MP increase on group and 1.5 seconds of Invulnerable.
+The Banner of the Furious Kraken (Commonly referred to as kraken banner) Is the BIS for Templars looking to support the group, Providing a wismod Max MP increase on group and 1.5 seconds of Invulnerable. Ironicly this banner gives a whooping +20 Vit on equip so if you want to take advantge of templars 80 vit to make a vit build then this is the banner.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200086446-259b4e9e-784c-4a32-b1db-2b6a13c444e2.png)
 
-The Horrific Limb is an odd banner throwing a poison, giving Damaging for 3 seconds and Invulnerable for 0.75 seconds on a cooldown of 3 seconds; This ironically gives it the highest uptime of DPS buffs and Invulnerable but due to its poison you will need Mana Leech to use it properly.
+The Horrific Limb is an odd banner throwing a poison, giving Damaging for 3 seconds and Invulnerable for 0.75 seconds on a cooldown of 3 seconds; This ironically gives it the highest uptime of DPS buffs and Invulnerable but due to its poison you will need Mana Leech to use it properly. If mastered it can be extremely effective for increasing DPS.
 
 
 ![image](https://vwiki.valorserver.com/api/item/picture/iok's%20relief)
