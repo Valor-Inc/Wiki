@@ -9,11 +9,13 @@ description: "The Zol Miner"
 
 <i>A mine that corrupts the target with the full power of the Zol.</i>
 
+**This Item does not currently MP Scale**
+
 Trap: 5000 HP within 3 sqrs
 
 Enemy Effect: Armor Broken for 6 seconds
 
-Trap: 9189 (wismod/MPmod) HP within 4 sqrs
+Trap: 9189 (wismod) HP within 4 sqrs
 
 Enemy Effect: Armor Broken for 6 seconds
 
