@@ -1,7 +1,16 @@
 ---
 sidebar_position: 8
-description: "Ikari no Uwagi"
+title: Ikari No Uwagi
+Description: "Ikari no Uwagi"
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Ikari no Uwagi
+
+<Tabs>
+  <TabItem value="Ikari no Uwagi" label="Ikari No Uwagi" default>
 
 # Ikari no Uwagi
 
@@ -22,3 +31,31 @@ description: "Ikari no Uwagi"
 Fame Bonus: 8%
 
 **Drops from the Pentaract in the Realm**
+
+  </TabItem>
+  <TabItem value="Kurisumasu no Uwagi" label="Kurisumasu no Uwagi">
+
+# Kurisumasu No Uwagi
+
+![Kuris](https://i.imgur.com/LmUCAYZ.png)
+
+<i>A featherweight coat of strange design, seemingly a brittle patchwork of hexed fabric that channels the wearer's physical potential to dangerous extremes.</i>
+
+    +12 Attack
+    
+    +8 Defense
+    
+    +8 Dexterity
+    
+    +20 Might
+    
+    +2 Mana Leech
+    
+Fame Bonus: 8%
+
+**From Christmas 2021**
+
+*This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
+
+  </TabItem>
+</Tabs>
