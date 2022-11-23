@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # Bacon Cape
 
-![Bacon](https://cdn.discordapp.com/attachments/953134990428868629/1029665611095228437/baconcape.png)
+![Bacon](https://i.imgur.com/ZeNot1w.png)
 
 <i>As much power as this garment gives, the worrying part isn't that it was once worn by the terrible Roger Bacon, but that for some ungodly reason, it smells like bacon as well.</i>
 
