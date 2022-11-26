@@ -5,7 +5,7 @@ description: "The Spectral Lantern"
 
 # Spectral Lantern
 
-![SLatern](https://cdn.discordapp.com/attachments/953134990428868629/1029325884219478046/Spectrallantern.png)
+![SLatern](https://i.imgur.com/JLA0VEm.png)
 
 <i>A spectral artifact, useful to smugglers and pirates.</i>
 
