@@ -5,7 +5,7 @@ description: "The Gatekeeper's Barrage"
 
 # Gatekeeper's Barrage
 
-![GB](https://vwiki.valorserver.com/api/item/picture/gatekeeper's%20barrage)
+![GB](https://i.imgur.com/fMrwjX8.png)
 
 <i>An ethereal pillar that cleanses those who come into contact with it.</i>
 
