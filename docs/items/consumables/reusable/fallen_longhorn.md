@@ -5,7 +5,7 @@ description: "The Fallen Longhorn"
 
 # Fallen Longhorn
 
-![lomgh](https://vwiki.valorserver.com/api/item/picture/fallen%20longhorn)
+![lomgh](https://i.imgur.com/DDUz8fj.png)
 
 <i>A piece retrieved from the remains of Merganus' helmet. It seems to hold a great amount of power.</i>
 
