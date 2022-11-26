@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Armageddon
 
-![armageddonDN](https://cdn.discordapp.com/attachments/953134990428868629/1029587133591203840/armageddon.png)
+![armageddonDN](https://i.imgur.com/hDAsrNo.png)
 
 <i>This terrifying turret of Destruction was commisioned during the Great Swamp Wars as a weapon of last resort. It was considered lost to the swamps.</i>
 
