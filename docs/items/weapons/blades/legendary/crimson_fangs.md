@@ -28,3 +28,5 @@ Fame Bonus: 8%
 **Drops from the Ascended Tunnel of Pain**
 
 ## Projectile
+
+![image](https://user-images.githubusercontent.com/114798136/204112322-0b3bd8c0-9437-43c1-a762-88e57ae61b96.png)
