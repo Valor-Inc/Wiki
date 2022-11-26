@@ -5,7 +5,7 @@ description: "The Master Of The House"
 
 # Master Of The House
 
-![MoTH](https://vwiki.valorserver.com/api/item/picture/master%20of%20the%20house)
+![MoTH](https://i.imgur.com/a9UfAdE.png)
 
 <i>The eternal/ephemeral keepsake of a master sourceweaver/soulreaver, said to be blessed/cursed by auratic concepts well-known/unkown.</i>
 
