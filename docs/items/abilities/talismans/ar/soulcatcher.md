@@ -157,7 +157,7 @@ Fame Bonus: 14%
       
   </TabItem>
  <TabItem value="Water" label="Water">
- 
+
 # Soulcatcher Water
 
 ![Soulcatcher](https://i.imgur.com/58Vn5pb.png)
