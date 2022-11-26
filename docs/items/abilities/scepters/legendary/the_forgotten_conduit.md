@@ -5,7 +5,7 @@ description: "The Forgotten Conduit"
 
 # The Forgotten Conduit
 
-![TFC](https://cdn.discordapp.com/attachments/953134990428868629/1029583166811426957/forgottencond.png)
+![TFC](https://i.imgur.com/yn4uTsR.png)
 
 <i>Within is a dark power which once sought to take over the Realm.</i>
 
