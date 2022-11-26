@@ -5,7 +5,7 @@ description: "The Kiskiorab"
 
 # Kiskiorab
 
-![Kiskiorab](https://vwiki.valorserver.com/api/item/picture/kiskiorab)
+![Kiskiorab](https://i.imgur.com/U5NmOIo.png)
 
 <i>Everything must come to an end. No thing can be if it has yet to begin.</i>
 
