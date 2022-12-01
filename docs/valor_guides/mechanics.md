@@ -197,15 +197,14 @@ Luck raises your critical hit chance--not your loot boost. Every 10 luck gives y
 
 ![Might](https://vwiki.valorserver.com/api/item/picture/Potion%20Of%20Might)
 
-Might effects the critical hit damage multiplier. Every 76 might increases your serverside crit multiplier by 1x.
+Might effects the critical hit damage multiplier. Every 7 might increases your serverside crit multiplier by 0.1x. (Every 76 Might is 1x)
 
     0 ≤ x < 76 = 1x crits 
     76 ≤ x < 152 = 2x crits
     152 ≤ x < 228 = 3x crits
     228 ≤ x < 304 = 4x crits
     304 ≤ x < 380 = 5x crits 
-
-Might effects the critical hit damage multiplier. Every 7 might increases your serverside crit multiplier by 0.1x.
+.
 
 ## Restoration
 
@@ -288,7 +287,7 @@ Trials are a unique mechanic to Valor, allowing you to fight Unique Bosses with 
 
 ![wrack](https://cdn.discordapp.com/attachments/953134990428868629/1023055370668752996/unknown.png)
 
-## Phalgomor the Myth-a-Weave
+## [Phalgomor the Myth-a-Weave](https://wiki.valorserver.com/docs/dungeons/phalgomor)
 
 ![Phalg](https://cdn.discordapp.com/attachments/953134990428868629/1023055816502300732/unknown.png)
 
