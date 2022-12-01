@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: The Nexus
+description: "Welcome to the Nexus"
 ---
 
 import Tabs from '@theme/Tabs';
