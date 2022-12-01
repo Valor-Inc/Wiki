@@ -45,7 +45,7 @@ import TabItem from '@theme/TabItem';
 
 # Q: How is Wis Mod calculated for the item pages?
 
-### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any robe, wand, and ring equipped, having only the item being checked on in question.
+### A: When listing the WisMod for abilities, I create a class of whatever the ability is for, ascending and maxing to 24/24. I then drop any armor, weapon, and ring equipped, having only the item being checked on in question.
 
   </TabItem>
   <TabItem value="Wiki" label="Wiki">
