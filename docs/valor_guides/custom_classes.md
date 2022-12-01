@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 ### Spirithunter
 ![Spirithunter](https://i.imgur.com/oU46IT5.png)  
-The Spirit Hunter is a bow class that uses robes instead of leather armor. It uses a magical talisman that summons a ghost, which can aid you in battle with damage and can also potentially debuff the enemy depending on the Talisman.
+The Spirit Hunter is a bow class that uses robes instead of leather armor. It uses a magical talisman that summons a ghost, which can aid you in battle with damage and can also potentially debuff the enemy depending on the Talisman. Has fairly high Luck and Might.
     
 **Stats on max:**
 
@@ -151,7 +151,7 @@ The Templar is a heavy armor lance class that uses banners to support his allies
 
 ### Mechanic
 ![Mechanic](https://i.imgur.com/KvBaApB.png)  
-The Mechanic is a heavy armor lance class that uses turrets to deal big damage along with his lances. His turret spawns on the cursor and shoots projectiles at the nearest enemy.
+The Mechanic is a heavy armor lance class that uses turrets to supplement his lances damage. His turret spawns on the cursor and shoots projectiles at the nearest enemy. They have fairly average stats exculding his low def.
 
 **Stats on Max:**
 
@@ -200,8 +200,8 @@ The Pirate is an offensive sword class that uses leather armor. His anchor shoot
 
 ### Drakzix
 ![Drakzix](https://i.imgur.com/FMmlOgy.png)  
-Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphons drain your mana and then health rapidly in order to deal a large amount of damage. The calculation of damage takes Current Mana and how much health was drained. It has very poor stats at max but has the highest mana and wisdom of any other wand class.  
-   
+Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphons drain your mana and then health rapidly in order to deal a large amount of damage. The calculation of damage takes Current Mana and how much health was drained. It has very poor stats at max but has the highest mana and wisdom of any other class. **THIS IS NOT A CLASS FOR BEGINNERS**
+
 **Stats on max:**
 
     650 Life
