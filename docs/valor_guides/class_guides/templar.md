@@ -8,7 +8,7 @@ description: "The Templar Class Guide"
 
 ![image](https://user-images.githubusercontent.com/114798136/200082665-821c7ed2-7324-46b5-bf04-1f15d68eb654.png)
 
-The Templar is a heavy armor lance class that uses banners to support his allies and buff himself. The Templar while not changing too much since his addition has been phased out of meta due to being forced to compete with Mechanic, Tecpatl, easily accessible Mana Leech and Paladin being a much better support class. The Templar in its current state has found a small niche in making phalgomor runs more safe due to the infinte uptime of empowred on banners.
+The Templar is a heavy armor lance class that uses banners to support his allies and buff himself. The Templar while not changing too much since his addition has been phased out of meta due to being forced to compete with Mechanic, Tecpatl, easily accessible Mana Leech and Paladin being a much better support class. The Templar in its current state has found a small niche in making phalgomor runs more safe due to the infinte uptime of empowered on banners, and being a fairly decent class to build around crit.
 
 
 # Lances
@@ -26,7 +26,7 @@ The Dragonslayer Lance, Ioks Courage, And Zol Trident are lances that exchange r
 
  - The Zol Trident provides the highest DPS of the 3 offering DPS similar to the Orbis Terrae at a much cheaper price point.
   
-  - The Dragonslayer Lance is a mid ground providing some decent stats and more DPS then Ioks.
+ - The Dragonslayer Lance is a mid ground providing some decent stats and more DPS then Ioks.
 
  - With Ioks courage providing the lowest but having excellent equipment stats.
 
@@ -35,12 +35,12 @@ Overall these are serviceable options if you are willing to take the hit to rang
 
 ![image](https://user-images.githubusercontent.com/114798136/200084585-06c20737-6c99-446a-b2f2-1490b3ae0b7d.png)
 
-The Absolute Crescendo was historically a very good lance providing the highest DPS of its time, Has sadly fallen out of meta due to a heavy nerf. While having the lowest DPS of all LG Lances it is a serviceable option for npes and lower budget players.
+The Absolute Crescendo was historically a very good lance providing the highest DPS of its time, Has sadly fallen out of meta due to a heavy nerf and buffs to other lances. While having the lowest DPS of all LG Lances it is a serviceable option for npes and lower budget players. ***It is highly advised that if you have low budget to stick with the Virulent Lance and save gold for Moon Crescent.***
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200084807-1d0a3e02-f73e-4d4f-b104-c1c71d552531.png)
 
-The Orbis Terrae is the most powerful LG lance providing the highest DPS at a large 5.4 range, This power does come with a downside of being rare/expensive. If you can afford this lance it is highly worth using.
+The Orbis Terrae is the most powerful LG lance providing the highest DPS at a large 5.4 range with a heafty +25 Might, This power does come with a downside of being rare/expensive. If you can afford this lance it is highly worth using.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200085575-a1591d5f-a6d9-452c-b392-5a0ba587a7a8.png)
@@ -48,9 +48,13 @@ The Orbis Terrae is the most powerful LG lance providing the highest DPS at a la
 The Implacable Ram while not seeming like much at first glance providing dmg just bellow Absolute and range lower then a tiered lance, The real power comes from its stun allowing the templar to fill the role of knight. While not good for dmg it is a very fun weapon to play with.
 
 
+![image](https://vwiki.valorserver.com/api/item/picture/virulent%20lance)
+
+The Virulent Lance is the best genreal purpose lance before LGs and even after still has a niche of having large range and a high spd bonus. Virlunet provides dps slightly bellow Ram at much higher range. As this item hovers around the 10-15k price it is a no brainer to get for any starting Templar, It also drops from asc snake pit at a fairly rare rate.
+
 ![image](https://user-images.githubusercontent.com/114798136/200112266-99a38e9b-2e04-4ba6-b210-254b0c1d4ba7.png)
 
-Arc's Zol Lance is extremely powerful containing the **Highest DPS** of all lances and AR's. Not Only does it pierce defense it also pierce enemies, Now this doesn't mean it is without downsides. For one its short range of 3.6 forces you to play at tiered lance range (The water version boosts its range up to 4 to help alleviate the problem) and Most importantly is its rarity due to being the most powerful weapon in the game it is **extremely rare** and expensive to buy; As such most would rather use it on Mechanic but if you are a die hard Templar enjoyer it is extremely good.
+Arc's Zol Lance is extremely powerful containing the **Highest DPS** of all lances and AR's. Not Only does it pierce defense it also pierces enemies, Now this doesn't mean it is without downsides. For one its short range of 3.6 forces you to play at tiered lance range (The Water version boosts its range up to 4 to help alleviate the problem.) and Most importantly is its rarity due to being the most powerful weapon in the game it is **extremely rare** and expensive to buy; As such most would rather use it on Mechanic but if you are a die hard Templar enjoyer it is extremely good.
 
 
 # Banners
@@ -73,12 +77,12 @@ The Banner of Last Resort and Victorious banner provide the largest empowered ra
 
  - Last Resort Provides it in a 9 tile radius and Invulnerable for 1.5 seconds It does however have the downside of bleeding for 4 seconds on use.
 
- - The Victory Banner, while giving no (Useful) Stat bonuses and no Invulnerable, is much cheaper and gives empowered in 8 tiles. 
+ - The Victory Banner, while giving no (Useful) Stat bonuses and no Invulnerable, is much cheaper and gives empowered within 8 tiles. 
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200086286-678e569b-b56d-4f73-8bd0-38b35cdba925.png)
 
-The Banner of the Furious Kraken (Commonly referred to as kraken banner) Is the BIS for Templars looking to support the group, Providing a wismod Max MP increase on group and 1.5 seconds of Invulnerable. Ironicly this banner gives a whooping +20 Vit on equip so if you want to take advantge of templars 80 vit to make a vit build then this is the banner.
+The Banner of the Furious Kraken (Commonly referred to as Kraken Banner) Is the BIS for Templars looking to support the group, Providing a wismod Max MP increase on group and 1.5 seconds of Invulnerable. Ironicly this banner gives a whooping +20 Vit on equip so if you want to take advantge of templars 80 vit to make a vit build then this is the banner.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200086446-259b4e9e-784c-4a32-b1db-2b6a13c444e2.png)
@@ -92,7 +96,7 @@ Once again an odd choice Iok's Relief provides the same empowered raduis as the 
 
 # Heavy Armors
 
-**Heavy Armors Generally have high defense with less in other stats**
+**Heavy Armors Generally have high defense while lacking other stats**
 
 ![image](https://user-images.githubusercontent.com/114798136/200111544-092afe09-6b92-4dcc-a022-341128aa9f68.png)![Righteous](https://i.imgur.com/gARczWe.png)
 
@@ -103,7 +107,7 @@ The Odyssey and Plate of Righteous Fury Are the main DPS armors you'll be using,
 ![image](https://user-images.githubusercontent.com/114798136/200111950-f0705f3c-ceff-46ba-ad3d-a4e794fa6700.png)
 
 
-The V-L Spark Armor is an interesting choice not being subpared in really any aspect besides its +8 Fortune boost. You'll mainly want to swap to this item before the boss dies to utilize the fortune bonus. While not excelling in any stat it is a tolerable main armor if you want the life steal or fortune.
+The V-L Spark Armor is an interesting choice not being subpared in really any aspect besides its +8 Fortune boost. You'll mainly want to swap to this item before the boss dies to utilize the fortune bonus. It is also the only Heavy Armour besides AR Helldom Earth to give life steal. While not excelling in any stat it is a tolerable main armor if you want the life steal or fortune.
 
 
 ![image](https://user-images.githubusercontent.com/114798136/200112014-2bf60865-ec04-4754-a6c8-dfef1eb1f640.png)
