@@ -8,7 +8,7 @@ description: "The Templar Class Guide"
 
 ![image](https://user-images.githubusercontent.com/114798136/200082665-821c7ed2-7324-46b5-bf04-1f15d68eb654.png)
 
-The Templar is a heavy armor lance class that uses banners to support his allies and buff himself. The Templar while not changing too much since his addition has been phased out of meta due to being forced to compete with Mechanic, Tepcal, easily accessible Mana Leech and Paladin being a much better support class. The Templar in its current state has found a small niche in making phalgomor runs more safe due to the infinte uptime of empowred on banners.
+The Templar is a heavy armor lance class that uses banners to support his allies and buff himself. The Templar while not changing too much since his addition has been phased out of meta due to being forced to compete with Mechanic, Tecpatl, easily accessible Mana Leech and Paladin being a much better support class. The Templar in its current state has found a small niche in making phalgomor runs more safe due to the infinte uptime of empowred on banners.
 
 
 # Lances
