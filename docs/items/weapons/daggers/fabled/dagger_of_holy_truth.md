@@ -9,11 +9,11 @@ description: "The Dagger of Holy Truth"
 
 <i>This dagger only responds to the pure!</i>
 
-Damage: 175-215
+Damage: 285-350
 
 Shots: 1
 
-Rate of Fire: 85%
+Rate of Fire: 75%
 
 Range: 5.6
 

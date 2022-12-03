@@ -9,7 +9,7 @@ description: "The Master Dagger"
 
 <i>Master owned this dagger... Me hold it for safe keeping.</i>
 
-Damage: 130-150
+Damage: 160-190
 
 Shots: 1
 
@@ -20,6 +20,11 @@ Range: 6.5
 Shots hit multiple targets
 
     +10 Defense
+
+    +1 Life Steal
+
+    +1 Mana leech
+
     
 Fame Bonus: 6%
 

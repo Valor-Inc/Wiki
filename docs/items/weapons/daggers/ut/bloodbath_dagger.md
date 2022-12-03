@@ -9,11 +9,11 @@ description: "The Bloodbath Dagger"
 
 <i>A dagger left behind from a great massacre in Bedlam Asylum.</i>
 
-Damage: 60-120
+Damage: 70-110
 
 Shots: 2
 
-Rate of Fire: 120%
+Rate of Fire: 100%
 
 Range: 5.7
 

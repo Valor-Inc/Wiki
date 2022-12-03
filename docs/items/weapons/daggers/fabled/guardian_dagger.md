@@ -9,7 +9,7 @@ description: "The Guardian Dagger"
 
 <i>A dagger once used by the great bridge guardian's assassins, its blade almost sharp enough to end the war.</i>
 
-Damage: 115
+Damage: 80-85
 
 Shots: 4
 

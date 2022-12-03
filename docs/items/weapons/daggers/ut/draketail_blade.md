@@ -9,15 +9,17 @@ description: "The Draketail Blade"
 
 <i>A sharp dagger with the tail of a Drake attached to the bottom fo the hilt.</i>
 
-Damage: 135-160
+Damage: 133-222
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 111%
 
 Range: 5.6
 
 Ignores defense of target
+
+6% chance to inflict Dazed for 2.5s
 
     +10 Attack
     

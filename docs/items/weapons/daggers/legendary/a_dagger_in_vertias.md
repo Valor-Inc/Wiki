@@ -9,11 +9,11 @@ description: "A Dagger in Vertias"
 
 <i>"There are those who are wise in supposing that truth is an objective standard, scribed in the wisdom of mortal men. But there are things that precede and subvert that wisdom, and that, one can be certain is true." ~ Proverb IX, the Concepts of Light</i>
 
-Damage: 215-295
+Damage: 230-290
 
 Shots: 1
 
-Rate of Fire: 90%
+Rate of Fire: 105%
 
 Range: 6.2
 

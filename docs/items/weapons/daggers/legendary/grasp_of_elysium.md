@@ -9,11 +9,11 @@ description: "The Grasp of Elysium"
 
 <i>Become a machine of the heavens, and strike down the unholy!</i>
 
-Damage: 155-206
+Damage: 125-185
 
 Shots: 2
 
-Rate of Fire: 130%
+Rate of Fire: 100%
 
 Range: 5.9
 

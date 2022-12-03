@@ -9,11 +9,11 @@ description: "Karana's Secret"
 
 <i>Proof that she is still alive?</i>
 
-Damage: 240-255
+Damage: 195-200
 
-Shots: 1
+Shots: 2
 
-Rate of Fire: 80%
+Rate of Fire: 90%
 
 Range: 5.6
 

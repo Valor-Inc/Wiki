@@ -9,11 +9,11 @@ description: "The Bleeding Fang"
 
 <i>A razor sharp fang that seems to even have the blood of the Eternal Beast on it's tip.</i>
 
-Damage: 302-356
+Damage: 300-369
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 120%
 
 Range: 5.3
 

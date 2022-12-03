@@ -9,13 +9,13 @@ description: "The Dagger of Tindailius"
 
 <i>Fading away from reality is what keeps the darkness persisting to devourall of us. We can only do what is possible to stay away from this Void.</i>
 
-Damage: 205-260
+Damage: 265
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 135%
 
-Range: 7.3
+Range: 6
 
 Shots hit multiple targets
 

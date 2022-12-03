@@ -9,11 +9,11 @@ description: "Limon's Tail"
 
 <i>No one knows how you stole Limon's tail after defeating them. Why would you do that to Limon, can you really live with yourself?</i>
 
-Damage: 184-198
+Damage: 185-200
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 115%
 
 Range: 6.2
 

@@ -7,7 +7,7 @@ description: "The Gilded Blade"
 
 ![TGB](https://vwiki.valorserver.com/api/item/picture/the%20gilded%20blade)
 
-Damage: 160-175
+Damage: 170-180
 
 Shots: 3
 

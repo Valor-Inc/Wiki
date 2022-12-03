@@ -9,11 +9,11 @@ description: "The Crystal Dagger"
 
 <i>A dagger made of crystal.</i>
 
-Damage: 125-135
+Damage: 135-145
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 105%
 
 Range: 6.9
 

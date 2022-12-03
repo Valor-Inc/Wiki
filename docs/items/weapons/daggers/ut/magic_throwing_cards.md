@@ -9,7 +9,7 @@ description: "The Magic Throwing Cards"
 
 <i> A set of cards that have accidentally been exposed to dark and powerful energies from magic rituals</i>
 
-Damage: 85
+Damage: 65-70
 
 Shots: 4
 
@@ -18,6 +18,8 @@ Rate of Fire: 100%
 Range: 7
 
 Shots hit multiple targets
+
+5% chance to inflict Armor break for 2.5s
 
     +8 Speed
     

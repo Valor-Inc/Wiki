@@ -9,13 +9,15 @@ description: "The Gradual Incisor"
 
 <i>"Its about the... slow and careful cuts, you see? Now... you're changing. You're going to be more than ever thought you could be. You'll be just like me."</i>
 
-Damage: 120-340
+Damage: 125-310
 
 Shots: 4
 
-Rate of Fire: 50%
+Rate of Fire: 55%
 
 Range: 6
+
+Shots hit multiple targets
 
 1% to inflict Armor Broken for 2 seconds
 

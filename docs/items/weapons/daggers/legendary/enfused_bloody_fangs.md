@@ -9,7 +9,7 @@ description: "The Enfused Bloody Fangs"
 
 <i>Bones of pure Ivory, enchanted with the power of the Sor, dripping with blood.</i>
 
-Damage: 120-205
+Damage: 120-135
 
 Shots: 2
 

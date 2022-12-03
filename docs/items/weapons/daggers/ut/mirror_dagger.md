@@ -9,11 +9,11 @@ description: "The Mirror Dagger"
 
 <i>2 sides of the problem is that it's a total issue to have twice the stupidity!</i>
 
-Damage: 122-190
+Damage: 100-130
 
 Shots: 4
 
-Rate of Fire: 125%
+Rate of Fire: 85%
 
 Range: 5.6
 

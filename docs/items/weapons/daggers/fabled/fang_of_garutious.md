@@ -9,11 +9,11 @@ description: "The Fang of Garutious"
 
 <i>A chipped tooth from the mouth of the beast.Thanks to: Bottle</i>
 
-Damage: 400
+Damage: 390
 
 Shots: 1
 
-Rate of Fire: 50%
+Rate of Fire: 60%
 
 Range: 6
 

@@ -9,7 +9,7 @@ description: "The Ghilact Dagger"
 
 <i>Made from strong material that originates from another universe. It's quite scarce.</i>
 
-Damage: 100-150
+Damage: 145-185
 
 Shots: 1
 

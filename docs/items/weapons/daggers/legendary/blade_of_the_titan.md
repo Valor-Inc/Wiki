@@ -9,11 +9,11 @@ description: "The Blade of the Titan"
 
 <i>A blade once used by Cronus to end the reign of the Gods.</i>
 
-Damage: 225-265
+Damage: 305-420
 
 Shots: 1
 
-Rate of Fire: 120%
+Rate of Fire: 85%
 
 Range: 6.3
 

@@ -9,13 +9,13 @@ description: "The Dirk of Notorious Agents"
 
 <i>A darkened dagger with an emerald jewel in the middle of the blade. It's a popular dagger but hard to retrieve since few merchants sell them because of the material of the blade.</i>
 
-Damage: 325-425
+Damage: 325-415
 
 Shots: 1
 
-Rate of Fire: 120%
+Rate of Fire: 140%
 
-Range: 7.3
+Range: 6
 
     +21 Defense
     
