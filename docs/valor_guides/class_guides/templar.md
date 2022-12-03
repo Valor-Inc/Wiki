@@ -3,6 +3,9 @@ sidebar_position: 1
 title: Templar Guide
 description: "The Templar Class Guide"
 ---
+# OUTDATED
+
+### THIS GUIDE IS OUTDATED THE LANCES SECTION IS FINE BUT BANNERS HAVE RECIVED A FULL REWORK IN 4.50
 
 # Basic Overview
 
