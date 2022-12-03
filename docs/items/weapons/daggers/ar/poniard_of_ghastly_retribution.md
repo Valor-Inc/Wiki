@@ -47,15 +47,17 @@ Fame Bonus: 15%
 
 **Air Rune: Grants 10% chance to dodge incoming projectiles**
 
-Damage: 565-695
+Damage: 715-735
 
 Shots: 1
 
 Rate of Fire: 110%
 
-Range: 4.5
+Range: 5.2
 
-    +15 Vitality
+Shots hit multiple targets
+
+    +15 Speed
     
     +15 Wisdom
     
@@ -78,17 +80,20 @@ Fame Bonus: 15%
 
 **Earth Rune: Increases range, decreases damage and adds a second projectile. Also sets Vitality to +50.**
 
-Damage: 285-435
+Damage: 283-347
 
 Shots: 2
 
 Rate of Fire: 110%
 
-Range: 5.2
+Range: 5.4
 
-    +50 Vitality
-    
-    +15 Wisdom
+Ignores defense of target
+
+
+    +40 Vitality
+
+    +1 Life Steal
     
 Fame Bonus: 15%
 
@@ -110,19 +115,19 @@ Fame Bonus: 15%
 
 **Fire Rune: Projectiles can now pierce enemies.**
 
-Damage: 565-695
+Damage: 500-795
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 110%
 
-Range: 4.5
+Range: 5.2
 
 Shots hit multiple targets
 
-    +15 Vitality
+    +15 Attack
       
-    +15 Wisdom
+    +15 Might
     
 Fame Bonus: 15%
 
@@ -143,17 +148,17 @@ Fame Bonus: 15%
 
 **Water Rune: Increases range to 5.4, increases minimum damage by 35, and increases Wisdom to +40.**
 
-Damage: 600-695
+Damage: 283-347
 
-Shots: 1
+Shots: 2
 
 Rate of Fire: 110%
 
 Range: 5.4
-
-    +15 Vitality
     
     +40 Wisdom
+
+    +1 Mana Leech
     
 Fame Bonus: 15%
 
