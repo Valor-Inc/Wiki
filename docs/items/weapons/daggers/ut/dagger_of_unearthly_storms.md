@@ -9,7 +9,7 @@ description: "The Dagger of Unearthly Storms"
 
 <i>A dagger that will slice through diamond.</i>
 
-Damage: 90-95
+Damage: 110-115
 
 Shots: 1
 
