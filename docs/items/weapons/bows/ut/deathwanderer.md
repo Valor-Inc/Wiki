@@ -16,7 +16,9 @@ Rate of Fire: 80%
 
 Range: 6.6
 
-    +100 Maximum HP
+Shots hit multiple targets
+
+    +125 Maximum HP
     
     +100 Maximum MP
     

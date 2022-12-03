@@ -28,6 +28,19 @@ Range: 4
     +8 Defense
     
     +8 Vitality
+    
+    +8 Dexterity
+
+    +8 Wisdom
+
+    +8 Restoration
+
+    +8 Luck
+
+    +8 Might
+
+    +8 Protection
+
 
 Fame Bonus: 8%
 

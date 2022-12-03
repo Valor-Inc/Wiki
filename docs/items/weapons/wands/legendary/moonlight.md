@@ -21,7 +21,7 @@ Ignores defense of target
 
     +15 Defense
     
-    +15 Wisdom
+    +25 Wisdom
     
     +15 Speed
 

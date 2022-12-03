@@ -19,7 +19,7 @@ Range: 7
 
 Shots pass through obstacles
 
-    +30 Wisdom
+    +15 Wisdom
     
     +150 Maximum MP
 

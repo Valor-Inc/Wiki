@@ -15,9 +15,9 @@ Party Heal: 83 (wismod) within 5.5 sqrs (wismod)
 
 Enemy Effect: Within 4 (wismod) sqrs stunned for 2.7 (WisMod) seconds
 
-MP Cost: 200
+MP Cost: 120
 
-Cooldown: 8 seconds
+Cooldown: 5 seconds
 
     +100 Maximum HP
     
