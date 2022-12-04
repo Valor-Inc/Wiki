@@ -249,6 +249,10 @@ Guilds are expanded upon in Valor, now having a Rank and XP system to reward act
 
 Guilds gain EXP by having members play the game, once a guild recieves enough EXP it will increase by 1 rank, unlocking perks for every guild member. You can check your Guild's EXP and Rank by using the '/ginfo' command in-game.
 
+# Guild Rewards
+
+You can claim your monthly guild rewards using /ginfo rewards
+
 ## Guild Perks
 
     Rank 1: 25% Better Chance at getting an alert from mobs.
