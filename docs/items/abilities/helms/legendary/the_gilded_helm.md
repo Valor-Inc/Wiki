@@ -13,7 +13,7 @@ Party Effect: Within 4 sqrs Berserk for 6 seconds
 
 Effect on Self: Swiftness for 4 seconds
 
-Effect on Self: Surged for 5.5 seconds
+Effect on Self: Surged for 5.5 (wismod) seconds
 
 MP Cost: 90
 
