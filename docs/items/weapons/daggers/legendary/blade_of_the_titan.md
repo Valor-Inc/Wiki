@@ -9,7 +9,7 @@ description: "The Blade of the Titan"
 
 <i>A blade once used by Cronus to end the reign of the Gods.</i>
 
-Damage: 305-420
+Damage: 330-430
 
 Shots: 1
 

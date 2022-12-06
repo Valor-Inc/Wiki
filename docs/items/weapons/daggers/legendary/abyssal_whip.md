@@ -9,7 +9,7 @@ description: "The Abyssal Whip"
 
 <i>A dark whip created by the power of the Abyssal Rune</i>
 
-Damage: 255-280
+Damage: 230-280
 
 Shots: 1
 
