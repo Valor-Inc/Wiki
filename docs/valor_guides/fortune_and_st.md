@@ -1,5 +1,5 @@
 ---
-title: "Fortune items and ST Sets"
+title: Fortune items and ST Sets
 description: "All Frotune boosting items and ST Sets"
 ---
 
@@ -52,7 +52,7 @@ import TabItem from '@theme/TabItem';
 [Zol Jewl](https://wiki.valorserver.com/docs/items/rings/fb/zol_jewl) 4 Fortune
 
 </TabItem>
-<TabItem value= "ST Sets" label= "ST Sets">
+<TabItem value="ST Sets" label="ST Sets">
 
 # Test
  help
