@@ -1,13 +1,14 @@
 ---
 title: Fortune items and ST Sets
-description: "All Frotune boosting items and ST Sets"
+description: "All Fortune boosting items and ST Sets"
 ---
+
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Fortune Items" label="Forutne Items" default>
+<TabItem value="Fortune Items" label="Fortune Items" default>
 
 # Weapons
 
@@ -21,7 +22,7 @@ import TabItem from '@theme/TabItem';
 
 [Ferocious Gambit](https://wiki.valorserver.com/docs/items/ablites/traps/lg/ferocious_gambit) 5 Fortune
 
-[The Four Leaf Seal](https://wiki.valorserver.com/docs/items/ablites/seals/ut/the_four_leaf_seal) 4 Forutne
+[The Four Leaf Seal](https://wiki.valorserver.com/docs/items/ablites/seals/ut/the_four_leaf_seal) 4 Fortune
 
 [Plungerplonk](https://wiki.valorserver.com/docs/items/ablites/helms/lg/plungerplonk) 4 Fortune
 
