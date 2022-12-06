@@ -51,11 +51,11 @@ import TabItem from '@theme/TabItem';
 
 [Zol Jewl](https://wiki.valorserver.com/docs/items/rings/fb/zol_jewl) 4 Fortune
 
-  </TabItem>
+</TabItem>
 <TabItem value= "ST Sets" label= "ST Sets">
 
-booo
+# Test
+ help
 
-
-  </TabItem>
+</TabItem>
 </Tabs>
