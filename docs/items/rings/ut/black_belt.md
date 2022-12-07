@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: "The Black Belt"
+title: The Black Belt
 description: "The Black Belt"
 ---
 
@@ -50,5 +50,6 @@ Fame Bonus: No Fame Bonus
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
 ***Upgradable with Essence of the Realm***
+
  </TabItem>
 </Tabs>
