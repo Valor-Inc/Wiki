@@ -1,12 +1,11 @@
 ---
-sidebar_position: 4
-title: The Black Belt
+sidebar_position: 5
+title: BLack Belt
 description: "The Black Belt"
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-
 
 <Tabs>
   <TabItem value="Black Belt" label="Black Belt" default>
@@ -38,7 +37,7 @@ Fame Bonus: No Fame Bonus
 
 ![Sock](https://vwiki.valorserver.com/api/item/picture/the%20tattered%20sock)
 
-<i>A large, torn sock; I wonder what Giant could have worn this?<i/>
+*A large, torn sock; I wonder what Giant could have worn this?*
 
     +8 Speed
 
