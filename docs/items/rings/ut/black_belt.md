@@ -7,6 +7,7 @@ description: "The Black Belt"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+
 <Tabs>
   <TabItem value="Black Belt" label="Black Belt" default>
 
@@ -31,7 +32,7 @@ Fame Bonus: No Fame Bonus
 **Drops from Araki the Omega Samurai of the Ascended Dojo**
 
   </TabItem>
-  <TabItem value="The Tattered Sock" label="The Tattered Sock">
+  <TabItem value="The Tattered Sock" label="The Tatterd Sock">
 
 # The Tattered Sock
 
@@ -51,5 +52,5 @@ Fame Bonus: No Fame Bonus
 
 ***Upgradable with Essence of the Realm***
 
- </TabItem>
+  </TabItem>
 </Tabs>
