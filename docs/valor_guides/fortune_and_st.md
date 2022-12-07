@@ -10,6 +10,8 @@ import TabItem from '@theme/TabItem';
 <Tabs>
 <TabItem value="Fortune Items" label="Fortune Items" default>
 
+**Wearing all 4 peices of the palaladin ut set gives you +6 Fortune**
+
 # Weapons
 
 [Bejeweled Spear](https://wiki.valorserver.com/docs/items/weapons/swords/lg/bejewled_spear) 4 Fortune
@@ -52,11 +54,16 @@ import TabItem from '@theme/TabItem';
 
 [Zol Jewl](https://wiki.valorserver.com/docs/items/rings/fb/zol_jewl) 4 Fortune
 
+[Unlucky Leprechaun's Hat](https://wiki.valorserver.com/docs/items/rings/ut/unlucky_hat) 2 Fortune
+
 </TabItem>
 <TabItem value="ST Sets" label="ST Sets">
 
-# Test
- help
+# Mad God Bruiser Set
+(https://wiki.valorserver.com/
+(https://wiki.valorserver.com/
+(https://wiki.valorserver.com/
+[Cape of the Mad God](https://wiki.valorserver.com/docs/items/rings/fabled/cape_of_the_mad_god)
 
 </TabItem>
 </Tabs>
