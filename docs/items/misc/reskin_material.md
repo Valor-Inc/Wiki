@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 <li>Nature Theme</li>
 </ul>
 
-**Purchasable from the Grove for 400 Onrane**
+**Purchasable from the Grove for 400 Kantos**
 
 **Reward from the Season 1 Battlepass**
 
@@ -41,7 +41,26 @@ import TabItem from '@theme/TabItem';
 <li>Halloween Theme</li>
 </ul>
 
+**Purchasable from the Grove for 400 Kantos**
+
 **Reward from the Season 2 Battlepass**
+
+  </TabItem>
+  <TabItem value="Orb of Transformation S3" label="Orb of Transformation S3">
+
+# Orb of Transformation (S3)
+
+![S3OrbT](https://vwiki.valorserver.com/api/item/picture/orb%20of%20transformation3)
+
+<i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 3)</i>
+
+<ul>
+<li>Ice Theme</li> 
+
+<li>Winter Theme</li>
+</ul>
+
+**Reward from the Season 3 Battlepass**
 
   </TabItem>
   <TabItem value="Distransformation Stone" label="Distransformation Stone">
@@ -55,7 +74,6 @@ import TabItem from '@theme/TabItem';
 Removes the reskin from an item
 
 **Bought in nexus shop for 250k fame or 25k gold**
-
 
   </TabItem>
 </Tabs>
