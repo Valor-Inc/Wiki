@@ -1,6 +1,6 @@
 ---
-sidebar_position: 5
-title: BLack Belt
+sidebar_position: 4
+title: Black Belt
 description: "The Black Belt"
 ---
 
