@@ -40,9 +40,9 @@ Fame Bonus: No Fame Bonus
 <i>A large, torn sock; I wonder what Giant could have worn this?<i/>
 
     +8 Speed
-    
+
     +8 Dexterity
-    
+
     +8 Attack
 
 Fame Bonus: No Fame Bonus
