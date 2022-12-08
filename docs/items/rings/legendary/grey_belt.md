@@ -33,6 +33,8 @@ Fame Bonus: 8%
 
 # Saint Nick's Stocking
 
+![stocking](https://vwiki.valorserver.com/api/item/picture/saint%20nicks%20stocking)
+
 <i>A gorgeous stocking, deserving of Saint Nicholas' Finest gifts alone.</i>
 
     +28 Speed 
