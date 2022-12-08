@@ -9,13 +9,15 @@ description: "The Stone of Stolen Laughter"
 
 <i>You can still hear the laughter from the slaughtering.</i>
 
-    +400 Maximum MP
+    +200 Maximum MP
     
     +12 Dexterity
     
     +8 Attack
     
     +40 Restoration
+    
+    +30 Wisdom
     
 Fame Bonus: 8%
 
