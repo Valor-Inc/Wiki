@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 # Ascension
 
-By now, you may have already seen those cool looking Vial potions you can not drink just yet. Welcome to Ascension! Ascending is accomplished by using Lost Scriptures. In order to ascend, make sure you are all of the following:
+By now, you may have already seen those cool looking Vial potions you can not drink just yet. Welcome to Ascension! Ascending is accomplished by using Lost/Super Scriptures. In order to ascend, make sure you are all of the following:
 
     Maxed 12/12 [Every Single Stat is Maxed]
 
@@ -32,7 +32,7 @@ The Mark Shop allows for the purchase of Marks for 330 Onrane and Nodes for the 
 
 ![Vials](https://cdn.discordapp.com/attachments/953134990428868629/1026690839461773373/unknown.png)
 
-Ready to finally drink these vials?! In order to do so you must use a [Lost Scripture #2](https://wiki.valorserver.com/docs/items/consumables/oneuse/lost_scriptures). You must drink 10 of each vial to unlock 24/24 and Vials can be found in most endgame content such as Raids, Dungeons and Ascended Dungeons. Vials can also be crafted by combining 2 greater potions.
+Ready to finally drink these vials?! In order to do so you must use a [Lost/Super Scripture #2](https://wiki.valorserver.com/docs/items/consumables/oneuse/lost_scriptures). You must drink 10 of each vial to unlock 24/24 and Vials can be found in most endgame content such as Raids, Dungeons and Ascended Dungeons. Vials can also be crafted by combining 2 greater potions.
 
 
   </TabItem>
@@ -95,6 +95,10 @@ In Valor, you can use the Forge in the Nexus in a variety of ways. You can use i
 ### Using Aspects 
 
 ![aspects](https://cdn.discordapp.com/attachments/1033413517161791539/1038743176195870750/aspects_2.JPG)
+
+### All Ess Crafts
+
+![image](https://user-images.githubusercontent.com/114798136/206599443-876da334-eaae-4dd8-992b-f28b4cc11a6c.png)
 
 
   </TabItem>
