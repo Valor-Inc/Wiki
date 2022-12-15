@@ -16,7 +16,7 @@ Just looking at the stats you should be able to tell why this sword is so often 
 
 While medorice at first sight The Undead Nemiesis is a surpisingly viable sword with DPS simalr to Underworld and with a straight shot pattern this sword is a very good option. It also Provides the BIS Speed of any sword
 
-![jewl](https://camo.githubusercontent.com/d2aa4f9d72be48f4f4c80d34d5319c3cb11152a3739d5a71b4c8487c20f6a0c3/68747470733a2f2f692e696d6775722e636f6d2f6b4a454f4a456c2e706e67)
+![jewl](https://camo.githubusercontent.com/d2aa4f9d72be48f4f4c80d34d5319c3cb11152a3739d5a71b4c8487c20f6a0c3/68747470733a2f2f692e696d6775722e636f6d2f6b4a454f4a456c2e706e67)![shal](https://camo.githubusercontent.com/ff05bcf721c46e39f13b8e35a7a9045b53920a79eb56ca4065a24faeb5368221/687474703a2f2f692e696d6775722e636f6d2f51456f6f6367382e706e67)
 
 While not normally used in acutally combat Bejewled Spear and Shaylee are great for thier fortunte +4 and +2 repictivly. It is not advised to main these swords instead switch to them before the boss dies to gain the fortune.
 
@@ -47,10 +47,23 @@ Unimpressive DPS wise this sword shines with it's potinal burst dmg and heafty *
 
 Not much to say about this sword its an upgraded crystal sword sacrifing a good ammont of DPS for range of 6.6, If you dont have a slasher and need range this is the sword for you however if you have slasher this sword gets completly obslted.
 
+![oath](https://camo.githubusercontent.com/3b1ae2d781184d8e2c12b41caf6759534107c4289b8fd8035d6c18d670397bce/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f6f6174682532306f6625323074686525323061676573)
+
+Unimpressive DPS and range wise this sword only deverseves a mention for its 40 Wisdom, If you want to make a support style warrior using burden of warpawn this is the sword for you with Stoneplate it can let you keep stun up permently, If you are using dark retrubtion you be better served by any of the other options
+
+![claw](https://camo.githubusercontent.com/c74b1150c3f2b2acb4cd9c5dc4cb8212835cf177035ae512a466d5cba79f44ba/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f737069726974636c6177)
+
+With stats simlar to that of Undead Nem this swords saving grace is its weaken for 0.4 seconds on hit, This allows the warrior to assit the group and his own suriveablity while sacrifing some DPS. Overall a Great choice.
+
+![boneaxe](https://camo.githubusercontent.com/acd8c12ea8e986b31abbaccb96ebc21b988f8ea5f4196b8680c40aec3af24fc6/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f626f6e65253230617865)
+
+If you are on a tight budget the Bone Axe works very well for what it is, It's outclassed by most lg swords so only use if you cant affored the other options.
+
 
 # Helmets
 ![image](https://user-images.githubusercontent.com/114798136/207920488-cfe33038-9bb0-403d-b5da-11ef94b53939.png)
 
+![dark](https://camo.githubusercontent.com/6e6275982d9aba5055f573f13b2790545f4a4fdf571f2fbb49010b1fca9387ea/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f68656c6d2532306f662532306461726b2532307265747269627574696f6e) ![burden](https://camo.githubusercontent.com/7ccce423f04f70b32d4f99bd37a3ef8ebd4996dddafd1b5f3ce78359a28add02/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f62757264656e2532306f662532307468652532307761727061776e)
 
 Odd Choices at first glance these 2 helms do have a use, And that is turrning warrior into a support class.
     
