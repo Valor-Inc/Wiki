@@ -1,6 +1,6 @@
 ---
 title: Battlepass
-description: "Valor has a BP, You should learn about it"
+description: "Valor has a BP, Heres all the info about it."
 ---
 
 import Tabs from '@theme/Tabs';
