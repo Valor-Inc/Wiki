@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 Title: Installation & Common Problems
 description: "Installation Help & Fixes to Common Problems"
 ---

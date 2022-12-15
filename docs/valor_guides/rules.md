@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: Rules
 description: "Explanation of Valors Rules"
 ---

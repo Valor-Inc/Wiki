@@ -1,4 +1,5 @@
 ---
+sidebar_position: 6
 title: Battlepass
 description: "Valor has a BP, Heres all the info about it."
 ---

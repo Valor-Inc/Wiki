@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 title: Contributing to the Wiki
 description: "How to Contribute to the Wiki"
 ---

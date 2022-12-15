@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 12
 Title: Useful Info
 ---
 import Tabs from '@theme/Tabs';
