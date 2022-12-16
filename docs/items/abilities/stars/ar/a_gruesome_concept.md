@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "A Gruesome Concept"
 ---
 
 # A Gruesome Concept
