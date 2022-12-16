@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A tattered leatherweft page containing a singular rune from an obliterated chrononomicon that tells the tragedy of a universe where Sidon reigns truly supreme over all of reality. Dried blood censors contents of most of the page for all but the most attentive minds.</i>
 
-Damage: 1-6
+Damage: 1-6 (Wismod)
 
 Range: 4.5
 
@@ -46,6 +46,8 @@ Fame Bonus: 14%
 
 *See FAQ page to see how WisMod is calculated for the items*
 
+*This item has **HEAVY** WisMod after about 200 wisdom*
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -55,7 +57,7 @@ Fame Bonus: 14%
 
 <i>A tattered leatherweft page containing a singular rune from an obliterated chrononomicon that tells the tragedy of a universe where Sidon reigns truly supreme over all of reality. Dried blood censors contents of most of the page for all but the most attentive minds.</i>
 
-Damage: 3-11
+Damage: 3-11 (Wismod)
 
 Range: 3.0
 
@@ -88,7 +90,7 @@ Fame Bonus: 14%
 
 <i>A tattered leatherweft page containing a singular rune from an obliterated chrononomicon that tells the tragedy of a universe where Sidon reigns truly supreme over all of reality. Dried blood censors contents of most of the page for all but the most attentive minds.</i>
 
-Damage: 1-6
+Damage: 1-6 (Wismod)
 
 Range: 9
 
@@ -131,7 +133,7 @@ Fame Bonus: 14%
 
 <i>A tattered leatherweft page containing a singular rune from an obliterated chrononomicon that tells the tragedy of a universe where Sidon reigns truly supreme over all of reality. Dried blood censors contents of most of the page for all but the most attentive minds.</i>
 
-Damage: 2-4
+Damage: 2-4 (Wismod)
 
 Range: 4.5
 
