@@ -74,7 +74,7 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Earth Rune: Your shots will ignore the defense of your target.*
+**Earth Rune: Your shots will ignore the defense of your target.**
 
 Damage: 265-340
 
