@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 
 **Sprited by: Mat**
 
-***This item can be used to forge legendaries:***
+***This item forges one of these legendaries randomly:***
 
 <ul>
 <li> <a href="https://wiki.valorserver.com/docs/items/abilities/sheaths/legendary/garugen">Garugen</a> </li>
@@ -46,7 +46,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A shard of impending celestial obliteration used to spark the true energy of an ascendent crystal. This energy is so powerful that it materializes a new powerful item.</i>
 
-***This item can be used to forged legendaries:***
+***This item forges one of these legendaries randomly:***
 
 <ul>
 <li> <a href="https://wiki.valorserver.com/docs/items/abilities/orbs/legendary/unochs_truth">Unoch's Truth</a> </li>
@@ -79,7 +79,7 @@ import TabItem from '@theme/TabItem';
 
 **Sprited by: Mat**
 
-***This item can be used to forge legendaries:***
+***This item forges one of these legendaries randomly:***
 
 <ul>
 <li> <a href="https://wiki.valorserver.com/docs/items/rings/legendary/bracelet_of_the_demolished">Bracelet of the Demolished</a> </li>
@@ -105,7 +105,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A shard of slumbering secrets used to spark the true energy of ascendent crystal. This energy is so powerful that it materializes a new powerful item.</i>
 
-***This item can be used to forge legendaries:***
+***This item forges one of these legendaries randomly:***
 
 <ul>
 <li> <a href="https://wiki.valorserver.com/docs/items/armors/robes/legendary/sidons_handcraft">Sidon's Handcraft</a> </li>
@@ -131,7 +131,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A shard of heroic repute used to spark the true energy of an ascendent crystal. This energy is so powerful that it materializes a new powerful item.</i>
 
-***This item can be used to forge legendaries:***
+***This item forges one of these legendaries randomly:***
 
 <ul>
 <li> <a href="https://wiki.valorserver.com/docs/items/abilities/talismans/legendary/fiery_magma_stone">Fiery Magma Stone</a> </li>
@@ -156,7 +156,7 @@ import TabItem from '@theme/TabItem';
 
 **Sprited by: Mat**
 
-***This item can be used to forge legendaries:***
+***This item forges one of these legendaries randomly:***
 
 <ul>
 <li> <a href="https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/dagger_of_tindailius/">Dagger of Tindailius</a> </li>
