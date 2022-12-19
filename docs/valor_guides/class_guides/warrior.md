@@ -1,8 +1,15 @@
 ---
 sidebar_position: 2
 title: Warrior Guide
-description: "The Warrior Class Guide (Credit: Saber)"
+description: "The Warrior Class Guide (Credit: Saber/Rina)"
 ---
+
+# Basic Overview
+
+![image](https://user-images.githubusercontent.com/114798136/208327237-b61f2774-90bb-47ed-94ab-47048cee963d.png)
+
+
+The Warrior is a heavy armor sword class that uses helmets to mainly buff himself or support his allies. The Warrior has stayed as a fun and viable class since his addition, being able to easily provide a lot of DPS to any situation, though lacking high range.
 
 # Swords
 
@@ -61,7 +68,29 @@ If you are on a tight budget the Bone Axe works very well for what it is, It's o
 
 
 # Helmets
-![image](https://user-images.githubusercontent.com/114798136/207920488-cfe33038-9bb0-403d-b5da-11ef94b53939.png)
+
+**Most helmets provide bersek at a 1 second downtime.**
+
+
+![image](https://user-images.githubusercontent.com/114798136/208326905-24ec42dd-d0df-427f-aa7e-5396be1ff4c5.png)
+
+Anguish of Drannol is the best DPS helm before erbus and allows for perment bersek; Its on equip stats are some of the best of any helm with its **+4** Life Steal and 100 HP. If you cant afford erbus or want more suirveablity this is the helm for you.
+
+
+![image](https://user-images.githubusercontent.com/114798136/208326986-8dd094fd-92b5-4499-9499-9b3c3964a8b3.png)
+
+Fortune helm. Theres really not much more to say about this helm its a tiered helm with forutne on equip, Equip it before a boss dies.
+
+
+![image](https://user-images.githubusercontent.com/114798136/208327042-d0b52be2-8411-468a-a6ac-bee118aca543.png)
+
+Due to a recent buff this item is now the best rushing helm due to giving swiftness for 4 seconds, Besdies that this helm has no other use.
+
+
+![image](https://user-images.githubusercontent.com/114798136/208327094-8e6e2bcc-84bf-4bf3-b525-25a3eedc0124.png)
+
+Tyrants helm, A tiered helm with a max hp buff for the durtation of the bersek. Decent if you want more suriveablity.
+
 
 ![dark](https://camo.githubusercontent.com/6e6275982d9aba5055f573f13b2790545f4a4fdf571f2fbb49010b1fca9387ea/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f68656c6d2532306f662532306461726b2532307265747269627574696f6e) ![burden](https://camo.githubusercontent.com/7ccce423f04f70b32d4f99bd37a3ef8ebd4996dddafd1b5f3ce78359a28add02/68747470733a2f2f7677696b692e76616c6f727365727665722e636f6d2f6170692f6974656d2f706963747572652f62757264656e2532306f662532307468652532307761727061776e)
 
@@ -69,7 +98,13 @@ Odd Choices at first glance these 2 helms do have a use, And that is turrning wa
     
    - The Helm of dark retruibtion is gernraly better for healing due to its lack of a cooldown and high heal.
     
-   - Burden was orgainally a very bad helm but a recent buff has made it far more useable burden is more usefull if you can deal with the cooldown and with enough    wisdom you could be able to perma buff its stun.
+   - Burden was orgainally a very bad helm but a recent buff has made it far more useable burden is more usefull if you can deal with the cooldown and with enough wisdom you could be able to perma buff its stun.
+
+
+![image](https://user-images.githubusercontent.com/114798136/208326889-c7ed5dc1-db0b-42ec-a5be-4d60c10bf5b9.png)
+
+
+Erbus is the current best helm for DPS and Genreal use giving bravery and bersek with a 1 second downtime, And gives a whooping **10%** crit chance on equip. However it is a very rare drop from O3 making it pricey to buy and hard to farm.
 
 
 # Heavy Armors
