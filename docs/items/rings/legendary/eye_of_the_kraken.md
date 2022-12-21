@@ -17,6 +17,6 @@ description: "Eye of the Kraken"
     
 Fame Bonus: 8%
 
-***Unfathomable Deep: When you have twenty or more surge, your criticals deal more damage***
+***Unfathomable Deep: While on a liquid, you receive +2 luck and might (max 40) and -1 Speed (Max 25) every 0.4 seconds. Moving ou of the liquid will gradually return the stats to normal (0.4 seconds for every stat gained).***
 
 **Drops from the Kraken | Alert**

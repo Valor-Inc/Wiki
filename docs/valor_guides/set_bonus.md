@@ -84,7 +84,7 @@ When reaching 75% HP you transform back into normal (Transformation has a 40s co
 
 **Your poisonous body grants you immunity to sick inducing attacks**
 
-# Frozen Set
+## Frozen Set
 
 **On offensive stance: You do 10% more damage to slowed enemies**
 
