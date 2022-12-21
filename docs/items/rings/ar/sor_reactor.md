@@ -36,7 +36,7 @@ Fame Bonus: 16%
 
 **1000 Frags: Weak is 25% less effective**
 
-**Craftable with Sor Nucleus and Protagonite Chassis | Drops from Mad Lab
+**Craftable with Sor Nucleus and Protagonite Chassis | Drops from Mad Lab**
 
   </TabItem>
   <TabItem value="Air" label="Air">
