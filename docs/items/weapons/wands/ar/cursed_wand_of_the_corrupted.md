@@ -133,7 +133,7 @@ Fame Bonus: 15%
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Water Rune: Gain +80 Maximum MP and +8 Wisdom.**
+**Water Rune: Gain +80 Maximum MP and +35 Wisdom.**
 
 Damage: 265-340
 
@@ -147,7 +147,7 @@ Shots hit multiple targets
 
     +80 Maximum MP
 
-    +8 Wisdom 
+    +35 Wisdom 
 Fame Bonus: 15%
 
 **Enchanted Cursed Wand of Corrupted with Ancient Water Rune**
