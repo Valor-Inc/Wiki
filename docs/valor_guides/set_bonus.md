@@ -56,4 +56,21 @@ import TabItem from '@theme/TabItem';
 ![image](https://user-images.githubusercontent.com/114798136/208790344-6627867d-3c85-48c5-8a01-7a110b04b401.png)![image](https://user-images.githubusercontent.com/114798136/208790359-177d12c8-a935-483a-8e2b-72c60f10ec81.png)
 
 </TabItem>
+  <TabItem value="Alert" label="Alert">
+
+## Anubis Set
+
+**After being in an instance for 20 seconds, you can transform into an enraged tomb spirit by using your ability.
+On this form you constantly lose HP until 75%, while transformed you gain the following buffs:
+    +20% damage output
+    +20% Speed
+    +30% Wisdom
+   -50% Healing from all sources
+When reaching 75% HP you transform back into normal (Transformation has a 40s cooldown)**
+
+# Kraken Set
+
+**If your protection shield is up, summon a small Kraken that increases your critical hits damage by 15% but halves your protection shield.**
+
+</TabItem>
 </Tabs>
