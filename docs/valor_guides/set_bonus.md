@@ -60,35 +60,35 @@ import TabItem from '@theme/TabItem';
 
 ## Anubis Set
 
-**After being in an instance for 20 seconds, you can transform into an enraged tomb spirit by using your ability.
+*After being in an instance for 20 seconds, you can transform into an enraged tomb spirit by using your ability.
 On this form you constantly lose HP until 75%, while transformed you gain the following buffs:
     +20% damage output
     +20% Speed
     +30% Wisdom
    -50% Healing from all sources
-When reaching 75% HP you transform back into normal (Transformation has a 40s cooldown)**
+When reaching 75% HP you transform back into normal (Transformation has a 40s cooldown)*
 
 ## Kraken Set
 
-**If your protection shield is up, summon a small Kraken that increases your critical hits damage by 15% but halves your protection shield.**
+*If your protection shield is up, summon a small Kraken that increases your critical hits damage by 15% but halves your protection shield.*
 
 ## Terra Set
 
-**Lifesteal is increased by x3**
+*Lifesteal is increased by x3*
 
-**Blood Reactor lifesteal disable and damage increase cap are removed but now the leech amount is maxed out at 2.**
+*Blood Reactor lifesteal disable and damage increase cap are removed but now the leech amount is maxed out at 2.*
 
 ## Toxic Troll Set
 
-**Press crouch to throw a non- damaging poison for no mana cost that within 6 sqrs applies either: Dazed, Weaken or Slowed for 4 seconds. (Cooldown 4 seconds)**
+*Press crouch to throw a non- damaging poison for no mana cost that within 6 sqrs applies either: Dazed, Weaken or Slowed for 4 seconds. (Cooldown 4 seconds)*
 
-**Your poisonous body grants you immunity to sick inducing attacks**
+*Your poisonous body grants you immunity to sick inducing attacks*
 
 ## Frozen Set
 
-**On offensive stance: You do 10% more damage to slowed enemies**
+*On offensive stance: You do 10% more damage to slowed enemies*
 
-**On defensive stance: You take 30% less damage from slowed enemies**
+*On defensive stance: You take 30% less damage from slowed enemies*
 
 </TabItem>
 </Tabs>
