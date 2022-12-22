@@ -37,6 +37,8 @@ Ignores defense of target
     +10 Defense
     
  Fame Bonus: 8%
+
+ ***Blizzard: Increases Permafrost Veil icicles by 4***
  
 **Drops from Bergelmir, the Frost Guardian | Alert**
 
