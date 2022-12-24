@@ -20,4 +20,4 @@ Ignores defence of target
 
 Fame Bonus: 6%
 
-**Drops from the Therssal*
+**Drops from the Therssal**
