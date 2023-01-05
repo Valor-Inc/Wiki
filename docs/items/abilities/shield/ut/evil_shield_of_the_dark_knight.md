@@ -9,9 +9,9 @@ description: "The Evil Shield of the Dark Knight"
 
 <i>A shield that sometimes moves by itself, as if it was living.</i>
 
-Damage: 120-230
+Damage: 400-450
 
-Shots: 8
+Shots: 6
 
 Range: 3.2
 
@@ -25,11 +25,11 @@ Shots pass through obstacles
 
 MP Cost: 110
 
-    +12 Attack
+    +15 Attack
     
-    +4 Speed
+    +5 Speed
     
-    +40 Maximum HP
+    +50 Maximum HP
 
 Fame Bonus: 6%
 

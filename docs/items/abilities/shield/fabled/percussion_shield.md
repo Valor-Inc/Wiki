@@ -9,21 +9,23 @@ description: "The Percussion Shield"
 
 <i>A gilded gong modified to be a terrifically noisy shield.</i>
 
-Damage: 139-178
+Damage: 400-450
 
-Shots: 9
+Shots: 6
 
 Range: 3.2
 
-Shot Effect: Stunned for 3 seconds
+Shot Effect: Slowed for 3 seconds
 
 5% to inflict Paralyzed for 6 seconds
+
+Effect on Self: Speedy for 3s
 
 Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 110
+MP Cost: 100
 
     +10 Protection
     

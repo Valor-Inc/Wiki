@@ -9,7 +9,7 @@ description: "The Protector of the Mad God"
 
 <i>An impenetrable shield used to defend Oryx himself. Thanks to: Jaden</i>
 
-Damage: 300-500
+Damage: 400-450
 
 Shots: 6
 
@@ -25,7 +25,7 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 85
+MP Cost: 110
 
     +10% Maximum HP
     
