@@ -19,3 +19,4 @@ Ignores defense of target
 ***Toxic Touch: 8% Chance to poison enemies, Dealing 800 damage over 4 seconds.***
 
 **Drops from Toxic Troll**
+ 

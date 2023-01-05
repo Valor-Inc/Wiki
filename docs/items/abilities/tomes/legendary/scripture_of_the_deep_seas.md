@@ -4,7 +4,7 @@ description: "Scripture of the Deep Seas"
 
 # Scripture of the Deep Sea
 
-![sea](https://vwiki.valorserver.com/api/item/picture/scipture%20of%20the%20deep%seas)
+![sea](https://vwiki.valorserver.com/api/item/picture/scipture%20of%20the%20deep%seas) 
 
 Damage: 500-600
 

@@ -16,4 +16,4 @@ description: "Hypothermic Coat"
 
 ***Dormant Onslaught: Your ability does 25% more damage if the enemy is slowed.***
 
-**Drops from Frozen Alert**
+**Drops from Frozen Alert** 

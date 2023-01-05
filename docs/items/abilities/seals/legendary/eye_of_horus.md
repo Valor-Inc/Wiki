@@ -4,7 +4,7 @@ description: "Eye of Horus"
 
 # Eye of Horus
 
-![eye](https://vwiki.valorserver.com/api/item/picture/eye%20of%20horus)
+![eye](https://vwiki.valorserver.com/api/item/picture/eye%20of%20horus) 
 
 Summons a sand eagle on your position that slows enemies and explodes after 4 seconds
 

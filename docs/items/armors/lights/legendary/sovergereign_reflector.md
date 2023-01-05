@@ -16,4 +16,4 @@ description: "Sovereign Reflector"
 
 ***Blood Reactor: Increases your outputting damage by based on how much lifesteal you have (Capped at 10%) but disables lifesteal regeneration***
 
-**Drops from Hand of Terradius**
+**Drops from Hand of Terradius** 

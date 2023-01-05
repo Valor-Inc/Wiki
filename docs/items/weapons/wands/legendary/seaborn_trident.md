@@ -16,4 +16,4 @@ Range: 7
 
 ***Blessing of the Seas: When on top of a liquid, Increase rate of fire by 10%***
 
-**Drops from Kraken**
+**Drops from Kraken** 

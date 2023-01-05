@@ -14,4 +14,4 @@ description: "Frozen Locket"
 
     +5 Mana Healing Boost
 
-**Drops from Frozen Alert**
+**Drops from Frozen Alert** 

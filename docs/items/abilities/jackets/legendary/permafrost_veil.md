@@ -26,4 +26,4 @@ Cooldown: 2s
 
 ***Icicle Strike: Upon ablity use, Launch 8 icicles that will deal 1000 damage in a 2 tile radius of your cursor***
 
-**Drops from Frozen Alert**
+**Drops from Frozen Alert** 

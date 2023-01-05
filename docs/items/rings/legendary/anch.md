@@ -13,4 +13,4 @@ description: "Accursed Ankh"
 
 ***Sand Veil: Grants permanent immunity to sinking tiles. Upon dropping below 50% Maximum HP, refill your protection shield and gain a 15% evasion rate buff for 7 seconds. (20s cooldown)***
 
-**Drops from Anubis (Alert Boss)**
+**Drops from Anubis (Alert Boss)** 

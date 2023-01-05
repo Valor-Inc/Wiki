@@ -14,4 +14,4 @@ description: "Adorit Core"
 
     +5 Lifesteal
 
-**Drops from Hand of Terradius**
+**Drops from Hand of Terradius** 

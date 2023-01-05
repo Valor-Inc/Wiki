@@ -25,4 +25,4 @@ Cooldown: 3.5
 
 ***Increases Virulent Longbow's poison chance to 12%***
 
-**Drops from Toxic Troll**
+**Drops from Toxic Troll** 

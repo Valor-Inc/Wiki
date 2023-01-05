@@ -4,7 +4,7 @@ description: "Abyssal Garments"
 
 # Abyssal Garments
 
-![sea](https://vwiki.valorserver.com/api/item/picture/abyssal%20garments)
+![sea](https://vwiki.valorserver.com/api/item/picture/abyssal%20garments) 
 
     +10 Defense
 

@@ -16,4 +16,4 @@ description: "Venom Cage"
 
 ***Aposematism: On taking damage you have a 20% chance to poison the enemy who hit you, dealing 1200 damage over 5 seconds(4 second cooldown)***
 
-**Drops from Toxic Troll**
+**Drops from Toxic Troll** 

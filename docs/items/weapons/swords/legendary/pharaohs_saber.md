@@ -18,4 +18,4 @@ RoF: 65%
 
 *Sandstorm Brawler: Increases defense on enemy hits (capped at 25)*
 
-**Drops from Anubis**
+**Drops from Anubis** 

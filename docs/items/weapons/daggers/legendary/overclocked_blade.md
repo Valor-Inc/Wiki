@@ -16,4 +16,4 @@ Range: 5
 
     +2 Lifesteal
 
-**Drops from Hand of Terradius**
+**Drops from Hand of Terradius** 
