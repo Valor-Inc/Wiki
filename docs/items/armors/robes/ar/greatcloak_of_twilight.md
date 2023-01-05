@@ -34,6 +34,8 @@ import TabItem from '@theme/TabItem';
     
 Fame Bonus: 16%
 
+***Twilight's Corruption: Upon ablity use, Bleeding, Curse, or Slow enemies in a 5 tile radius of your cursor for 3s***
+
 **Drops from the Twilight Archmage of the Shatters**
 
   </TabItem>
@@ -65,6 +67,8 @@ Fame Bonus: 16%
     
 Fame Bonus: 16%
 
+***Twilight's Corruption: Upon ablity use, Bleeding, Curse, or Dazed enemies in a 5 tile radius of your cursor for 5s***
+
 **Enchanted Greatcloak of Twilight with Ancient Air Rune**
 
   </TabItem>
@@ -92,6 +96,8 @@ Fame Bonus: 16%
 
 Fame Bonus: 16%
 
+***Twilight's Corruption: Upon ablity use, Bleeding, Curse, or Weak enemies in a 5 tile radius of your cursor for 5s***
+
 **Enchanted Greatcloak of Twilight with Ancient Earth Rune**
 
   </TabItem>
@@ -118,6 +124,8 @@ Fame Bonus: 16%
     -10 Vitality
 
 Fame Bonus: 16%
+
+***Twilight's Corruption: Upon ablity use, Bleeding, Curse, or Armor Break enemies in a 5 tile radius of your cursor for 5s***
 
 **Enchanted Greatcloak of Twilight with Ancient Fire Rune**
 
@@ -151,6 +159,8 @@ Fame Bonus: 16%
     +2 Mana Leech
 
 Fame Bonus: 16%
+
+***Twilight's Corruption: Upon ablity use, Bleeding, Curse, or Slow enemies in a 5 tile radius of your cursor for 5s***
 
 **Enchanted Greatcloak of Twilight with Ancient Water Rune**
 

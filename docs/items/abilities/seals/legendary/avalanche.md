@@ -15,13 +15,11 @@ Effect on Self: Petrify for 1.5 seconds
 
 EFfect on Self: Within 7.5 (wismod) sqrs Invulnerable for 1.1 (wismod) seconds
 
-Effect on Self: Within 7.5 (wimod) sqrs Godstruck for 4.6 (wismod) seconds
-
 HP Cost: 250
 
 MP Cost: 50
 
-Cooldown: 4 seconds
+Cooldown: 5 seconds
 
     +250 Maximum HP
     

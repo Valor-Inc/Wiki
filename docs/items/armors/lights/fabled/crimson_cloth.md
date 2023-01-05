@@ -21,7 +21,7 @@ description: "The Crimson Cloth"
     
     +10 Speed
     
-    +4 Fortune
+    +5 Fortune
     
 Fame Bonus: 6%
 

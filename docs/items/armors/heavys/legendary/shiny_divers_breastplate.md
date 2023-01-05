@@ -17,7 +17,7 @@ description: "The Shiny Divers Breastplate"
     
     +8 Attack
     
-    +4 Fortune
+    +8 Fortune
     
 Fame Bonus: 10%
 

@@ -11,15 +11,15 @@ description: "V-L Spark Armor"
 
 Sprited by: Owypo
 
-    +125 Maximum HP
+    +150 Maximum HP
     
     +30 Defense
     
-    +12 Attack
+    +15 Attack
     
-    +10 Speed
+    +15 Speed
     
-    +8 Fortune
+    +5 Fortune
     
     +2 Life Steal
     
