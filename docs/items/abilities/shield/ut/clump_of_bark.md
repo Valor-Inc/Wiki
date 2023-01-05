@@ -9,15 +9,15 @@ description: "A Clump of Bark"
 
 <i>A small shield used by the Woodland Rangers of the Aether. It provided them with the speed and agility necessary to win the titanic war against the Berserkers of Leemoth for peace toward the Faeries in the Mount Hollow.</i>
 
-Damage: 240-300
+Damage: 350-400
 
-Shots: 4
+Shots: 5
 
 Range: 3.8
 
-Shot Effect: Slowed for 4 Seconds
+Shot Effect: Slowed for 1.5 Seconds
 
-Shot Effect: Dazed for 3 seconds
+Shot Effect: Dazed for 4 seconds
 
 Shots hit multiple targets
 

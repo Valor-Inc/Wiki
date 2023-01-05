@@ -9,7 +9,7 @@ description: "The Unholy Shield"
 
 <i>When the unholy army rose, shields gave them dark, almighty strength and power</i>
 
-Damage: 280-360
+Damage: 350-400
 
 Shots: 15
 
@@ -17,13 +17,13 @@ Range: 2.5
 
 Shot Effect: Armor Broken for 4 seconds
 
-Shot Effect: Slowed for 4 seconds
+Shot Effect: Dazed for 4 seconds
 
 Shots hit multiple targets
 
 Ignores defense of target
 
-MP Cost: 100
+MP Cost: 90
 
     +10 Defense
     

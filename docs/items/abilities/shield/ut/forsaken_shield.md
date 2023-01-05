@@ -9,11 +9,11 @@ description: "The Forsaken Shield"
 
 <i>A shield of true unholy power found in the Catacombs.</i>
 
-Damage: 400-525
+Damage: 350-400
 
 Shots: 4
 
-Range: 3.4
+Range: 3.6
 
 Shot Effect: Stunned for 3 seconds
 
@@ -21,13 +21,13 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 125
+MP Cost: 90
 
-    +12 Defense
+    +15 Defense
     
-    +8 Dexterity
+    +10 Dexterity
     
-    +220 Maximum HP
+    +150 Maximum HP
 
 Fame Bonus: 6%
 

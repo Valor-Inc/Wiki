@@ -9,9 +9,9 @@ description: "The Shield of the Phantom"
 
 <i>The shield is almost transparent, as if it's not truly a part of this world. Formerly wielded by the Dark Shadow, it will crush any fool who dares to oppose its bearer.</i>
 
-Damage: 200-500 
+Damage: 350-500
 
-Shots: 6
+Shots: 5
 
 Range: 3.2
 
@@ -19,9 +19,9 @@ Shot Effect: Stunned for 3 seconds
 
 Shots hit multiple targets
 
-MP Cost: 95
+MP Cost: 90
 
-    +17 Defense
+    +10 Defense
 
 Fame Bonus: 6%
 

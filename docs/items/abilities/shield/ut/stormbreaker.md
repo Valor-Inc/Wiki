@@ -9,19 +9,23 @@ description: "The Stormbreaker"
 
 <i>A shielded that will shock enemies on contact!</i>
 
-Damage: 200-500
+Damage: 350-400
 
-Shots: 7
+Shots: 5
 
 Range: 3.3
 
 Shots pass through obstacles
 
-MP Cost: 70
+Effect on Self: Berserk for 1.5s
 
-    +12 Dexterity
+MP Cost: 85
+
+    +10 Dexterity
     
-    +40 Maximum HP
+    +5 Speed
+
+    +50 Maximum HP
     
     +80 Maximum MP
 
