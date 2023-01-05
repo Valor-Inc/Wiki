@@ -9,25 +9,31 @@ description: "The Storm"
 
 <i>A shield that rips apart your enemies with the force of a storm.</i>
 
-Damage: 500-1000
+Damage: 500-550
 
-Shots: 5
+Shots: 8
 
-Range: 3.3
+Range: 3.8
 
 Shot Effect: Stunned for 3.5 seconds
+
+Effect on Self: Bersek for 3s
 
 Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 100
+Cooldown: 1.5s
 
-    +18 Dexterity
+MP Cost: 110
+
+    +15 Dexterity
+
+    +10 Speed
     
-    +120 Maximum HP
+    +100 Maximum HP
     
-    +60 Maximum MP
+    +100 Maximum MP
 
 Fame Bonus: 8%
 

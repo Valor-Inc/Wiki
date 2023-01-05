@@ -9,15 +9,17 @@ description: "The Hallowed Shield"
 
 <i>A superior shield forged in deep armories for the construct armies of the underworld.</i>
 
-Damage: 400-500
+Damage: 550-650
 
-Shots: 4
+Shots: 8
 
 Range: 4.3
 
-Grants 'Armored' after 60 seconds
+Grants 'Armored' after 0 seconds
 
-Shot Effect: Stunned for 3.7 seconds
+Grants 'Slowed' after 0 seconds
+
+Shot Effect: Stunned for 3 seconds
 
 Shots hit multiple targets
 
@@ -25,13 +27,10 @@ Shots pass through obstacles
 
 MP Cost: 110
 
-    +100 Maximum HP
+    +150 Maximum HP
     
-    +10 Defense
-    
-    +8 Speed
-    
-    +4 Dexterity
+    +15% Defense
+
     
 Fame Bonus: 8%
 

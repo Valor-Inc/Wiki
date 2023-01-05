@@ -9,13 +9,13 @@ description: "The Reign Maker"
 
 <i>A regal shield native to a forlorn order of titanweft knights from the planes below, which they seem to have conquered with ease.</i>
 
-Damage: 480-580
+Damage: 500-550
 
 Shots: 8
 
 Range: 3.2
 
-Party Effect: Within 0.6 (wismod) sqrs Damaging for 3.4 (wismod) seconds
+Effect on Self: Damaging for 3s
 
 Shots hit multiple targets
 

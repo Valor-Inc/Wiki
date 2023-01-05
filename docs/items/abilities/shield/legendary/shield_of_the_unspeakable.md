@@ -15,13 +15,13 @@ Shots: 18
 
 Range: 5
 
-Shot Effect: Stunned for 7 seconds
+Shot Effect: Stunned for 5 seconds
 
 Shots hit multiple targets
 
 Ignores defense of target
 
-MP Cost: 125
+MP Cost: 110
 
 Cooldown: 3 seconds
 
@@ -29,7 +29,7 @@ Cooldown: 3 seconds
     
     +20 Attack
     
-    +180 Maximum HP
+    +125 Maximum HP
     
 Fame Bonus: 8%
 

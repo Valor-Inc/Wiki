@@ -9,24 +9,26 @@ description: "The Fortification Shield"
 
 <i>An enormous tower-shield whose design is taken from the entry door of the Grand Citadel.</i>
 
-Damage: 530-930
+Damage: 600
 
-Shots: 12
+Shots: 8
 
 Range: 3.2
 
-Shot Effect: Armor broken for 6 seconds
+Effect on self: Armored for 3s
+
+Shots ignore defense of target
 
 Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 125
+MP Cost: 110
 
-    +25 Defense
+    +15 Defense
 
 Fame Bonus: 8%
 
-***Bulwark: Anytime you take damage you have a 17% chance to recover most of the damage taken.***
+***Bulwark: Anytime you deal damage with your shield it has a 10% chance recover half of the damage delt***
 
 **Buyable from the Calling of the Titan Raid Shop for 310 Onrane**

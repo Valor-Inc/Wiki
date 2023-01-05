@@ -15,7 +15,7 @@ Shots: 8
 
 Range: 3.6
 
-Shot Effect: Armor Broken for 12 seconds
+Shot Effect: Armor Broken for 8 seconds
 
 Shot Effect: Stunned for 4 seconds
 
@@ -23,14 +23,16 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 100
+MP Cost: 110
 
-    +18 Defense
+    +25 Defense
     
-    +140 Maximum HP
+    +180 Maximum HP
     
     +12 Attack
 
 Fame Bonus: 8%
+
+***Might of Ogmur: Increases your shield damage based on enemy defense lost from armor break (Up to a 15% damage increase)
 
 **Upgraded form of [Shield of Ogmur](https://www.realmeye.com/wiki/shield-of-ogmur)**

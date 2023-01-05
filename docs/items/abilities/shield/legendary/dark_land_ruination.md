@@ -9,25 +9,31 @@ description: "Dark Land Ruination"
 
 <i>The shield was a seal used to keep the Dark Knight from breaking into our world; ripping apart the fabric of reality.</i>
 
-Damage: 575-875
+Damage: 550-650
 
-Shots: 5
+Shots: 8
 
 Range: 3.2
 
-Shot Effect: Stunned for 7 seconds
+Shot Effect: Stunned for 2.5 seconds
 
 Shot Effect: Armor Broken for 5 seconds
+
+Effect on self: Invisblity for 3s
+
+Effect on self: Darkness for 1s
 
 Shots hit multiple targets
 
 Shots pass through obstacles
 
-MP Cost: 140
+Cooldown: 3.5
 
-    +18 Defense
+MP Cost: 120
 
-    +3% Healing Boost
+    +15 Defense
+
+    +10 Speed
     
 Fame Bonus: 8%
 

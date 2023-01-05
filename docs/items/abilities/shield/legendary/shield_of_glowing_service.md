@@ -9,23 +9,21 @@ description: "The Shield of Glowing Service"
 
 <i>A shield worn by the greatest knights to ever serve the Realm.</i>
 
-Damage: 300-360
+Damage: 500-650
 
 Shots: 8
 
-Range: 3.2
+Range: 3.5
 
 Shot Effect: Stunned for 5 seconds
 
-Shots hit multiple targets
+Shots ignore defense of target
 
 Shots pass through obstacles
 
-MP Cost: 120
+HP Cost: 120
 
-    +20 Vitality
-    
-    +20 Wisdom
+    +35 Vitality
 
 Fame Bonus: 8%
 

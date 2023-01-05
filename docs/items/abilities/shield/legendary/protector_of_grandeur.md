@@ -9,7 +9,7 @@ description: "The Protector of Grandeur"
 
 <i>A shield forged for the most outstanding of knights that also has magical aspects.</i>
 
-Damage: 380-420
+Damage: 420-500
 
 Shots: 8
 
