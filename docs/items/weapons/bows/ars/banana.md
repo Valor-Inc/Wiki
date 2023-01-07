@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 ![Bananalivion](https://vwiki.valorserver.com/api/item/picture/Bananalivion)
 
-<i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian.</i>
+<i>I love bananas</i>
 
 Damage: 1500-1900
 
@@ -41,7 +41,7 @@ Fame Bonus: 15%
 
 ![BananalivionAir](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Air)
 
-<i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Air.</i>
+<i>Bananas in The Breeze</i>
 
 **Air Rune: Increases your fire rate by 10% and maximum damage by 100**
 
@@ -70,7 +70,7 @@ Fame Boss: 15%
 
 ![BananalivionEarth](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Earth)
 
-<i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Earth.</i>
+<i>Bananas gone Rotten</i>
 
 **Earth Rune: Increases your defense by 40. Increases your minimum damage by 120 and maximum damage by 180.**
 
@@ -102,7 +102,7 @@ Fame Boss: 15%
 
 ![BananalivionFire](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Fire)
 
-<i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of Fire.</i>
+<i>Bananas on Fire!</i>
 
 **Fire Rune: Increases your minimum damage by 250 and maximum damage by 300.**
 
@@ -131,7 +131,7 @@ Fame Boss: 15%
 
 ![BananalivionWater](https://vwiki.valorserver.com/api/item/picture/Bananalivion%20Water)
 
-<i>An Ancient Relic of unfathomable power, sealed away by the Ancient Guardian. Enchanted the power of the Sea.</i>
+<i>Bananas in The Sea</i>
 
 **Water Rune: Increases your range by 2.3 tiles and your maximum damage by 100.**
 
