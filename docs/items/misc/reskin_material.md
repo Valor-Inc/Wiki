@@ -76,4 +76,27 @@ Removes the reskin from an item
 **Bought in nexus shop for 250k fame or 25k gold**
 
   </TabItem>
+  <TabItem value="Reskins" label="Reskins">
+
+# Reskins
+
+[Orbs](https://wiki.valorserver.com/docs/items/misc/reskin_material) These are the Items used to reskin.
+
+## S1
+
+[Daggers](https://imgur.com/a/6PAWHPK), [Bows](https://imgur.com/a/tvRdwmd), [Staves](https://imgur.com/a/LK3Oxxc), [Wands](https://imgur.com/a/EiveLpM), [Swords](https://imgur.com/a/3mlbvTF), [Katanas](https://imgur.com/a/67wndF6), [Lances](https://imgur.com/a/pnpfZQj), [Blades](https://imgur.com/a/vumhTqb)
+
+## S2
+
+![s21](https://user-images.githubusercontent.com/114798136/207917017-50019c1a-d7a8-4e6a-ac5a-461ae22b7eb9.png)
+
+![s22](https://blog.valorserver.com/content/images/2022/09/image-1.png)
+
+## S3
+
+![s31](https://blog.valorserver.com/content/images/2022/11/image.png)
+
+![s32](https://blog.valorserver.com/content/images/2022/11/image-1.png)
+
+  </TabItem>
 </Tabs>
