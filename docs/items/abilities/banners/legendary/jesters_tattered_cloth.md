@@ -9,17 +9,19 @@ description: "The Jester's Tattered Cloth"
 
 <i>A cloth, teared up from Puppet Master's own Coat.</i>
 
-Effect on Self: Within 5.5 sqrs Armored for 5 seconds
+Effect on Self: Speedy for 3 seconds
 
-Effect on Self: Berserk for 5 seconds
+Effect on Self: Berserk for 3 seconds
 
-Banner: Within 6.5 sqrs Empower allies for 6 seconds | Stays active for 5 seconds
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds|Within 5 squares empower your allies for 6 seconds
 
-MP Cost: 120
+Recast: Charge towards your banner and do 1250 damage
 
-Cooldown: 6 seconds
+MP Cost: 90
 
-    +12 Dexterity
+    +10 Speed
+
+    +10 Dexterity
     
     +2 Life Steal
 

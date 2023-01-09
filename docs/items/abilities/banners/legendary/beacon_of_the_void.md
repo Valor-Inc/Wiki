@@ -13,7 +13,9 @@ Effect on Self: Damaging for 3 seconds
 
 Effect on Self: Bravery for 3 seconds
 
-Banner: Within 7 sqrs Empower allies for 7 seconds | Stays active for 6 seconds
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds|Within 6 squares empower your allies for 6 seconds
+
+Recast: Charge towards your banner and do 1350 damage
 
 MP Cost: 95
 

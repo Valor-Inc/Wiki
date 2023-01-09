@@ -15,7 +15,9 @@ Effect on Self: Invulnerable for .75 seconds
 
 Effect on Self: Damaging for 3 seconds
 
-Banner: Within 4 sqrs Empower allies for 2 seconds | Stays active for 3 seconds
+Banner: Throw a Banner at your cursor. Stays active for 5 seconds|Within 5 squares empower your allies for 5 seconds
+
+Recast: Charge towards your banner and do 2250 damage
 
 MP Cost: 110
 
