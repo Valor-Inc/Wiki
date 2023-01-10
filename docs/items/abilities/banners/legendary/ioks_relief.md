@@ -17,10 +17,8 @@ Banner: Throw a Banner at your cursor. Stays active for 6 seconds | Within 6 squ
 
 Recast: Charge towards your banner and do 1150 damage
 
-
 MP Cost: 90
 
-Cooldown: 8 seconds
 
     +200 Protection
     

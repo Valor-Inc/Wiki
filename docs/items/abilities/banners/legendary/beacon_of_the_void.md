@@ -19,8 +19,6 @@ Recast: Charge towards your banner and do 1350 damage
 
 MP Cost: 95
 
-Cooldown: 7 seconds
-
     +8 defense
 
 Fame Bonus: 8%
