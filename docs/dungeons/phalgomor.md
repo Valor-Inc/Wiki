@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
 
 **SUPPORTS: Templar, Pally or Necro.**
     
- - Templar's Should use ethier the [Kraken Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/banner_of_the_furious_kraken) For the party MP Boost or [Banner of Last Resort](https://wiki.valorserver.com/docs/items/abilities/banners/legendary/banner_of_last_resort)/[Victorious Banner](https://wiki.valorserver.com/docs/items/abilities/banners/ut/victorious_banner) For their higher radius.
+ - Templar's Should use any banner due to them having nearly the same raduis and uptime, Void banner would be the best for its self buffs and damage.
  
  - Paladin's Should be using either [Seal of Sky Serenade](https://wiki.valorserver.com/docs/items/abilities/seals/ut/seal_of_sky_serenade) or T7 Seal, You should only use [Luminious Horizon's](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) **IF** your group is confident that they do not need the heals.
 
