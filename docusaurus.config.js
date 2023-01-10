@@ -78,7 +78,7 @@ const config = {
             type: 'doc',
             docId: '/category/valor-guides',
             position: 'left',
-            label: 'Valor Guides',
+            label: 'Guides',
           },
           {to: 'https://wiki.valorserver.com/docs/items/showcase', label: 'Item Viewer', position: 'left'},
           {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
