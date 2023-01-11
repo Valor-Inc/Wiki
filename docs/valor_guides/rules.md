@@ -163,6 +163,6 @@ Refunds will NOT be for the following:
 </Tabs>
 
 
-## Any decision by a moderator is final. They may ban/punish for reasons not stated here, if they feel your intent is to be destructive or harmful to the server and/or the community. If you are banned or punished by a moderator, and make a secondary account to avoid these punishments, you will be subject to even harsher consequences.
+## Any decision by a moderator is final. They may ban/punish for reasons not stated here, if they feel your intent is to be destructive or harmful to the server and/or the community. If you are banned or punished by a moderator, it is FORBIDDEN to make a secondary account to avoid these punishments.
 
 
