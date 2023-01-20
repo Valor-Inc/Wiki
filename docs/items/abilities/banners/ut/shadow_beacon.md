@@ -9,15 +9,13 @@ description: "The Shadow Beacon"
 
 <i>A machine infused with dark energy that sends a pulse of shadow particles into the sky</i>
 
-Banner: Within 3 sqrs Empower allies for 5 seconds | Stays active for 6 seconds
+Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5 sqrs empower you allies for 6 seconds
 
-Effect on Self: Invulnerable for 1 seconds
+Recast: Charage towards your banner and do 900 damage During the charge your damage taken is reduced by 45%
 
 Effect on Self: Damaging for 3 seconds
 
-Effect on Self: Armored for 4 seconds
-
-MP Cost: 85
+MP Cost: 90
 
 Cooldown: 8 seconds
 

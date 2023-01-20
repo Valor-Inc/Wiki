@@ -9,15 +9,13 @@ description: "Banner of the Furious Kraken"
 
 <i>Pirates value this banner for it's true grandeur.</i>
 
-Banner: Within 4 sqrs Empower allies for 8 seconds | Stays active for 6 seconds
+Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5 sqrs empower you allies for 6 seconds
+
+Recast: Charage towards your banner and do 1000 damage During the charge your damage taken is reduced by 45%
 
 Party Effect: Within 5.5 sqrs increase Maximum MP by 94 (Wismod) for 5 (wismod) seconds
 
-Effect on Self: Invulnerable for 1.5 seconds
-
-MP Cost: 85
-
-Cooldown: 6 seconds
+MP Cost: 95
 
     +20 Vitality
     

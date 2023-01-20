@@ -9,11 +9,11 @@ description: "The Victorious Banner"
 
 <i>A banner used to celebrate victory.</i>
 
-Banner: Within 8 sqrs Empower allies for 6 seconds | Stays active for 6 seconds
+Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5 sqrs empower you allies for 6 seconds
+
+Recast: Charage towards your banner and do 1000 damage During the charge your damage taken is reduced by 50%
 
 MP Cost: 90
-
-Cooldown: 8 seconds
 
     +10 Restoration
     
