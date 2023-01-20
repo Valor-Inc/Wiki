@@ -9,17 +9,13 @@ description: "The Banner of Revenge"
 
 <i>The banner used to leave the mark of the fallen warrior that dared challenge the Eternal Beast.</i>
 
-Effect on Self: Within 5 sqrs Surged for 4 seconds
+Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5.5 sqrs empower you allies for 6 seconds
 
-Effect on Self: Invulnerable for 1 seconds
+Recast: Charage towards your banner and do 1200 damage During the charge your damage taken is reduced by 55%
 
-Effect on Self: Damaging for 3 seconds
+Effect on Self: Bersek for 2.5 seconds
 
-Banner: Within 6 sqrs Empower allies for 7 seconds | Stays active for 5 seconds
-
-MP Cost: 90
-
-Cooldown: 8 seconds
+MP Cost: 95
 
     +80 Maximum HP
     
