@@ -8,7 +8,7 @@ const FeatureList = [
     img: 'https://vwiki.valorserver.com/api/item/picture/Larry%20Gun',
     description: (
       <>
-      Valor has multiple tiers of items, with hundreds of unique and reworked items there is a lot to keep track of. All gear is sorted by classes, rarity, and type.
+      Valor has multiple differnt tiers of items, From UT to AR, with hundreds of unique and reworked items there is a lot to keep track of. All gear is sorted by the useable class, rarity, and type.
       </>
     ),
     buttonLink: '/docs/category/items',
