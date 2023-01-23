@@ -22,7 +22,7 @@ When playing for the first time, you will need to sign out
 
 Note: Sometimes we do offer these sessions to VIP  & above instead of Premium. This would be noted in the announcement.
 
-**Next Session**: January 29th, 2022.
+**Next Session**: January 28th, 2022.
 
 # Commands
 
