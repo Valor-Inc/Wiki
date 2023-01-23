@@ -9,11 +9,13 @@ description: "Premium Testing is a special event with it's own servers. This is 
 Premium testing otherwise known as "premtesting, testing or sandbox" is pop up server, generally over a weekend. It has a completely unique database and account system.
 Testing should not be confused with Challenge League, which operates as it's own seperate event. 
 
+These sessions are almost exclusively hosted on the weekends. They may be the full weekend, or just an afternoon depending on availability. 
 
 # How To Join
 
 Premium Testing will be published in the discord at least **five** days in advance. Keep an eye on #announcements and the website for notices.
-Testing requires the [Premium rank or above, which may be viewed here.](https://valorserver.com/). We offer an occasional sneak peak at new content, as well as sandboxing to project donators.
+
+Testing requires the [Premium rank or above, which may be viewed here.](https://valorserver.com/payment/valor-checkout?packageID=2). We offer an occasional sneak peak at new content, as well as sandboxing to project donators.
 
 If you are Premium or above you will be able to see `#prem-testing`. The client will be posted the day of the testing in the channel. Any other instructions will be uploaded.
 When playing for the first time, you will need to sign out
