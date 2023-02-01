@@ -240,4 +240,21 @@ Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphon
 **Ninja:** `680 Life, 252 Mana, 80 Attack, 25 Defense, 65 Speed, 80 Dexterity, 35 Vitality, 70 Wisdom, 70 Might, 95 Luck, 25 Protection, 60 Restoration`  
 
   </TabItem>
+<TabItem value="airiitsfinallydone" label="Stat Sheet">
+
+# Stat Table
+
+| Tables       |      Life     |  Mana | Atk| Dex| Def| Spd| Vit| Wis| Might| Luck| Prot| Res|
+|--------------|---------------|-------|----|----|----|----|----|----|------|-----|-----|----|
+| BM           |  720          |  252  | 40 | 95 | 15 | 100| 40 | 50 |   80 |  80 |  25 | 60 |
+| Templar      |  880          |  175  | 75 | 45 | 20 | 65 | 80 | 30 |   40 |  40 |  60 | 60 |
+| Mechanic     |  700          |  250  | 65 | 50 | 15 | 75 | 45 | 70 |   50 |  65 |  75 | 45 |
+| Shrine Maiden|  650          |  410  | 75 | 75 | 25 | 65 | 60 | 75 |   60 |  85 |  75 | 60 |
+| Samurai      |  810          |  275  | 75 | 65 | 30 | 55 | 70 | 45 |   80 |  80 |  25 | 70 |
+| Spirt Hunter |  660          |  300  | 65 | 60 | 25 | 60 | 40 | 70 |   75 |  50 |  60 | 65 |
+| Drakiz       |  650          |  900  | 50 | 50 | 20 | 50 | 35 | 80 |   55 |  30 |  25 | 60 |
+| Gambler      |  580          |  385  | 70 | 60 | 15 | 55 | 40 | 75 |   100|  150|  25 | 60 |
+| Pirate       |  660          |  190  | 65 | 60 | 15 | 55 | 50 | 45 |   45 |  25 |  50 | 65 |
+
+  </TabItem>
 </Tabs>
