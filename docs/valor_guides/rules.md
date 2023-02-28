@@ -117,48 +117,51 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 <TabItem value="Refunds" label="Refunds" default>
 
-# Refund
+# Valor Refund Policy
 
 **Must have a first-person recording of what happened.**
-**You are limited to a maximum of two approved refunds within a 30 day period. When opening a refund ticket be extremely careful about what you want to have refunded, tiered items are worse to refund than a character with legendary item's/ancient relic's.**
- 
- Refunds will only be for Server related issues. This is including but not limited to:
 
-    - Frame skipping due to high stressed instances. This will NOT be "I frame skipped two tiles and died, i would have survived!"
+You are limited to a maximum of two approved refunds within a 30 day period. When opening a refund ticket be extremely careful about what you want to have refunded, tiered items are worse to refund than a character with legendary item's/ancient relic's.
 
-    - Server crashing and rollbacks (specific instances, will be determined when it happens, and this is specifically due to the server crashing, not you crashing. Very different scenarios.)
+Refunds will only be for Server related issues. This is including but not limited to:
 
-    - Bugs that have to do with behaviors of certain mobs. This will NOT be a "oryx dashed to me and killed me in 0 seconds I had no time to react" or "i was sitting on oryx and suddenly i instantly died", this will be limited to stacked shots and misc, Things like Zaragon or raids.
+1. Frame skipping due to high stressed instances. This will NOT be "I frame skipped two tiles and died, i would have survived!"
 
+2. Server crashing and rollbacks (specific instances, will be determined when it happens, and this is specifically due to the server crashing, not you crashing. Very different scenarios.)
 
-Refunds will NOT be for the following:
- 
-    - Internet/PC issues that cause you to die.
+3. Bugs that have to do with behaviors of certain mobs. This will NOT be a "oryx dashed to me and killed me in 0 seconds I had no time to react" or "i was sitting on oryx and suddenly i instantly died", this will be limited to stacked shots and misc. things like Zaragon or raids.
 
-    - Dragging deaths. The person dragging can be punished, but you will not receive a refund. It is your responsibility to not leech/AFK in a spot you are not safe in.
+Refunds will not be for the following:
+1. Internet/PC issues that cause you to die.
 
-    - Suggestively fabricated scenarios different from the one that transpired in your death. Some people think they're real slick trying to get refunds for mistakes that are not our fault. This happens a lot, if you don't nexus or you panic and die, this still doesn't make the refund valid, it just shows a lack of effort in wanting to live. Risk versus reward.
+2. Dragging deaths. The person dragging can be punished, but you will not receive a refund. It is your responsibility to not leech/AFK in a spot you are not safe in.
 
-    - Sob stories about how you know you don't have a video to back up the claim yet you swear that it happened. These will be instantly ignored.
+3. Suggestively fabricated scenarios different from the one that transpired in your death. Everyone has eyes and brains, even the moderators, and we can pick out real deaths. Risk versus reward, do not lie in your refund tickets.
 
-    - Hacked accounts. This is due to one of three things, the first one being it's our fault and the database is leaked, which will never happen. Second being that you used your password and email from another website or private server that was stolen from their database. Third being that you actually have a really bad password and it was easily brute forced. Please choose a respectable password and do not re-use your passwords anywhere else.
+4. Not having a first-person recording of what happened. Sob stories about how you know you don't have a video to back up the claim yet you swear that it happened will be instantly ignored.
 
-    - AFK or tabbed out deaths.
+5. Hacked accounts will only be looked into if they were compromised within the previous 4 months (if the fault was not our own), with no promise on whether we can recover the items or not.
 
-    - Purposefully sitting on mobs and dying.
+6. AFK or tabbed out deaths.
 
-    - Not having a first-person recording of what happened.
+7. Purposefully sitting on mobs (yes, this includes standing a 1-2 tiles away from an enemy that can kill you easily) and dying.
 
-# Misc Refund Rules
+8. Lending items to other players and anything related to it will result in 0 support for not receiving the item(s) back. We have gotten far too many reports of people borrowing items and the borrower dies, or sells the item, etc. This is much too hard to track/reverse and allows for abuse of the system, and already results in too many denies as it is.
 
- - Lies, misleading statements, or edited clips will result in a permanent ban both in-game and Discord.
- - You should not be making a refund ticket for every death. We will limit you if we feel it is excessive or spam.
- - Refunds are not quick business. You are asking us to revive your character from the dead. Be prepared to wait.
- - Refunds for deaths must be made within the first five days. Refund for everything else such as items is two weeks.
- - Referencing another refund ticket/user or clip as supporting evidence for why you should be refunded will instantly result in a deny.
- - Abuse or verbal harassment of the moderation team inside of tickets will result in a mute/ticket-ban, and other escalating punishments.
- - Opening more refund ticket's after having two already approved will result in a ticket-ban.
+9. Situations that include "If the server was performing correctly I would have entered a portal 3 seconds earlier and the timing of me entering the portal would be correct and I walked into shots" - humans have 5 senses, blaming the death on the server and you not reacting appropriately will not fly.
 
+10. Trials will be refunded via a quake with your original party members to the new trial if we deem it refundable. If we cannot refund a trial via quaking your party due to desynchronized playtimes of your original party, we will provide trial tokens of value close to what you lost due to limitations of the system. We also reserve the right to refuse a refund for trials in specific situations that will be determined at the time of the refund ticket.
+
+11. Refunds regarding nexusing without picking up items will result in either no refund if it was a complete user error, or a soulbound replacement with proper proof (picture, video) in moderator-deemed specific scenarios.
+
+Miscellaneous Rules
+1. Lies, misleading statements, or edited clips will result in a permanent ban both in-game and Discord.
+2. You should not be making a refund ticket for every death. We will limit you if we feel it is excessive or spam.
+3. Refunds are not quick business. You are asking us to revive your character from the dead. Be prepared to wait.
+4. Refunds for deaths must be made within the first five days. Refund for everything else such as items is two weeks.
+5. Referencing another refund ticket/user or clip as supporting evidence for why you should be refunded will instantly result in a deny.
+6. Abuse or verbal harassment of the moderation team inside of tickets will result in a mute/ticket-ban, and other escalating punishments.
+7. Opening more refund ticket's after having two already approved will result in a ticket-ban.
 </TabItem>
 </Tabs>
 
