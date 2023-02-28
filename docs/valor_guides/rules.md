@@ -162,6 +162,10 @@ Miscellaneous Rules
 5. Referencing another refund ticket/user or clip as supporting evidence for why you should be refunded will instantly result in a deny.
 6. Abuse or verbal harassment of the moderation team inside of tickets will result in a mute/ticket-ban, and other escalating punishments.
 7. Opening more refund ticket's after having two already approved will result in a ticket-ban.
+
+⏺️ How To Record ⏺️
+https://blog.valorserver.com/game-recording/
+
 </TabItem>
 </Tabs>
 
