@@ -36,7 +36,7 @@ import TabItem from '@theme/TabItem';
 # In Game
 
  - Exploiting of any kind is **NOT** tolerated.
-    - If caught, the punishment and punishment length is determined by the severity of the exploit. This is including but definitely **NOT** limited to: duping, shot pattern switching, elite account exploits. If you have to ask if what you're doing is an exploit, it probably is and you may want to contact a moderator to find out if you're breaking this rule.
+    - If caught, the punishment and punishment length is determined by the severity of the exploit. This is including but definitely **NOT** limited to: duping, elite account exploits or any other kind of exploits for that matter. If you have to ask if what you're doing is an exploit, it probably is and you may want to contact a moderator to find out if you're breaking this rule.
 
  - Do **NOT** beg for items.
  
@@ -48,7 +48,7 @@ import TabItem from '@theme/TabItem';
  
  - Do **NOT** “key”. This is where you open a key over top of a raid portal.
  
- - Do **NOT** harass, or purposefully kill other players. (E.g, using group speedy right beside lava with clear intent to kill, Avalanche to kill Blade Masters.)
+ - Do **NOT** harass, or purposefully kill other players. (E.g, using group speedy right beside lava with clear intent to kill players.)
  
  - Do **NOT** associate with cheaters.
  
@@ -67,7 +67,7 @@ import TabItem from '@theme/TabItem';
 
 # Discord And In Game Chat
 
- - Until the Discord bot handles Notification Squad, double pings will result in 3 strikes.
+ - Double pings/Multiple pinging in Notifcation-squad will result in warnings and mutes.
  
  - **ONLY** ping staff in appropriate situations. Please use our support channels first.
  
