@@ -7,14 +7,22 @@ description: "Want to reskin an item?"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+# Reskin Material
+
 <Tabs>
   <TabItem value="Orb of Transformation S1" label="Orb of Transformation S1" default>
 
-# Orb of Transformation (S1)
+## Orb of Transformation (S1)
 
 ![S1OrbT](https://vwiki.valorserver.com/api/item/picture/orb%20of%20transformation)
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance.</i>
+
+**Purchasable from the Grove for 900 Kantos**
+
+**Reward from the Season 1 Battlepass**
+
+## Season One Showcase
 
 <ul>
 <li>Fire and Ice Theme</li>
@@ -22,45 +30,109 @@ import TabItem from '@theme/TabItem';
 <li>Nature Theme</li>
 </ul>
 
-**Purchasable from the Grove for 400 Kantos**
+<aside>
 
-**Reward from the Season 1 Battlepass**
+💡 This was the first season in which Transformation Orbs were in the game. This was the showcase provided for that season.
+
+</aside>
+
+[Daggers](https://imgur.com/a/6PAWHPK)
+
+[Bows](https://imgur.com/a/tvRdwmd)
+
+[Staves](https://imgur.com/a/LK3Oxxc)
+
+[Wands](https://imgur.com/a/EiveLpM)
+
+[Swords](https://imgur.com/a/3mlbvTF)
+
+[Katanas](https://imgur.com/a/67wndF6)
+
+[Lances](https://imgur.com/a/pnpfZQj)
+
+[Blades](https://imgur.com/a/vumhTqb)
 
   </TabItem>
   <TabItem value="Orb of Transformation S2" label="Orb of Transformation S2">
 
 # Orb of Transformation (S2)
 
-![S2OrbT](https://vwiki.valorserver.com/api/item/picture/orb%20of%20transformations)
+![S2OrbT](https://i.imgur.com/kMs7A21.png)
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 2)</i>
 
+**Purchasable from the Grove for 900 Kantos**
+
+**Reward from the Season 2 Battlepass**
+
+## Season Two Showcase
+
 <ul>
 <li>Shatters Theme</li> 
+</ul>
 
+![s2Shatt](https://user-images.githubusercontent.com/114798136/207917017-50019c1a-d7a8-4e6a-ac5a-461ae22b7eb9.png)
+
+<ul>
 <li>Halloween Theme</li>
 </ul>
 
-**Purchasable from the Grove for 400 Kantos**
-
-**Reward from the Season 2 Battlepass**
+![s2Halloween](https://blog.valorserver.com/content/images/2022/09/image-1.png)
 
   </TabItem>
   <TabItem value="Orb of Transformation S3" label="Orb of Transformation S3">
 
 # Orb of Transformation (S3)
 
-![S3OrbT](https://vwiki.valorserver.com/api/item/picture/orb%20of%20transformation3)
+![S3OrbT](https://i.imgur.com/6zybPI6.png)
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 3)</i>
 
+**Reward from the Season 3 Battlepass**
+
+**Purchasable from the Grove for 900 Kantos**
+
+## Season Three Showcase
+
 <ul>
 <li>Ice Theme</li> 
-
-<li>Winter Theme</li>
 </ul>
 
-**Reward from the Season 3 Battlepass**
+![s3Ice](https://blog.valorserver.com/content/images/2022/11/image-1.png)
+
+<ul>
+<li>Festive Theme</li>
+</ul>
+
+
+![s3Festive](https://blog.valorserver.com/content/images/2022/11/image.png)
+
+  </TabItem>
+  <TabItem value="Orb of Transformation S4" label="Orb of Transformation S4">
+
+# Orb of Transformation (S4)
+
+![S4OrbT](https://i.imgur.com/jxjd38W.png)
+
+<i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 4)</i>
+
+**Reward from the Season 4 Battlepass**
+
+**Purchasable from the Grove for 600 Kantos**
+
+## Season Four Showcase
+
+<ul>
+<li>Fallen Theme</li> 
+</ul>
+
+![S4Fallen](https://i.imgur.com/w6L51Ez.png)
+
+<ul>
+<li>Zol Theme</li>
+</ul>
+
+![S4Zol](https://i.imgur.com/NwU9yB3.png)
 
   </TabItem>
   <TabItem value="Distransformation Stone" label="Distransformation Stone">
@@ -74,29 +146,6 @@ import TabItem from '@theme/TabItem';
 Removes the reskin from an item
 
 **Bought in nexus shop for 250k fame or 25k gold**
-
-  </TabItem>
-  <TabItem value="Reskins" label="Reskins">
-
-# Reskins
-
-[Orbs](https://wiki.valorserver.com/docs/items/misc/reskin_material) These are the Items used to reskin.
-
-## S1
-
-[Daggers](https://imgur.com/a/6PAWHPK), [Bows](https://imgur.com/a/tvRdwmd), [Staves](https://imgur.com/a/LK3Oxxc), [Wands](https://imgur.com/a/EiveLpM), [Swords](https://imgur.com/a/3mlbvTF), [Katanas](https://imgur.com/a/67wndF6), [Lances](https://imgur.com/a/pnpfZQj), [Blades](https://imgur.com/a/vumhTqb)
-
-## S2
-
-![s21](https://user-images.githubusercontent.com/114798136/207917017-50019c1a-d7a8-4e6a-ac5a-461ae22b7eb9.png)
-
-![s22](https://blog.valorserver.com/content/images/2022/09/image-1.png)
-
-## S3
-
-![s31](https://blog.valorserver.com/content/images/2022/11/image.png)
-
-![s32](https://blog.valorserver.com/content/images/2022/11/image-1.png)
 
   </TabItem>
 </Tabs>
