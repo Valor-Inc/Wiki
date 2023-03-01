@@ -19,7 +19,7 @@ MP Cost: 120
 
 Cooldown: 4 seconds
 
-    +125 Maximum HP
+    +85 Maximum HP
     
     +6 Defense
     
