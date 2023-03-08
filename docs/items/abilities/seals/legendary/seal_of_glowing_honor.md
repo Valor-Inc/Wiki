@@ -9,17 +9,17 @@ description: "The Seal of Glowing Honor"
 
 <i>"War is an unreliable doctor, but it sometimes heals grievances." ~ an Exile of Light</i>
 
-Party Effect: Within 4.4 (wismod) sqrs increase Maximum HP by 389 (wismod) for 6.2 (wismod) seconds
+Party Effect: Within 5 (wismod) sqrs increase Maximum HP by 220 (wismod) for 5 (wismod) seconds
 
 MP Cost: 130
 
-Cooldown: 8 seconds
+Cooldown: 2 seconds
 
     +10 Defense
     
-    +40 Maximum HP
-
 Fame Bonus: 8%
+
+***Sacred Protection: You are immune to Slowed.***
 
 **Buyable from the Fallen Light Raid Shop for 300 Onrane**
 
