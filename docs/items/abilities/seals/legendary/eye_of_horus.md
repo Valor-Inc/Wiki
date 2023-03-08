@@ -8,15 +8,15 @@ description: "Eye of Horus"
 
 Summons a sand eagle on your position that slows enemies and explodes after 4 seconds
 
-Slowed for 3 seconds in 4 sqrs
+Enemy Effect: Within 7 squares Slowed for 3 Seconds
 
 Shots: 6
 
-Damage: 300 - 400
+Damage: 1500
 
 Party Effect: Damaging 4.5 seconds
 
-Party Effect: Increase Maximum HP by 200 (wismod) for 5.5 seconds (wismod)
+Party Effect: Increase Maximum HP by 150 (wismod) for 5.5 seconds (wismod)
 
 Effect on Self: Berserk for 2.5 seconds
 
