@@ -9,19 +9,17 @@ description: "The Kismet Seal"
 
 <i>A legendary seal that emits a dmin but pure light, granted only to souls deemed by the Gods to be fated to salvage the Realm.</i>
 
-Party Effect: Within 5.6 (wismod) sqrs increase Maximum MP by 155 (wismod) for 9.3 (wismod) seconds
+Party Effect: Within 4.5 (wismod) sqrs increase Maximum MP by 125 (wismod) for 6 (wismod) seconds
 
-Party Effect: Within 7 (wismod) sqrs Healing for 4.6 (wismod) seconds
+Effect on Self: Berserk for 3 seconds
 
-Party Effect: Within 7 (wismod) sqrs Damaging for 9.3 (wismod) seconds
+Effect on Self: Healing for 5 seconds
 
 MP Cost: 90
 
-Cooldown: 5 Seconds
-
-    +60 Maximum HP
+Cooldown: 4 Seconds
     
-    +1 Mana Leech
+    +2 Mana Leech
 
 Fame Bonus: 8%
 
