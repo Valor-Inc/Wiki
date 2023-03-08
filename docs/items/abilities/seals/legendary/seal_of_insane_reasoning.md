@@ -17,6 +17,8 @@ import TabItem from '@theme/TabItem';
 <i>A seal of perplexing grandeur designed to contain the maniacal fragments of a thousand bickering souls.</i>
 
 **Removes negative conditions**
+    
+Effect on self: +20 Dexterity for 4 seconds (Can Stack)
 
 Effect on Self: Within 7 sqrs Healing for 7 seconds
 
@@ -46,6 +48,8 @@ Fame Bonus: 8%
 <i>A seal of mind-melting basedness designed to contain the gibbering fragments of a thousand lost Romeos.</i>
 
 **Removes negative conditions**
+    
+Effect on self: +20 Dexterity for 4 seconds (Can Stack)
 
 Effect on Self: Within 7 sqrs Healing for 7 seconds
 
