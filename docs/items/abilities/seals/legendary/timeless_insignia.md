@@ -11,17 +11,17 @@ description: "The Timeless Insignia"
 
 Effect on Self: Within 6 sqrs Damaging for 5 seconds
 
-Effect on Self: +20 Dexterity for 5 seconds
+MP Cost: 140
 
-MP Cost: 160
+Cooldown: 2.5 seconds
 
-Cooldown: 5.5 seconds
-
-    +8 Dexterity
+    +10 Dexterity
+    
+    -100 Maximum MP
     
     -15 Wisdom
     
-    +25 Protection
+    +100 Protection
 
 Fame Bonus: 8%
 
