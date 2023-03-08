@@ -9,11 +9,11 @@ description: "The Blackguard Seal"
 
 <i>A darkseal that is said to be cursed. I would stay away from it.</i>
 
-Party Effect: Within 6.3 (wismod) sqrs increase Vitality by 7 for 7.7 (wismod) seconds
+Party Effect: Within 5 (wismod) sqrs increase Vitality by 30 (wismod) for 5 (wismod) seconds (Can stack)
 
-Party Effect: Within 3.1 (wismod) sqrs Armored for 4.6 (wismod) seconds
+Party Effect: Within 2 (wismod) sqrs Armored for 3 (wismod) seconds
 
-Party Effect: Within 6.2 (wismod) sqrs Damaging for 6.2 (wismod) sqrs
+Party Effect: Within 4 (wismod) sqrs Damaging for 4 (wismod) sqrs
 
 MP Cost: 110
 
