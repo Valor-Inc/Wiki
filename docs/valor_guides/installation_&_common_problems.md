@@ -11,6 +11,10 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value= "Installation" label="Installation" default>
 
+   
+Installation Video: 
+![https://cdn.discordapp.com/attachments/943955292645916702/1085439558096781372/ValorInstallGuide.gif](https://cdn.discordapp.com/attachments/943955292645916702/1085439558096781372/ValorInstallGuide.gif)
+    
 ## **WITH AUTO-UPDATER**
 
 - Download the Client from [here](https://api.valorserver.com/api/launcher).
@@ -33,9 +37,6 @@ import TabItem from '@theme/TabItem';
     
 - Open the folder containing the extracted files.
 
-Extraction GIF: 
-
-![https://i.imgur.com/n9WAwlm.gif](https://i.imgur.com/n9WAwlm.gif)
 
   </TabItem>
   <TabItem value="Common Problems" label="Common Problems">
