@@ -71,4 +71,43 @@ We do not have native Mac or Linux ports, but there has been success stories run
 If on Mac you can read more [here](https://blog.valorserver.com/valor-on-macos/), For Linux users you can simply install Wine via your distros packge manger; Install vc++ and you'll be running no problems.
     
   </TabItem>
+    <TabItem value="Optimizing Settings" label="Optimizing Settings">
+
+## Optimizing Settings
+
+When first beginning Valor, all settings will be set to default. If you are a user who has struggles running Valor, this may not be the best for you. Below are a list of options as well as what they do and where to find them.
+
+### Performance Settings
+
+| Setting  | Description | Which Tab is it in? |
+| :--------: | :--------: | :--------: |
+| Hardware Acceleration | Offsets load of visual elements to GPU from CPU, making the game run much smoother. | Graphics |
+| Toggle Projectile Outline | Gives projectiles proper outlines, while pretty, it can hinder performance. If you are experiencing performance issues try enabling this. | Graphics |
+| Disable Enemy Particles | Disables particles from enemies when they take damage or die. Turning on could help with performance issues. | Graphics |
+| Disable Ally Particles | Disables particles of abilities as well as particles emitted by the player. Turning on could help with performance problems but may make team play difficult.  | Graphics |
+| Disable Ally Hit Particles | Disables particles emitted by players upon taking damage. Enable if experiencing issues with performance. | Graphics |
+| Disable Ally Notifications | Gets rid of notifications over the head of allies. Enabling could have positive impact on performance. | Graphics         |
+| Disable Enemy Damage Text | Removes the damage dealt by other users from above enemies. This could improve performance as well as show you exactly how much damage you deal to the boss. | Graphics |
+| Disable Ally Damage Text | Disables damage numbers over the heads of allies. Could improve performance! | Graphics |
+| Disable Particle Master | Disables nonessential particles, however some things like 'throw area' and other effects will remain. Could grealty increase perofmrnace. | Graphics |
+| Render Less Tiles | Renders Less Tiles! Could help performance! | Graphics |
+| Donator Effect Particles | Disables Donator Effects. These small effects that surround each player could be hindering your performance.| Graphics |
+| Hide Player Entities | Hides all entities summoned by players, such as Congealed Ooze. Could work to the benefit of performance. | Misc | 
+| Hide Players | Allows you to hide players, as well as set unique hide options for members of your party, locklist and guild. | Misc | 
+| Show Condition Icons | Shows other player's status effects over their head, like blind. A bunch of players + their conditions could create performance issues. | Misc |
+
+### Quality of Life Settings
+
+| Setting | Description | Which Tab is it in? |
+| :--------: | :--------: | :--------: |
+| Percent Display | Gives a % of the damage you dealt to the boss based on your DPS. | Graphics | 
+| Loot Notification Filters | Allows you to filter which drop-types will give banner pop-ups. | Graphics |
+| Loot Notification | Gives text notifications in chat for FB+ items. | Graphics | 
+| Vault Viewer | Displays what is in your chests, now you don't gotta run to them inside the vault. | Misc | 
+| Vault Color Text | Gives color to the text below your vault chests to indicate how full they are. | Misc | 
+| Container Viewer | Displays whats in your bag / chest by hovering over it. Works for Vault as well. | Misc | 
+| Enable Reskin Origin Tags | Shows the original sprite of your reskinned item in a small image near the reskin. | Misc |
+| Enable Stacked Damage | Rather than showing individual damage shown by your shots, your damage will now add up in real time, showing your total damage. | Misc |
+
+  </TabItem>
 </Tabs>
