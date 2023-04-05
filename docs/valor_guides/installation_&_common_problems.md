@@ -75,7 +75,7 @@ If on Mac you can read more [here](https://blog.valorserver.com/valor-on-macos/)
 
 ## Optimizing Settings
 
-When first beginning Valor, all settings will be set to default. If you are a user who has struggles running Valor, this may not be the best for you. Below are a list of options as well as what they do and where to find them.
+When first beginning Valor, all settings will be set to default. If you are a user who has struggles running Valor, this may not be the best for you. Below are a list of options as well as what they do and where to find them. Below that list are some quality of life options that Valor has that may make your gameplay experience more enjoyable.
 
 ### Performance Settings
 
@@ -108,6 +108,8 @@ When first beginning Valor, all settings will be set to default. If you are a us
 | Container Viewer | Displays whats in your bag / chest by hovering over it. Works for Vault as well. | Misc | 
 | Enable Reskin Origin Tags | Shows the original sprite of your reskinned item in a small image near the reskin. | Misc |
 | Enable Stacked Damage | Rather than showing individual damage shown by your shots, your damage will now add up in real time, showing your total damage. | Misc |
+| Disable Unbox Text | Enabling results in when players unbox loot boxes their loot does not clog up your chat. | Misc |
+| Item Animation | Enabling allows for items with animated sprites to display their animation. | Misc | 
 
   </TabItem>
 </Tabs>
