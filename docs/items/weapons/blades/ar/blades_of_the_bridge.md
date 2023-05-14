@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Blades of the Bridge" label="Blades of the Bridge" default>
 
-# Blades of the Bridge
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge  
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
 
@@ -28,8 +28,10 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
-**Drops from the Bridge Sentinel of the Shatters**
+  **Drops from the Bridge Sentinel of the Shatters**  ![Bridgesent](https://cdn.discordapp.com/attachments/1107378591026655272/1107388508705914900/sen.png) 
 
+
+    
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969065261074366474/blades_of_the_bridge.gif)
@@ -37,7 +39,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Air" label="Air">
 
-# Blades of the Bridge Air
+#  ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Air
 
 ![Blades of the Bridge Air](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Air)
 
@@ -66,7 +68,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
-# Blades of the Bridge Earth
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Earth
 
 ![Blades of the Bridge Earth](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20earth)
 
@@ -99,7 +101,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# Blades of the Bridge Fire
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Fire
 
 ![Blades of the Bridge Fire](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Fire)
 
@@ -129,7 +131,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Water" label="Water">
 
-# Blades of the Bridge Water
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Water
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Water)
 
@@ -147,6 +149,8 @@ Range: 6.5
 
 Ignores defense of target
 
+    +150 Maximum MP
+    +30 Wisdom
     +1 Mana Leech
 
 Fame Bonus: 15%
