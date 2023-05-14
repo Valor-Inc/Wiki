@@ -28,7 +28,7 @@ The Concealment of the Dreadnought is a mid-game dungeon, dropping from the **Co
 ## Phases
 
 Phase 1: The Dreadnought will shuffle in place, firing a radial shot as well as one straight shot at the nearest target; the boss will fire 3 bursts; then begin to rely on shotguns.
-w
+
 Phase 2: He will rotate in a circle, firing a radial boomerang shot while also launching a shotgun at the nearest target; as well as an additional normal radial shot.
 
 Phase 3: The boss will begin to hunt the nearest player, attempting to sit on them with a plethera of shots.
