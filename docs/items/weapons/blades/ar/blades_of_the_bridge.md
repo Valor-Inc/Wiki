@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
 
-<i>Blades once wielded by the brave soldiers who defended this land during its collapse. and this item sucks</i>
+<i>Blades once wielded by the brave soldiers who defended this land during its collapse.</i>
 
 Shots: 2
 
