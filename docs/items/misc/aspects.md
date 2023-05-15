@@ -359,7 +359,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Terra
 
-![AT](https://vwiki.valorserver.com/api/item/picture/aspect%20of%terra)![terra](https://user-images.githubusercontent.com/114798136/203228922-fcdeb68b-74e1-49b1-82d8-ccf477567cd7.png)
+![terra](https://user-images.githubusercontent.com/114798136/203228922-fcdeb68b-74e1-49b1-82d8-ccf477567cd7.png)**Exclusively Accesible to Max level Guilds**
 
 
 **You now generate 1 Surge every 2 seconds (Increased by your Protection stat)**
