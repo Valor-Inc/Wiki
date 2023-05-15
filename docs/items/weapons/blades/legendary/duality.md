@@ -3,7 +3,7 @@ sidebar_position: 2
 description: "Duality"
 ---
 
-# Duality
+# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Duality
 
 ![Duality](https://vwiki.valorserver.com/api/item/picture/Duality)
 
@@ -21,13 +21,13 @@ Range: 5.4
 
 Shots pass through obstacles
 
-    +80 Maximum MP
-
+    +160 Maximum MP
+    +20 Wisdom
     +40 Protection
 
 Fame Bonus: 8%
 
-**Drops from the Mad Jester in the Realm**
+**Drops from the Mad Jester in the Realm** ![jester](https://cdn.discordapp.com/attachments/1107378591026655272/1107464343450304562/image_3.png)
 
 ## Projectile
 
