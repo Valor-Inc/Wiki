@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Frozen Blades" label="Frozen Blades" default>
 
-# Frozen Blades
+# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Frozen Blades
 
 ![Frozen Blades](https://vwiki.valorserver.com/api/item/picture/Frozen%20Blades)  
 
@@ -32,6 +32,8 @@ Ignores defense of target
 
     +50 Maximum HP
     
+    +15 Wisdom
+    
     +10 Attack
     
     +10 Defense
@@ -40,7 +42,7 @@ Ignores defense of target
 
  ***Blizzard: Increases Permafrost Veil icicles by 4***
  
-**Drops from Bergelmir, the Frost Guardian | Alert**
+**Drops from Bergelmir, the Frost Guardian | Alert** ![bergelmir](https://cdn.discordapp.com/attachments/1107378591026655272/1107470508791955456/fghf.png)
 
  ## Projectile
  
@@ -49,10 +51,10 @@ Ignores defense of target
   </TabItem>
   <TabItem value="Popsicle Blades" label="Popsicle Blades">
 
-# Popsicle Blades
+#  ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)  Popsicle Blades
 
-![PoPB](https://vwiki.valorserver.com/api/item/picture/popsicle%20blades)  
-
+![pops](https://cdn.discordapp.com/attachments/1107378591026655272/1107472197653647481/triangle.png)
+    
 <i>These blades radiate a cold, harsh energy. Sluggish but powerful, these shots travel a good distance. Also taste quite tangy!</i>
 
 Damage: 215-345
