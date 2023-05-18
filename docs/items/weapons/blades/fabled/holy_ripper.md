@@ -3,7 +3,7 @@ sidebar_position: 2
 description: "The Holy Ripper"
 ---
 
-# Holy Ripper
+# ![FABLED](https://cdn.discordapp.com/attachments/828314781793779742/1108582622457757706/FABLEDBAG.png) Holy Ripper
 
 ![HolyRipper](https://vwiki.valorserver.com/api/item/picture/holy%20ripper)
 
@@ -27,7 +27,9 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
-**Drops from Merganus, the Fallen Titan of the Fallen Light raid**
+
+**Drops from Merganus, the Fallen Titan of the Fallen Light raid** ![Merganus](https://github.com/Valor-Inc/Wiki/assets/116240675/11295cbd-dcf2-4e4d-abc0-3876cfa9b4b4)
+
 
 ## Projectile
 
