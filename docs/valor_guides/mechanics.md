@@ -48,24 +48,31 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 
 ## Anubis
 
-![Anubis](https://cdn.discordapp.com/attachments/953134990428868629/1023042273149202462/unknown.png)
-
+![Anubis](https://cdn.discordapp.com/attachments/1107378591026655272/1111185630249111583/image.png)
+  
 ## Bergelmir, the Frost Guardian
 
-![Bergel](https://cdn.discordapp.com/attachments/953134990428868629/1023042480834363432/unknown.png)
+![Bergel](https://cdn.discordapp.com/attachments/828314781793779742/1111184838616174663/image.png)
 
 ## The Kraken
 
-![kraken](https://cdn.discordapp.com/attachments/953134990428868629/1023043041751220304/unknown.png)
+![kraken](https://cdn.discordapp.com/attachments/1107378591026655272/1111185424719814716/image.png)
 
 ## Hand of Terradius
 
-![Woke](https://cdn.discordapp.com/attachments/953134990428868629/1023043663644864542/unknown.png)
+![Woke](https://cdn.discordapp.com/attachments/1107378591026655272/1111186137306902538/image.png)
 
 ## Toxic Troll
 
-![ihateyou](https://cdn.discordapp.com/attachments/953134990428868629/1023044848401535038/unknown.png)
+![ihateyou](https://cdn.discordapp.com/attachments/1107378591026655272/1111187067960053811/image.png)
 
+  ## Legendary Alert Sets
+  
+  ![1](https://cdn.discordapp.com/attachments/1107378591026655272/1111188821535625236/ezgif.com-crop.png)
+   ![2](https://cdn.discordapp.com/attachments/1107378591026655272/1111189004713472020/ezgif.com-crop_4.png)
+    ![3](https://cdn.discordapp.com/attachments/1107378591026655272/1111188960815894611/ezgif.com-crop_3.png)
+     ![4](https://cdn.discordapp.com/attachments/1107378591026655272/1111189038490189854/ezgif.com-crop_5.png)
+       ![5](https://cdn.discordapp.com/attachments/1107378591026655272/1111188878548816002/ezgif.com-crop_1.png)
   </TabItem>
   <TabItem value="Crafting" label="Crafting">
 
@@ -73,7 +80,8 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 
 ## Understanding Crafting
 
-In Valor, you can use the Forge in the Nexus in a variety of ways. You can use it to craft legendary items, edit items, upgrade items, activate aspects, and other things. The Forge can be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. 
+In Valor, you can use the Forge in the Nexus in a variety of ways. You can use it to craft legendary items, edit items, upgrade items, activate aspects, and other things. The Forge can[
+](https://cdn.discordapp.com/attachments/1107378591026655272/1111189004713472020/ezgif.com-crop_4.png) be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. 
 ![TheForge](https://cdn.discordapp.com/attachments/953134990428868629/1028034835190661170/unknown.png)
 
 ### Understanding Elemental Sor Crafts
