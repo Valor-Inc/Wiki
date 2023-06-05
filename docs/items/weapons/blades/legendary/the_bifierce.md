@@ -1,9 +1,10 @@
 ---
 sidebar_position: 5
+title: The Bifierce
 description: "The Bifierce"
 ---
 
-# The Bifierce
+# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)The Bifierce
 
 ![The Bifierce](https://vwiki.valorserver.com/api/item/picture/The%20Bifierce)
 
@@ -27,7 +28,7 @@ Fame Bonus: 8%
 
 ***Swift Strike: On Hit: 50% to increase Speed by 2 for 3 seconds. Stacks up to 30 Speed.***
 
-**Craftable using the Shard of Zol Corruption**
+**Craftable using the Shard of Sidon's Fall** ![SHARD](https://cdn.discordapp.com/attachments/1107378591026655272/1108669059056287755/image.png)
 
 ## Projectile
 
