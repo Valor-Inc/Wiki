@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Holy Ripper
 description: "The Holy Ripper"
 ---
 
@@ -8,8 +9,6 @@ description: "The Holy Ripper"
 ![HolyRipper](https://vwiki.valorserver.com/api/item/picture/holy%20ripper)
 
 <i>Passed down through generations of Titans, these blades have seen their share of massacre.</i>
-
-
 
 Damage: 140-210
 
@@ -27,9 +26,7 @@ Ignores defense of target
 
 Fame Bonus: 6%
 
-
 **Drops from Merganus, the Fallen Titan of the Fallen Light raid** ![Merganus](https://github.com/Valor-Inc/Wiki/assets/116240675/11295cbd-dcf2-4e4d-abc0-3876cfa9b4b4)
-
 
 ## Projectile
 
