@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+title: Fury Claws
 description: "The Fury Claws"
 ---
 
