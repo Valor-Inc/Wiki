@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 description: "Duality"
+title: Duality
 ---
 
 # ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Duality
