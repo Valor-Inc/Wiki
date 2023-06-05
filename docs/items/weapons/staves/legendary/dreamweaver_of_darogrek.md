@@ -10,13 +10,13 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Dreamweaver of Darogek" label="Dreamweaver of Darogek" default>
 
-# Dreamweaver of Darogek
+# ![LG](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Dreamweaver of Darogek
 
 ![Dreamweaver](https://vwiki.valorserver.com/api/item/picture/dreamweaver%20of%20darogek)
 
 <i>A forgotten staff assembled and powered only by the lost figments of reality.</i>
 
-Damage: 275-400
+Damage: 350-400
 
 Shots: 1
 
@@ -45,11 +45,11 @@ Fame Bonus: 8%
 
 # Fortuneteller of Felsinn
 
-![Felsinn](https://vwiki.valorserver.com/api/item/picture/fortuneteller%20of%20felsinn)
+![Felsinn](https://cdn.discordapp.com/attachments/828314781793779742/1115114112314257519/triangle_6.png)
 
 <i>A forgotten staff, once belonging to the greatest fortuneteller in all of the realm. Asl uck would have it, he was usurped by his apprentice, never to be seen again.</i>
 
-Damage: 275-400
+Damage: 350-400
 
 Shots: 1
 
