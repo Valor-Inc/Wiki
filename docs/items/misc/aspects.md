@@ -25,7 +25,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Anubis
 
-![AAnubis](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20anubis)![anubis](https://user-images.githubusercontent.com/114798136/203229340-73aa7cd5-b8da-4863-8915-65561d0a0fb9.png)
+![AAnubis](https://cdn.discordapp.com/attachments/1107378591026655272/1107496578706571274/image_3.png)![anubis](https://user-images.githubusercontent.com/114798136/203229340-73aa7cd5-b8da-4863-8915-65561d0a0fb9.png)
 
 
 <i>As judgement approaches, the scales of fate should sink ever in your favor..</i>
@@ -185,7 +185,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Malgor
 
-![Am](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20malgor)![malg](https://user-images.githubusercontent.com/114798136/203232415-22cc02b7-24be-497f-b957-77996732b560.png)
+![Am](https://cdn.discordapp.com/attachments/1107378591026655272/1107496015101181962/image_1.png)![malg](https://user-images.githubusercontent.com/114798136/203232415-22cc02b7-24be-497f-b957-77996732b560.png)
 
 <i>The inferno below becomes both a leash and a whip--to weaken its grip is to taste vicious power.</i>
 
@@ -225,7 +225,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Phalgomor
 
-![AP](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20phalgomor)![phalg](https://user-images.githubusercontent.com/114798136/203232493-dc0b8bbd-946b-430e-9dab-ec71499f5189.png)
+![AP](https://cdn.discordapp.com/attachments/1107378591026655272/1107487730398666803/Screenshot_2022-11-24_160529.png)![phalg](https://user-images.githubusercontent.com/114798136/203232493-dc0b8bbd-946b-430e-9dab-ec71499f5189.png)
 
 <i>In times of labored despair, the mind runs free and spins a listless dream. Of delight or doom... it is no longer one's choice.</i>
 
@@ -284,7 +284,7 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of the Glaciers
 
-![AtG](https://vwiki.valorserver.com/api/item/picture/aspect%20of%20the%20glaciers)
+![AtG](https://cdn.discordapp.com/attachments/1107378591026655272/1107496331636908093/image_2.png)
 
 <i>The world will slow and slumber, and a great winter will swallow your soul in her cold embrace...</i>
 
@@ -359,8 +359,9 @@ import TabItem from '@theme/TabItem';
 
 # Aspect of Terra
 
-![AT](https://vwiki.valorserver.com/api/item/picture/aspect%20of%terra)![terra](https://user-images.githubusercontent.com/114798136/203228922-fcdeb68b-74e1-49b1-82d8-ccf477567cd7.png)
+![terra](https://user-images.githubusercontent.com/114798136/203228922-fcdeb68b-74e1-49b1-82d8-ccf477567cd7.png)
 
+**Exclusively Accesible to Max level Guilds**
 
 **You now generate 1 Surge every 2 seconds (Increased by your Protection stat)**
 
