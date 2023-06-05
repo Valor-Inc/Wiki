@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: Thunder and Lightning
 description: "The Thunder and Lightning"
 ---
 # ![utbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png)Thunder and Lightning
