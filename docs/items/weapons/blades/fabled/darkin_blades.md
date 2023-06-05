@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+title: Darkin Blades
 description: "The Darkin Blades"
 ---
 
-# Darkin Blades
+# ![fabled](https://cdn.discordapp.com/attachments/828314781793779742/1108582622457757706/FABLEDBAG.png) Darkin Blades
 
 ![darkin](https://vwiki.valorserver.com/api/item/picture/darkin%20blades)
 
@@ -19,7 +20,7 @@ Range: 3
 
 Fame Bonus: 6%
 
-**Drops from all bosses of the Calling of the Titan raid**
+**Drops from all bosses of the Calling of the Titan raid** ![drannol](https://cdn.discordapp.com/attachments/1107378591026655272/1108664279978229830/triangle_4.png)
 
 ## Projectile
 
