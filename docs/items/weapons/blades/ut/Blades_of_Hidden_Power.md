@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 description: "The Blades of Hidden Power"
+TItle: Blades of Hidden Power
 ---
 # ![ut tier](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png)Blades of Hidden Power
 
