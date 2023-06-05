@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Otherworldly Blades
 description: "The Otherwordly Blades"
 ---
 
