@@ -80,8 +80,7 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 
 ## Understanding Crafting
 
-In Valor, you can use the Forge in the Nexus in a variety of ways. You can use it to craft legendary items, edit items, upgrade items, activate aspects, and other things. The Forge can[
-](https://cdn.discordapp.com/attachments/1107378591026655272/1111189004713472020/ezgif.com-crop_4.png) be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. 
+In Valor, you can use the Forge in the Nexus in a variety of ways. You can use it to craft legendary items, edit items, upgrade items, activate aspects, and other things. The Forge can[](https://cdn.discordapp.com/attachments/1107378591026655272/1111189004713472020/ezgif.com-crop_4.png) be found in the Nexus right below the Public Challenges area and is a big part of obtaining high-tier loot in Valor. 
 ![TheForge](https://cdn.discordapp.com/attachments/953134990428868629/1028034835190661170/unknown.png)
 
 ### Understanding Elemental Sor Crafts
