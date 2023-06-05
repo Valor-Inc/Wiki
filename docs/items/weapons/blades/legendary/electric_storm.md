@@ -1,9 +1,10 @@
 ---
 sidebar_position: 3
+title: Electric Storm
 description: "The Electric Storm"
 ---
 
-# Electric Storm
+# ![lgbag](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)Electric Storm
 
 ![EStorm](https://vwiki.valorserver.com/api/item/picture/electric%20storm)
 
