@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Darkin Blades
 description: "The Darkin Blades"
 ---
 
