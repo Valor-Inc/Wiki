@@ -1,9 +1,10 @@
 ---
 sidebar_position: 6
+title: Urumi
 description: "The Urumi"
 ---
 
-# Urumi
+# ![LG](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Urumi
 
 ![Urumi](https://vwiki.valorserver.com/api/item/picture/Urumi)
 
@@ -31,7 +32,7 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
-**Drops from Ulgur | Public Challenge**
+**Drops from Ulgur | Public Challenge**![ulgur](https://cdn.discordapp.com/attachments/1107378591026655272/1108664101594464256/triangle_3.png)
 
 ## Projectile
 
