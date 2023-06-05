@@ -1,9 +1,10 @@
 ---
 sidebar_position: 5
+title: Fury Claws
 description: "The Fury Claws"
 ---
 
-# Fury Claws
+# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Fury Claws 
 
 ![Fury Claws](https://vwiki.valorserver.com/api/item/picture/Fury%20Claws)  
 
@@ -29,7 +30,7 @@ Ignores defense of target
     
 Fame Bonus: 8%
 
-**Drops from Berikao, the Dark Hunter of the Calling of the Titan raid**
+**Drops from Berikao, the Dark Hunter of the Calling of the Titan raid** ![Berikao](https://cdn.discordapp.com/attachments/1107378591026655272/1108666419379441744/image.png)
 
 ## Projectile
 
