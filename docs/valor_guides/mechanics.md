@@ -40,7 +40,7 @@ Ready to finally drink these vials?! In order to do so you must use a [Lost/Supe
 
 # Alerts
 
-![Alert](https://cdn.discordapp.com/attachments/953134990428868629/1023041181661282304/unknown.png)
+![Alert](https://media.discordapp.net/attachments/1153114028852396122/1153467192931794944/Alert_Token.png?width=70&height=70)
 
 Alerts are rare bosses that can be fought if you are lucky enough to obtain an alert. Within these alerts you are unable to die, if you were to die in these instances you would be teleported to the Nexus, losing 10% of your gold as well. Alerts can be obtained as a **1/8000** chance drop from any enemy that dies within range of you, this rate can be doubled during events on occassion. You can also obtain them via Alert Tokens from the Battlepass.
 
@@ -48,11 +48,11 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 
 ## Anubis
 
-![Anubis](https://cdn.discordapp.com/attachments/953134990428868629/1023042273149202462/unknown.png)
+![Anubis](https://media.discordapp.net/attachments/1107378591026655272/1111185630249111583/image.png?width=438&height=301)
 
 ## Bergelmir, the Frost Guardian
 
-![Bergel](https://cdn.discordapp.com/attachments/953134990428868629/1023042480834363432/unknown.png)
+![Bergel](https://media.discordapp.net/attachments/828314781793779742/1111184838616174663/image.png?width=483&height=346)
 
 ## The Kraken
 
@@ -60,11 +60,11 @@ Alerts are rare bosses that can be fought if you are lucky enough to obtain an a
 
 ## Hand of Terradius
 
-![Woke](https://cdn.discordapp.com/attachments/953134990428868629/1023043663644864542/unknown.png)
+![Woke](https://media.discordapp.net/attachments/1107378591026655272/1111186137306902538/image.png?width=325&height=330)
 
 ## Toxic Troll
 
-![ihateyou](https://cdn.discordapp.com/attachments/953134990428868629/1023044848401535038/unknown.png)
+![ihateyou](https://media.discordapp.net/attachments/1107378591026655272/1111187067960053811/image.png?width=213&height=265)
 
   </TabItem>
   <TabItem value="Crafting" label="Crafting">
