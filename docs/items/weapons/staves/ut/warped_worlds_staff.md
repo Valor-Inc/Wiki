@@ -10,13 +10,13 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Warped Worlds Staff" label="Warped Worlds Staff" default>
 
-# Warped Worlds Staff
+# ![ut](https://cdn.discordapp.com/attachments/1107378591026655272/1108667069987295232/adf.png) Warped Worlds Staff
 
 ![WW](https://vwiki.valorserver.com/api/item/picture/warped%20worlds%20staff)
 
 <i>A staff that binds our reality to another.</i>
 
-Damage: 155-200
+Damage: 200-265
 
 Shots: 1
 
@@ -32,7 +32,7 @@ Fame Bonus: No Fame Bonus
 
 ***Upgradable with Essence of the Realm!***
 
-**Drops from the Illusionist of the Crypt of the Illusionist**
+**Drops from the Illusionist of the Crypt of the Illusionist** ![OOGABOOGA](https://cdn.discordapp.com/attachments/1107378591026655272/1115115511420817479/triangle_7.png)
 
 ## Projectile
 
@@ -41,11 +41,11 @@ Fame Bonus: No Fame Bonus
 
 # Celtic Staff
 
-![CS](https://vwiki.valorserver.com/api/item/picture/celtic%20staff)
+![CS](https://cdn.discordapp.com/attachments/828314781793779742/1115116180504596530/triangle_9.png)
 
 <i>An uncanny staff crafted with loving care for an apprentice fortuneteller. Whispers of grandeur can be heard as the weapon twists its vision of the future.</i>
 
-Damage: 155-200
+Damage: 200-265
 
 Shots: 1
 
