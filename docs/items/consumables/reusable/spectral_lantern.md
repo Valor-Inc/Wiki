@@ -3,7 +3,7 @@ sidebar_position: 5
 description: "The Spectral Lantern"
 ---
 
-# Spectral Lantern
+# ![lg](https://media.discordapp.net/attachments/1118235017550778448/1152808711153262622/Legendary_Bag.png?width=67&height=67) Spectral Lantern
 
 ![SLatern](https://i.imgur.com/JLA0VEm.png)
 
