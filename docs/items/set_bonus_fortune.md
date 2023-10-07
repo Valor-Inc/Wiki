@@ -1,5 +1,5 @@
 ---
-title: Set Bonus
+title: Set Bonuses & Fortune
 description: "ST Set Bonuses"
 ---
 
