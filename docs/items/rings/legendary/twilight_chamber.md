@@ -3,7 +3,6 @@ sidebar_position: 29
 description: "Twilight Chamber"
 ---
 
-
 # Twilight Chamber
 
 ![TC](https://cdn.discordapp.com/attachments/1118235017550778448/1152705871281926144/Twilight_Chamber.png)
@@ -18,7 +17,6 @@ description: "Twilight Chamber"
 
     +20 Wisdom
 
-
 Fame Bonus: 8%
 
-**Upgraded form of [The Twilight Gemstone](WIP)**
+**Upgraded form of The Twilight Gemstone**
