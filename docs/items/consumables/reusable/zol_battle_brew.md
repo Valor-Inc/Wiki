@@ -9,7 +9,6 @@ description: "Zol Battle Brew"
 
 <i>A concoction of powerful concentrated Zol energy fused with the power of the elements to give an edge in battle.</i>
 
-
 On Use: +30 Attack for 7 seconds
 
 On Use: -150 Maximum HP for 5 seconds
