@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Bloodstone of Enmity" label="Bloodstone of Enmity" default>
 
-# Bloodstone of Enmity
+# ![lg](https://media.discordapp.net/attachments/1118235017550778448/1152808711153262622/Legendary_Bag.png?width=67&height=67) Bloodstone of Enmity
 
 ![BStone](https://vwiki.valorserver.com/api/item/picture/bloodstone%20of%20enmity)
 
