@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
 description: "The Crimson Fangs"
+title: Crimson Fangs
 ---
 
-# Crimson Fangs
+# ![lgbag](https://media.discordapp.net/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png?width=67&height=67) Crimson Fangs
 
 ![CFang](https://i.imgur.com/pcp26pb.png)
 
@@ -25,7 +26,7 @@ Fame Bonus: 8%
 
 ***Enraged Strike: On Hit: 33% to increase Attack by 1 for 3 seconds. Stacks up to 20 attack.***
 
-**Drops from the Ascended Tunnel of Pain**
+**Drops in the Ascended Tunnel of Pain ![boss](https://media.discordapp.net/attachments/1160413917747617853/1160414185302265876/Allseeing_Horror.png?ex=653492ed&is=65221ded&hm=f8b19188fae75dbb7167842e79d20bf27fcd278fc59de4d478b73e9d6d733428&=&width=190&height=176)**
 
 ## Projectile
 
