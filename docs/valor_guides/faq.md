@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 ### Q: Why game no work?????
 
-# A: The game does! Check out the solutions in [Common Problems](https://github.com/Valor-Inc/Wiki/blob/main/docs/valor_guides/class%20guides/templar.md).
+# A: The game does! Check out the solutions in [Common Problems](https://wiki.valorserver.com/docs/valor_guides/installation_&_common_problems/#common-problems).
 
 ### Q: What is "Godstruck"
 
