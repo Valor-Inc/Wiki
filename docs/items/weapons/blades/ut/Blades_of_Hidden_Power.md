@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
 description: "Blades of Hidden Power"
-TItle: Blades of Hidden Power
+Title: Blades of Hidden Power
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 
-# ![image](https://github.com/Valor-Inc/Wiki/assets/116240675/0c8eaeda-4a2a-4a11-8a69-b2d84d97a393) Blades of Hidden Power 
+#  ![image](https://github.com/Valor-Inc/Wiki/assets/116240675/0c8eaeda-4a2a-4a11-8a69-b2d84d97a393) Blades of Hidden Power 
 
 ![Blades of Hidden Power](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20Hidden%20Power)
 
