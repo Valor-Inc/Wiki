@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: "The Blades of Hidden Power"
+description: "Blades of Hidden Power"
 TItle: Blades of Hidden Power
 ---
 
