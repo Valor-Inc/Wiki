@@ -40,7 +40,7 @@ Ready to finally drink these vials?! In order to do so you must use a [Lost/Supe
 
 # Alerts
 
-![Alert](https://cdn.discordapp.com/attachments/953134990428868629/1023041181661282304/unknown.png)
+![Alert](https://media.discordapp.net/attachments/1153114028852396122/1153467192931794944/Alert_Token.png?ex=652dc209&is=651b4d09&hm=92baba45743ae5bc1df161327ffb7b52b37497748e89ae73b9c6ac5c6d1bbdb8&=&width=70&height=70)
 
 Alerts are rare bosses that can be fought if you are lucky enough to obtain an alert. Within these alerts you are unable to die, if you were to die in these instances you would be teleported to the Nexus, losing 10% of your gold as well. Alerts can be obtained as a **1/8000** chance drop from any enemy that dies within range of you, this rate can be doubled during events on occassion. You can also obtain them via Alert Tokens from the Battlepass.
 
