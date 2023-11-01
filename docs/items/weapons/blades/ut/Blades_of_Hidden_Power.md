@@ -5,7 +5,7 @@ description: "Blades of Hidden Power"
 ---
 
 
-#  ![image](https://github.com/Valor-Inc/Wiki/assets/116240675/0c8eaeda-4a2a-4a11-8a69-b2d84d97a393) Blades of Hidden Power 
+# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Blades of Hidden Power 
 
 ![Blades of Hidden Power](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20Hidden%20Power)
 
