@@ -90,6 +90,10 @@ Total Bonus Stat: +15 fortune
   <TabItem value="Alert" label="Alert">
 
 ## Anubis Set (paladin set)
+[![sword](https://media.discordapp.net/attachments/1153114028852396122/1160380481188139028/Pharaohs_Saber.png?ex=65347389&is=6521fe89&hm=6f71eb32156306ae94a16ac27ba1b1e8e2318617eb9552f7bedd1f1edb4048c9&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/pharaohs_saber)
+[![seal](https://media.discordapp.net/attachments/1153114028852396122/1160380622758494239/Eye_of_Horus.png?ex=653473ab&is=6521feab&hm=e1ddfd617a236e7e3baae2a1fb268c72c07bddb7f71dec5469bed456766ce613&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/eye_of_horus)
+[![armor](https://media.discordapp.net/attachments/1153114028852396122/1160380747325124679/Armor_of_Anubis.png?ex=653473c8&is=6521fec8&hm=9139dbb2c1833926a602efe728a7a9c5c27b6e50f639310414dded23e99250d9&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/armors/heavys/legendary/armor_of_anubis)
+[![ring](https://media.discordapp.net/attachments/1153114028852396122/1160380875758907482/Accursed_Ankh.png?ex=653473e7&is=6521fee7&hm=37f5debfd8082663bd712853b2d49af3c5f755aad2964aca6de27af857d22ba4&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/legendary/anch)
 
 *After being in an instance for 20 seconds, you can transform into an enraged tomb spirit by using your ability.
 On this form you constantly lose HP until 75%, while transformed you gain the following buffs:
@@ -100,10 +104,18 @@ On this form you constantly lose HP until 75%, while transformed you gain the fo
 When reaching 75% HP you transform back into normal (Transformation has a 40s cooldown)*
 
 ## Kraken Set (priest set)
+[![wand](https://media.discordapp.net/attachments/1153114028852396122/1160387520173985874/Seaborn_Trident.png?ex=65347a17&is=65220517&hm=0dd1ad7454bb35d5a14db3bcb4813c5fbbc7ddf33b8eaa45d727a12f7d568834&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/seaborn_trident)
+[![tome](https://media.discordapp.net/attachments/1153114028852396122/1160387634661699594/Scripture_of_the_Deep_Sea.png?ex=65347a33&is=65220533&hm=7b6d262dcfb36001e6c12acf274ddf2347803554375aab3c88a4e076904e6211&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/abilities/tomes/legendary/scripture_of_the_deep_seas)
+[![robe](https://media.discordapp.net/attachments/1153114028852396122/1160387726089138216/Abyssal_Garments.png?ex=65347a48&is=65220548&hm=8c156ddcdbb59555921d46045fec64825be22ef969593a3f7abb81f34c6fbd03&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/abyssal_garments)
+[![ring](https://media.discordapp.net/attachments/1153114028852396122/1160387875129544814/Eye_Of_The_Kraken.png?ex=65347a6c&is=6522056c&hm=e0c51bb61ec459cb3b162f9576b19d9734e379f42bd880f67f0e15f088109856&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/legendary/eye_of_the_kraken)
 
 *If your protection shield is up, summon a small Kraken that increases your critical hits damage by 15% but halves your protection shield.*
 
 ## Terra Set (rogue set)
+[![dagger](https://media.discordapp.net/attachments/1153114028852396122/1160389617833476156/Overclocked_Blade.png?ex=65347c0b&is=6522070b&hm=62f81cf7c8f789390abddb7180b135cc04fd063ec7f931ccaf1736aaaaf2a21f&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/overclocked_blade)
+[![cloak](https://media.discordapp.net/attachments/1153114028852396122/1160389617606996038/Cloak_of_Terradius.png?ex=65347c0b&is=6522070b&hm=b72e19b5c4d5287b097f41e636c39c47193cab46d2aa2a969bd297a02f647d24&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/abilities/cloaks/legendary/cloak_of_terradius)
+[![leather](https://media.discordapp.net/attachments/1153114028852396122/1160389617086902335/Sovereign_Reflector.png?ex=65347c0b&is=6522070b&hm=8dd8d7f9c022b2baa0159f8d6b0224571830a71ad15bd3e2b7b73c528ee7f81c&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/sovergereign_reflector)
+[![ring](https://media.discordapp.net/attachments/1153114028852396122/1160389617334353940/Adroit_Core.png?ex=65347c0b&is=6522070b&hm=b7c1a2091410948f0edce5ba7cac67de4b86f968a71303da2d040865462eff0d&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/legendary/adroit_core)
 
 *Lifesteal is increased by x3*
 
@@ -111,11 +123,27 @@ When reaching 75% HP you transform back into normal (Transformation has a 40s co
 
 ## Toxic Troll Set (huntress set)
 
+[![bow](https://media.discordapp.net/attachments/1153114028852396122/1160391895722233856/Virulent_Longbow.png?ex=65347e2a&is=6522092a&hm=22945267770afe041f31a8e01a20ed961fbe552862744f365c4d6855ead196bd&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/virulent_longbow)
+[![trap](https://media.discordapp.net/attachments/1153114028852396122/1160391895218917467/The_Maw_of_Pestilence.png?ex=65347e2a&is=6522092a&hm=eefcbe2d5b13e8af28587c1979cdce7f376fb8778a98add6e5944e83025bd0b0&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/abilities/traps/legendary/the_maw_of_pestilence)
+[![leather](https://media.discordapp.net/attachments/1153114028852396122/1160391894971457637/Venom_Cage.png?ex=65347e2a&is=6522092a&hm=a7acba337f205525d4da2b271569391400db8cff412ba006a845d8cba4f63d86&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/venom_cage)
+[![ring](https://media.discordapp.net/attachments/1153114028852396122/1160391895499939850/Contagion_Bracelet.png?ex=65347e2a&is=6522092a&hm=60caaa3d75576f39fea2f68eae6a6ace2a89c77eb51b739958160e998b58feb9&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/legendary/contagion_bracelet)
+
 *Press crouch to throw a non- damaging poison for no mana cost that within 6 sqrs applies either: Dazed, Weaken or Slowed for 4 seconds. (Cooldown 4 seconds)*
 
 *Your poisonous body grants you immunity to sick inducing attacks*
 
 ## Frozen Set (blademaster set)
+[![blades](https://media.discordapp.net/attachments/1153114028852396122/1160395155766001734/Frozen_Blades.png?ex=65348134&is=65220c34&hm=c42642f9a342fd1b73408cd2aa889373fcf14454e724a6f864b64cbef082f9a9&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/weapons/blades/legendary/frozen_blades)
+[![jacket](https://media.discordapp.net/attachments/1153114028852396122/1160395156126707762/Permafrost_Veil.png?ex=65348134&is=65220c34&hm=d335e5a21b93985d653d4f172a0bd3c9fa9f1e63ad2912deb692ed57194d2dd6&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/abilities/jackets/legendary/permafrost_veil)
+[![leather](https://media.discordapp.net/attachments/1153114028852396122/1160395155099107419/Hypothermic_Coat.png?ex=65348134&is=65220c34&hm=d417d343213d0f54e54fa5fa794d97163d60716c761c75907ccd31bdbc0cec0b&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/hypothermic_coat)
+[![ring](https://media.discordapp.net/attachments/1153114028852396122/1160395155438837760/Frozen_Locket.png?ex=65348134&is=65220c34&hm=07d68837a3999327350c00c5cea6f2890cb7dcdc2053392cc869e343a63c5c34&=&width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/legendary/frozen_locket)
+
+
+
+
+
+
+
 
 *On offensive stance: You do 10% more damage to slowed enemies*
 
