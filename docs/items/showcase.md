@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 
 <Tabs>
-  <TabItem value="Shard of Sidon's Fall" label=''Shard of Sidon's Fall" default>
+  <TabItem value="Shard of Sidon's Fall" label="Shard of Sidon's Fall" default>
     
 # ![shard](https://cdn.discordapp.com/attachments/1118235017550778448/1152807989330333696/Shard_of_Sidons_Fall.png)  Shard of Sidon's Fall 
 
