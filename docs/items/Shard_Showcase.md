@@ -3,7 +3,6 @@ title: Shard Showcase
 description: "Look at all the Shards in Valor"
 ---
 
-
 ***Valor has a all in one shard pool, it sure would be nice if you could see all of them at once and admire em, especially the old ones' right?!***
 
 import Tabs from '@theme/Tabs';
@@ -56,7 +55,8 @@ import TabItem from '@theme/TabItem';
 # ![CC](https://media.discordapp.net/attachments/1118235017550778448/1152827613333700688/Shard_of_Cosmic_Collapse.png?width=70&height=70) **(Old)** Shard of the Cosmic Collapse
 
 [![decimator](https://vwiki.valorserver.com/api/item/picture/decimator%20bow)](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/decimator_bow) [![Faith](https://vwiki.valorserver.com/api/item/picture/faith%20of%20the%20angel)](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/faith_of_the_angel) [![Jackpot](https://vwiki.valorserver.com/api/item/picture/jackpot)](https://wiki.valorserver.com/docs/items/rings/legendary/jackpot) [![Luminous](https://vwiki.valorserver.com/api/item/picture/luminous%20horizon)](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) [![petrification](https://vwiki.valorserver.com/api/item/picture/petrification%20cloak)](https://wiki.valorserver.com/docs/items/abilities/cloaks/legendary/petrification_cloak) [![Pernicious](https://vwiki.valorserver.com/api/item/picture/pernicious%20fate-36)](https://wiki.valorserver.com/docs/items/abilities/scepters/legendary/pernicious_fate36) [![sorrowful](https://vwiki.valorserver.com/api/item/picture/sorrowful%20boundtouch)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/sorrowful_boundtouch) [![RoyalRevenge](https://vwiki.valorserver.com/api/item/picture/staff%20of%20royal%20revenge)](https://wiki.valorserver.com/docs/items/weapons/staves/legendary/staff_of_royal_revenge) [![starcrash](https://vwiki.valorserver.com/api/item/picture/starcrash%20ring)](https://wiki.valorserver.com/docs/items/rings/legendary/starcrash_ring) [![thebestitem](https://vwiki.valorserver.com/api/item/picture/sun%20and%20moon%20expansion)](https://wiki.valorserver.com/docs/items/abilities/spells/legendary/sun_and_moon_expansion) [![gildedblade](https://vwiki.valorserver.com/api/item/picture/the%20gilded%20blade)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/the_gilded_blade) [![GildedHelm](https://vwiki.valorserver.com/api/item/picture/the%20gilded%20helm)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/the_gilded_helm) [![Tyrant](https://vwiki.valorserver.com/api/item/picture/tyrant%20helm)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/tyrant_helm) [![Unochtruth](https://vwiki.valorserver.com/api/item/picture/unoch's%20truth)](https://wiki.valorserver.com/docs/items/abilities/orbs/legendary/unochs_truth)
-  </TabItem>
+
+  </MDXLayout>
   <TabItem value="Eternal Fury" label="Eternal Fury">
 
 # ![EF](https://media.discordapp.net/attachments/1118235017550778448/1152827523080654848/Shard_of_Eternal_Fury.png?width=70&height=70) **(Old)** Shard of the Eternal Fury
