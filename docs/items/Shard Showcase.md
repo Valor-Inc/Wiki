@@ -6,6 +6,8 @@ description: "Look at all the Shards in Valor"
 
 ***Valor has a all in one shard pool, it sure would be nice if you could see all of them at once and admire em, especially the old ones' right?!***
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Shard of Sidon's Fall" label="Shard of Sidon's Fall" default>
