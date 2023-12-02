@@ -1,6 +1,6 @@
 {
     "label": "Turrets",
-    "position": 22,
+    "position": 23,
     "link": {
       "type": "generated-index",
       "description": "Turrets are used by Mechanic, these are all of them."
