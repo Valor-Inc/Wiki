@@ -1,6 +1,6 @@
 {
     "label": "Spells",
-    "position": 17,
+    "position": 18,
     "link": {
       "type": "generated-index",
       "description": "Spells are used by Wizard, these are all of them."
