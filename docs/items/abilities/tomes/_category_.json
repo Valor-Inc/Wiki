@@ -1,6 +1,6 @@
 {
     "label": "Tomes",
-    "position": 20,
+    "position": 21,
     "link": {
       "type": "generated-index",
       "description": "Tomes are used by Priest, these are all of them."
