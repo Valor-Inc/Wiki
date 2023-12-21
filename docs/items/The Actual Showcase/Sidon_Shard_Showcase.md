@@ -7,7 +7,6 @@ description: "ineedmoreboulletswip"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# i need more weapons i need more boullets
 
 ***Valor has a all in one shard pool, it sure would be nice if you could see all of them at once and admire em, especially the old ones' right?!***
 
