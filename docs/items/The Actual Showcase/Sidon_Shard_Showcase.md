@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Sidon Shard Showcase
-description: "ineedmoreboulletswip"
+description: "Shard Showcase"
 ---
 
 import Tabs from '@theme/Tabs';
