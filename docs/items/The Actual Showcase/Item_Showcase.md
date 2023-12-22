@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Showcase
+title: Item Showcase
 description: "Look at all the items in Valor"
 ---
 
