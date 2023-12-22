@@ -9,7 +9,7 @@ description: "The Staff of Dark Malediction"
 
 <i>A wicked staff that brings about a sensation of emptiness, but whispers occasionally seep forth from the darkness.</i>
 
-Damage: 70-120
+Damage: 105-115
 
 Shots: 2
 
@@ -19,7 +19,7 @@ Range: 6.8
 
 Shots hit multiple targets
 
-    +80 Maximum MP
+    +65 Maximum MP
 
 Fame Bonus: 6%
 
