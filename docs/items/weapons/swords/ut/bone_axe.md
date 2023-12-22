@@ -11,7 +11,7 @@ description: "The Bone Axe"
 
 **Sprited by: BLOODQWEN**
 
-Damage: 150-220
+Damage: 130-170
 
 Shots: 4
 
@@ -21,12 +21,12 @@ Range: 4.5
 
 Shots hit multiple targets
 
-    +80 Maximum HP
-    
-    +25 Restoration
+    +5 Speed
 
 Fame Bonus: 6%
 
 **Drops from Malgor, the Eternal Fiend | Public Challenge**
 
 ## Projectile
+
+![BA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867103169085590/Bone_Axe.gif)
