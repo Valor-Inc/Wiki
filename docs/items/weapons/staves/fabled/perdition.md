@@ -35,4 +35,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Perdition Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953329532612530186/perdition.gif)
+![Perdition Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852619503370311/Perdition_Projectile.gif)
