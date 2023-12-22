@@ -9,21 +9,19 @@ description: "The Blade of the Titan"
 
 <i>A blade once used by Cronus to end the reign of the Gods.</i>
 
-Damage: 330-430
+Damage: 495-505
 
 Shots: 1
 
 Rate of Fire: 85%
 
-Range: 6.3
+Range: 4.8
 
 Shots hit multiple targets
 
-Ignores defense of target
-
-    +12 Wisdom
+    +7 Wisdom
     
-    +30 Restoration
+    +7 Vitality
     
 Fame Bonus: 8%
 
@@ -31,7 +29,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![BT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721119541313636/bladeofthetitan.gif)
+![BT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827299923435581/bladeofthetitan.gif)
 
 
 
