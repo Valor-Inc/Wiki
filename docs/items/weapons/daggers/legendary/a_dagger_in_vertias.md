@@ -19,11 +19,13 @@ Range: 6.2
 
 Ignores defense of target
 
-    +125 Maximm HP
+    +125 Maximum HP
     
     +8 Defense
         
 Fame Bonus: 8%
+
+***Rejoice: Every 20th successful attack, gain berserk for 1.5s. (CD:5s)
 
 **Upgraded form of [Dagger of Holy Truth](https://wiki.valorserver.com/docs/items/weapons/daggers/fabled/dagger_of_holy_truth)**
 
