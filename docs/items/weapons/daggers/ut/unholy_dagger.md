@@ -8,7 +8,7 @@ description: "The Unholy Dagger"
 
 <i>A true Unholy Dagger, used for many sacrifaces to the Dark Lords of the Realm.</i>
 
-Damage: 80-180
+Damage: 185-215
 
 Shots: 1
 
@@ -22,4 +22,4 @@ Fame Bonus: 4%
 
 ## Projectile
 
-![UD Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727293938483300/unholydagger.gif)
+![UD Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828871571087390/unholydagger.gif)
