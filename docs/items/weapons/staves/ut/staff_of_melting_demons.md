@@ -5,7 +5,7 @@ description: "The Staff of Melting Demons"
 
 # Staff of Melting Demons
 
-![SMD](https://vwiki.valorserver.com/api/item/picture/staff%20of%20melting%20demons)
+![SMD](https://cdn.discordapp.com/attachments/1187552567295758487/1187836697644388352/Staff_of_Melting_Demons.png)
 
 <i>The main weapon of the archdemon himself.</i>
 
