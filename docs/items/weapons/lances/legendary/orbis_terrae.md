@@ -1,3 +1,4 @@
+
 ---
 sidebar_position: 6
 title: Orbis Terrae
@@ -15,11 +16,11 @@ import TabItem from '@theme/TabItem';
 
 <i>A conduit between the wielder's soul and the verdant lands they guard, this lance is known as the weapon of choice for humanoid templars who dedicate themselves to the natural Realm.</i>
 
-Damage: 685-782
+Damage: 1050
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 60%
 
 Range: 5.4
 
@@ -31,7 +32,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Orbis Projectile](https://media.discordapp.net/attachments/953134990428868629/994767000259797063/orbisterrae.gif)
+![Orbis Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947875530887299/orbisterrae.gif?ex=65924430&is=657fcf30&hm=c3ad36140a9ca480aed889b2023c068999b8b41f47f47a476f6e78bdaf5fca6b&)
 
 **Drops from Vitalia of the Garden of Chaos**
 
@@ -44,14 +45,14 @@ Fame Bonus: 8%
 
 <i>A conduit between the wielder's soul and the verdant lands they guard, this lance is known as the weapon of choice for humanoid templars who dedicate themselves to the natural Realm.</i>
 
-Damage: 685-782
+Damage: 1050
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 60%
 
 Range: 5.4
-    
+
     +10 Speed
 
     +25 Might
@@ -64,7 +65,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Orbis Projectile](https://media.discordapp.net/attachments/953134990428868629/994767000259797063/orbisterrae.gif)
+![Orbis Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947875530887299/orbisterrae.gif?ex=65924430&is=657fcf30&hm=c3ad36140a9ca480aed889b2023c068999b8b41f47f47a476f6e78bdaf5fca6b&)
 
  </TabItem>
 </Tabs>
