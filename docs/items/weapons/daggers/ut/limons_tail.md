@@ -9,19 +9,17 @@ description: "Limon's Tail"
 
 <i>No one knows how you stole Limon's tail after defeating them. Why would you do that to Limon, can you really live with yourself?</i>
 
-Damage: 185-200
+Damage: 140-165
 
 Shots: 1
 
-Rate of Fire: 115%
+Rate of Fire: 120%
 
-Range: 6.2
+Range: 5.8
 
 Ignores defense of target
 
-    +6 Dexterity
-    
-    +14 Speed
+    +8 Speed
     
 Fame Bonus: 6%
 
@@ -29,4 +27,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![LT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727292881514567/limonstail.gif)
+![LT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828803535282278/limonstail.gif)
