@@ -9,17 +9,19 @@ description: "The Gargoyle Stoneplate"
 
 <i>An armor forged utilizing gargoyle stone, various metals, and its enchanted gargoyle stone placed in the center.</i>
 
+**Stoneheart: While above 50% health you can't be armor broken.**
+
     +220 Maximum HP
     
     +120 Maximum MP
     
-    +32 Defense
+    +25 Defense
     
-    +20 Wisdom
+    +25 Wisdom
+
+    +5% Mana Healing Boost
     
 Fame Bonus: 8%
-
-***Stoneheart: While being above 50% of your health you can't be armor broken.***
 
 **Drops from the Petrified Overseer of the Ashen Purgatory (Petrified Emporium 2nd)**
 
