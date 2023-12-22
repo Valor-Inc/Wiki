@@ -25,8 +25,13 @@ Ignores defense of target
     
     +2 Vitality
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 4%
 
 ***Upgradable with Essence of the Realm!***
 
 **Drops from all bosses of the Catacombs**
+
+## Projectile
+
+![SoDN Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867215668727808/Sword_of_Dark_Necromancy.gif)
+
