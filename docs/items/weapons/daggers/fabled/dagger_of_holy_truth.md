@@ -9,7 +9,7 @@ description: "The Dagger of Holy Truth"
 
 <i>This dagger only responds to the pure!</i>
 
-Damage: 285-350
+Damage: 260-350
 
 Shots: 1
 
@@ -19,7 +19,7 @@ Range: 5.6
 
 Ignores defense of target
 
-    +95 Maximum HP
+    +85 Maximum HP
     
     +6 Defense
     
@@ -31,4 +31,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![DHT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981723715815473172/daggerofholytruth.gif)
+![DHT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828586832363591/holytruth.gif)
