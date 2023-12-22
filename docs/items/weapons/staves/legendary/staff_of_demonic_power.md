@@ -9,7 +9,9 @@ description: "The Staff of Demonic Power"
 
 <i>This staff surges with dark secrets and power. Do not let it consume you!</i>
 
-Damage: 215-265
+***Demonic Power: With the Atium equipped, the passive on the spell now only takes half of the required shots to activate.***
+
+Damage: 260-300
 
 Shots: 2
 
@@ -21,7 +23,7 @@ Shots pass through obstacles
 
     +100 Maximum MP
     
-    +20 Wisdom
+    +10 Wisdom
 
 Fame Bonus: 8%
 
