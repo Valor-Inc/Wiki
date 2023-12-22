@@ -20,21 +20,17 @@ Damage: 565-695
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
-Range: 4.5
+Range: 5.2
 
-    +15 Vitality
-    
-    +15 Wisdom
-    
 Fame Bonus: 15%
 
 **Drops from Merganus, the Fallen Titan of the Fallen Light raid**
 
 ## Projectile
 
-![Pogger Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713840511266827/poniard.gif)
+![Pogger Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170816788670459955/normal_poniard.gif)
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -45,29 +41,27 @@ Fame Bonus: 15%
 
 <i>Forged in the tears of enemies on a full moon.</i>
 
-**Air Rune: Grants 10% chance to dodge incoming projectiles**
+**Air Rune: Grants 10% chance to dodge incoming projectiles and 8 speed**
 
-Damage: 715-735
+Damage: 410-430
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 150%
 
 Range: 5.2
 
 Shots hit multiple targets
 
     +15 Speed
-    
-    +15 Wisdom
-    
+
 Fame Bonus: 15%
 
 **Enchanted Poniard of Ghastly Retribution with Ancient Air Rune**
 
 ## Projectile
 
-![PoggerA Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713840783884339/poniardair.gif)
+![PoggerA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170816821813858364/poniard_air.gif)
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -78,30 +72,25 @@ Fame Bonus: 15%
 
 <i>Forged in the tears of enemies on a full moon.</i>
 
-**Earth Rune: Increases range, decreases damage and adds a second projectile. Also sets Vitality to +50.**
+**Earth Rune: Heavily increases damage but sacrifice rate of fire and piercing. Shots now ignore defense.**
 
-Damage: 283-347
+Damage: 800-800
 
-Shots: 2
+Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 80%
 
-Range: 5.4
+Range: 5.2
 
 Ignores defense of target
 
-
-    +40 Vitality
-
-    +1 Life Steal
-    
 Fame Bonus: 15%
 
 **Enchanted Poniard of Ghastly Retribution with Ancient Earth Rune**
 
 ## Projectile
 
-![PoggerE Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713841132019732/poniardearth.gif)
+![PoggerE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170816811466502184/poniard_earth.gif?)
 
 
   </TabItem>
@@ -113,29 +102,25 @@ Fame Bonus: 15%
 
 <i>Forged in the tears of enemies on a full moon.</i>
 
-**Fire Rune: Projectiles can now pierce enemies.**
+**Fire Rune: Deal more damage faster, but at a shorter range.**
 
-Damage: 500-795
+Damage: 445-785
 
 Shots: 1
 
 Rate of Fire: 110%
 
-Range: 5.2
+Range: 4.8
 
 Shots hit multiple targets
 
-    +15 Attack
-      
-    +15 Might
-    
 Fame Bonus: 15%
 
 **Enchanted Poniard of Ghastly Retribution with Ancient Fire Rune**
 
 ## Projectile
 
-![PoggerF Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981714064554197022/poniardfire.gif)
+![PoggerF Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170816801349849219/poniard_fire.gif)
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -146,16 +131,18 @@ Fame Bonus: 15%
 
 <i>Forged in the tears of enemies on a full moon.</i>
 
-**Water Rune: Increases range to 5.4, increases minimum damage by 35, and increases Wisdom to +40.**
+**Water Rune: Increases range and adds a second projectile. Shots now ignore defense. Gain wisdom and mana leech.**
 
-Damage: 283-347
+Damage: 282-347
 
 Shots: 2
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
-Range: 5.4
-    
+Range: 5.9
+
+Ignores defense of target
+
     +40 Wisdom
 
     +1 Mana Leech
@@ -166,7 +153,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![PoggerW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981713841480167494/poniardwater.gif)
+![PoggerW Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170816858283319336/poniard_water.gif)
 
   </TabItem>
 </Tabs>
