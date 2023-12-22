@@ -33,4 +33,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Archpaladin Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950411234837139527/archpaladin.gif)
+![Archpaladin Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866954267119696/Sword_of_the_Archpaladin.gif?ex=6598724f&is=6585fd4f&hm=db331cfce74f36f57b3fc47eab2dc3d061005a10a55ca0c9fcae603196e67762&)
