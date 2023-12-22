@@ -27,6 +27,6 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![the2k Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953328064878755951/2-k.gif)
+![the2k Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852878090604565/The_2-K_Projectile.gif)
 
 
