@@ -9,7 +9,7 @@ description: "The Royalty Bow"
 
 <i>Orders are orders.</i>
 
-Damage: 55-160
+Damage: 50-200
 
 Shots: 4
 
@@ -19,7 +19,7 @@ Range: 6.7
 
 Shots hit multiple targets
 
-1% to inflict Slowed for 6 seconds
+1% to inflict Slowed for 6s
 
     +6 Defense
     
@@ -33,4 +33,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Royalty Bow Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981327904602460210/royaltybow.gif)
+![Royalty Bow Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170815056649392238/royaltybow.gif?ex=6591c87e&is=657f537e&hm=92dad4db9d07a73d9725b7135ef63933448bcfb6c80c3858a993042a5beb99e0&)
