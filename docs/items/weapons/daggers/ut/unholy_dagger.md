@@ -4,7 +4,7 @@ description: "The Unholy Dagger"
 ---
 
 # Unholy Dagger
-![UD](http://i.imgur.com/Rh5qS4K.png)
+![UD](https://cdn.discordapp.com/attachments/1187552567295758487/1187856572756541580/Unholy_Dagger.png?ex=659868a4&is=6585f3a4&hm=95c3a0aab61688270e1b2b92afe4f9f9a562a21b36eb5c46f997df671b2c8be0&)
 
 <i>A true Unholy Dagger, used for many sacrifaces to the Dark Lords of the Realm.</i>
 
