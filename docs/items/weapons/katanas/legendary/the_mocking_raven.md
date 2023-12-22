@@ -9,26 +9,24 @@ description: "The Mocking Raven"
 
 <i>The silence of death will show no mercy.</i>
 
+**Relentless: When above 50 surge, gain 1.05x rate of fire.**
+
 **Sprited by: Bituloss**
 
-Damage: 325-375
+Damage: 425-470
 
 Shots: 1
 
-Rate of Fire: 120%
+Rate of Fire: 110%
 
 Range: 5.0
 
-    +8 Attack
-    
-    +8 Dexterity
-    
     +8 Vitality
 
 Fame Bonus: 8%
 
-***Relentless: Each surge point you currently have adds an extra 6 outputting damage.***
 
 **Drops from the Queen Of Hearts in the Realm**
 
 ## Projectile
+![TMR](https://cdn.discordapp.com/attachments/1160376179996496013/1170947278131974165/mockingraven.gif?ex=659243a2&is=657fcea2&hm=b706b5338ba825af5a1ef7658d7599acd0fb33e47cd43fcb849fd97089a9f693&)
