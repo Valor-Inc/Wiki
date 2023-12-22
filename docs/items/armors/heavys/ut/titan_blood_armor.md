@@ -9,13 +9,13 @@ description: "The Titan Blood Armor"
 
 <i>It was only then that the world knew the earth was at end....</i>
 
-    +20 Defense
+    +23 Defense
     
-    +200 Maximum HP
+    +160 Maximum HP
     
-    -5 Attack
+    -2 Attack
     
-    -10 Wisdom
+    -2 Dexterity
     
 Fame Bonus: 8%
 
