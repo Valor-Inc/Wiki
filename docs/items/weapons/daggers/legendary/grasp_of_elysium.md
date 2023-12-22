@@ -9,7 +9,7 @@ description: "The Grasp of Elysium"
 
 <i>Become a machine of the heavens, and strike down the unholy!</i>
 
-Damage: 125-185
+Damage: 140-200
 
 Shots: 2
 
@@ -17,14 +17,13 @@ Rate of Fire: 100%
 
 Range: 5.9
 
-    -60 Maximum HP
-    
-    -20 Restoration
-    
 Fame Bonus: 8%
+
+***Taste of Heaven: Everyone that is in your party gains 1 lifesteal (cannot stack)***
 
 **Can be purchased for 310 Onrane from the Calling of the Titan raid shop**
 
+
 ## Projectile
 
-![GE Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721176818737192/elysium.gif)
+![GE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827470329630791/graspofelysium.gif)
