@@ -29,4 +29,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Man O War Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953300313220190238/manowar.gif)
+![Man O War Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852580588621935/Man_O_War_Projectile.gif)
