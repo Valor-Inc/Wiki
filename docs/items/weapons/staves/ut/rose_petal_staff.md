@@ -5,7 +5,7 @@ description: "The Rose Petal Staff"
 
 # Rose Petal Staff
 
-![RPS](https://vwiki.valorserver.com/api/item/picture/rose%20petal%20staff)
+![RPS](https://cdn.discordapp.com/attachments/1187552567295758487/1187836678686134393/Rose_Petal_Staff.png)
 
 <i>A staff of concentrated energy harvested from the spirit of Vitalia.</i>
 
