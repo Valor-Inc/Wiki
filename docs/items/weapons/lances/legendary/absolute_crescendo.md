@@ -10,9 +10,11 @@ description: "Absolute Crescendo"
 
 <i>The complete blade of the celestial envoy, rumours say the shattered form became complete after the herald travelled past the stars.</i>
 
-Damage: 465-600
+**Crescendo: Hitting a shot with this item gives you one Crescendo stack (+1% damage, +10% shot sound volume), up to a max of 10. Lose 2 stacks per shot missed starting at 3 shots missed.**
 
-Shots: 1
+Damage: 120-135
+
+Shots: 4
 
 Rate of Fire: 100%
 
@@ -30,4 +32,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Absolute Projectile](https://user-images.githubusercontent.com/114798136/199895547-dfac4dd6-9806-46f3-b5d5-b63142f27f1b.png)
+![Absolute Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187805119824281711/normal_ar_blade.gif?ex=659838b8&is=6585c3b8&hm=6b93f9704c32cabfb3d4d7a10ed35c307cdc2ed9a6d1ac811495ee57f4c71579&)
