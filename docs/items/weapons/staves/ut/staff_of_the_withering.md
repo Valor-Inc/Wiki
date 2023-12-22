@@ -32,3 +32,5 @@ Fame Bonus: 6%
 **Obtainable through Crates**
 
 ## Projectile
+
+![SotW Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852842556473484/Staff_of_the_Withering_Projectile.gif)
