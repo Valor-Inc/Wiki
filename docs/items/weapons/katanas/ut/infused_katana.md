@@ -9,7 +9,7 @@ description: "The Infused Katana"
 
 <i>It's edge is infused with the pure power of a Sor Crystal.</i>
 
-Damage: 100-180
+Damage: 70-125
 
 Shots: 3
 
@@ -17,18 +17,16 @@ Rate of Fire: 100%
 
 Range: 5.2
 
-5% to inflict Bleeding for 7 seconds
+5% to inflict Bleeding for 7s
 
     +60 Maximum HP
-    
-    +20 Restoration
 
 Fame Bonus: 6% 
 
-***Upgradable with Essence of the Realm***
+***This item can be upgraded with Essence of the Realm!***
 
 **Drops from Sorgigas the Sor Giant in the Realm**
 
 ## Projectile
 
-
+![Infused](https://cdn.discordapp.com/attachments/1160376179996496013/1170947515760246827/infusedkatana.gif?ex=659243da&is=657fceda&hm=b5f4e535af0718a7161d9b9a54e0085955d97b89f3eadc0192d5db080af023c7&)
