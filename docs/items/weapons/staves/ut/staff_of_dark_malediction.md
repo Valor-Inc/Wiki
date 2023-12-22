@@ -29,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![SDM Projectile](https://user-images.githubusercontent.com/106563707/178049140-fd0d9fa5-4c35-4ad8-97bd-afb6d204a317.png)
+![SDM Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852705746653234/Staff_of_Dark_Malediction_Projectile.gif)
