@@ -18,15 +18,19 @@ import TabItem from '@theme/TabItem';
 
     +250 Maximum HP
     
-    +40 Defense
+    +30 Defense
     
     +30% Vitality
+
+    +6 Attack
+
+    +6 Dexterity
     
     +10% Healing Boost
     
 Fame Bonus: 16%
 
-***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts enemy 1s. The closer you are the more the damage is dealt.***
+***Punishment of the Damned: On hit, activate a ring of fire for 5 seconds, which bursts every 0.4s. The closer you are the more the damage is dealt.***
 
 ***5 Tile: 1000 damage***
 
@@ -46,17 +50,17 @@ Fame Bonus: 16%
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their fallen souls are doomed to crack and splinter upon the wind-woven cliffside carved into the plates.</i>
 
-**Air Rune: Gain speed and dexterity.**
+**Air Rune: Gain speed, dexterity, and luck at the cost of 100 health.**
 
-    +250 Maximum HP
+    +150 (-100) Maximum HP
     
-    +15 Dexterity
+    +20 (+14) Dexterity
     
     +25 Speed
 
     +30 Defense
     
-    +30% Vitality
+    +35 Luck
     
     +10% Healing Boost
     
@@ -83,13 +87,13 @@ Fame Bonus: 16%
 
 **Earth Rune: Gain more defensive stats.**
 
-    +300 Maximum HP
+    +400 (+150) Maximum HP
     
-    +50 Defense
+    +45 (+15) Defense
     
-    +40% Vitality
+    +40% (+10%) Vitality
     
-    +10% Healing Boost
+    +20% (+10%) Healing Boost
     
     +2 Life Steal
 
@@ -114,17 +118,17 @@ Fame Bonus: 16%
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their damned souls are doomed to burn for all of time under the blistering sun torched into the plates.</i>
 
-**Fire Rune: Gain Attack and might, +20% passive damage increase.**
+**Fire Rune: Gain Attack and might, +20% increase to Punishment of the Damned damage.**
 
-    +200 Maximum HP
+    +150 (-100) Maximum HP
 
-    +15 Attack
+    +20 (+14) Attack
 
-    +25 Might    
+    +20 Might    
 
-    +30 Defense
+    +20 (-10) Defense
     
-    +30% Vitality
+    +20% Vitality
     
     +10% Healing Boost
     
@@ -149,15 +153,15 @@ Fame Bonus: 16%
 
 <i>A serene armor of the Ascended that shattered the traitorous steel of the First of Men. Slain, their suffocating souls are doomed to drown for all of time under an ocean of glittering rhinestones.</i>
 
-**Water Rune: Gain wisdom, maximum mp, mana leech and increase tile range on passive.**
+**Water Rune: Gain 250 mana, 30 wisdom, bonus mana healing and mana leech. Increases base tile range on passive**
 
-    +250 Maximum HP
+    +175 (-75) Maximum HP
 
-    +100 Maximum MP
+    +250 Maximum MP
     
-    +30 Defense
+    +25 (-5) Defense
     
-    +30% Vitality
+    +30 Wisdom
     
     +10% Mana Healing Boost
 
