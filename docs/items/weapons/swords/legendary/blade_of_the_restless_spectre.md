@@ -9,21 +9,21 @@ description: "The Blade of Restless Spectre"
 
 <i>A sword of that you must weild furiously and with courage; taken under the ownership of Seus -- lost forever after his death.</i>
 
-Damage: 290-450
+**Spectral Protector: Spawn a permanent spectre buddy that follows you around. Deals 250 damage every 0.2s and regens 10 protection every 1000 dmg dealt by spectre**
 
-Shots: 4.5
+Damage: 350-450
+
+Shots: 1
 
 Rate of Fire: 120%
 
 Range: 4.5
 
-    +50 Vitality
-    
-    +80 Protection
+    +25 Protection
     
     +10 Speed
     
-    +1 Mana Leech
+    +3 Mana Leech
 
 Fame Bonus: 8%
 
@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![BRS Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954066791091564564/Restless.gif)
+![BRS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866776537669712/Blade_of_the_Restless_Spectre.gif?ex=65987225&is=6585fd25&hm=5169acad6cb6d66eef3583b521d0af50c5f18b733c8d1ed1e9eca0f989df3f8b&)
