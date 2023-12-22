@@ -8,6 +8,6 @@ description: "Master Eon"
 
 <i>The original Eon has returned.</i>
 
-***Maxes your character (12/12)***
+***Maxes your character (11/11)***
 
 **Drops from Raids, Trials, Challenges**
