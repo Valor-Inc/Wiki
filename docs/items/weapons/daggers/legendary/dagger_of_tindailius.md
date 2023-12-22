@@ -9,6 +9,8 @@ description: "The Dagger of Tindailius"
 
 <i>Fading away from reality is what keeps the darkness persisting to devourall of us. We can only do what is possible to stay away from this Void.</i>
 
+**Manastrike: Gain 1 Mana Leech below 60% mana**
+
 Damage: 320
 
 Shots: 1
@@ -28,8 +30,6 @@ Shots hit multiple targets
     +3 Mana Leech
     
 Fame Bonus: 8%
-
-***Manastrike: Gain 1 Mana Leech below 60% mana***
 
 ## Projectile
 
