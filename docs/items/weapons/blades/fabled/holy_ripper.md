@@ -6,11 +6,11 @@ description: "The Holy Ripper"
 
 # ![FABLED](https://cdn.discordapp.com/attachments/828314781793779742/1108582622457757706/FABLEDBAG.png) Holy Ripper
 
-![HolyRipper](https://vwiki.valorserver.com/api/item/picture/holy%20ripper)
+![HolyRipper](https://cdn.discordapp.com/attachments/1118235017550778448/1187551591520276490/Holy_Ripper.png?ex=65974c9b&is=6584d79b&hm=56c4c2234a02835275d7786753ac6a5e4c75ef6f87d8b422d575978b6a9d9552&)
 
 <i>Passed down through generations of Titans, these blades have seen their share of massacre.</i>
 
-Damage: 140-210
+Damage: 150-225
 
 Shots: 2
 
@@ -30,4 +30,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![HolyRipper Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969068914107645982/holyripper.gif)
+![HolyRipper Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170800366766530621/holyripper.gif?ex=6591bacf&is=657f45cf&hm=c5c631e782e506585657530da4e249f9610ecc35156af011bbff5543bf2dfaf6&)
