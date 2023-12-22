@@ -37,11 +37,11 @@ Fame Bonus: 8%
 ![EStorm Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803376464859206/thunder.gif?ex=6591bd9d&is=657f489d&hm=a6351a1241e44640a6dd8c698392447dd8e60f82a70c0099d806679760d020b9&)
 
   </TabItem>
-  <TabItem value="Remnants of Saint Nick" label="Remnants of Saint Nick">
+  <TabItem value="Saint Nick" label="Saint Nick">
 
 #  ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)  Remnants of Saint Nick
 
-![RoSnick](https://cdn.discordapp.com/attachments/1187552567295758487/1187561021724966993/Remnants_of_Saint_Nick.png?ex=65975563&is=6584e063&hm=96d6cf1fce33eb0e73c031a1182fef97a0a930679153aac8d802a92525438b10&)
+![Ro](https://cdn.discordapp.com/attachments/1187552567295758487/1187561021724966993/Remnants_of_Saint_Nick.png?ex=65975563&is=6584e063&hm=96d6cf1fce33eb0e73c031a1182fef97a0a930679153aac8d802a92525438b10&)
 
 <i>A powerful set of blades, gifted only to The Exalted to protect their realms.</i>
 
@@ -69,7 +69,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Remnants of Saint Nick Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187560584158380032/normal_ar_blade.gif?ex=659754fb&is=6584dffb&hm=f63f7aa60bdbf229a1c7bd9cfcf7867bd381e77c1611d647f53885494f0f58b6&)
+![Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187560584158380032/normal_ar_blade.gif?ex=659754fb&is=6584dffb&hm=f63f7aa60bdbf229a1c7bd9cfcf7867bd381e77c1611d647f53885494f0f58b6&)
 
- </TabItem>
+  </TabItem>
 </Tabs>
