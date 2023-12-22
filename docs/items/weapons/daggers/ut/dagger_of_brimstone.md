@@ -31,4 +31,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![DB Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981725578430410782/daggerofbrimstone.gif)
+![DB Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828647318421554/brimstone.gif)
