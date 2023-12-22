@@ -5,24 +5,24 @@ description: "The Armor of Anubis"
 
 # Armor of Anubis
 
-![AA](https://vwiki.valorserver.com/api/item/picture/armor%20of%20anubis)
+![AA](https://cdn.discordapp.com/attachments/1187552567295758487/1187833152996114453/Armor_of_Anubis.png?ex=659852d4&is=6585ddd4&hm=b39644c54c002dd3d002d07e526fac2c603ae8d4acb8ea063896574731eb3455&)
 
 <i>The forgotten ancient has risen.</i>
 
-    +30 Defense
-    
-    +15 Dexterity
+**Meditated Strikes: Increases your outputting damage based on how much mana leech you have (capped at 10%) **
 
-    +20 Restoration
+    +20 Defense
     
-    +15 Speed
+    +10 Dexterity
 
-    +35 Luck
+    +12 Speed
+
+    +50 Luck
     
     +4 Mana Leech
     
 Fame Bonus: 8%
 
-***Meditated Strikes: Increases your outputting damage based on how much mana leech you have (capped at 10%) ***
+
 
 **Drops from Anubis (Alert Boss)**
