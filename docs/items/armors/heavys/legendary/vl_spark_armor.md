@@ -5,23 +5,23 @@ description: "V-L Spark Armor"
 
 # V-L Spark Armor
 
-![VLSpark](https://vwiki.valorserver.com/api/item/picture/v-l%20spark%20armor)
+![VLSpark](https://cdn.discordapp.com/attachments/1187552567295758487/1187839130542018740/V-L_Spark_Armor.png?ex=65985865&is=6585e365&hm=81febdac260282f42cf9ddefe21a7835a02fbb5391aad86a54567f893d5fe062&)
 
 <i>A finalised armor piece, maybe this time it'll be less bulky?</i>
 
-Sprited by: Owypo
+**Intermediate Alien Tech: Gain 7 effective fortune for the following items while equipped: Ultimate Onrane Cache, Onrane Cache, Onrane, Realm Protector Rewards, ALL Sor related drops.**
 
-    +150 Maximum HP
+    +100 Maximum HP
     
-    +30 Defense
+    +25 Defense
     
-    +15 Attack
+    +8 Attack
     
-    +15 Speed
+    +12 Speed
     
     +5 Fortune
     
-    +2 Life Steal
+    +1 Life Steal
     
 Fame Bonus: 8%
 
