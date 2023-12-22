@@ -11,9 +11,9 @@ description: "March of the Captain"
 
     +50 Maximum HP
     
-    +100 Maximum MP
+    +150 Maximum MP
     
-    +15 Dexterity
+    +10 Dexterity
     
     +1 Mana Leech
     
