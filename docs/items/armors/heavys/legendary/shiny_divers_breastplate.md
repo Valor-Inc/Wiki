@@ -11,9 +11,9 @@ description: "The Shiny Divers Breastplate"
 
 **Special: You do not sink with all pieces equipped. Also gain an extra six fortune.**
 
-    +22 Defense
+    +20 Defense
     
-    +40 Maximum MP
+    +50 Maximum HP
     
     +8 Attack
     
