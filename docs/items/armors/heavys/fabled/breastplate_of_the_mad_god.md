@@ -5,17 +5,17 @@ description: "Breastplate of the Mad God"
 
 # Breastplate of the Mad God
 
-![BMG](https://vwiki.valorserver.com/api/item/picture/breastplate%20of%20the%20mad%20god)
+![BMG](https://cdn.discordapp.com/attachments/1187552567295758487/1187840551903567912/Breastplate_of_the_Mad_God.png?ex=659859b8&is=6585e4b8&hm=1dd54fd01246133bfb788ef4ad98ffc20c7faaf796f7080f9e9e5f11bf93fc02&)
 
 <i>Enhanced with steel from the realm's greatest blacksmiths, this armor knows no weaknesses. Thanks to: Jaden</i>
 
-    +20% Maximum HP 
+    +10% Maximum HP 
     
-    +25 Defense
+    +20 Defense
     
-    +5 Dexterity
+    +4 Dexterity
     
-    +10 Attack
+    +6 Attack
     
 Fame Bonus: 6%
 
