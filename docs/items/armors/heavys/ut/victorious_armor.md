@@ -9,15 +9,13 @@ description: "The Victorious Armor"
 
 <i>For victory!</i>
 
-    +80 Maximum HP
+    +75 Maximum HP
     
-    +22 Defense
+    +20 Defense
     
-    +60 Restoration
-    
-    +8 Vitality
-    
-    +8 Wisdom
+    +5 Vitality
+
+    +5 Wisdom
     
 Fame Bonus: 6%
 
