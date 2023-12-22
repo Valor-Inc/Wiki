@@ -29,4 +29,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![BV Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948606447632121887/unknown.png)
+![BV Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947409426260069/baneofthevision.gif?ex=659243c1&is=657fcec1&hm=c63945c5406579c91799c23db9f61ce1138365c8e3c8d37b3be33989acbea731&)
