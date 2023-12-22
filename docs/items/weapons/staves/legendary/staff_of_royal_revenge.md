@@ -9,7 +9,9 @@ description: "The Staff of Royal Revenge"
 
 <i>A wicked staff that brings about a sensation of emptiness, but whispers occasionally seep forth from the darkness.</i>
 
-Damage: 155-205
+***Royalty: When no enemies within 10 squares of you, you gain a stronger version of the healing effect.***
+
+Damage: 160-205
 
 Shots: 4
 
@@ -24,8 +26,6 @@ Shots pass through obstacles
     +80 Maximum HP
 
 Fame Bonus: 8%
-
-***Royalty: When no enemies within 10 squares of you, you gain a stronger version of the healing effect.***
 
 **Craftable from Shard of Cosmic Collapse**
 
