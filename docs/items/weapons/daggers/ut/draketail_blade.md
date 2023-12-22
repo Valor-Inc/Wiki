@@ -5,7 +5,7 @@ description: "The Draketail Blade"
 
 # Draketail Blade
 
-![Draketail](https://vwiki.valorserver.com/api/item/picture/draketail%20blade)
+![Draketail](https://cdn.discordapp.com/attachments/1187552567295758487/1187796798161559603/Draketail_Blade.png)
 
 <i>A sharp dagger with the tail of a Drake attached to the bottom fo the hilt.</i>
 
