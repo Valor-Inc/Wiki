@@ -22,3 +22,5 @@ Fame Bonus: 6%
 **Drops from Roger Bacon in the Realm**
 
 ## Projectile
+
+![SoSD Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852803725607032/Staff_of_Sworn_Duty_Projectile.gif)
