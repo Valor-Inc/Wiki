@@ -44,7 +44,7 @@ Fame Bonus: 8%
 
 
   </TabItem>
-  <TabItem value="Remnant of Saint Nick" label="Remnants of Saint Nick">
+  <TabItem value="Remnants of Saint Nick" label="Remnants of Saint Nick">
 
       
 # ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Remnants of Saint Nick
