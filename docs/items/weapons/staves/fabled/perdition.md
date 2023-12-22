@@ -9,7 +9,7 @@ description: "The Perdition"
 
 <i>The Archmage used this weapon to punish any spies foolish enough to get caught. Their screams brought courage to the fighters.</i>
 
-Damage: 125-150
+Damage: 140-170
 
 Shots: 2
 
@@ -29,7 +29,7 @@ Ignores defense of target
     
     +1 Mana Leech
 
-Fame Bonus: 8%
+Fame Bonus: 6%
 
 **Drops from the Twilight Archmage of the Shatters**
 
