@@ -32,4 +32,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Eresolve Projectile](https://cdn.discordapp.com/attachments/1107378591026655272/1115120339215728650/Exiles_Resolve.gif)
+![Eresolve Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852420743700541/Exiles_Resolve_Projectile.gif)
