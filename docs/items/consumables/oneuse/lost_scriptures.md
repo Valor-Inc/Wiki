@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A lost page from the book named the Acul.</i>
 
-***Using this allows marks to be enabled on your character. [50,000 Base Fame]***
+***Using this Unlocks 3 Skill Points***
 
 **Drops from Aldragine and Elite Boxes**
 
@@ -29,20 +29,20 @@ import TabItem from '@theme/TabItem';
 
 <i>A lost page from the book named the Acul.</i>
 
-***Using this makes your character ascended, allowing it to consume vials. [50,000 Base Fame]***
+***Using this Unlocks 5 Skill Points***
 
 **Drops from Drannol, the Eternal Beast, Merganus, the Fallen Titan and Elite Boxes**
 
   </TabItem>
   <TabItem value="Super Scripture" label="Super Scripture">
 
-# Super Scripture 
+# Super Scripture 1 & 2
 
 ![ss](https://vwiki.valorserver.com/api/item/picture/super%20scripture)
 
 <i>A lost page from the book named the Acul. Enchanted by the Sorceress</i>
 
-***Variants of both Scriptures can be super, causing them to require only 25,000 Base Fame for use***
+***Variants of both Scriptures can be super, SUPER SCRIPTURE 1 GIVES 25 Skill Points While Super SCRIPTURE 2 GIVES 50 Skill Points***
 
 **Reward from the Battlepass**
 
