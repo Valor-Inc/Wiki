@@ -9,11 +9,11 @@ description: "The Spirit of the Heart"
 
 <i>You can kill once, but you can't die twice. ~Nirux</i>
 
-Damage: 120-220
+Damage: 155-220
 
 Shots: 2
 
-Rate of Fire: 80%
+Rate of Fire: 100%
 
 Range: 9
 
@@ -26,6 +26,8 @@ Shots Boomerang
     +2 Speed
 
 Fame Bonus: 8%
+
+***This item can be upgraded with Essence of the realm at the Sor Forge!***
 
 **Drops from all bosses of the Zol Awakening raid**
 
