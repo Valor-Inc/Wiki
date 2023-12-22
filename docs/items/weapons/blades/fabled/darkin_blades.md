@@ -6,7 +6,7 @@ description: "The Darkin Blades"
 
 # ![fabled](https://cdn.discordapp.com/attachments/828314781793779742/1108582622457757706/FABLEDBAG.png) Darkin Blades
 
-![darkin](https://cdn.discordapp.com/attachments/1118235017550778448/1187550007113560165/Darkin_Blades.png?ex=65974b21&is=6584d621&hm=02858e5f0ced71551dbe741a3f0ab05fd7c8a044dc41e9cf411ddd7f7aabbf65&)
+![darkin](https://cdn.discordapp.com/attachments/1118235017550778448/1187552567073456158/Darkin_Blades.png?ex=65974d83&is=6584d883&hm=a9cd8dff7c0a3c7d41d13b270eff74252e5fc7e6a9e345785812960898ff3098&)
 
 <i>Dual blades made enchanted by the demons that haunt the Bastille of Drannol.</i>
 
