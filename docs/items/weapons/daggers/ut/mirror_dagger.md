@@ -9,7 +9,7 @@ description: "The Mirror Dagger"
 
 <i>2 sides of the problem is that it's a total issue to have twice the stupidity!</i>
 
-Damage: 160-195
+Damage: 130-140
 
 Shots: 4
 
@@ -25,4 +25,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Mirror Dagger Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981725663268597810/mirrordagger.gif)
+![Mirror Dagger Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828835923689582/mirrordagger.gif)
