@@ -9,9 +9,11 @@ description: "Iok's Courage"
 
 <i>The true source of Iok's determination.</i>
 
-Damage: 110-145
+**Determination: Upon your protection being drained gain berserk and immunity to debuffs for 3 seconds.**
 
-Shots: 6
+Damage: 420-480
+
+Shots: 2
 
 Rate of Fire: 75%
 
@@ -19,20 +21,10 @@ Range: 5.0
 
 Ignores defense of target
 
-    +120 Maximum HP
-    
-    +20 Protection
-    
-    +10 Restoration
-    
-    +6 Speed
-
 Fame Bonus: 8%
-
-***Blessing of the Skies: If your protection is depleted your surge increases by 15 everytime you use an ability***
 
 **Drops from Staumm of Gileon's Return**
 
 ## Projectile
 
-![New Ioks Projectile](https://i.imgur.com/QISenEm.png)
+![New Ioks Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947785894416425/iokscourage.gif?ex=6592441b&is=657fcf1b&hm=e82b3b09328afa7a3b057ce94bcf6307712b8e7bf8e55d349cec572721c8b6f5&)
