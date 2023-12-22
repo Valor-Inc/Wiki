@@ -9,7 +9,7 @@ description: "The Guardian Dagger"
 
 <i>A dagger once used by the great bridge guardian's assassins, its blade almost sharp enough to end the war.</i>
 
-Damage: 80-85
+Damage: 75
 
 Shots: 4
 
@@ -27,10 +27,10 @@ Ignores defense of target
     
     +2 Life Steal
     
-Fame Bonus: 8%
+Fame Bonus: 6%
 
 **Drops from the Bridge Sentinel in the Shatters**
 
 ## Projectile
 
-![Guardian Dagger Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981723634399866920/guardiandagger.gif)
+![Guardian Dagger Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828534047060009/guardiandagger.gif)
