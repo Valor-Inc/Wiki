@@ -16,6 +16,8 @@ import TabItem from '@theme/TabItem';
 
 <i>A forgotten staff assembled and powered only by the lost figments of reality.</i>
 
+***Manifestation: On hit, 5% chance to spawn 8 illusionist shots on an enemy, slowing them for 3s and dealing 300 damage each.***
+
 Damage: 350-400
 
 Shots: 1
@@ -48,6 +50,8 @@ Fame Bonus: 8%
 ![Felsinn](https://cdn.discordapp.com/attachments/828314781793779742/1115114112314257519/triangle_6.png)
 
 <i>A forgotten staff, once belonging to the greatest fortuneteller in all of the realm. Asl uck would have it, he was usurped by his apprentice, never to be seen again.</i>
+
+***Manifestation: On hit, 5% chance to spawn 8 illusionist shots on an enemy, slowing them for 3s and dealing 300 damage each.***
 
 Damage: 350-400
 
