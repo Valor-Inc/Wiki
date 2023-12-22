@@ -5,7 +5,7 @@ description: "Staff of the Withering"
 
 # Staff of the Withering
 
-![SW](https://vwiki.valorserver.com/api/item/picture/staff%20of%20the%20withering)
+![SW](https://cdn.discordapp.com/attachments/1187552567295758487/1187836741973979146/Staff_of_the_Withering.png)
 
 <i>Unholy death is only bound to be the cause of using this staff.</i>
 
