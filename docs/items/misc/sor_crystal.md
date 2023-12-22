@@ -47,7 +47,7 @@ import TabItem from '@theme/TabItem';
 
 **This item is a crafting material to be used in crafting or enchanting.**
 
-***Combine with an upgradeable item to create an Elemental/Ascended Version. 10% chance to break when using!***
+**This item is unable to break don't worry about the description in game**
 
 ![Upgradeable](https://cdn.discordapp.com/attachments/948404602389286922/1004888354476806194/unknown.png)
 
