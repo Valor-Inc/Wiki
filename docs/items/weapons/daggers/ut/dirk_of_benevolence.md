@@ -5,7 +5,7 @@ description: "The Dirk of Benevolence"
 
 # Dirk of Benevolence
 
-![Benevolence](https://vwiki.valorserver.com/api/item/picture/dirk%20of%20benevolence)
+![Benevolence](https://cdn.discordapp.com/attachments/1187552567295758487/1187796583362867331/Dirk_of_Benevolence.png)
 
 <i>A dagger rescued from the caustic grasp of the basement.</i>
 
