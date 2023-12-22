@@ -5,17 +5,17 @@ description: "Blade of the Mad God"
 
 # Blade of the Mad God
 
-![BotMG](https://vwiki.valorserver.com/api/item/picture/blade%20of%20the%20mad%20god)
+![BotMG](https://cdn.discordapp.com/attachments/1187552567295758487/1187875093272084592/Blade_of_the_Mad_God.png)
 
-<i>A ruthless blade, used to strike fear into the inhabitants of the realm. Thanks to: Jaden</i>
+<i>A ruthless blade, used to strike fear into the inhabitants of the realm.</i>
 
-Damage: 350-400
+Damage: 395-455
 
 Shots: 1
 
 Rate of Fire: 85%
 
-Range: 4.5
+Range: 4
 
 Shots hit multiple targets
 
@@ -27,4 +27,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![BOTMG Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950407687118667797/BladeOfTheMadGod.gif)
+![BOTMG Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866993680986213/Blade_of_the_Mad_God.gif)
