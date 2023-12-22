@@ -33,4 +33,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Spirit Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953331150854717460/spiritoftheheart.gif)
+![Spirit Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852701879521280/Spirit_of_the_Heart_Projectile.gif)
