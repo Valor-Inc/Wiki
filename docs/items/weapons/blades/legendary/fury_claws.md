@@ -10,11 +10,13 @@ description: "The Fury Claws"
 
 <i>Forsaken blades that were left behind from the War of Decades</i>
 
-Damage: 96-170
+**Vital Point: 40% chance on projectile hit to amplify any life steal or mana leech gain by 2x**
+
+Damage: 170-175
 
 Shots: 4
 
-Rate of Fire: 100%
+Rate of Fire: 95%
 
 Range 5.4
 
@@ -34,4 +36,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Fury Claws Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067810414276668/fury_claws.gif)
+![Fury Claws Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803426318368828/fury_claws.gif?ex=6591bda9&is=657f48a9&hm=3fe75ff72a6602095ff424685093d3630c9719628f6b09e60559fc425d82aab1&)
