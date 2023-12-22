@@ -32,5 +32,5 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Master Dag Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981725621510094848/masterdagger.gif)
+![Master Dag Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828825769287680/masterdagger.gif)
 
