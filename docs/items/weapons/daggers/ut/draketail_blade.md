@@ -9,23 +9,25 @@ description: "The Draketail Blade"
 
 <i>A sharp dagger with the tail of a Drake attached to the bottom fo the hilt.</i>
 
-Damage: 133-222
+Damage: 150-250
 
 Shots: 1
 
-Rate of Fire: 111%
+Rate of Fire: 115%
 
-Range: 5.6
+Range: 5.4
 
 Ignores defense of target
 
+Shots boomerang
+
 6% chance to inflict Dazed for 2.5s
 
-    +10 Attack
+    +6 Defense
     
-    +8 Vitality
+    +6 Vitality
     
-    +8 Speed
+    +6 Speed
     
 Fame Bonus: 6%
 
@@ -33,4 +35,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Draketail Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727291723886643/draketail.gif)
+![Draketail Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828689739616397/draketail.gif)
