@@ -40,7 +40,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Dreamweaver Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953294520294977586/dreamweaver.gif)
+![Dreamweaver Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852388988633180/Dreamweaver_of_Darogek_Projectile.gif)
 
   </TabItem>
   <TabItem value="Fortuneteller of Felsinn" label="Fortuneteller of Felsinn">
@@ -77,7 +77,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![mechs7](https://user-images.githubusercontent.com/114798136/201545214-f78b63e3-c4d9-4637-b50b-4882fc05e7df.png)
+![mechs7](https://cdn.discordapp.com/attachments/1160376179996496013/1187852556718842009/Fortuneteller_of_Felsinn_Projectile.gif)
 
   </TabItem>
 </Tabs>
