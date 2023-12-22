@@ -4,7 +4,7 @@ description: "The Etherite Dagger"
 ---
 
 # Etherite Dagger
-![Etherite](https://i.imgur.com/ksib4rU.png)
+![Etherite](https://cdn.discordapp.com/attachments/1187552567295758487/1187856257034498119/Etherite_Dagger_1.png?ex=65986858&is=6585f358&hm=06483bbf90328d68f0edad6733213eca5679d00c2ee03e45df12ce23a9a5ad78&)
 
 **Special: Any speedy buffs will convert to swiftness with all pieces of the set equipped.**
 
