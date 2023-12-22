@@ -29,4 +29,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![FOP Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953294048964276234/flamesofpurity.gif)
+![FOP Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852447880847420/Flames_of_Purity_Projectile.gif)
