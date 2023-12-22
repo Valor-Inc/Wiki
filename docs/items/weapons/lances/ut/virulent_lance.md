@@ -9,11 +9,11 @@ description: "The Virulent Lance"
 
 <i>With a venomous tip, this lance contains deadly toxins that will slowly destroy a body.</i>
 
-Damage: 85-150
+Damage: 95-150
 
 Shots: 3
 
-Rate of Fire: 120%
+Rate of Fire: 110%
 
 Range: 6
 
@@ -21,9 +21,7 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +5 Dexterity
-    
-    +10 Speed
+    +6 Speed
 
 Fame Bonus: 6%
 
@@ -31,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Vlance Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769726427369482/virulentlance.gif)
+![Vlance Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170948043495972965/virulentlance.gif?ex=65924458&is=657fcf58&hm=b41c793ac94337a8cb0bba0b5ed04886b71c7ef864c92d9dcb826dfcb1f19c90&)
