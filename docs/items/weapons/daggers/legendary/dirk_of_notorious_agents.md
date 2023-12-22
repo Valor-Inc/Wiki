@@ -9,6 +9,8 @@ description: "The Dirk of Notorious Agents"
 
 <i>A darkened dagger with an emerald jewel in the middle of the blade. It's a popular dagger but hard to retrieve since few merchants sell them because of the material of the blade.</i>
 
+**Backstabber: Increase your rate of fire by 10% while invisible**
+
 Damage: 325-400
 
 Shots: 1
@@ -20,8 +22,6 @@ Range: 6
     +10 Defense
     
 Fame Bonus: 8%
-
-***Backstabber: Increase your rate of fire by 10% while invisible***
 
 **Drops from Aldragine of the Ultra Zol Raid and regular Zol Raid**
 
