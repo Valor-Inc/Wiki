@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: Shard Showcase
 description: "Look at all the Shards in Valor"
 ---
