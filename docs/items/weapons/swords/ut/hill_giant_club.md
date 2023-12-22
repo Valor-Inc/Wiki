@@ -9,17 +9,21 @@ description: "The Hill Giant Club"
 
 <i>A giant club that drops from a giant in the hills.</i>
 
-Damage: 380-470
+Damage: 420-520
 
 Shots: 1
 
-Rate of Fire: 50% 
+Rate of Fire: 65% 
 
-Range: 3.9
+Range: 4.4
 
-    -40 Restoration
+5% to inflict Stunned for 3s
+
+    +8% Maximum HP
+
+    +8 Defense
     
-    -10 Speed
+    +5 Vitality
     
 Fame Bonus: 6%
 
@@ -27,3 +31,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
+![HGC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867171720790176/Hill_Giant_Club.gif)
