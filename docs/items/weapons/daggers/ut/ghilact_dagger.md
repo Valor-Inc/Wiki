@@ -9,7 +9,7 @@ description: "The Ghilact Dagger"
 
 <i>Made from strong material that originates from another universe. It's quite scarce.</i>
 
-Damage: 145-185
+Damage: 140-200
 
 Shots: 1
 
@@ -21,9 +21,11 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +100 Maximum HP
+    +75 Maximum HP
     
-    +100 Maximum MP
+    +75 Maximum MP
+    
+    +6 Defense
     
 Fame Bonus: 6%
 
@@ -31,4 +33,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Ghilact Projectiles](https://cdn.discordapp.com/attachments/953134990428868629/981727292105580584/ghilact.gif)
+![Ghilact Projectiles](https://cdn.discordapp.com/attachments/1160376179996496013/1170828727110865047/ghilact.gif)
