@@ -5,7 +5,7 @@ description: "Karana's Secret"
 
 # Karana's Secret
 
-![KS](https://vwiki.valorserver.com/api/item/picture/karana's%20secret)
+![KS](https://cdn.discordapp.com/attachments/1187552567295758487/1187797474769899630/Karanas_Secret.png)
 
 <i>Proof that she is still alive?</i>
 
