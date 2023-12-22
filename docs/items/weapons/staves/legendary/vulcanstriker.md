@@ -9,11 +9,13 @@ description: "The Vulcanstriker"
 
 <i>A staff that is made out of marvelous crystal and has been crafted into a rhombus shape, which has been decorated with bright, jagged crystals that give off a soft humming sound whenever magic is used.</i>
 
-Damage: 200-220
+***Hades' Grasp: Chance when hitting a critical hit to bleed an enemy, with damage scaling off your might (Min 30, Max 3000 damage at 200), and duration scaling off your Luck(Min 30, Max 3s at 250). ***
+
+Damage: 215-225
 
 Shots: 2
 
-Rate of Fire: 125%
+Rate of Fire: 140%
 
 Range: 8.3
 
