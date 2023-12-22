@@ -9,13 +9,15 @@ description: "The Crystal Dagger"
 
 <i>A dagger made of crystal.</i>
 
-Damage: 135-145
+Damage: 125-135
 
 Shots: 1
 
-Rate of Fire: 105%
+Rate of Fire: 125%
 
-Range: 6.9
+Range: 7
+
+Ignores defense of target
 
 Fame Bonus: 5%
 
@@ -23,4 +25,4 @@ Fame Bonus: 5%
 
 ## Projectile
 
-![CrystalD Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727290994065448/crystal.gif)
+![CrystalD Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828669103652975/crystaldagger.gif)
