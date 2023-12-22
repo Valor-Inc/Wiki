@@ -9,7 +9,9 @@ description: "The Flames of Purity"
 
 <i>These flames will cleanse our realm..</i>
 
-Damage: 225-325
+***Wisdom of the Elementals: On ability use, 0% chance to purify yourself, which goes up by the percentage of shots you hit in the past 100 shots shot. (7s CD, only applies when purify procs)***
+
+Damage: 275-345
 
 Shots: 2
 
@@ -19,9 +21,7 @@ Range: 10.0
 
 2% to inflict Armor Broken for 6 seconds
 
-    +10 Attack
-    
-    +10 Vitality
+    +12 Vitality
 
 Fame Bonus: 8%
 
