@@ -5,7 +5,7 @@ description: "The Bloodbath Dagger"
 
 # Bloodbath Dagger
 
-![Bloodbath Dagger](http://i.imgur.com/XM5i2w2.png)
+![Bloodbath Dagger](https://media.discordapp.net/attachments/1187552567295758487/1187796168118374410/Bloodbath_Dagger.png)
 
 <i>A dagger left behind from a great massacre in Bedlam Asylum.</i>
 
