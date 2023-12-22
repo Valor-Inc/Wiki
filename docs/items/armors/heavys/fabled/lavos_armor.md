@@ -11,11 +11,9 @@ description: "Lavos Armor"
 
     +60 Maximum HP
     
-    +26 Defense
+    +16 Defense
     
-    +10 Dexterity
-    
-    +10 Attack
+    +9 Attack
     
 Fame Bonus: 6%
 
