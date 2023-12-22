@@ -29,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![RPS Projectile](https://user-images.githubusercontent.com/106563707/178048348-bd631685-5539-4646-b2eb-ab34ae283cad.png)
+![RPS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852657403101304/Rose_Petal_Staff_Projectile.gif)
