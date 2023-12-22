@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-description: "Enfused Bloody Fangs"
+description: "Infused Bloody Fangs"
 ---
 
 # Infused Bloody Fangs
