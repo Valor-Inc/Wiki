@@ -9,26 +9,24 @@ description: "The Steel Shocker"
 
 <i>A powerful energy is enclosed within</i>
 
-Damage: 60-95
+Damage: 80-120
 
 Shots: 2
 
-Rate of Fire: 70% 
+Rate of Fire: 100%
 
-Range: 6.5
+Range: 6.8
 
 Shots hit multiple targets
 
 Shots pass through obstacles
 
-    +10 Maximum HP
-    
-    +3 Attack
-    
-    +3 Dexterity
-    
-    +5 Wisdom
+1% to inflict Dazed for 3s
 
+    +50 Maximum HP
+    
+    +5 Defense
+    
 Fame Bonus: 4%
 
 **Drops from Dr. Terrible of the Mad Lab**
