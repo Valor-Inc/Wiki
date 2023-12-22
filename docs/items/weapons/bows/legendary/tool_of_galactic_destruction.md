@@ -8,11 +8,13 @@ sidebar_position: 11
 
 <i>This weapon has power akin to the explosion of a planet</i>
 
-Damage: 244-346
+**shoots orbiting ships, that shoot laser when you cast your ability.**
+
+Damage: 380-425
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 130%
 
 Range: 7.8
 
@@ -20,11 +22,9 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +65 Protection
+    +35 Protection
     
-    +75 Might
-    
-    +50 Luck
+    +6 Defense
     
 Fame Bonus: 8%
 
@@ -32,4 +32,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![ToGD](https://cdn.discordapp.com/attachments/953134990428868629/981328127114485800/toolofgalacticdestruction.gif)
+![ToGD](https://cdn.discordapp.com/attachments/1160376179996496013/1170814073798152212/toolofgalacticdestruction.gif?ex=6591c793&is=657f5293&hm=75e08136c20281ad1fa3675cbf55a17bd54105d15f5e53af27d8e524897b86f3&)
