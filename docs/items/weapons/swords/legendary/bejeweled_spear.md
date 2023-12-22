@@ -19,7 +19,7 @@ Rate of Fire: 110%
 
 Range: 3
 
-    +5% Wisdom
+    +5% Vitality
     
     +10% Maximum HP
     
@@ -33,4 +33,4 @@ Fame Bonus: 12%
 
 ## Projectile
 
-![Bejeweled Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954070004989566996/Bejeweled.gif)
+![Bejeweled Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866766777524308/Bejeweled_Spear.gif?ex=65987222&is=6585fd22&hm=4d976c97c42ebc3001cd5e17be0a7ff9aec3116c5852b447e3295ea742e080b8&)
