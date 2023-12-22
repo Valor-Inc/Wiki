@@ -9,7 +9,9 @@ description: "The Sor Giant Slayer"
 
 <i>What happens when you infuse a sor with a sor?</i>
 
-Damage: 125-200
+**Powered By Sor: Alternate between having 1 Life Leech and 1 Mana Leech every 5 seconds. (When equipping this item this effect does not start for 3s, and it chooses to start on life/mana leech randomly.)**
+
+Damage: 125-145
 
 Shots: 3
 
@@ -21,12 +23,10 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-10% to inflict Bleeding for 7 seconds
+10% to inflict Bleeding for 7s
 
     +100 Maximum HP
-    
-    +40 Restoration
-    
+
     +10 Speed
 
 Fame Bonus: 8%
@@ -35,4 +35,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![SGS Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948595210017976390/unknown.png)
+![SGS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947301842366464/sorgiantslayer.gif?ex=659243a7&is=657fcea7&hm=47e253b253ff48564fe09ebc5ffd2681ac88c37bc543a4771b4aa6213ba371e3&)
