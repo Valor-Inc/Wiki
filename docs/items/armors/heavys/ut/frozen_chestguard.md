@@ -9,15 +9,15 @@ description: "The Frozen Chestguard"
 
 <i>An ancient frozen armor that has a ring of unbreakable ice attached to it.</i>
 
-    +30 Defense
+    +23 Defense
     
-    +120 Maximum MP
+    +80 Maximum MP
     
-    +10 Wisdom
+    +12 Wisdom
     
-    +20 Protection
+    +25 Protection
     
-    -5 Attack
+    +4 Dexterity
     
 Fame Bonus: 6%
 
