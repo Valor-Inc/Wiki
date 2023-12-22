@@ -4,6 +4,8 @@ title: Electric Storm
 description: "Electric Storm"
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Electric Storm" label="Electric Storm" default>
