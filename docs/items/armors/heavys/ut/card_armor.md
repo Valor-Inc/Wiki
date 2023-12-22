@@ -5,19 +5,17 @@ description: "The Card Armor"
 
 # Card Armor
 
-![Card](http://i.imgur.com/1vWQCBg.png)
+![Card](https://cdn.discordapp.com/attachments/1187552567295758487/1187843160827777034/1vWQCBg_1.png?ex=65985c26&is=6585e726&hm=3522f741a0394b469706a492689e0ae25d8679ffd79bb29b97ebf1984ba6c731&)
 
 <i>This enchanted armor is made from recycled paper. Remarkably, it is stronger than even mythril, and makes the wearer feel unbeatable.</i>
 
-    +20 Defense
+    +12 Defense
     
-    +5 Dexterity
+    +3 Dexterity
+
+    +3 Attack
     
-    +3 Vitality
-    
-    +5 Attack
-    
-    +25 Maximum HP
+    +5 Speed
     
 Fame Bonus: 5%
 
