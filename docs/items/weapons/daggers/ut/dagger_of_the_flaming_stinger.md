@@ -5,7 +5,7 @@ description: "Dagger of the Flaming Stinger"
 
 # Dagger of the Flaming Stinger
 
-![DFS](http://i.imgur.com/ZH4khaC.png)
+![DFS](https://cdn.discordapp.com/attachments/1187552567295758487/1187796335726964887/Dagger_of_the_Flaming_Stinger.png)
 
 <i>Extremely sharp and incredibly hot. With such a little thing, you have to be careful.</i>
 
