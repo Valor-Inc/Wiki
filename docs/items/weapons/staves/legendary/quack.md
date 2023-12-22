@@ -9,11 +9,13 @@ description: "Quack"
 
 <i>Quack quack.</i>
 
+***QUACK!: On ability use, spawn a duck quack nuke on cursor dealing 1200% of your calculated non-crit damage within 14 squares, and inflicting Corrupted on enemies for 5 seconds. (30s cooldown)***
+
 Damage: 500-700
 
 Shots: 1
 
-Rate of Fire: 60%
+Rate of Fire: 65%
 
 Range: 7.5
 
