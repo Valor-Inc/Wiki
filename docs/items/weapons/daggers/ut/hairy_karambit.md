@@ -7,13 +7,13 @@ description: "The Hairy Karambit"
 
 ![HK](http://i.imgur.com/JumvnGV.png)
 
-<i>The knife has a built in sharp edge, so it doesn't need to shoot one out"</i>
+<i>A karambit covered in a fuzzy-hair, likely from all the time surrounded by moths."</i>
 
-Damage: 100
+Damage: 105
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 120%
 
 Range: 6.4
 
@@ -26,6 +26,8 @@ Ignores defense of target
     +10 Wisdom
     
     -10 Vitality
+
+    +1 Mana Leech
     
 Fame Bonus: 5%
 
@@ -33,4 +35,4 @@ Fame Bonus: 5%
 
 ## Projectile
 
-![HK Projectile](https://cdn.discordapp.com/attachments/953134990428868629/982035668752531558/hairykarambit.gif)
+![HK Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828755896381520/hairykarambit.gif)
