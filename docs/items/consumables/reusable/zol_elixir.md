@@ -15,9 +15,9 @@ import TabItem from '@theme/TabItem';
 
 Sprited by: Zipzar
 
-On Use: +25 Attack for 5 seconds
+On Use: +15 Attack for 5 seconds
 
-On Use: -200 Maximum HP for 10 seconds
+On Use: -150 Maximum HP for 10 seconds
 
 Cooldown: 15 seconds
 
