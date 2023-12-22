@@ -9,22 +9,22 @@ description: "The Staff of Melting Demons"
 
 <i>The main weapon of the archdemon himself.</i>
 
-Damage: 265-280
+Damage: 425-475
 
 Shots: 1
 
 Rate of Fire: 70%
 
-Range: 6.2
+Range: 7.2
+
+Shots hit multiple targets
 
 Ignores defense of target
 
-    +10 Restoration
+    +100 Maximum Mp
     
-    +10 Vitality
+    +1 Mana Leech
     
-    +85 Maximum MP
-
 Fame Bonus: 6%
 
 **Drops from Ascended Archdemon Malphas of the Ascended Abyss of Demons**
