@@ -9,13 +9,15 @@ description: "The Truncheon of Immortal Demons"
 
 <i>A staff that uses the magic of the ghouls and demons that lurk in our world.</i>
 
-Damage: 110-130
+Damage: 75-130
 
 Shots: 4
 
 Rate of Fire: 80% 
 
 Range: 8.3
+
+    +10 Luck
 
 Fame Bonus: 5% 
 
