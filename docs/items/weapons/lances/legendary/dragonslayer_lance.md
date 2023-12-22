@@ -9,7 +9,9 @@ description: "Dragonslayer Lance"
 
 <i>Death to the Winged Beast!</i>
 
-Damage: 140-168
+**Blazing Wings: Landing a hit adds a stack of Burning. Deal 1000 + 40(per stack) damage every second at 2 + 0.04(per stack) range. Max 100 stacks, you lose 10 stacks per second.**
+
+Damage: 185
 
 Shots: 4
 
@@ -22,8 +24,6 @@ Shots hit multiple targets
 Ignores defense of target
 
     +10 Defense
-    
-    +10 Attack
 
 Fame Bonus: 8%
 
@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Dragonslayer Projectile](https://user-images.githubusercontent.com/114798136/199895325-142747d8-ea49-4c05-b8b0-397dec0b84e6.png)
+![Dragonslayer Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947766088908880/dragonslayer.gif?ex=65924416&is=657fcf16&hm=b9fa40aa5576be9c2cdd7a67f70e95c8908862c28154151b7ded4f817c8afebc&)
