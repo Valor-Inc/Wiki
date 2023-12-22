@@ -9,11 +9,11 @@ description: "The Bloodbath Dagger"
 
 <i>A dagger left behind from a great massacre in Bedlam Asylum.</i>
 
-Damage: 70-110
+Damage: 60-120
 
 Shots: 2
 
-Rate of Fire: 100%
+Rate of Fire: 120%
 
 Range: 5.7
 
@@ -25,4 +25,4 @@ Fame Bonus: 4%
 
 ## Projectile 
 
-![Bloodbath Dagger Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727290272657418/bbath.gif)
+![Bloodbath Dagger Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828636996259992/bloodbath.gif)
