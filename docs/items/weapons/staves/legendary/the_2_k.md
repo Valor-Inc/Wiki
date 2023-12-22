@@ -9,7 +9,9 @@ description: "The 2-K"
 
 <i>Created from Genisus shards and assembled by the blacksmith that also resided in the Genisus until he was killed by Oryx because of the creation of this powerful weapon.</i>
 
-Damage: 500-2000
+***Y2K: Full Set Bonus: The amplitude on this item is reduced heavily.***
+
+Damage: 535-2000
 
 Shots: 1
 
@@ -22,8 +24,6 @@ Shots hit multiple targets
 Fame Bonus: 8%
 
 ***This item is a part of Cataclysmic Set***
-
-**Craftable from Shard of Ancient Assault**
 
 ## Projectile
 
