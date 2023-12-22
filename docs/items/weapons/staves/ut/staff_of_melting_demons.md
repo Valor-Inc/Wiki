@@ -31,4 +31,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![SMD Projectile](https://user-images.githubusercontent.com/106563707/178049729-db180b87-0871-47fb-9a5f-fe52bbc95d42.png)
+![SMD Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852735664627722/Staff_of_Melting_Demons_Projectile.gif)
