@@ -20,7 +20,7 @@ Sprited by: SkySlurp
 
 On Use: Removes negative conditions
 
-Cooldown: 30 seconds
+Cooldown: 15 seconds
 
 **Bought from the Nexus Shop for Fame**
 
@@ -37,7 +37,7 @@ Sprited by: SkySlurp
 
 On Use: Removes negative conditions
 
-Cooldown: 30 seconds
+Cooldown: 15 seconds
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
