@@ -9,14 +9,20 @@ description: "Staff of the Unholy Church"
 
 <i>A staff which feels forever cold to the touch, it has a dark presence that can not be denied.</i>
 
-Damage: 80-120
+Damage: 105-235
 
 Shots: 2
 
 Rate of Fire: 100% 
 
-Range: 6.5
+Range: 7
 
+Shots hit multiple targets
+
+    +25 might
+    
+    +30 luck
+    
 Fame Bonus: 4%
 
 **Drops from the Dark Knight of the Unspeakable**
