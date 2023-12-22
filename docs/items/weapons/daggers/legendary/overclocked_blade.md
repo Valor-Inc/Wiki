@@ -4,7 +4,7 @@ description: "Overclocked Blade"
 
 # Overclocked Blade
 
-[blade](https://vwiki.valorserver.com/api/item/picture/overclocked%20blade)
+[blade](https://cdn.discordapp.com/attachments/1187552567295758487/1187797648535736410/Overclocked_Blade.png)
 
 <i>The messengers of Terradius employ weaponry powered by their own blood, it's their devotion that charges the blade on the path of onslaught.</i>
 
