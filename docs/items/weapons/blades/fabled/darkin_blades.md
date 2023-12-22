@@ -6,11 +6,11 @@ description: "The Darkin Blades"
 
 # ![fabled](https://cdn.discordapp.com/attachments/828314781793779742/1108582622457757706/FABLEDBAG.png) Darkin Blades
 
-![darkin](https://vwiki.valorserver.com/api/item/picture/darkin%20blades)
+![darkin](https://cdn.discordapp.com/attachments/1118235017550778448/1187550007113560165/Darkin_Blades.png?ex=65974b21&is=6584d621&hm=02858e5f0ced71551dbe741a3f0ab05fd7c8a044dc41e9cf411ddd7f7aabbf65&)
 
 <i>Dual blades made enchanted by the demons that haunt the Bastille of Drannol.</i>
 
-Damage: 170-250
+Damage: 205-285
 
 Shots: 2
 
@@ -24,4 +24,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Darkin Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969068839507730473/darkinblades.gif)
+![Darkin Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170800284285554748/darkinblades.gif?ex=6591babc&is=657f45bc&hm=18134a573fcb85d8e118cf3a2096356113ea5e05be551f469c95a01ebbd99df6&)
