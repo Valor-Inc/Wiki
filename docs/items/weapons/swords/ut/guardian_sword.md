@@ -5,15 +5,15 @@ description: "The Guardian Sword"
 
 # Guardian Sword
 
-![GuardianSword](https://vwiki.valorserver.com/api/item/picture/guardian%20sword)
+![GuardianSword](https://cdn.discordapp.com/attachments/1187552567295758487/1187886736173453372/Guardian_Sword.png)
 
-<i>Sword of Light, once wielded by the Archangel Michael, was forged for war with the Devil and his demons. Now you must carry on his work.</i>
+<i>A massive blade wielded by the guardian of the Genisus, ensuring that the secrets of their technology remain hidden.</i>
 
 Damage: 160-200
 
 Shots: 2
 
-Rate of Fire: 100% 
+Rate of Fire: 95% 
 
 Range: 4.7
 
@@ -26,4 +26,6 @@ Fame Bonus: 6%
 **Drops from Truvix, the Lost Wanderer in the Realm**
 
 ## Projectile
+
+![GS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867165832003605/Guardian_Sword.gif)
 
