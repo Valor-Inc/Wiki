@@ -9,7 +9,7 @@ description: "The Dagger of Unearthly Storms"
 
 <i>A dagger that will slice through diamond.</i>
 
-Damage: 110-115
+Damage: 75-115
 
 Shots: 1
 
@@ -21,14 +21,14 @@ Shots hit multiple targets
 
     +4 Speed
     
-    +80 Luck
+    +40 Luck
     
-    +80 Might
+    +25 Might
     
 Fame Bonus: 6%
 
-**Drops from both bosses of the Storm Palace**
+**Drops from Ascended Storm Palace and regular Storm Palace**
 
 ## Projectile 
 
-![DUS Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981757537433047080/unearthly.gif)
+![DUS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828859768311918/unearthlystorms.gif)
