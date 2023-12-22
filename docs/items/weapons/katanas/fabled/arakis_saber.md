@@ -9,7 +9,7 @@ description: "Araki's Saber"
 
 <i>The blade was said to be found in the shadow realm.</i>
 
-Damage: 150-175
+Damage: 120-170
 
 Shots: 2
 
@@ -27,4 +27,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![AS Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948606160594927636/unknown.png)
+![AS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947395689922611/arakis_saber.gif?ex=659243be&is=657fcebe&hm=9ff85a773d8817346bbdd50392fb5100b3432a5b36254a90427c0fa315e90171&)
