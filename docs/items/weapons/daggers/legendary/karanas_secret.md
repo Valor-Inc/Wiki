@@ -21,14 +21,14 @@ Range: 5.6
 		
 	+20 Protection
 		
-	+40 Wisdom
+	+30 Wisdom
 
 Fame Bonus: 8%
 
-***Ghost's Wrath: While you are also invisible, you gain twice the amount of wisdom you have as bonus outputting damage.***
+***Ghost's Wrath: While invisible gain 2x your wisdom as bonus outputting damage.***
 
 **Drops from Truvix, the Lost Wanderer in the Realm** 
 
 ## Projectile
 
-![KS Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721288596930570/karana.gif)
+![KS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827530824069283/karanas.gif)
