@@ -11,7 +11,7 @@ description: "The Blade of Thorns"
 
 **Sprited by: BLOODQWEN**
 
-Damage: 150-175
+Damage: 120-150
 
 Shots: 2
 
@@ -29,6 +29,10 @@ Shots hit multiple targets
 
 Fame Bonus: 6%
 
+***This item can be upgraded with Essence of the Realm!***
+
 **Drops from Vitalia of the Garden of Chaos**
 
 ## Projectile
+
+![BThorns](https://cdn.discordapp.com/attachments/1160376179996496013/1170947459644661760/bladeofthorns.gif?ex=659243cd&is=657fcecd&hm=c4f6819ee339307810318c20d0b6763d3a106320850dbdffab5a519da68a9d94&)
