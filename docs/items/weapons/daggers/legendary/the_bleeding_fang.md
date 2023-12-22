@@ -9,6 +9,8 @@ description: "The Bleeding Fang"
 
 <i>A razor sharp fang that seems to even have the blood of the Eternal Beast on it's tip.</i>
 
+**Blood Barrier: All enemies you mark with bleed deal 10% less damage to you and cannot inflict bleeding on you.**
+
 Damage: 120-155
 
 Shots: 3
@@ -23,7 +25,7 @@ Range: 5.3
 
 Fame Bonus: 8%
 
-***Blood Barrier: All enemies you mark with bleed deal 10% less damage to you and cannot inflict bleeding on you.***
+
 
 ## Projectile
 
