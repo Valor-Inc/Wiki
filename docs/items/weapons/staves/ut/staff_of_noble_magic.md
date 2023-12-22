@@ -9,21 +9,19 @@ description: "The Staff of Noble Magic"
 
 <i>This weapon was  cfrafted in the forges of the heavenly castle.</i>
 
-Damage: 55-100
+Damage: 75-150
 
 Shots: 2
 
 Rate of Fire: 100%
 
-Range: 8.6
+Range: 7.4
 
-    +2 Defense
+    +4 wisdom
     
-    +2 Speed
+    +40 Maximum Mp
     
-    +2 Wisdom
-
-Fame Bonus: 5%
+Fame Bonus: 4%
 
 **Drops from Riv, the Heavenly Champion of the Heavenly Rift**
 
