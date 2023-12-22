@@ -5,21 +5,19 @@ description: "The Titan's Edge"
 
 # Titan's Edge
 
-![TitEdge](https://vwiki.valorserver.com/api/item/picture/titan's%20edge)
+![TitEdge](https://cdn.discordapp.com/attachments/1187552567295758487/1187879540773630125/Titans_Edge.png)
 
 <i>No mortal creature knows what material this weapon could be made out of.</i>
 
-Damage: 150-220
+Damage: 125-300
 
 Shots: 1
 
-Rate of Fire: 200% 
+Rate of Fire: 175% 
 
-Range: 3.9
+Range: 4.2
 
-    +120 Maximum HP
-    
-    +60 Maximum MP
+    +80 Maximum HP
     
     +6 Defense
     
@@ -29,6 +27,6 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![TitEdge Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950406036303519764/Titanedge.gif)
+![TitEdge Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867046747328582/Titans_Edge.gif)
 
 
