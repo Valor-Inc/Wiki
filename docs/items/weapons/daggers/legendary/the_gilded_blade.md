@@ -9,6 +9,8 @@ description: "The Gilded Blade"
 
 <i>A silver dagger with a golden hilt awarded by the beast teams and guilds in the realm</i>
 
+**Alliance: If you have another ally close to you, your rate of fire is increased by 30%.**
+
 Damage: 125-160
 
 Shots: 3
@@ -19,7 +21,7 @@ Range: 6.2
 
 Fame Bonus: 8%
 
-***Alliance: If you have another ally close to you, your rate of fire is increased by 30%.***
+
 
  ## Projectile 
  
