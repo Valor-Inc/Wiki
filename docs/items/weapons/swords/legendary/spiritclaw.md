@@ -16,7 +16,9 @@ import TabItem from '@theme/TabItem';
 
 <i>Lives won't be spared.</i>
 
-Damage: 450-550
+**Ancient Blade: This blade corrupts enemies and leaves them weakend after a blow.**
+
+Damage: 550-600
 
 Shots: 1
 
@@ -30,19 +32,15 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +80 Maximum MP
-    
-    +60 Restoration
+    +40 Protection
 
 Fame Bonus: 12%
-
-***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
 
 **Drops from Aldragine of the Zol Awaken raid**
 
 ## Projectile
 
-![Spiritclaw Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950408694015864852/Sclaw.gif)
+![Spiritclaw Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866872490766356/Spiritclaw.gif?ex=6598723b&is=6585fd3b&hm=a7d67fd87f44d23ad483a6d9d0766f2e3b82a51b50dbcfb8c848a5326d5f3fad&)
 
   </TabItem>
   <TabItem value="Birdclaw" label="Birdclaw">
@@ -53,7 +51,9 @@ Fame Bonus: 12%
 
 <i>That'll leave a scratch.</i>
 
-Damage: 450-550
+**Ancient Blade: This blade corrupts enemies and leaves them weakend after a blow.**
+
+Damage: 550-600
 
 Shots: 1
 
@@ -67,13 +67,11 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +80 Maximum MP
-    
-    +60 Restoration
+    +40 Protection
 
 Fame Bonus: 12%
 
-***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
+**Drops from Aldragine of the Zol Awaken raid**
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
@@ -81,7 +79,7 @@ Fame Bonus: 12%
 
 ## Projectile
 
-![Birdclaw Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950409723298078760/Birdclaw.gif)
+![Birdclaw Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866909295780000/Birdclaw.gif?ex=65987244&is=6585fd44&hm=6b686be0514cc11288af48e3645b51a53f9778495572c1ffe8bc15579ba4605a&)
 
   </TabItem>
     <TabItem value="Cotton Candy Claw" label="Cotton Candy Claw">
@@ -92,7 +90,9 @@ Fame Bonus: 12%
 
 <i>Lives won't be spared.</i>
 
-Damage: 450-550
+**Ancient Blade: This blade corrupts enemies and leaves them weakend after a blow.**
+
+Damage: 550-600
 
 Shots: 1
 
@@ -106,13 +106,9 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-    +80 Maximum MP
-    
-    +60 Restoration
+    +40 Protection
 
 Fame Bonus: 12%
-
-***Ancient Blade: This blade corrupts enemies and leaves them weakened after a blow.***
 
 **Drops from Aldragine of the Zol Awaken raid**
 
@@ -120,7 +116,7 @@ Fame Bonus: 12%
 
 ## Projectile
 
-![CCC Projectile](https://i.imgur.com/uDNGJaf.gif)
+![CCC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866935170453604/Cotton_Candy_Claw.gif?ex=6598724a&is=6585fd4a&hm=19ea0c0421daf8d1e615b079914e686e6b95e2d8065eb6ad2325ec4994c52ec1&)
       
   </TabItem>
 </Tabs>
