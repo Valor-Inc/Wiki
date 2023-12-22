@@ -33,4 +33,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Vulcanstriker Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953303799274020944/vulcanstriker.gif)
+![Vulcanstriker Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852918041366589/Vulcanstriker_Projectile.gif)
