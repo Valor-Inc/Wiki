@@ -36,6 +36,8 @@ Fame Bonus: 6%
 
 ## Projectile
 
+![WWS Proj](https://cdn.discordapp.com/attachments/1160376179996496013/1187852949884518422/Warped_Worlds_Staff_Projectile.gif)
+
   </TabItem>
   <TabItem value="Celtic Staff" label="Celtic Staff">
 
@@ -65,7 +67,7 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![mechs7](https://user-images.githubusercontent.com/114798136/201545252-797bd50c-7e89-4cd9-bef6-1adc1133c9c0.png)
+![mechs7](https://cdn.discordapp.com/attachments/1160376179996496013/1187852345812471878/Celtic_Staff_Projectile.gif)
 
   </TabItem>
 </Tabs>
