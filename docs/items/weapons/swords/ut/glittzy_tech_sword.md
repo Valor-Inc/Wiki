@@ -9,7 +9,7 @@ description: "The Glittzy Tech Sword 9000"
 
 <i>This shiny sword was crafted using technology still unknown to the world of Valor.</i>
 
-Damage: 280-455
+Damage: 250-340
 
 Shots: 1
 
@@ -23,4 +23,4 @@ Fame Bonus: 4%
 
 ## Projectile
 
-![Glittzy Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950405096750055444/Glitzy.gif)
+![Glittzy Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867154431885452/Glittzy_Tech_Sword_9000.gif)
