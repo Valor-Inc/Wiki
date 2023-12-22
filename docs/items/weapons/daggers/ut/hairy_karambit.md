@@ -5,7 +5,7 @@ description: "The Hairy Karambit"
 
 # Hairy Karambit
 
-![HK](http://i.imgur.com/JumvnGV.png)
+![HK](https://cdn.discordapp.com/attachments/1187552567295758487/1187796934312853665/Hairy_Karambit.png)
 
 <i>A karambit covered in a fuzzy-hair, likely from all the time surrounded by moths."</i>
 
