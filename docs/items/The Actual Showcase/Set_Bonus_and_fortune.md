@@ -175,6 +175,7 @@ When reaching 75% HP you transform back into normal (Transformation has a 40s co
 [![Zol Jewl](https://vwiki.valorserver.com/api/item/picture/zol%20jewel)](https://wiki.valorserver.com/docs/items/rings/fabled/zol_jewel)
 [![Unlucky Leprechaun's Hat](https://media.discordapp.net/attachments/1118235017550778448/1153144297961562162/Unlucky_Leprechauns_Hat.png?width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/ut/unlucky_hat)
 [![Hat of the Leprachaun](https://media.discordapp.net/attachments/1118235017550778448/1153144198573342790/Hat_of_the_Leprechaun.png?width=130&height=130)](https://wiki.valorserver.com/docs/items/rings/lg/hat_of_the_leprachaun) ***<- hat of the leprachaun is not currently in the wiki but it does provides fortune sadly this item is limited***
+
   </TabItem>
 </Tabs>
 
