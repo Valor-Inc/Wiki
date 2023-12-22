@@ -5,7 +5,7 @@ description: "The Bent Dagger"
 
 # Bent Dagger
 
-![Rottlerweap](http://i.imgur.com/GDxoeWr.png)
+![Rottlerweap](https://media.discordapp.net/attachments/1187552567295758487/1187795824705544352/Bent_Dagger.png)
 
 <i>A dagger that seems just a tad bit... off</i>
 
