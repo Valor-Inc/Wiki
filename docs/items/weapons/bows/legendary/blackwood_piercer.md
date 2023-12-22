@@ -18,7 +18,7 @@ Range: 6.8
 
 Shots hit multiple targets
 
-    -10 Attack
+    -5 Attack
     
 Fame Bonus: 8%
 
@@ -28,4 +28,4 @@ Fame Bonus: 8%
 
 ## Projectile 
 
-![Blackwood Piercer Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981331243528495144/blackwood_piercer.gif)
+![Blackwood Piercer Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170813881690640526/blackwood.gif?ex=6591c766&is=657f5266&hm=6d74422821aa2df0d3f65b7e947f39efee818acf4b03fb3c65fa387e427e61e6&)
