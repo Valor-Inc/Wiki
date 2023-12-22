@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![SDP Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953140434589343785/demonic_power.gif)
+![SDP Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852717994029066/Staff_of_Demonic_Power_Projectile.gif)
