@@ -10,6 +10,8 @@ description: "Exile's Resolve"
 
 <i>Time will cause suffering that can't be healed by change. ~ Azar</i>
 
+***Exile's Revenge: Hitting 20 consecutive shots with this item sends out a 0 damage scepter blast that hits 10 targets and Paralyzes for 5 seconds.***
+
 Damage: 330-440
 
 Shots: 1
@@ -20,9 +22,9 @@ Range: 7.8
 
 Shot Effect: Slowed for 0.5 seconds
 
-    +80 Maximum HP
+    +100 Maximum HP
     
-    +160 Maximum MP
+    +100 Maximum MP
 
 Fame Bonus: 8%
 
