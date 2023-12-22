@@ -16,37 +16,36 @@ import TabItem from '@theme/TabItem';
 
 <i>Sluggish but powerful, the intricate design of these accursed daggers betray an uparalleled dedication by the one who sculpted them, wherever their frozen body may lie. </i>
 
-Damage: 215-345
+ **Blizzard: Increases Permafrost Veil icicles by 4**
+
+Damage: 325-375
 
 Shots: 2
 
 Rate of Fire: 85%
 
-Range: 5.3
+Range: 5.2
 
 Shots hit multiple targets
 
 Ignores defense of target
 
-0.60% to inflict Slowed for 3 seconds
+5% to inflict Slowed for 3s
 
     +50 Maximum HP
     
     +15 Wisdom
     
-    +10 Attack
-    
     +10 Defense
     
  Fame Bonus: 8%
 
- ***Blizzard: Increases Permafrost Veil icicles by 4***
  
 **Drops from Bergelmir, the Frost Guardian | Alert** ![bergelmir](https://cdn.discordapp.com/attachments/1107378591026655272/1107470508791955456/fghf.png)
 
  ## Projectile
  
-![Frozen Blades Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969067827363459122/frozen_blades.gif)
+![Frozen Blades Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187558026505371698/normal_ar_blade.gif?ex=65975299&is=6584dd99&hm=3fdbc318309d41e2605fa33700d2c6c7ce81c7dafda4a2141ae73512e6d118f7&)
 
   </TabItem>
   <TabItem value="Popsicle Blades" label="Popsicle Blades">
@@ -57,23 +56,25 @@ Ignores defense of target
     
 <i>These blades radiate a cold, harsh energy. Sluggish but powerful, these shots travel a good distance. Also taste quite tangy!</i>
 
-Damage: 215-345
+ **Blizzard: Increases Permafrost Veil icicles by 4**
+ 
+Damage: 325-375
 
 Shots: 2
 
 Rate of Fire: 85%
 
-Range: 5.3
+Range: 5.2
 
 Shots hit multiple targets
 
 Ignores defense of target
 
-0.60% to inflict Slowed for 3 seconds
+5% to inflict Slowed for 3 seconds
 
     +50 Maximum HP
 
-    +10 Attack
+    +15 Wisdom
 
     +10 Defense
 
@@ -83,7 +84,7 @@ Ignores defense of target
 
  ## Projectile
 
-![mechs5](https://user-images.githubusercontent.com/114798136/201545285-2d5565bf-ad0e-4c2d-a87b-7b02f19e6f24.png)
+![mechs5](https://cdn.discordapp.com/attachments/1160376179996496013/1170803400905080883/popsicle.gif?ex=6591bda3&is=657f48a3&hm=48134bae7d2ee3645862c1d94f50ec067c2de83c92ef812726527b6b653c7d75&)
 
  </TabItem>
 </Tabs>
