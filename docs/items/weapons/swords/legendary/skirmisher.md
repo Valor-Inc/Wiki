@@ -5,7 +5,7 @@ description: "The Skirmisher"
 
 # Skirmisher
 
-![skirmisher](https://i.imgur.com/zAGqsYX.png)
+![skirmisher](https://cdn.discordapp.com/attachments/1187552567295758487/1187889976843710485/Skirmisher.png?ex=659887c0&is=658612c0&hm=9924d0f30676cde71f1809b684c1060b278080129b9b76e4afa28781999a3bf0&)
 
 <i>A sharp and light spear. This ruby infused weapon was forged with one purpose in mind.</i>
 
