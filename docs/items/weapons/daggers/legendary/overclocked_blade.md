@@ -8,6 +8,8 @@ description: "Overclocked Blade"
 
 <i>The messengers of Terradius employ weaponry powered by their own blood, it's their devotion that charges the blade on the path of onslaught.</i>
 
+**Hyperthreaded: Every 4th successful attack deals 1.5x more damage**
+
 Damage: 177
 
 Shots: 2
@@ -19,8 +21,6 @@ Range: 5
     +2 Lifesteal
     
 Fame bonus: 8%
-
-***Hyperthreaded: Every 4th successful attack deals 1.5x more damage***
 
 **Drops from Hand of Terradius** 
 
