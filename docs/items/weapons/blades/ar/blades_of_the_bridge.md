@@ -97,6 +97,7 @@ Fame Bonus: 15%
 ## Projectile
 
 ![Blades of the Bridge Earth Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187541043235782756/normal_ar_blade.gif?ex=659742c8&is=6584cdc8&hm=e358a1df824d97d83e1a98b6299cb6ab7050cfd27459a7297d029dbc223b96e7&)
+ 
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
@@ -131,6 +132,9 @@ Fame Bonus: 15%
 ![Blades of the Bridge Fire Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540566968381500/normal_ar_blade.gif?ex=65974256&is=6584cd56&hm=c645dbfb43446a46fa4b14b7c070a1e11b4e1143ab56dd89d752643bad389ae8&)
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Water
 
+ </TabItem>
+  <TabItem value="Earth" label="water">
+
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Water)
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Sea.</i>
@@ -158,6 +162,7 @@ Fame Bonus: 15%
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540327024828426/normal_ar_blade.gif?ex=6597421d&is=6584cd1d&hm=1dd05d0bf3664dfa36bf79d51f6c60e3a9f30c93d68856bcb77bb14fb0550816&)
+
   </TabItem>
 </Tabs>
 
