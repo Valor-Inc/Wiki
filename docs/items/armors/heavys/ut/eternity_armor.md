@@ -11,9 +11,9 @@ description: "The Eternity Armor"
 
     +18 Defense
     
-    +20 Maximum MP
+    +60 Maximum MP
     
-    +4 Speed
+    +6 Speed
     
     +60 Protection
     
