@@ -10,7 +10,6 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Electric Storm" label="Electric Storm" default>
 
-
 # ![lgbag](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)Electric Storm
 
 
