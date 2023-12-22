@@ -7,8 +7,9 @@ title: Lance of the Elements
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+
 <Tabs>
-  <TabItem value="Lance of the Elements" label="Lance of the Elements>
+  <TabItem value="Lance of the Elements" label="Lance of the Elements">
       
 # Lance of the Elements
 
@@ -36,8 +37,10 @@ Fame Bonus: 8%
 
 ![LanceELE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187811817477652562/normal_ar_blade.gif?ex=65983ef5&is=6585c9f5&hm=cc57ef8ef6cd7760fe584195a175c17b9a455b6bc023542cb776672fa6d153c2&)
 
+
   </TabItem>
   <TabItem value="Air" label="Air">
+
 
 # Lance of the Elements Air
 
