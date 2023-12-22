@@ -9,13 +9,15 @@ description: "The Gem Sword"
 
 <i>A glistening sword enhanced by the power of the sor gem inside.</i>
 
-Damage: 325-445
+**Shattered Blade: Every projectile that misses on despawn will damage all enemies within 1.5 range for half of the original projectile's damage (also ignores defense).**
+
+Damage: 315-425
 
 Shots: 1
 
 Rate of Fire: 125%
 
-Range: 6.6
+Range: 6
 
 Ignores defense of target
 
@@ -25,4 +27,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Gems Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954067335730302986/gemsword.gif)
+![Gems Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866824415641811/Gem_Sword.gif?ex=65987230&is=6585fd30&hm=112f9cafcea2662309612a99f575bc2c267cc155d42b5794fbb989ffd284c5ba&)
