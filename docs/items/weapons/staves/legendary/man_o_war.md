@@ -9,38 +9,19 @@ description: "The Man O War"
 
 <i>An already known power increased to it's maximum potential morphed to be handled by mortals.</i>
 
-Damage: 140-200
+***War Machine: Hitting 8 shots in a row spawn 8 shots on the next-hit enemy, dealing 88% of your shots final damage.***
 
-Shots: 12
+Damage: 375-415
 
-Rate of Fire: 54%
+Shots: 2
 
-Range: 4
+Rate of Fire: 70%
+
+Range: 6
 
     +60 Maximum HP
     
     +60 Maximum MP
-    
-    +8 Attack
-    
-    +8 Speed
-    
-    +8 Defense
-    
-    +8 Vitality
-    
-    +8 Dexterity
-
-    +8 Wisdom
-
-    +8 Restoration
-
-    +8 Luck
-
-    +8 Might
-
-    +8 Protection
-
 
 Fame Bonus: 8%
 
