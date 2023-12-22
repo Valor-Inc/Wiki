@@ -9,28 +9,24 @@ description: "The Bow of Ruin"
 
 <i>A bow tattered by time, but still usable. Repairs have left it in a worse state than before.</i>
 
-Damage: 205-235
+Damage: 275-320
 
 Shots: 1
 
-Rate of Fire: 125%
+Rate of Fire: 135%
 
 Range: 8.8
 
 Shots hit multiple targets
 
-1% to inflict Paralyzed for 6 seconds
+1% to inflict Paralyzed for 6s
 
-    +12 Attack
-    
-    -12 Vitality
-    
-    +20 Restoration
-    
+    -6 Vitality
+   
 Fame Bonus: 6%
 
 **Drops from the Forgotten King in the Shatters**
 
 ## Projectile 
 
-![Bow of Ruin Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981325608107802674/bow_of_ruin.gif)
+![Bow of Ruin Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170814156560138300/bowofruin.gif?ex=6591c7a7&is=657f52a7&hm=9ea464b265c1f243651af32dc9068697e1c6ebabf3363dec035b58023ed5fcd0&)
