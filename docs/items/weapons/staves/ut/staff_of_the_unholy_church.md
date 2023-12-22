@@ -29,3 +29,4 @@ Fame Bonus: 4%
 
 ## Projectile
 
+![SotUC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852824369971241/Staff_of_the_Unholy_Church_Projectile.gif)
