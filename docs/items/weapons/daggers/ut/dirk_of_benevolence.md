@@ -7,15 +7,17 @@ description: "The Dirk of Benevolence"
 
 ![Benevolence](https://vwiki.valorserver.com/api/item/picture/dirk%20of%20benevolence)
 
-<i>Your fate lies within your weapon in times of war.</i>
+<i>A dagger rescued from the caustic grasp of the basement.</i>
 
-Damage: 90-135
+Damage: 155-185
 
 Shots: 1
 
-Rate of Fire: 110%
+Rate of Fire: 115%
 
-Range: 5.9
+Range: 6.5
+
+Shots hit multiple targets
 
 Fame Bonus: 5%
 
@@ -23,4 +25,4 @@ Fame Bonus: 5%
 
 ## Projectile
 
-![Benevolence Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727291375767582/dirk_of_benevolence.gif)
+![Benevolence Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828606474289173/benevolence.gif)
