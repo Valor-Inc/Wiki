@@ -9,7 +9,7 @@ description: "The Abyssal Whip"
 
 <i>A dark whip created by the power of the Abyssal Rune</i>
 
-Damage: 230-280
+Damage: 290-300
 
 Shots: 1
 
@@ -21,11 +21,11 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-Shot Effect: Slow for 0.5 seconds
+Shot Effect: Slow for 0.8 seconds
 
-    +100 Luck
+    +15 Speed
     
-    +8 Life Steal
+    +2 Life Steal
     
 Fame Bonus: 8%
 
@@ -33,4 +33,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![AW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721591987707955/abyssal.gif)
+![AW Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827177772724285/abyssalwhip.gif)
