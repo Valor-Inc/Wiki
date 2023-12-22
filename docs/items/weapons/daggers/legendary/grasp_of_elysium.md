@@ -9,6 +9,8 @@ description: "The Grasp of Elysium"
 
 <i>Become a machine of the heavens, and strike down the unholy!</i>
 
+**Taste of Heaven: Everyone that is in your party gains 1 lifesteal (cannot stack)**
+
 Damage: 140-200
 
 Shots: 2
@@ -18,8 +20,6 @@ Rate of Fire: 100%
 Range: 5.9
 
 Fame Bonus: 8%
-
-***Taste of Heaven: Everyone that is in your party gains 1 lifesteal (cannot stack)***
 
 **Can be purchased for 310 Onrane from the Calling of the Titan raid shop**
 
