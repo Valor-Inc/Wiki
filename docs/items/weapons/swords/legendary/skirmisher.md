@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Skirmisher Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954069795668643980/Skrimisher.gif)
+![Skirmisher Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866869143711844/Skirmisher.gif?ex=6598723b&is=6585fd3b&hm=1defaaed89fde5bcc0c95af6914657d395d0c7c42cd4f5d483fb3bec9c6f4412&)
