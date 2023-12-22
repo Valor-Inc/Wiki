@@ -9,6 +9,9 @@ description: "The Blade of the Titan"
 
 <i>A blade once used by Cronus to end the reign of the Gods.</i>
 
+**Friend of the cubes: Every second you don't use your ability, gain one Cube Stack, capped at 10. Using your ability refunds 10% of your mana per cube stack, resetting it to zero. This effect has a
+cooldown equal to your ability's cooldown, up to 4 seconds.**
+
 Damage: 495-505
 
 Shots: 1
@@ -24,9 +27,6 @@ Shots hit multiple targets
     +7 Vitality
     
 Fame Bonus: 8%
-
-***Friend of the cubes: Every second you don't use your ability, gain one Cube Stack, capped at 10. Using your ability refunds 10% of your mana per cube stack, resetting it to zero. This effect has a
-cooldown equal to your ability's cooldown, up to 4 seconds.***
 
 **Upgraded form of [Dirk of Chronus](https://www.realmeye.com/wiki/dirk-of-cronus)**
 
