@@ -5,7 +5,7 @@ description: "The Staff of Noble Magic"
 
 # Staff of Noble Magic
 
-![SNM](http://i.imgur.com/m6ZB8vF.png)
+![SNM](https://cdn.discordapp.com/attachments/1187552567295758487/1187836711305220166/Staff_of_Noble_Magic.png)
 
 <i>This weapon was  cfrafted in the forges of the heavenly castle.</i>
 
