@@ -130,10 +130,12 @@ Fame Bonus: 15%
 ## Projectile
 
 ![Blades of the Bridge Fire Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540566968381500/normal_ar_blade.gif?ex=65974256&is=6584cd56&hm=c645dbfb43446a46fa4b14b7c070a1e11b4e1143ab56dd89d752643bad389ae8&)
-# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Water
+
 
  </TabItem>
   <TabItem value="Water" label="Water">
+
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Water
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Water)
 
