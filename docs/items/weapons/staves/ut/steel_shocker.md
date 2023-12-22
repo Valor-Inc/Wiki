@@ -5,7 +5,7 @@ description: "The Steel Shocker"
 
 # Steel Shocker
 
-![ZapStick](http://i.imgur.com/FChHlXd.png)
+![ZapStick](https://cdn.discordapp.com/attachments/1187552567295758487/1187836752677830656/Steel_Shocker.png)
 
 <i>A powerful energy is enclosed within</i>
 
