@@ -36,6 +36,7 @@ Fame Bonus: 8%
 
 ![EStorm Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803376464859206/thunder.gif?ex=6591bd9d&is=657f489d&hm=a6351a1241e44640a6dd8c698392447dd8e60f82a70c0099d806679760d020b9&)
 
+
   </TabItem>
   <TabItem value="Remnants of Saint Nick" label="Remnants of Saint Nick">
 
