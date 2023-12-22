@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Shard of Sidon's Fall" label="Shard of Sidon's Fall" default>
     
-# # ![s](https://media.discordapp.net/attachments/1187579200505401444/1187579346978865233/Shard_of_Sidons_Fall.png?ex=65976674&is=6584f174&hm=4a6a758cea55499183e44cc1e3961c270eb70925f20338eaa1fe25f7c1a70ee7&=&format=webp&quality=lossless&width=70&height=70) Shard of Sidon's Fall 
+# ![s](https://media.discordapp.net/attachments/1187579200505401444/1187579346978865233/Shard_of_Sidons_Fall.png?ex=65976674&is=6584f174&hm=4a6a758cea55499183e44cc1e3961c270eb70925f20338eaa1fe25f7c1a70ee7&=&format=webp&quality=lossless&width=70&height=70) Shard of Sidon's Fall 
 
 ***Valor has a all in one shard pool, it sure would be nice if you could see all of them at once and admire em, especially the old ones' right?!***
 
