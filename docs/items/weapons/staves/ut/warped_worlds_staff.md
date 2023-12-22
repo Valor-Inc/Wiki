@@ -28,7 +28,7 @@ Shots hit multiple targets
 
     -10 Speed
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 6%
 
 ***Upgradable with Essence of the Realm!***
 
@@ -57,7 +57,7 @@ Shots hit multiple targets
 
     -10 Speed
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 6%
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
