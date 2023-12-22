@@ -16,7 +16,9 @@ import TabItem from '@theme/TabItem';
 
 <i>The ancient conduit between hell, earth, and the planes below that first sealed Drannol many centuries ago.</i>
 
-Damage: 385-565
+***An Unawoken Power: Enchant this item to harness the powers that can seal even the Old Gods away***
+
+Damage: 350-525
 
 Shots: 2
 
@@ -26,7 +28,7 @@ Range: 8.6
 
 Fame Bonus: 15%
 
-     Judgement: 5% Chance on hitting enemy, Deal an AOE blast Which does 1500 Dmg Every Second Up to 3s.
+
     
 **Drops from Drannol, the Eternal Beast of the Calling of the Titan raid** ![drannol](https://cdn.discordapp.com/attachments/1107378591026655272/1108664279978229830/triangle_4.png)
 
@@ -44,21 +46,25 @@ Fame Bonus: 15%
 
 <i>The ancient conduit between hell, earth, and the planes below that first sealed Drannol many centuries ago.</i>
 
-**Air Rune: Shots have a chance to Paralyze enemies for 3s, and grants +10 speed.**
+**Air Rune: Shots have a chance to paralyze enemies for 3s, and grants +15 speed**
+
+***WANZYU: On enemy hit, 2% chance to summon a barrage of six shots that deal 1250 damage each, and pierce enemies***
     
-Damage: 385-565
+Damage: 350-525
 
 Shots: 2
 
 Rate of Fire: 80%
 
+Shots hit multiple targets
+
+1% to inflict Paralyzed for 3s
+
 Range: 8.6
     
-    +10 Speed
+    +15 Speed
 
 Fame Bonus: 15%
-    
-    Judgement: 5% Chance on hitting enemy, deal an AOE blast that paralyzes enemies and deals 1500 dmg every second up to 3s.
     
 **Enchanted Atonement with Ancient Air Rune**
 
@@ -75,13 +81,17 @@ Fame Bonus: 15%
 
 <i>The ancient conduit between hell, earth, and the planes below that first sealed Drannol many centuries ago.</i>
 
-**Earth Rune: Increase +115 Minimum and Maximum damage, and decreases RoF by 25%.**
+**Earth Rune: Gain 1 lifesteal and 100 max hp. Shots now deal more damage and armor pierce, but you shoot slower.**
+
+***IGAUR: On enemy hit, 2.5% chance to summon a barrage of seven shotsthat deal 0 damage each, and on contact, explode into a 4 tile AoE that deals 2000 damage each instantly, and armor breaks for 3s.***
     
-Damage: 385-565
+Damage: 570-600
 
 Shots: 2
 
-Rate of Fire: 80%
+Rate of Fire: 60%
+
+Ignores defense of target
 
 Range: 8.6
 
@@ -91,8 +101,6 @@ Range: 8.6
     
 Fame Bonus: 15%
 
-    Judgement: 5% Chance on hitting enemy, deal an AOE blast that deals 1500 dmg every second up to 3s.
-    
 **Enchanted Atonement with Ancient Earth Rune**
 
 ## Projectile
@@ -110,9 +118,11 @@ Fame Bonus: 15%
 
 **Fire Rune: Increases minimum dmg by 5 and maximum damage by +15, and grants +10 Attack.**
 
+***NIVITET: On enemy hit, 2% chance to summon a barrage of six shots that deal 1000 damage each, and on contact, explode into a 1 tile AoE that deals 500 damage a second for three seconds.***
+
 Shots: 2
 
-Damage: 390-580
+Damage: 355-540
 
 Range: 8.6
 
@@ -122,8 +132,6 @@ Rate of Fire: 80%
 
 Fame Bonus: 15%
     
-    Judgement: 5% Chance on hitting enemy, deal an aoe blast that burns enemies and deals 2250 dmg every second up to 3s.
-
 **Enchanted Atonement with Ancient Fire Rune**
 
 ## Projectile
@@ -139,9 +147,11 @@ Fame Bonus: 15%
 
 <i>The ancient conduit between hell, earth, and the planes below that first sealed Drannol many centuries ago.</i>
 
-**Water Rune: Grants +2 mana steal, and grants +10 Wisdom.**
+**Water Rune: Grants +2 mana steal, and grants +20 Wisdom. Shots now have a chance to slow enemies.**
 
-Damage: 385-565
+***TAREG: On enemy hit, 2% chance to summon a barrage of eight shots that deal 400 damage eac, slow enemies for 3s, and count towards mana leech.***
+
+Damage: 350-525
 
 Shots: 2
 
@@ -155,8 +165,6 @@ Range: 8.6
 
 Fame Bonus: 15%
     
-    5% Chance on hitting enemy, deal an aoe blast that slows enemies and deals 1500 dmg every second up to 3s.
-
 **Enchanted Atonement with Ancient Water Rune**
 
 ## Projectile
