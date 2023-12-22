@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Clarent" label="Clarent" default>
 
-# Clarent
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Clarent
 
 ![Clarent](https://vwiki.valorserver.com/api/item/picture/Clarent)
 
@@ -45,7 +45,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Air" label="Air">
 
-# Clarent Air
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Clarent Air
 
 ![clarentA](https://vwiki.valorserver.com/api/item/picture/clarent%20air)
 
@@ -82,7 +82,8 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
-# Clarent Earth
+    
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Clarent Earth
 
 ![ClarentE](https://vwiki.valorserver.com/api/item/picture/clarent%20earth)
 
@@ -120,7 +121,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# Clarent Fire
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Clarent Fire
 
 ![ClarentF](https://vwiki.valorserver.com/api/item/picture/clarent%20fire)
 
@@ -155,7 +156,7 @@ Fame Bonus: 15%
   </TabItem>
   <TabItem value="Water" label="Water">
 
-# Clarent Water
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Clarent Water
 
 ![ClarentW](https://vwiki.valorserver.com/api/item/picture/clarent%20water)
 
