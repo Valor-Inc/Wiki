@@ -1,11 +1,15 @@
 ---
 sidebar_position: 4
 description: "Lance of the Elements"
+title: Lance of the Elements
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+<Tabs>
+  <TabItem value="Lance of the Elements" label="Lance of the Elements>
+      
 # Lance of the Elements
 
 ![LanceEle](https://vwiki.valorserver.com/api/item/picture/lance%20of%20the%20elements)
@@ -155,3 +159,7 @@ Fame Bonus: 8%
 ## Projectile
 
 ![LanceELE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187812431037202483/normal_ar_blade.gif?ex=65983f88&is=6585ca88&hm=5cd08faf9ef6b7855e5482a06f9f10ba10ebca92473c3e8270589673b7d24f24&)
+
+</TabItem>
+</Tabs>
+
