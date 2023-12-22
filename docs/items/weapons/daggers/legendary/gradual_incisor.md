@@ -9,6 +9,8 @@ description: "The Gradual Incisor"
 
 <i>"Its about the... slow and careful cuts, you see? Now... you're changing. You're going to be more than ever thought you could be. You'll be just like me."</i>
 
+**Precise Cuts: Every 40 hits on an enemy amplifies this weapon's damage by 1.05x (Max 1.25x)**
+
 Damage: 199-219
 
 Shots: 4
@@ -22,8 +24,6 @@ Shots hit multiple targets
 2% to inflict Armor Broken for 2 seconds
 
 Fame Bonus: 8%
-
-***Precise Cuts: Every 40 hits on an enemy amplifies this weapon's damage by 1.05x (Max 1.25x)***
 
 **Drops from the Chambers in the Superhuman Hideout**
 
