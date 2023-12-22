@@ -9,13 +9,13 @@ description: "Staff of the Withering"
 
 <i>Unholy death is only bound to be the cause of using this staff.</i>
 
-Damage: 101-127
+Damage: 166-222
 
 Shots: 2
 
-Rate of Fire: 74% 
+Rate of Fire: 75%
 
-Range: 6.8
+Range: 7.6
 
 Shots hit multiple targets
 
@@ -23,7 +23,7 @@ Ignores defense of target
 
 Shots pass through obstacles
 
-    -3 Vitality
+    +10 Wisdom
 
 Fame Bonus: 6%
 
