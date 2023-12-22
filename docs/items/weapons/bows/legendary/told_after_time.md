@@ -8,7 +8,9 @@ sidebar_position: 10
 
 <i>Even the ancients feared the amount of energy fused in this bow.</i>
 
-Damage: 350-355
+**Mechanical Wonder: Landing a hit adds One charge to this bow. At 25 charges, fire a beam at your cursor with 9 range that does 50% of your calculated damage per tick and has a 100% critical chance.**
+
+Damage: 500-510
 
 Shots: 1
 
@@ -17,12 +19,10 @@ Rate of Fire: 90%
 Range: 6.7
 
 Shots pass through obstacles
-
-    +6 Speed
+  
+    +35 Might
     
-    +80 Might
-    
-    +80 Luck
+    +50 Luck
    
 Fame Bonus: 8%
 
@@ -30,4 +30,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![TAT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981323166683103262/toldaftertime.gif)
+![TAT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187713150817161216/normal_ar_blade.gif?ex=6597e311&is=65856e11&hm=80bfc1182240412ee127f3f8fe3e4b97f056cc02a6fe35e1e5ae242fae44509b&)
