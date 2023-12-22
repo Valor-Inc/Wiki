@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![SoRR Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953297490592034856/royalrevenge.gif)
+![SoRR Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852779046305842/Staff_of_Royal_Revenge_Projectile.gif)
