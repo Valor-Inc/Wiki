@@ -16,7 +16,9 @@ import TabItem from '@theme/TabItem';
 
 <i>Pew Pew.</i>  
 
-Damage: 230-295  
+**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
+
+Damage: 195-220  
 
 Shots: 3  
 
@@ -32,7 +34,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
+![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187677164078907412/normal_ar_blade.gif?ex=6597c18d&is=65854c8d&hm=efd24b5b6c929cda2853873472229482e7896e80b4ea6878286e3048877bc41d&)
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -43,13 +45,15 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-**Air Rune: Increases your minimum damage by 55.**
+**Air Rune: Increases your rate of fire by 15% and narrows the damage range.**
 
-Damage: 285-295 
+**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
+
+Damage: 200-210 (+5 / -10) 
 
 Shots: 3  
 
-Rate of Fire: 100%  
+Rate of Fire: 115% (+15%) 
 
 Range: 9.2  
 
@@ -61,7 +65,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
+![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187677370107314236/normal_ar_blade.gif?ex=6597c1bf&is=65854cbf&hm=eb0a5e42a26135393dab2ff4e2c7dd8bfdc169d7699717cea3f6de2016d0cde8&)
 
 
   </TabItem>
@@ -73,9 +77,11 @@ Fame Bonus: 15%
 
 <i> Pew Pew. </i>
 
-**Earth Rune: Increases your defense by 10.**
+**Earth Rune: Increases your defense by 10 and makes shots armor pierce.**
 
-Damage: 230-295  
+**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
+
+Damage: 195-220  
 
 Shots: 3 
 
@@ -85,6 +91,8 @@ Range: 9.2
 
 Shots hit multiple targets  
 
+Ignores defense of target
+
     +10 Defense
 
 Fame Bonus: 15%  
@@ -93,7 +101,7 @@ Fame Bonus: 15%
 
 ## Projectile 
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
+![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187678430410592256/normal_ar_blade.gif?ex=6597c2bb&is=65854dbb&hm=86396ada8b3958a84659cd3aaabfe94eb14ced8bdb71f736d9a414bcdff3622f&)
 
 
   </TabItem>
@@ -105,11 +113,13 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-**Fire Rune: Increases your maximum damage by 100 and decreases your minimum damage by 45.**
+**Fire Rune: Removes the middle shot, greatly increasing damage to compensate.**
 
-Damage: 185-395  
+**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
 
-Shots: 3  
+Damage: 350-400 (+155 / +180)  
+
+Shots: 2 (-1)  
 
 Rate of Fire: 100%  
 
@@ -123,7 +133,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
+![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187677972073824336/normal_ar_blade.gif?ex=6597c24e&is=65854d4e&hm=cbb60908a9e06f2b5ad061a3e87d009165b077b894524ffad11142ca30798011&)
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -134,15 +144,15 @@ Fame Bonus: 15%
 
 <i>Pew Pew.</i>  
 
-**Water Rune: Increases your range 1.4 tiles.**
+**Water Rune: Tightens the arc gap. Damage is lowered slightly.**
 
-Damage: 230-295  
+Damage: 190-210 (-5 / -10)   
 
 Shots: 3  
 
 Rate of Fire: 100%  
 
-Range: 10.6
+Range: 9.2
 
 Shots hit multiple targets  
 
@@ -152,7 +162,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/828314781793779742/981595273535037520/larrygun.gif)
+![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187677752103538838/normal_ar_blade.gif?ex=6597c21a&is=65854d1a&hm=8d3eaef40796e3a4828d03487698664e9b0c23af72b04066133fba748ac1e7d1&)
 
   </TabItem>
 </Tabs>
