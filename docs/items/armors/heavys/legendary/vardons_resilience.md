@@ -9,16 +9,20 @@ description: "Vardon's Resilience"
 
 <i>This armor surges the wearer with true determination. Not even the most lethal blow will deter the warrior of grasping victory.</i>
 
-    +300 Maximum HP
-    
-    +28 Defense
-    
-    +100 Vitality
-    
-    -8 Speed
+**Lifeline: Going below 33% health gives you a stronger version of the heailng effect**
+
+    +50 Maximum HP
+
+    +40 Might
+
+    +35 Defense
+
+    +15 Vitality
+
+    +5 Attack
+
+    +1 Life Steal
     
 Fame Bonus: 8%
-
-***Lifeline: Having less than 1/3rd of your maximum health gives you a stronger version of the healing effect.***
 
 **Drops from the Odeus the Titan in the Fallen Raid (White Titan)**
