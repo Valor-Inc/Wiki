@@ -5,17 +5,17 @@ description: "The Thunder and Lightning"
 ---
 # ![utbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png)Thunder and Lightning
 
-![Thunder and Lightning](https://vwiki.valorserver.com/api/item/picture/Thunder%20and%20Lightning)
+![Thunder and Lightning](https://cdn.discordapp.com/attachments/1187552567295758487/1187568058483613816/Thunder_and_Lightning.png?ex=65975bf1&is=6584e6f1&hm=376f936dbb922475b65d8405756cdc9fee0a23cd253f249fdd41dde97fa3bab9&)
 
 <i>You won't like what follows.</i>
 
 **Sprited by: BLOODQWEN**
 
-Damage: 100-145
+Damage: 115-175
 
 Shots: 2
 
-Rate of Fire: 115%
+Rate of Fire: 95%
 
 Range: 4.5
 
@@ -23,10 +23,8 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-0.25% to inflict Paralyzed for 3 seconds
+1% to inflict Paralyzed for 3s
 
-    +5 Attack
-    
     +45 Might
     
     +7 Defense
@@ -41,4 +39,4 @@ Fame Bonus: 6%
 
  ## Projectile
  
- ![TaL Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981330722973421578/TL.gif)
+ ![TaL Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170800853767164024/thunderlightning.gif?ex=6591bb43&is=657f4643&hm=853a2794204373fede42bc00d40d51acee54cd5f5fa40bef7f5b863423ddfb19&)
