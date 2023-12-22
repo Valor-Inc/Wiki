@@ -9,6 +9,8 @@ description: "Karana's Secret"
 
 <i>Proof that she is still alive?</i>
 
+**Ghost's Wrath: While invisible gain 2x your wisdom as bonus outputting damage.**
+
 Damage: 195-200
 
 Shots: 2
@@ -24,8 +26,6 @@ Range: 5.6
 	+30 Wisdom
 
 Fame Bonus: 8%
-
-***Ghost's Wrath: While invisible gain 2x your wisdom as bonus outputting damage.***
 
 **Drops from Truvix, the Lost Wanderer in the Realm** 
 
