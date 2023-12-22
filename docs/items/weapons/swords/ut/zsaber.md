@@ -5,23 +5,31 @@ description: "The Z-Saber"
 
 # Z-Saber
 
-![ZSaber](https://puu.sh/w6Q1e/3509eda3c0.png)
+![ZSaber](https://cdn.discordapp.com/attachments/1187552567295758487/1187890840631251075/Z-Saber.png)
 
-<i>A legendary blade wielded by Megaman's arch rival Zero , it crackles with energy as you swing it.</i>
+<i>A gorgeous sword looted by the undead Pirates after war wiped out many of Sidon's realm guardians.</i>
 
-Damage: 250-300
+Damage: 100-360
 
 Shots: 1
 
-Rate of Fire: 100% 
+Rate of Fire: 111% 
 
-Range: 4.7
+Range: 3.5
 
-Shots pass through obstacles
+Shots hit multiple targets
 
+     +2 Fortune
+
+     +6 Speed
+     
 Fame Bonus: 6%
 
 **Drops from Davy Jones of Davy Jones' Locker**
 
 ## Projectile
+
+![Z-saber Projectiles](https://cdn.discordapp.com/attachments/1160376179996496013/1187867253207748729/Z-Saber.gif)
+
+
 
