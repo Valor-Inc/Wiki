@@ -9,7 +9,7 @@ description: "The Hidden Technique"
 
 <i>Watch as I demonstrate true talent!</i>
 
-Damage: 50-100
+Damage: 90-145
 
 Shots: 1
 
@@ -21,11 +21,11 @@ Shots hit multiple targets
 
     +1 Life Steal
    
-Fame Bonus: No Fame Bonus:
+Fame Bonus: 4%
 
 **Drops from Arnkz the Mega Samurai of the Dojo**
 
 ## Projectile
 
-![HT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727292508209284/hiddentechnique.gif)
+![HT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828771985723532/hiddentechnique.gif)
 
