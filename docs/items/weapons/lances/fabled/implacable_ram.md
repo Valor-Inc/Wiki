@@ -9,7 +9,7 @@ description: "Impacable Ram"
 
 <i>A massive battering ram used to smash down sturdy castle doors.</i>
 
-Damage: 120-170
+Damage: 120-200
 
 Shots: 4
 
@@ -19,9 +19,9 @@ Range: 3.3
 
 Ignores defense of target
 
-6% to inflict Stunned for 2.5 seconds
+6% to inflict Stunned for 2.5s
 
-    +10 Maximum HP
+    +75 Maximum HP
 
 Fame Bonus: 6%
 
@@ -29,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![NewLanceFB](https://i.imgur.com/AZ5HaQp.png)
+![NewLanceFB](https://cdn.discordapp.com/attachments/1160376179996496013/1170947957005234236/implacableram.gif?ex=65924444&is=657fcf44&hm=ec3dcfb896d57f1e4bbd160a6b8b2b85638c6f368b34e5fa64ec8e956c04ed45&)
