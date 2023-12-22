@@ -6,21 +6,21 @@ sidebar_position: 12
 
 ![TBT](https://vwiki.valorserver.com/api/item/picture/told%20before%20time)
 
-Damage: 200-205
+Damage: 250-290
 
 Shots: 1
 
 Rate of Fire: 90%
 
-Range: 9.1
+Range: 9
 
 Shots pass through obstacles
 
-    +6 Speed
+    +3 Speed
     
-    +80 Might 
+    +10 Might 
 
-    +60 Luck
+    +20 Luck
     
 Fame Bonus: 8%
 
@@ -30,4 +30,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![TBT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981402091933286440/toldbeforetime.gif)
+![TBT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170815125826064616/toldbeforetime.gif?ex=6591c88e&is=657f538e&hm=0a4f6b799e7ab51046dd3388becfc25e83f2918bb1197a58bbff60d494bb970d&)
