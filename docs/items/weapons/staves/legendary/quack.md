@@ -25,4 +25,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![quack Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953292005226713209/quack.gif)
+![quack Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852644925067274/Quack_Projectile.gif)
