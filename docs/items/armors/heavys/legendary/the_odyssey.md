@@ -9,13 +9,13 @@ description: "The Odyssey"
 
 <i>Yes! Adventures await us young warrior! You must fight with valor and might. ~Itani</i>
 
-    +45 Defense
+**Captain's Log: Everyone that is in your party gains 10% higher health regeneration. (Cannot stack)**
+
+    +30 Defense
     
-    +40 Might
+    +20 Might
     
-    +20 Luck
-    
-    +8 Attack
+    +25 Luck
     
 Fame Bonus: 8%
 
