@@ -34,7 +34,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Atonement Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953138828854562847/atonement.gif)
+![Atonement Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852202614730903/Atonement_Projectile.gif)
 
 
   </TabItem>
@@ -70,7 +70,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![AtonementA Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953139834694811698/atonement_air.gif)
+![AtonementA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852218351747163/AtonementAir_Projectile.gif)
  
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -105,7 +105,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![AtonementE Projectile](https://cdn.discordapp.com/attachments/1107378591026655272/1111173546262142986/ezgif.com-crop.gif)
+![AtonementE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852241814704178/AtonementEarth_Projectile.gif)
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -136,7 +136,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![AtonementF Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953138829294972938/atonement_fire.gif)
+![AtonementF Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852288719605871/AtonementFire_Projectile.gif)
 
   </TabItem>
   <TabItem value="Water" label="Water">
@@ -169,7 +169,7 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![AtonementW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/953138829781532732/atonement_water.gif)
+![AtonementW Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852322311782511/AtonementWater_Projectile.gif)
 
   </TabItem>
 </Tabs>
