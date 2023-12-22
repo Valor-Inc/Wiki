@@ -9,7 +9,7 @@ description: "The Dagger of Tindailius"
 
 <i>Fading away from reality is what keeps the darkness persisting to devourall of us. We can only do what is possible to stay away from this Void.</i>
 
-Damage: 265
+Damage: 320
 
 Shots: 1
 
@@ -25,14 +25,12 @@ Shots hit multiple targets
     
     +20 Might
     
-    +5 Mana Leech
+    +3 Mana Leech
     
 Fame Bonus: 8%
 
-***Manastrike: If your mana is atleast 1/2 full, your luck is increased by 20%***
-
-**Craftable with the Shard of Zol Corruption**
+***Manastrike: Gain 1 Mana Leech below 60% mana***
 
 ## Projectile
 
-![DT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721054328266792/tindailius.gif)
+![DT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827662382608424/tindailius.gif)
