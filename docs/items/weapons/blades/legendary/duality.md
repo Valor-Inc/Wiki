@@ -10,6 +10,7 @@ title: Duality
 
 <i>A pair of unstable blades from different places in time and space. Although opposites of one another, the seal binding these blades together seems to be unbreakable.</i>
 
+**Duality: Convert either life-steal or mana leech to the other form if either hp or mp are full respectively**
 
 
 Damage: 50-450 
@@ -32,4 +33,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Duality Projectile](https://cdn.discordapp.com/attachments/953134990428868629/969069767753363456/duality.gif)
+![Duality Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803458677416017/duality.gif?ex=6591bdb1&is=657f48b1&hm=2009fde66dc1364880d22bc8714272784e6bddcc0abef30db0355ae37af222fa&)
