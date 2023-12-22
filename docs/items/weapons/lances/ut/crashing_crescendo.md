@@ -9,7 +9,7 @@ description: "Crashing Crescendo"
 
 <i>The shattered blade of a celestial envoy, this crested lance is with bound with a presence that drives it to lead it's bewinged hearlds beyond the stars themselves.</i>
 
-Damage: 120-130
+Damage: 130-140
 
 Shots: 4
 
@@ -35,4 +35,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Crashing Projectile New](https://i.imgur.com/Mptxmxc.png)
+![Crashing Projectile New](https://cdn.discordapp.com/attachments/1160376179996496013/1170947989083275264/crashingcrescendo.gif?ex=6592444b&is=657fcf4b&hm=1f0c5dcc3fbb1c3ea4abdbd74e9a251dbb17ccee04215a7823fa13f584e138ad&)
