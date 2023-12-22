@@ -5,7 +5,7 @@ description: "The Hidden Technique"
 
 # Hidden Technique
 
-![HT](https://vwiki.valorserver.com/api/item/picture/hidden%20technique)
+![HT](https://cdn.discordapp.com/attachments/1187552567295758487/1187797193688616960/Hidden_Technique.png)
 
 <i>Watch as I demonstrate true talent!</i>
 
