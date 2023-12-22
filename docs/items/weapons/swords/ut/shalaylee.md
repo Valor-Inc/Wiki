@@ -9,11 +9,11 @@ description: "The Shalaylee"
 
 <i>O' Sha sha sha 'laylee.</i>
 
-Damage: 160-190
+Damage: 160-265
 
 Shots: 1
 
-Rate of Fire: 108% 
+Rate of Fire: 111% 
 
 Range: 5
 
@@ -26,3 +26,5 @@ Fame Bonus: 6%
 **Drops from Lucky Djinns, Lucky Ent Gods, and the Puppet Master's Threatre**
 
 ## Projectile
+
+![Shalaylee Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867209490518157/Shalaylee.gif)
