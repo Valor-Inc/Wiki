@@ -9,7 +9,9 @@ description: "Faith of the Angel"
 
 <i>An ivory curved sword that shoots blast of holy light.</i>
 
-Damage: 350-475
+**Breath of Life: If your hp falls below 20%, automatically consume a health potion. (CD: 5s)**
+
+Damage: 325-425
 
 Shots: 1
 
@@ -21,9 +23,9 @@ Shots hit multiple targets
 
 Shots pass through obstacles
 
-    +130 Maximum HP
+    +125 Maximum HP
     
-    +18 Wisdom
+    +20 Vitality
     
     +2 Life Steal
 
@@ -33,5 +35,5 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![FAngel Projectile](https://cdn.discordapp.com/attachments/948363241631916122/954065303959109682/Faith.gif)
+![FAngel Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187866804794695730/Faith_of_the_Angel.gif?ex=6598722b&is=6585fd2b&hm=e37f8fd2f7f511b3deaadffda3e39acb116c182125927656a0204e5b361ec79b&)
 
