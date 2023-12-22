@@ -9,9 +9,11 @@ description: "March of the Army"
 
 <i>Sturdy armor with a cape attached to it worn when going into an intense battle.</i>
 
-    +200 Maximum HP
+**Legion's Stride: Grant 2 speed to every player within 4 squares of you. (Max 10 Speed)**
+
+    +150 Maximum HP
     
-    +24 Defense
+    +15 Defense
     
     +50% Speed
     
