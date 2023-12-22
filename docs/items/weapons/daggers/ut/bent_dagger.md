@@ -9,22 +9,26 @@ description: "The Bent Dagger"
 
 <i>A dagger that seems just a tad bit... off</i>
 
-Damage: 240-270
+Damage: 77
 
 Shots: 1
 
-Rate of Fire: 60%
+Rate of Fire: 111%
 
-Range: 4.8
+Range: 3
 
 Shots hit multiple targets
 
-Shots pass through obstacles
+Ignores defense of target
 
-Fame Bonus: No Fame Bonus
+Shots boomerang
+
+    +3 Fortune
+
+Fame Bonus: 4%
 
 **Drops from Son of Arachna of the Crawling Depths**
 
 ## Projectile
 
-![Rottlerweap Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727290671132682/bent.gif)
+![Rottlerweap Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828621649293455/bentdagger.gif)
