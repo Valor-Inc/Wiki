@@ -11,7 +11,7 @@ description: "The Broadsword of Bloodshed"
 
 Damage: 175-200
 
-Shots: 150%
+Shots: 1
 
 Rate of Fire: 150% 
 
@@ -26,4 +26,6 @@ Fame Bonus: 6%
 **Drops from the Dark Knight of the Unspeakable**
 
 ## Projectile
+
+![BoB Projectiles](https://cdn.discordapp.com/attachments/1160376179996496013/1187867113864577094/Broadsword_of_Bloodshed.gif)
 
