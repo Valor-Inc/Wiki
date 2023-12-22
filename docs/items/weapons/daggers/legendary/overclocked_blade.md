@@ -6,14 +6,24 @@ description: "Overclocked Blade"
 
 [blade](https://vwiki.valorserver.com/api/item/picture/overclocked%20blade)
 
-Damage: 300
+<i>The messengers of Terradius employ weaponry powered by their own blood, it's their devotion that charges the blade on the path of onslaught.</i>
 
-Shots: 1
+Damage: 177
+
+Shots: 2
 
 Rate of Fire: 120%
 
 Range: 5
 
     +2 Lifesteal
+    
+Fame bonus: 8%
+
+***Hyperthreaded: Every 4th successful attack deals 1.5x more damage***
 
 **Drops from Hand of Terradius** 
+
+## Projectile 
+
+![Bloodbath Dagger Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827650282049636/overclockedblade.gif)
