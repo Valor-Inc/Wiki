@@ -9,7 +9,7 @@ description: "The Glaive of Victory"
 
 <i>A glaive used to celebrate victory.</i>
 
-Damage: 142-190
+Damage: 132-190
 
 Shots: 2
 
@@ -22,8 +22,6 @@ Shots hit multiple targets
 Ignores defense of target
 
     +20 Maximum MP
-    
-    +20 Restoration
 
 Fame Bonus: 6%
 
@@ -31,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![GlaiveVic Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769723927580732/glaiveofvictory.gif)
+![GlaiveVic Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170948006888099921/glaiveofvictory.gif?ex=65924450&is=657fcf50&hm=14270c277501af3e4788196cf20034a9847e223e04acec045bb0030023cafebd&)
