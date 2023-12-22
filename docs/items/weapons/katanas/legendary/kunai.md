@@ -9,17 +9,19 @@ description: "The Kunai"
 
 <i>A throwable ninja knife that pierces through air with ease.</i>
 
-Damage: 225-350
+**Araki's Streak: Every critical hit that hits an enemy increases critcal chance by 1% up to 10%. Missing a shot that would have been a critical hit resets this boost.**
+
+Damage: 325-375
 
 Shots: 1
 
-Rate of Fire: 100%
+Rate of Fire: 105%
 
-Range: 6.6
+Range: 5.2
 
 Ignores defense of target
 
-    +100 Luck
+    +45 Luck
     
 Fame Bonus: 8%
 
@@ -27,4 +29,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Kunai Projectile](https://cdn.discordapp.com/attachments/948448304574910534/948595759496962048/unknown.png)
+![Kunai Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947261216329758/kunai.gif?ex=6592439e&is=657fce9e&hm=54352046c354a26b3ecceec68989a3a8fbf3fd3d6d08ecf78762df5d958740e8&)
