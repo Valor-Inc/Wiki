@@ -26,3 +26,5 @@ Fame Bonus: 4%
 **Drops from Riv, the Heavenly Champion of the Heavenly Rift**
 
 ## Projectile
+
+![TSoNM Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852754467684373/Staff_of_Noble_Magic_Projectile.gif)
