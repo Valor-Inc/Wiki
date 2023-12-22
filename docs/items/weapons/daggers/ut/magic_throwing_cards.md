@@ -29,5 +29,5 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![MGC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981727293338705930/magicthrowingcards.gif)
+![MGC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828816772513834/magicthrowingcards.gif)
 
