@@ -33,3 +33,5 @@ Fame Bonus: 4%
 
 ## Projectile
 
+![SteelS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187852862332608542/Steel_Shocker_Projectile.gif)
+
