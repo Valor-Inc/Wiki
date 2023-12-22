@@ -9,13 +9,13 @@ description: "Earthbound Lance"
 
 <i>Mother nature's lance</i>
 
-Damage: 240-425
+Damage: 215-420
 
 Shots: 1
 
 Rate of Fire: 125%
 
-Range: 3.6
+Range: 3.8
 
 Ignores defense of target
 
@@ -29,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Nesslance Projectile](https://cdn.discordapp.com/attachments/953134990428868629/994769723092906066/earthboundlance.gif)
+![Nesslance Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170947995915792446/earthboundlance.gif?ex=6592444d&is=657fcf4d&hm=e11516134687d6c2aef0e2c6dfa9591f018f67b5f996dcf1844a00cc4878c28a&)
