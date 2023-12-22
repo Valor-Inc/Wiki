@@ -133,7 +133,7 @@ Fame Bonus: 15%
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Water
 
  </TabItem>
-  <TabItem value="Earth" label="water">
+  <TabItem value="Water" label="Water">
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Water)
 
