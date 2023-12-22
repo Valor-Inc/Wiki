@@ -23,4 +23,4 @@ Fame Bonus: 5%
 
 ## Projectile
 
-![CTD Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981723667144777728/chevaltrap.gif)
+![CTD Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170828248268161215/chevaltrap.gif)
