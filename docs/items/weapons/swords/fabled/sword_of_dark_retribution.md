@@ -9,19 +9,19 @@ description: "The Sword of Dark Retribution"
 
 <i>It's blade cursed by the haunting evil that remains from the underworld.</i>
 
-Damage: 50-200
+Damage: 170-260
 
-Shots: 3.9
+Shots: 3
 
-Rate of Fire: 80%
+Rate of Fire: 75%
 
 Range: 3.9
 
 Ignores defense of target
 
-    +200 Maximum MP
+    +120 Maximum MP
     
-    +1 Mana Leech
+    +2 Mana Leech
 
 Fame Bonus: 6%
 
@@ -29,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![DarkRetSword Projectile](https://cdn.discordapp.com/attachments/948363241631916122/950408053323337728/DarkRetribution.gif)
+![DarkRetSword Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187867029169000520/Sword_of_Dark_Retribution.gif)
