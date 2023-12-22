@@ -9,7 +9,7 @@ description: "The Dirk of Notorious Agents"
 
 <i>A darkened dagger with an emerald jewel in the middle of the blade. It's a popular dagger but hard to retrieve since few merchants sell them because of the material of the blade.</i>
 
-Damage: 325-415
+Damage: 325-400
 
 Shots: 1
 
@@ -17,12 +17,14 @@ Rate of Fire: 140%
 
 Range: 6
 
-    +21 Defense
+    +10 Defense
     
 Fame Bonus: 8%
 
-**Drops from the Vision of Aldragine of the Zol Awakening raid**
+***Backstabber: Increase your rate of fire by 10% while invisible***
+
+**Drops from Aldragine of the Ultra Zol Raid and regular Zol Raid**
 
 ## Projectile
 
-![DNA Projectile](https://cdn.discordapp.com/attachments/953134990428868629/981721335447314472/notorious.gif)
+![DNA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170827636478582794/notoriousagents.gif)
