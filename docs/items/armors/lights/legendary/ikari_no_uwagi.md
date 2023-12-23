@@ -18,15 +18,18 @@ import TabItem from '@theme/TabItem';
 
 <i>A featherweight coat of strange design, seemingly a brittle patchwork of hexed fabric that channels the wearer's physical potential to dangerous extremes.</i>
 
-    +12 Attack
+
+***Coat of Anger: Regen 10 MP for every critical hit dealt.***
+
+    +6 Attack
     
-    +8 Defense
+    +10 Defense
     
-    +8 Dexterity
+    +6 Dexterity
     
-    +20 Might
+    +15 Might
     
-    +2 Mana Leech
+    +1 Mana Leech
     
 Fame Bonus: 8%
 
@@ -41,15 +44,18 @@ Fame Bonus: 8%
 
 <i>A featherweight coat of strange design, seemingly a brittle patchwork of hexed fabric that channels the wearer's physical potential to dangerous extremes.</i>
 
-    +12 Attack
+
+***Coat of Anger: Regen 10 MP for every critical hit dealt.***
+
+    +6 Attack
     
-    +8 Defense
+    +10 Defense
     
-    +8 Dexterity
+    +6 Dexterity
     
-    +20 Might
+    +15 Might
     
-    +2 Mana Leech
+    +1 Mana Leech
     
 Fame Bonus: 8%
 
