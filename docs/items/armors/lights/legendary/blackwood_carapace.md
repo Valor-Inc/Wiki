@@ -11,11 +11,11 @@ description: "The Blackwood Carapace"
 
     +50 Maximum HP
 
-    +15 Defense
+    +5 Defense
+
+    +5 Dexterity
     
-    +12 Speed
-    
-    +20 Luck
+    +30 Luck
     
     -50 Maximum MP
     
