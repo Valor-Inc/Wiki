@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 ![BPu](https://cdn.discordapp.com/attachments/1187552567295758487/1188108135232184451/Battle_Pass_Premium_Unlocker.png?ex=659952ed&is=6586dded&hm=b506b175e2ccccb4e8b489b0cf657132aa65eb905261a6e7ce9424aabb752ce7&)
 
 ## Cost
-(You have two ways to buy Battle Pass)
+**(You have two ways to buy Battle Pass)**
    
     - Purchase In-Game for 2400 Kantos
 
