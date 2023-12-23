@@ -16,11 +16,11 @@ import TabItem from '@theme/TabItem';
 
 <i>The power from the Ancient Relic seems to fade away...</i>
 
-**Combine with a Legendary Sor and 75,000 gold to create an Aspect Enfuser.**
+**Used to upgrade some armor, weapon**
 
 **Combine with an enchanted Ancient Relic item to de-enchant.**
 
-***Purchasable for 200,000 fame in the Nexus***
+***Purchasable for 10,000 fame in the Nexus***
 
   </TabItem>
   <TabItem value="Anciet Air Rune" label="Ancient Air Rune">
@@ -33,7 +33,7 @@ import TabItem from '@theme/TabItem';
 
 **Can be used with [Speedy Sprout](https://wiki.valorserver.com/docs/items/consumables/reusable/speedier_sprout) to create [Speediest Sprout](https://wiki.valorserver.com/docs/items/consumables/reusable/speediest_sprout)**
 
-**Can be used to enchant Ancient Relic items**
+**Can be used to enchant Ancient Relic, legendary items**
 
 **Can be used to craft an Elemental Sor**
 
@@ -48,7 +48,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A rune that hums with ancient energy.</i>
 
-**Can be used to enchant Ancient Relic items**
+**Can be used to enchant Ancient Relic, legendary items**
 
 **Can be used to craft an Elemental Sor**
 
@@ -63,7 +63,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A rune that burns and smoulders with a rage like power.</i>
 
-**Can be used to enchant Ancient Relic items**
+**Can be used to enchant Ancient Relic, legendary items**
 
 **Can be used to craft an Elemental Sor**
 
@@ -78,7 +78,7 @@ import TabItem from '@theme/TabItem';
 
 <i>A rune that contains the power of the vast oceans.</i>
 
-**Can be used to enchant Ancient Relic items**
+**Can be used to enchant Ancient Relic, legendary items**
 
 **Can be used to craft an Elemental Sor**
 
