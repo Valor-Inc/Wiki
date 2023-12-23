@@ -49,8 +49,6 @@ import TabItem from '@theme/TabItem';
 ## Where can you buy it
 
     - Battle Pass Tier Unlocker for Kantos is next to the Battle Pass girl
-    
-    - Valor Market
 
 ***Also Kantos can be purchased here.***
 
