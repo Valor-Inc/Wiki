@@ -9,17 +9,18 @@ description: "Hide of the Feral"
 
 <i>A hide made from the scales on the back of a corrupted Feral</i>
 
-    +200 Maximum HP
+
+***Zol Native: Zol tiles deal 33% less damage to you. Reduce corrupted, sicken, and bleed effect duration by 50%.***
+
+    +175 Maximum HP
     
     +30 Defense
     
     +15 Vitality
     
-    -5 Attack
-    
-    +8 Life Steal
+    +3 Life Steal
     
 Fame Bonus: 8%
 
-**Craftable from Shard of Zol Corruption**
+**Craftable from Shard of Sidon's Fall**
 
