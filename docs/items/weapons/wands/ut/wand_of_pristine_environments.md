@@ -5,11 +5,11 @@ description: "The Wand of Pristine Enviroments"
 
 # Wand of Pristine Environments
 
-![WPE](http://i.imgur.com/wNdOuqp.png)
+![WPE](https://cdn.discordapp.com/attachments/1187552567295758487/1188066849120854087/Wand_of_Pristine_Environments.png?ex=65992c7a&is=6586b77a&hm=0973b8df56ba1a7931d1df338b1f6d5d051611d669c7ce9b8a50644ca0afb77c&)
 
 <i>This wand has been conserved in a great ancient temple, preventing whoever who destroys the Earth, punishing those who dare.</i>
 
-Damage: 80-90
+Damage: 75-115
 
 Shots: 2
 
@@ -19,11 +19,9 @@ Range: 9
 
 Shots pass through obstacles
 
-    +10 Maximum HP
+    +50 Protection
     
-    +2 Defense
-    
-    +2 Speed
+    +8 Speed
 
 Fame Bonus: 4%
 
@@ -33,4 +31,4 @@ Fame Bonus: 4%
 
 ## Projectile
 
-![WPE Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626726945394738/wandofpristineenvironments.gif)
+![WPE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188066548108247100/normal_ar_blade.gif?ex=65992c32&is=6586b732&hm=4be6486f399d3fe945ab8925dcfe82ad311ca20988469cb4413829b7246c4b63&)
