@@ -41,7 +41,6 @@ import TabItem from '@theme/TabItem';
     - /clearinv (Completely clears your inv, can be used to get rid of junk)
     - /backpack (gives your current character a backpack for FREE)
     - /size (change character size from 1 to 500)
-  - [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
 
   </TabItem>
   <TabItem value="MVP" label="MVP">
@@ -71,7 +70,6 @@ import TabItem from '@theme/TabItem';
     - Access to The Patron Star Icon. (/patronicon)
     - Patron Role ingame & on discord
     - 24/7 Access to Sandbox Server
-  - [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
 
   </TabItem>
 </Tabs>
