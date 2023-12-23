@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 
 Below is a map of the Nexus, and as you can see there is many locations of interest! We'll go over them so you won't be confused, dont worry!
 
-![NexusMap](https://cdn.discordapp.com/attachments/1118235017550778448/1188148554829664317/Nevtelen.png?ex=65997892&is=65870392&hm=cf346a147bb0ab69d69f89b97e47adc8bdec67eb808b17dbc8761eb7ea944753&)
+![NexusMap](https://cdn.discordapp.com/attachments/1118235017550778448/1188161024868761640/Nevtelen.png?ex=6599842f&is=65870f2f&hm=10e5959db7e488d554396965bfd8933d844a7e3de15283ef9d369e191f17d28c&)
 
   </TabItem>
   <TabItem value="Ascension Enclave" label="Ascension Enclave">
@@ -27,6 +27,15 @@ Below is a map of the Nexus, and as you can see there is many locations of inter
 
 ![Ascensionint](https://cdn.discordapp.com/attachments/1118235017550778448/1188149683282006088/Kepernyokep_2023-12-23_170231.png?ex=6599799f&is=6587049f&hm=e52b75cf7fe51be46d072f39bb5f0cc50c0a36ba0b784466094e00bd7fdd3326&)
 
+**Raid Tokens can be dropped by Oryx The Mad God 3. Or can be purchased for 525 Kantos.**
+
+# Currently Avilable Raids
+
+    - Zol Raid: The Zol Awakening (Token)
+
+    - Fallen Raid: The Fallen Light (token)
+
+    - Ultra Titan Raid: Calling of the Titan (Token)
 
   </TabItem>
   <TabItem value="Battlepass" label="Battlepass">
