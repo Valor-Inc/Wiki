@@ -22,6 +22,8 @@ import TabItem from '@theme/TabItem';
 
 **Crafted with 2 Pieces of the Realm**
 
+**Cost: 100 Onrane. If you have guild Lv 3. it will reduce to 75 cost.**
+
   </TabItem>
   <TabItem value="Piece of the Realm" label="Piece of the Realm">
 
