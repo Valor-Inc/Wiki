@@ -8,7 +8,7 @@ sidebar_position: 1
 
 <i>A mystery that will never be solved.</i>
 
-Damage: 175-285
+Damage: 225-310
 
 Shots: 1
 
@@ -18,7 +18,7 @@ Range: 9
 
 Shots hit multiple targets
 
-    +140 Maximum MP
+    +100 Maximum MP
 
 Fame Bonus: 8%
 
@@ -26,4 +26,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![enimga Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997618202613911562/enigmawand.gif)
+![enimga Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188025452586090497/normal_ar_blade.gif?ex=659905ec&is=658690ec&hm=53596cd2d406a763eae4313166d03bd6236b4b8a671e9363f38a0144bffb4f0b&)
