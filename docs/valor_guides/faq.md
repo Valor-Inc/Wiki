@@ -18,6 +18,8 @@ import TabItem from '@theme/TabItem';
 
 ### Q: Why game no work?????
 
+![here](https://media.discordapp.net/attachments/904979308727119882/934567890374508584/ssbarbieswoo.gif?ex=659092ac&is=657e1dac&hm=da2f149a12a48374fac2b44a81e129d8b834b32d2fda5d07907ac39eb2ab684d&)
+
 # A: The game does! Check out the solutions in [Common Problems](https://wiki.valorserver.com/docs/valor_guides/installation_&_common_problems/#common-problems).
 
 ### Q: What is "Godstruck"
@@ -35,6 +37,8 @@ import TabItem from '@theme/TabItem';
 ### Q: How much is an Item?
 
 # A: You can use /pc to check the current market price of an item. **BEWARE OF UNDERCUTTERS AND SHARKERS**
+
+![here](https://cdn.discordapp.com/attachments/1118235017550778448/1188168746863431700/image.png?ex=65998b60&is=65871660&hm=843883a49f42486ae5cc04a5a3aff016bda9a79328503e6098485a0c44b43a9e&) **A lot xd (some of them)**
 
 ### Q: Does dealing dmg increase drop rate?
 
