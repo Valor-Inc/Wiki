@@ -77,3 +77,6 @@ import TabItem from '@theme/TabItem';
 - 24/7 Access to Sandbox Server.
 [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
 - [Click here for Patron Info.](https://valorserver.com/blog.valorserver.com/patron-sandbox-server-info/)
+
+ </TabItem>
+</Tabs>
