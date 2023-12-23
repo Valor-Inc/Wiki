@@ -9,17 +9,15 @@ description: "The Age of Zol"
 
 <i>A time will come that Aldragine will gain enough power and destroy our world. You must stop this.</i>
 
-    +300 Maximum MP
+    +150 Maximum MP
     
     +18 Defense
     
-    +20 Restoration
+    +8 Speed
     
-    +10 Speed
-    
-    +14 Attack
-    
-    +2 Mana Leech
+    +6 Attack
+
+    +1 Mana Leech
     
 Fame Bonus: 8%
 
