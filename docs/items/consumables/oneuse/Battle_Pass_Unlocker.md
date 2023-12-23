@@ -1,5 +1,6 @@
 --- 
 description: "Battle Pass Unlocker"
+Title: Battle Pass Unlocker
 ---
 
 import Tabs from '@theme/Tabs';
