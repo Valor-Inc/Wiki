@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Hand of Zeus" label="Hand of Zeus" default>
 
-# ![lgbag](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Hand of Zeus
+# Hand of Zeus
 
 ![HoZ](https://cdn.discordapp.com/attachments/1187552567295758487/1188030155453640755/Hand_of_Zeus.png?ex=65990a4d&is=6586954d&hm=7cf3767f53f3d9d450e6d77562eefd0d40b5517920995c8b8f23ac68e1ade2d5&)
 
