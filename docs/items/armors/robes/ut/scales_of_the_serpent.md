@@ -3,7 +3,7 @@ sidebar_position: 12
 description: "The Scales of the Serpent"
 ---
 
-# Scales of the Serpent
+# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Scales of the Serpent
 
 ![ScalesSerpent](https://vwiki.valorserver.com/api/item/picture/scales%20of%20the%20serpent)
 
