@@ -9,16 +9,17 @@ description: "The Force Between Avex"
 
 <i>Our focus can't be halted.</i>
 
-    +160 Maximum HP
+
+***Persistance: You can't be armor broken if your health is lower than 50%.***
+
+    +250 Maximum MP
     
-    +20 Defense
+    +50 Maximum HP
     
-    +10 Protection
+    +15 Defense
     
     +40 Wisdom
 
 Fame Bonus: 8%
-
-***Persistance: You can't be armor broken if your health is lower than 50%.***
 
 **Drops from the Corrupted Conjurer in the Realm**
