@@ -4,16 +4,21 @@ description: "Sovereign Reflector"
 
 # Sovereign Reflector
 
-[sov](https://vwiki.valorserver.com/api/item/picture/sovereign%20reflector)
+[sov](https://cdn.discordapp.com/attachments/1187552567295758487/1188157646797287474/Sovereign_Reflector.png)
 
-    +20 Defense
-
-    +250 Maximum HP
-
-    +12 Dexterity
-
-    +3 Lifesteal
 
 ***Blood Reactor: Increases your outputting damage by based on how much lifesteal you have (Capped at 10%) but disables lifesteal regeneration***
+
+    +35 Luck
+
+    +75 Maximum HP
+
+    +30 Might
+
+    +15 Defense
+
+    +5 Dexterity
+
+    +2 Life Steal
 
 **Drops from Hand of Terradius** 
