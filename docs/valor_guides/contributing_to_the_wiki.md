@@ -50,5 +50,10 @@ import TabItem from '@theme/TabItem';
 
 But if Hit Us a Dm on discord we will do the work for you. :)
 
+    - almavokszia
+    - epicgamerjj
+    - .voidentity
+    - s.w.eet
+
   </TabItem>
 </Tabs>
