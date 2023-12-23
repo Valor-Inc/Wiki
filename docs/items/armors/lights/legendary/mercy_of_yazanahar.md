@@ -9,16 +9,17 @@ description: "The Mercy of Yazanahar"
 
 <i>A hide enchanted by a similar spell used to enchant Yazanahar.</i>
 
-    +50 Attack
+
+***Ancient Assault: While above 50% mana your outputting damage is increased by 25%. Your Maximum HP is also capped at 1000***
+
+    +25 Attack
     
-    -60 Maximum MP
+    -50 Maximum MP
     
-    -200 Maximum HP
+    -150 Maximum HP
     
     -10 Defense
     
 Fame Bonus: 8%
-
-***Ancient Assault: If you currently have 1/2 of your mana your outputting damage is increased by 15%.***
 
 **Drops from Shard of Ancient Assault**
