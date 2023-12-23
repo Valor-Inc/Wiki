@@ -20,6 +20,8 @@ Range: 7
 
 Shots hit multiple targets
 
+Fame Bonus: 8%
+
 **Drops from Kraken** 
 
 ## Projectile
