@@ -13,9 +13,9 @@ description: "The Sinburn Hide"
     
     +20 Maximum MP
     
-    +17 Defense
+    +20 Luck
     
-    +8 Attack
+    +17 Defense
     
 Fame Bonus: 6%
 
