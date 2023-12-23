@@ -30,7 +30,7 @@ import TabItem from '@theme/TabItem';
 
 ## zero refund policy. Is active for all purchases. 
 
-<Tabs>
+  </TabItem>
   <TabItem value="Battle Pass Tier Unlocker" label="Battle Pass Tier Unlocker" default>
 
 ## Battle Pass Tier Unlocker
