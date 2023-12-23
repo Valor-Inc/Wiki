@@ -24,7 +24,7 @@ You will need to wait for it to expire, but there is no negative impact. Or, you
 - Weekly Quest Reroll Cost: 5000 Gold
 
 If you really dont feel like completing missions, Consider purchasing Battle Pass Tier Unlocker.
-[Battle Pass Tier Unlocker](...)
+Link to be added.
 
 # If I progress through the normal pass, and then buy the premium pass, do I get the rewards?
 Yes! You can grab the premium pass at any time, and it will unlock all rewards up to your normal progression.
