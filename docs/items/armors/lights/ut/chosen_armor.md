@@ -13,11 +13,11 @@ description: "The Chosen Armor"
     
     +18 Defense
     
-    +10 Attack
+    +4 Attack
     
-    +6 Dexterity
+    +4 Dexterity
     
-    +6 Speed
+    -6 Speed
     
 Fame Bonus: 6%
 
