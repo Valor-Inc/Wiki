@@ -1,5 +1,5 @@
 ---
-Sidebar Position: 5
+Sidebar_Position: 5
 description: "Master Eon"
 ---
 
