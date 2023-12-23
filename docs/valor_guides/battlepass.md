@@ -19,7 +19,12 @@ Every day you get two new dailies. Once a week, you gain three new weeklies. All
 There are over 100+ different mission types, from exploring the realm to crafting. The system is designed to reward you passively while playing, but also provide direction if you're looking for something to focus on.
 
 # What if I don't like a mission?
-You will need to wait for it to expire, but there is no negative impact. Or, you can reroll the quest for 1000 Gold.
+You will need to wait for it to expire, but there is no negative impact. Or, you can reroll the quest 
+- Daily Quest Reroll Cost: 1000 Gold
+- Weekly Quest Reroll Cost: 5000 Gold
+
+If you really dont feel like completing missions, Consider purchasing Battle Pass Tier Unlocker.
+[Battle Pass Tier Unlocker](...)
 
 # If I progress through the normal pass, and then buy the premium pass, do I get the rewards?
 Yes! You can grab the premium pass at any time, and it will unlock all rewards up to your normal progression.
