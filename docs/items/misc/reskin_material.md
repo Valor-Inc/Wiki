@@ -173,7 +173,7 @@ import TabItem from '@theme/TabItem';
 
 Removes the reskin from an item
 
-**Bought in nexus shop for 250k fame or 25k gold**
+**Bought in nexus shop for 7.5k fame or 25k gold**
 
   </TabItem>
 </Tabs>
