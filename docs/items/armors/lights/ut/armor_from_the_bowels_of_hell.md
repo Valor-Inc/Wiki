@@ -5,15 +5,15 @@ description: "Armor from the Bowels of Hell"
 
 # Armor from the Bowels of Hell
 
-![ABH](http://i.imgur.com/a1CPHdZ.png)
+![ABH](https://cdn.discordapp.com/attachments/1187552567295758487/1188160114356658216/Armor_from_the_Bowels_of_Hell.png)
 
 <i>Armor from hell, it kinda of instills fear in you, but at the same time it makes you desire a Barbeque!</i>
 
     +18 Defense
     
-    +25 Maximum HP
+    +85 Maximum HP
     
-    -25 Maximum MP
+    +8 Vitality
     
 Fame Bonus: 5%
 
