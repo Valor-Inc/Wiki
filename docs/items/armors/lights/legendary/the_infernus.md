@@ -9,18 +9,19 @@ description: "The Infernus"
 
 <i>An armor said to have been found in the tallest tower of the realm. This tower is said to be where Oryx's father resides.</i>
 
+
+***Combustion: If your ability isn't lower than 6 tiers using your ability causes an explosion that burns enemies around you. This explosion does 3000 damage over 7 seconds.***
+
     +20 Defense
     
-    +8 Speed
+    +5 Speed
     
-    +12 Attack
+    +4 Attack
     
-    +50 Might
+    +40 Might
     
     +50 Luck
 
 Fame Bonus: 8% 
 
-***Combustion: If your ability isn't lower than 6 tiers using your ability causes an explosion that burns enemies around you. This explosion does 3000 damage over 7 seconds.***
-
-**Craftable from Shard of Eternal Fury**
+**Craftable from Shard of Sidon's Fall**
