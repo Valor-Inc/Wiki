@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-title: Premium Testing
+title: Premium Testing and Patron server
 description: "Premium Testing is a special event with it's own servers. This is a sandboxed enviroment where players create new accounts and experiment."
 ---
 
@@ -22,21 +22,19 @@ When playing for the first time, you will need to sign out
 
 Note: Sometimes we do offer these sessions to VIP  & above instead of Premium. This would be noted in the announcement.
 
-**Next Session**: January 28th, 2022.
+**Next Session**: Unkown
 
 # Commands
 
 ```
-/testing - Maxes, and ascends you if you run it again. Also gives currencies. Trial tokens, gold, onrane, sor frags and more.
+/max - maxes your character.
 /l20 - Sets you to level 20.
-/give - Gives any item from (wiki.valorserver.com) Ex: /give abomination key /give tunnel of pain key
+/give - Gives any item from (wiki.valorserver.com) Ex: /give abomination key /give tunnel of pain key.
 Access too all donor perks, skins etc, make sure to run /test first.
+/Skillpoints - gives you as much skillpoint as you want. 
 /unlockaspects - unlock aspects.
 ```
 
 # History of Testing Sessions
 
-12/04/2022 - Dec Testing Session
-10/29/2022 - October Testing Session
-07/17/2022 - July Testing Session
-
+NONE
