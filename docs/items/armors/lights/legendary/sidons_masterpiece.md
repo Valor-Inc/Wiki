@@ -9,22 +9,21 @@ description: "Sidon's Masterpiece"
 
 <i>Perhaps he will spare you to witness the end if you endear yourself to him with this testament to his immaculate glory.</i>
 
-    +80 Maximum HP
+
+***Empower: Increase Mana Leech effectiveness by 50% and increase mana potion effectiveness by 25%.***
+
+    +150 Maximum MP
     
-    +120 Maximum MP
+    +50 Maximum HP
     
-    +20 Defense
+    +15 Defense
     
-    +15 Luck
+    +20 Wisdom
     
-    +5 Speed
-    
-    +10 Attack
-    
-    +10% Healing Boost
+    +8 Dexterity
     
     +10% Mana Healing Boost
     
 Fame Bonus: 8%
 
-**Craftable from Shard of the Ancients**
+**Craftable from  Shard of Sidon's Fall**
