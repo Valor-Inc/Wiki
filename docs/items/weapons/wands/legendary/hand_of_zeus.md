@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: Hand of Zeus
 description: "The Hand of Zeus"
 ---
 
