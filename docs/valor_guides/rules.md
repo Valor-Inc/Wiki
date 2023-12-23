@@ -8,11 +8,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-<TabItem value="General" label="General" default>
+<TabItem value="General" label="General" default> 
 
 # General 
 
-- ***In general, respect each other and do not run around ruining the atmosphere for others just so you can have fun. Below you can find more in-depth explanations of the main rules. If you are still unsure whether something is against the rules, ask a staff member. Even if a rule is unclear, ask a staff member, as the staff’s interpretation of the rules is the only valid one.*** :)
+- ***In general, respect each other and do not run around ruining the atmosphere for others just so you can have fun. Below you can find more in-depth explanations of the main rules. If you are still unsure whether something is against the rules, ask a staff member. Even if a rule is unclear, ask a staff member, as the staff’s interpretation of the rules is the only valid one.***
 
  - Do **NOT** lie to staff.
  
