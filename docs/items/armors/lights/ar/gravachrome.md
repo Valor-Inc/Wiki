@@ -16,19 +16,20 @@ import TabItem from '@theme/TabItem';
 
 <i>A simple hide buried deep beneath the Plateau taking on Alien technologies, warping over the years.</i>
 
-    +15 Defense
 
-    +8 Speed
+***Alien Advancement: You have superior looting technology. Higher chance to gain elite lootboxes (2x chance from ultra raid bosses and Kraken).***
 
-    +10 Attack
-
-    +150 Maximum HP
+    +100 Maximum HP
 
     +20 Fortune
 
-Fame Bonus: 16%
+    +15 Defense
 
-***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
+    +10 Attack
+
+    +5 Speed
+
+Fame Bonus: 16%
 
 **Drops from the Alien King in the Regolith (Galactic Plateau 2nd)**
 
@@ -43,19 +44,20 @@ Fame Bonus: 16%
 
 **Air Rune: Grants 15% chance to Dodge incoming projectiles**
 
-    +5 Defense
+
+***Alien Advancement: You have superior looting technology. Higher chance to gain elite lootboxes (2x chance from ultra raid bosses and Kraken).***
+
+    +100 Maximum HP
 
     +20 Speed
 
-    +10 Attack
-
-    +50 Maximum HP
-
     +20 Fortune
 
-Fame Bonus: 16%
+    +10 Dexterity
 
-***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
+    +5 Defense
+
+Fame Bonus: 16%
 
 **Enchanted Gravachrome with Ancient Air Rune**
 
@@ -68,23 +70,22 @@ Fame Bonus: 16%
 
 <i>zrrrt... Terrain module, activated! System defenses, upgraded.</i>
 
-**Earth Rune: Gain +10 Defense, +50 Maximum HP and +3 Life Steal** 
+**Earth Rune: Gain 75 health, 5 def and 2 life steal at the cost of 2 attack** 
 
-    +25 Defense
 
-    +8 Speed
+***Alien Advancement: You have superior looting technology. Higher chance to gain elite lootboxes (2x chance from ultra raid bosses and Kraken).***
 
-    +10 Attack
+    +175 Maximum HP
 
-    +200 Maximum HP
+    +20 Defense
 
     +20 Fortune
 
-    +3 Life Steal
+    +8 Attack
+
+    +2 Life Steal
 
 Fame Bonus: 16%
-
-***Alien Advancement: You have superior looting technology. Double chance to gain Elite Boxes.***
 
 **Enchanted Gravachrome with Ancient Earth Rune**
 
@@ -97,19 +98,22 @@ Fame Bonus: 16%
 
 <i>zzzzzt... Temperature module, activated! Offense mechanisms, upgraded.</i>
 
-**Fire Rune: Gain +10 Attack and +15 Might; but Lose 5 Defense and 50 Maximum HP**
+**Fire Rune: Gain 15 Might and 5 Attack at the cost of 5 Defense.**
 
-    +10 Defense
 
-    +8 Speed
-
-    +20 Attack
+***Alien Advancement: You have superior looting technology. Higher chance to gain elite lootboxes (2x chance from ultra raid bosses and Kraken).***
 
     +100 Maximum HP
 
+    +20 Fortune
+    
+    +15 Attack
+
     +15 Might
 
-    +20 Fortune
+    +10 Defense
+
+    +5 Speed
 
 Fame Bonus: 16%
 
@@ -126,21 +130,22 @@ Fame Bonus: 16%
 
 <i>zzzzzzzzt... Humidity module, activated! Fuel and engines, upgraded.</i>
 
-**Water Rune: Gain +50 Maximum MP, +15 Wisdom and +2 Mana Leech; but Lose 5 Defense and 50 Maximum HP**
+**Water Rune: Gain 100 Mana, 30 Wisdom, and 2 Mana Leech.**
 
-    +10 Defense
 
-    +8 Speed
-
-    +20 Attack
+***Alien Advancement: You have superior looting technology. Higher chance to gain elite lootboxes (2x chance from ultra raid bosses and Kraken).***
 
     +100 Maximum HP
 
-    +50 Maximum MP
+    +100 Maximum MP
 
-    +15 Wisdom
+    +30 Wisdom
 
     +20 Fortune
+
+    +15 Defense
+
+    +5 Attack
 
     +2 Mana Leech
 
