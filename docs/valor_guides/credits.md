@@ -5,15 +5,15 @@ description: "Credit's given where credit's due!"
 ---
 # Credits
 
-![deathmod](https://cdn.discordapp.com/attachments/953134990428868629/1026321617124593764/unknown.png)
+## DeathMod (Deviser)
 
-![nordic](https://cdn.discordapp.com/attachments/987312834834739301/1026309391965749288/Background_4.png)
+## Nordic
 
-![Oddish](https://cdn.discordapp.com/attachments/987312834834739301/1026305052610146304/unknown.png)
+## Oddish
 
-![water](https://cdn.discordapp.com/attachments/828314781793779742/1027741740058292344/cool.png)
+## Waterfiend
 
-![Thruy](https://cdn.discordapp.com/attachments/987312834834739301/1026306526249500772/unknown.png)
+## Thruy
 
-![Rina](https://cdn.discordapp.com/attachments/987312834834739301/1026350185439301662/ddddddd.png)
+## Rina
 
