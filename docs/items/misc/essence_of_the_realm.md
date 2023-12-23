@@ -35,7 +35,7 @@ import TabItem from '@theme/TabItem';
 
 *This is a crafting material to be used in crafting or enchanting.*
 
-***Can be crafted with another Piece of the Realm to obtain Essence of the Realm***
+***Can be crafted with another Piece of the Realm to obtain Essence of the Realm.***
 
 **Drops from every Ascended Dungeon's boss**
 
