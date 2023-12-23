@@ -38,10 +38,10 @@ import TabItem from '@theme/TabItem';
     - Access to Premium only text and voice chats
     - 20x20 Housing Plot Size Upgrade
     - Access to premium testing
-    - [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
     - /clearinv (Completely clears your inv, can be used to get rid of junk)
     - /backpack (gives your current character a backpack for FREE)
     - /size (change character size from 1 to 500)
+  - [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
 
   </TabItem>
   <TabItem value="MVP" label="MVP">
@@ -71,8 +71,7 @@ import TabItem from '@theme/TabItem';
     - Access to The Patron Star Icon. (/patronicon)
     - Patron Role ingame & on discord
     - 24/7 Access to Sandbox Server
-    - [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
-    - [Click here for Patron Info](https://valorserver.com/blog.valorserver.com/patron-sandbox-server-info/)
+  - [Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
 
   </TabItem>
 </Tabs>
