@@ -5,20 +5,18 @@ description: "The Warden Armor"
 
 # Warden Armor
 
-![Warden](http://i.imgur.com/V8qjkED.png)
+![Warden](https://cdn.discordapp.com/attachments/1187552567295758487/1188162601549574254/Warden_Armor.png)
 
 <i>Stange eye staring at me from the inside...</i>
 
-    +25 Maximum MP
+    +50 Maximum MP
     
-    +15 Defense
+    +12 Defense
     
-    +3 Speed
+    +20 Might
     
-    +5 Vitality
-    
-    +5 Wisdom
-    
+    +4 Attack
+
 Fame Bonus: 6%
 
 **Drops from Janus, the Doorwarden**
