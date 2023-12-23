@@ -12,15 +12,11 @@ description: "The Crimson Cloth"
     +50 Maximum HP
     
     +50 Maximum MP
+
+    +10 Defense
     
-    +7 Attack
-    
-    +13 Defense
-    
-    +20 Luck
-    
-    +10 Speed
-    
+    +5 Attack
+
     +5 Fortune
     
 Fame Bonus: 6%
