@@ -15,7 +15,7 @@ These sessions are almost exclusively hosted on the weekends. They may be the fu
 
 Premium Testing will be published in the discord at least **five** days in advance. Keep an eye on #announcements and the website for notices.
 
-Testing requires the [Premium rank or above, which may be viewed here.](https://valorserver.com/payment/valor-checkout?packageID=2). We offer an occasional sneak peak at new content, as well as sandboxing to project donators.
+Testing requires the [Premium rank or above, which may be viewed here. (for patron server you need Patron rang.)](https://valorserver.com/payment/valor-checkout?packageID=2). We offer an occasional sneak peak at new content, as well as sandboxing to project donators.
 
 If you are Premium or above you will be able to see `#prem-testing`. The client will be posted the day of the testing in the channel. Any other instructions will be uploaded.
 When playing for the first time, you will need to sign out
