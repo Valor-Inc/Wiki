@@ -4,16 +4,21 @@ description: "Venom Cage"
 
 # Venom Cage
 
-![caged](https://vwiki.valorserver.com/api/item/picture/venom%20cage)
+![caged](https://cdn.discordapp.com/attachments/1187552567295758487/1188157887877496953/Venom_Cage.png)
 
-    +20 Defense
+
+***Aposematism: On taking damage you have a 20% chance to poison the enemy who hit you, dealing 2000 damage over 5 seconds***
+
+    +50 Maximum HP
 
     +200 Maximum MP
+
+    +12 Defense
 
     +15 Dexterity
 
     +10 Speed
 
-***Aposematism: On taking damage you have a 20% chance to poison the enemy who hit you, dealing 1200 damage over 5 seconds(4 second cooldown)***
+    +2 Mana Leech
 
 **Drops from Toxic Troll** 
