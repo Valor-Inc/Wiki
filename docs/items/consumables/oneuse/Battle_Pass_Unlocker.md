@@ -15,15 +15,18 @@ import TabItem from '@theme/TabItem';
 ![BPu](https://cdn.discordapp.com/attachments/1187552567295758487/1188108135232184451/Battle_Pass_Premium_Unlocker.png?ex=659952ed&is=6586dded&hm=b506b175e2ccccb4e8b489b0cf657132aa65eb905261a6e7ce9424aabb752ce7&)
 
 ## Cost
-<i> You have two ways to buy battle pass:</i>
-- Purchase In-Game for 2400 Kantos
-- Purchase Online for **10$** or less (depends on the current price reduction)
+(You have two ways to buy Battle Pass)
+   
+    - Purchase In-Game for 2400 Kantos
+
+    - Purchase Online for **10$** or less (depends on the current price reduction)
 
 ## Where can you buy it
 
-- Battle Pass for Kantos is next to the Battle Pass girl
-- Battle Pass for $ can be purchased from here:
-Valor Market
+    - Battle Pass for Kantos is next to the Battle Pass girl
+    
+    - Battle Pass for $ can be purchased from here:
+      Valor Market
 
 ***Also Kantos can be purchased here.***
 
@@ -46,6 +49,7 @@ Valor Market
 ## Where can you buy it
 
     - Battle Pass Tier Unlocker for Kantos is next to the Battle Pass girl
+    
     - Valor Market
 
 ***Also Kantos can be purchased here.***
