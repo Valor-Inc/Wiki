@@ -9,14 +9,15 @@ description: "The Glorious Armor"
 
 <i>This Breastplate was once worn by Sidon.</i>
 
+
+***Adrenaline: If your surge is over 25, you gain armored.***
+
     +23 Defense
     
     +23 Speed
     
-    +20 Attack
+    +10 Attack
     
 Fame Bonus: 8%
-
-***Adrenaline: If your surge is over 25, you gain armored.***
 
 **Buyable from the Fallen Light Raid Shop for 290 Onrane**
