@@ -1,7 +1,6 @@
-
 ---
-sidebar_position: 6
-Orbis Terrae
+sidebar_position: 1
+description: "Orbis Terrae"
 ---
 
 import Tabs from '@theme/Tabs';
