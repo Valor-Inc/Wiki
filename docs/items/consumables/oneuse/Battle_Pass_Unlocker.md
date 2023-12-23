@@ -40,12 +40,13 @@ Valor Market
 
 ## Cost
 <i>Only one way to purchase.</i>
-- Purchase In-Game for 150 Kantos
+
+    - Purchase In-Game for 150 Kantos
 
 ## Where can you buy it
 
-- Battle Pass Tier Unlocker for Kantos is next to the Battle Pass girl
-Valor Market
+    - Battle Pass Tier Unlocker for Kantos is next to the Battle Pass girl
+    - Valor Market
 
 ***Also Kantos can be purchased here.***
 
