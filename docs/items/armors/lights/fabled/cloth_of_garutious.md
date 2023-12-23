@@ -9,16 +9,16 @@ description: "The Cloth of Garutious"
 
 <i>A garment sown from skin from the fallen beast. Thanks to: Bottle</i>
 
-    +15 Defense
-    
     +50 Maximum HP
     
-    +15% Dexterity
+    +13 Luck
     
-    +15% Might
+    +7 Defense
     
-    +15% Luck
-
+    +7 Dexterity
+    
+    +7 Might
+    
 Fame Bonus: 8%
 
 ***This item is a part of Loaded Garutious Set***
