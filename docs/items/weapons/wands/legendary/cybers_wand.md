@@ -9,23 +9,15 @@ description: "Cyber's Wand"
 
 <i>Be weary, this wand can cause mass destruction...</i>
 
-Damage: 355-455
+Damage: 480
 
 Shots: 1
 
 Rate of Fire: 140%
 
-Range: 6.5
+Range: 6.5 => 0
 
-Shots hit multiple targets
-
-Ignores defense of target
-
-    -100 Maximum HP
-    
-    +10 Defense
-    
-    +20 Protection
+    -50 Maximum HP
 
 Fame Bonus: 8%
 
@@ -33,4 +25,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![CyberW Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619543402877059/cyberswand.gif)
+![CyberW Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188028287600042065/normal_ar_blade.gif?ex=65990890&is=65869390&hm=e7cfc6d3b0bd13b975c1f1ab6e302d15f681d4832676c4366188c6f74ded6265&)
