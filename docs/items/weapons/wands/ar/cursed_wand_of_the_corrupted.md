@@ -10,17 +10,17 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Cursed Wand of the Corrupted" label="Cursed Wand of the Corrupted" default>  
 
-# Cursed Wand of the Corrupted
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Cursed Wand of the Corrupted
 
 ![CWC](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-Damage: 265-340
+Damage: 220-280
 
 Shots: 2
 
-Rate of Fire: 140%
+Rate of Fire: 110%
 
 Range: 9
 
@@ -32,24 +32,24 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![CWC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615948070649866/arwand.gif)
+![CWC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188022744114286592/normal_ar_blade.gif?ex=65990366&is=65868e66&hm=e89a4bd0051c79316794e4d4b53aa8f8db3adf489b5e3c322f13a2c19418412c&)
 
   </TabItem>
   <TabItem value="Air" label="Air">
 
-# Cursed Wand of the Corrupted Air
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Cursed Wand of the Corrupted Air
 
 ![CWCa](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20air)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Air Rune: Gain +6 Dexterity and +6% Rate of Fire**
+**Air Rune: Gain 30% rate of fire and 6 dexterity, at the cost of significant damage.**
 
-Damage: 265-340
+Damage: 205-215 (-15 / -65)
 
 Shots: 2
 
-Rate of Fire: 146%
+Rate of Fire: 140% (+30%)
 
 Range: 9
 
@@ -63,24 +63,24 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![CWCa Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615948590755870/arwandair.gif)
+![CWCa Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188022887223918612/normal_ar_blade.gif?ex=65990388&is=65868e88&hm=67127dd6c12046706bbd2bd4a318f3d588ce49b5852cbf6e92d2fd9948663a28&)
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
-# Cursed Wand of the Corrupted Earth
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Cursed Wand of the Corrupted Earth
 
 ![CWCe](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20Earth)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Earth Rune: Your shots will ignore the defense of your target.**
+**Earth Rune: Gain significant damage per shot and armor piercing, but lose 35% rate of fire.**
 
-Damage: 265-340
+Damage: 330-490 (+110 / +210)
 
 Shots: 2
 
-Rate of Fire: 140%
+Rate of Fire: 75% (-35%)
 
 Range: 9
 
@@ -94,24 +94,24 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![CWCE Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615948943081612/arwandearth.gif)
+![CWCE Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188023041846947840/normal_ar_blade.gif?ex=659903ad&is=65868ead&hm=1c0c4dadadc8ea2dd9db9aa8488f2234b7046ad85c92ee0886c9ded7f80e87e6&)
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# Cursed Wand of the Corrupted Fire
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Cursed Wand of the Corrupted Fire
 
 ![CWCf](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20fire)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Fire Rune: Increases minimum and maximum damage by +20.**
+**Fire Rune: Gain 45 minimum and maximum damage. Arc gap significantly increased.**
 
-Damage: 285-360
+Damage: 265-325 (+45 / +45)
 
 Shots: 2
 
-Rate of Fire: 140%
+Rate of Fire: 110%
 
 Range: 9
 
@@ -123,23 +123,23 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![CWCF Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615949286998036/arwandfire.gif)
+![CWCF Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188023181773111398/normal_ar_blade.gif?ex=659903ce&is=65868ece&hm=7cb67cf9e1e085d8100608c4bebd3ef32994cd4ba3fdfd2d974ff421d5cfd715&)
   </TabItem>
   <TabItem value="Water" label="Water">
 
-# Cursed Wand of the Corrupted Water
+# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Cursed Wand of the Corrupted Water
 
 ![CWCw](https://vwiki.valorserver.com/api/item/picture/cursed%20wand%20of%20the%20corrupted%20water)
 
 <i>A wand from ancient times, passed down through lines of sorcerers the wand's power slowly fueled by their rampages. Shortly after it's corruption it was found washed up on the shore.</i>
 
-**Water Rune: Gain +80 Maximum MP and +35 Wisdom.**
+**Water Rune: Gain 80 mana and 35 wisdom.**
 
-Damage: 265-340
+Damage: 220-280
 
 Shots: 2
 
-Rate of Fire: 140%
+Rate of Fire: 110%
 
 Range: 9
 
@@ -148,13 +148,14 @@ Shots hit multiple targets
     +80 Maximum MP
 
     +35 Wisdom 
+    
 Fame Bonus: 15%
 
 **Enchanted Cursed Wand of Corrupted with Ancient Water Rune**
 
 ## Projectile
 
-![CWCw Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997615949689659473/arwandwater.gif)
+![CWCw Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188023308629839922/normal_ar_blade.gif?ex=659903ed&is=65868eed&hm=eefbf4246e876085e9f707903b6ace7f6205a5ef14418c6f4eb8aa7dd1bd9de1&)
 
   </TabItem>
 </Tabs>
