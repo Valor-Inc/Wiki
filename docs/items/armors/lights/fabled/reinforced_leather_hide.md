@@ -15,9 +15,9 @@ description: "The Reinforced Leather Hide"
     
     +20 Protection
     
-    +7 Attack
+    +4 Attack
     
-    +2 Life Steal
+    +1 Life Steal
     
 Fame Bonus: 6%
 
