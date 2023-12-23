@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Evisceration Claws
 
-![evisceration](https://vwiki.valorserver.com/api/item/picture/evisceration%20claws)
+![evisceration](https://cdn.discordapp.com/attachments/1187552567295758487/1188026986212372480/Evisceration_Claws.png?ex=65990759&is=65869259&hm=29510a0a672ce041f60be7eff65f6c8454c39ba41d53edbf81a7500482ee890e&)
 
 <i>Magical claws conjured by the lords who casted the spell that imprisoned the Eternal Beast.</i>
 
-Damage: 125-180
+Damage: 125-260
 
 Shots: 1 
 
@@ -32,4 +32,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![evisceration Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997618201854754936/eviscerationclaws.gif)
+![evisceration Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188025762968784996/normal_ar_blade.gif?ex=65990636&is=65869136&hm=382e9d6dfad0541d896ef0edb98f5712b6fe1c203d93797be72c14f23f2dcd5b&)
