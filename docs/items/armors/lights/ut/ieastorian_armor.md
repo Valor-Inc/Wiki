@@ -5,17 +5,17 @@ description: "The Ieastorian Armor"
 
 # Ieastorian Armor
 
-![Ieastorian](https://vwiki.valorserver.com/api/item/picture/Ieastorian%20armor)
+![Ieastorian](https://cdn.discordapp.com/attachments/1187552567295758487/1188160828063629382/Ieastorian_Armor.png)
 
 <i>Um..Mr.Alien, mind helping me put this on?</i>
 
     +15 Defense
     
-    +8 Dexterity
+    +4 Dexterity
     
-    +8 Attack
+    +4 Attack
     
-    -2 Vitality
+    -6 Vitality
     
 Fame Bonus: 6%
 
