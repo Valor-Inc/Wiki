@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 
 **Combine with an enchanted Ancient Relic item to de-enchant.**
 
-***Purchasable for 10,000 fame in the Nexus***
+**Purchasable for 10,000 fame in the Nexus**
 
   </TabItem>
   <TabItem value="Anciet Air Rune" label="Ancient Air Rune">
