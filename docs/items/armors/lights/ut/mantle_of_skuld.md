@@ -7,21 +7,22 @@ description: "The Mantle of Skuld"
 
 ![mantle](https://i.imgur.com/qUnenkk.png)
 
-**Special: Any speedy buffs will convert to swiftness.**
-
 <i>With little need for conventional armor, Skuld prefers to empower her magic arts even further.</i>
 
-    +75 Max HP
+****Special: Any speedy buffs will convert to swiftness with all pieces equipped.****
 
-    +75 Maximum MP
+    +100 Maximum HP
+
+    +50 Maximum MP
     
-    +15 Defense
+    +12 Defense
     
     +15 Speed
     
-    +10 Attack
+    +8 Dexterity
 
-    
 Fame Bonus: 6%
+
+**This item is a part of Skuld 2 The ReGhostening Set**
 
 **Drops from Grave Caretaker in Haunted Cemetery**
