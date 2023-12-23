@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Premium" label="Premium">
     
- # ![fabled](https://cdn.discordapp.com/attachments/1118235017550778448/1188177720232906752/FABLEDBAG.png?ex=659993bb&is=65871ebb&hm=9736ec1f9655f2a06331253753ae54b419703f51bc7a050265d2b5fc2c641e0a&) Premium
+ ## ![UTbag](https://cdn.discordapp.com/attachments/1118235017550778448/1188177720232906752/FABLEDBAG.png?ex=659993bb&is=65871ebb&hm=9736ec1f9655f2a06331253753ae54b419703f51bc7a050265d2b5fc2c641e0a&) Premium
   ![PremBanner](https://mvp.valorserver.com/images/prem-banner.png)
 
     - Premium Rank Ingame and on Discord
