@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <i>A wand formed of congealed blood powered by pure Zol energy. Thanks to: Jaden</i>
 
-Damage: 64-130
+Damage: 80-120
 
 Shots: 3
 
@@ -28,4 +28,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![WCM Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997618202286759976/wandofthecorruptedmage.gif)
+![WCM Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188025588720599110/normal_ar_blade.gif?ex=6599060c&is=6586910c&hm=ee673a606a37e5b6c760566c335a83d65083a299f0ab3a8c24f50e680396c35f&)
