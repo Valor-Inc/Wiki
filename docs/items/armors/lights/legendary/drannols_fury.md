@@ -16,17 +16,16 @@ import TabItem from '@theme/TabItem';
 
 <i>A special hide created from the hdie of the Eternal Beast.</i>
 
-    +170 Maximum HP
-    
-    +22 Defense
-    
-    +60 Restoration
-    
-    +12 Attack
-    
-Fame Bonus: 8%
 
 ***Rage of Drannol: Anytime you take damage you receive a 50% rate of fire buff. The amount of surge you have increases the duration of this buff up to a maximum of 4 seconds***
+
+    +150 Maximum HP
+    
+    +15 Defense
+    
+    +8 Attack
+    
+Fame Bonus: 8%
 
   </TabItem>
   <TabItem value="Butcher's Plate" label="Butcher's Plate">
@@ -37,17 +36,16 @@ Fame Bonus: 8%
 
 <i>The shattered chestpiece of a blademaster who lost his mind to a psychotic bloodlust. The bodies have never been proven.</i>
 
-    +170 Maximum HP
-    
-    +22 Defense
-    
-    +60 Restoration
-    
-    +12 Attack
-    
-Fame Bonus: 8%
 
 ***Rage of Drannol: Anytime you take damage you receive a 50% rate of fire buff. The amount of surge you have increases the duration of this buff up to a maximum of 4 seconds***
+
+    +150 Maximum HP
+    
+    +15 Defense
+    
+    +8 Attack
+    
+Fame Bonus: 8%
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
