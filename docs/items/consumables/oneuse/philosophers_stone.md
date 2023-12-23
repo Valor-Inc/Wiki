@@ -1,5 +1,5 @@
 ---
-Sidebar_Position: 6
+Sidebar_Position: 5
 description: "Philosopher's Stone"
 ---
 
