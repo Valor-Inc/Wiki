@@ -9,13 +9,13 @@ description: "The Wand of the Snake God"
 
 <i>Sometimes people learn from their mistakes. Snakes never learn.</i>
 
-Damage: 700-1050
+Damage: 420-700
 
 Shots: 1
 
 Rate of Fire: 85%
 
-Range: 6
+Range: 5.9
 
 Shots hit multiple targets
 
@@ -23,7 +23,7 @@ Ignores defense of target
 
 Shots pass through obstacles
 
-Shots are parametric
+Shots are boomerang
 
 Fame Bonus: 8%
 
@@ -31,4 +31,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![WSG Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619560901525515/wandofthesnakegod.gif)
+![WSG Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188045688760709191/normal_ar_blade.gif?ex=659918c5&is=6586a3c5&hm=b462d110b9871b9b82f9fd103625c39c16a8c77e09a43b5acb285c6e1bd70ae2&)
