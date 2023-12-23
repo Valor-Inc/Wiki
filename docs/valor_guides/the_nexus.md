@@ -16,62 +16,41 @@ import TabItem from '@theme/TabItem';
 
 Below is a map of the Nexus, and as you can see there is many locations of interest! We'll go over them so you won't be confused, dont worry!
 
-![NexusMap](https://cdn.discordapp.com/attachments/953134990428868629/1023003218806059028/unknown.png)
+![NexusMap](https://cdn.discordapp.com/attachments/1118235017550778448/1188148554829664317/Nevtelen.png?ex=65997892&is=65870392&hm=cf346a147bb0ab69d69f89b97e47adc8bdec67eb808b17dbc8761eb7ea944753&)
 
   </TabItem>
   <TabItem value="Ascension Enclave" label="Ascension Enclave">
 
-# The Ascension Enclave
+# The Ascension Enclave (Now Raids)
 
-![Ascension](https://cdn.discordapp.com/attachments/953134990428868629/1022980193406693436/unknown.png)
+**In the Nexus you can activate Raids, It will spawn next to the Realms. There are no requirements for entrance to the Ascension Enclave.**
 
-**The Ascension Enclave is the place to be for when Raid Tokens are activated, as that is where the portal for the Raid will spawn. There are no requirements for entrance to the Ascension Enclave. It can be accessed via the '/enclave' or by visiting the portal on the far-right side of the Nexus.**
+![Ascensionint](https://cdn.discordapp.com/attachments/1118235017550778448/1188149683282006088/Kepernyokep_2023-12-23_170231.png?ex=6599799f&is=6587049f&hm=e52b75cf7fe51be46d072f39bb5f0cc50c0a36ba0b784466094e00bd7fdd3326&)
 
-![Ascensionint](https://cdn.discordapp.com/attachments/953134990428868629/1022983178857742376/unknown.png)
-
-The layout of the Ascension Enclave is very simple, as it's purpose is only to connect players with Raids. However, if you do want a private location for hitting training dummies, this and the Guild Hall make exceptional choices!
-
-
-  </TabItem>
-  <TabItem value="Aspect Hall" label="Aspect Hall">
-
-# The Aspect Hall
-
-![Aspect](https://cdn.discordapp.com/attachments/953134990428868629/1022984808411971635/unknown.png)
-
-The Aspect Hall holds all of a players [Aspects](https://wiki.valorserver.com/docs/items/misc/aspects). You can only use one aspect at a time so make your choice wisely. Not all aspects are items that drop from bosses, so a full list of all aspects can be found **[Here](https://docs.google.com/document/d/15PVh8JpINav9iNmGch8VHajk90lFQvk3Sb1eXzxf3LE/edit)**.
-
-![AspectHInt](https://cdn.discordapp.com/attachments/953134990428868629/1022987240177156126/unknown.png)
-
-You will start with the three Aspects shown, and as you unlock more, the golden squares will be replaced. Aspects are very powerful resources that can change the capabilities of your character passively and actively!
 
   </TabItem>
   <TabItem value="Battlepass" label="Battlepass">
 
 # The Battlepass
 
-![Battlepass](https://cdn.discordapp.com/attachments/953134990428868629/1022989111319080991/unknown.png)
+![Battlepass](https://cdn.discordapp.com/attachments/1118235017550778448/1188150272992759848/image.png?ex=65997a2b&is=6587052b&hm=6ca4aeb0288debf83fa57c8bd7f5e7feaeb663b53ffc53a59e8a22517dd90d67&)
 
-The Battlepass is some of Valor's newest content, and has players complete in-game missions for Battlepass XP. It is located at the top-left of the Nexus and can be seen when running towards the Realm and Public Challenges. The Battlepass season resets every 3 months and is always active for all players. A Premium Battlepass can be unlocked for [2100 Kantos or $10 USD](https://valorserver.com/ranks), which will unlock the bottom row of rewards to the player, allowing for 2 rewards per level of the Battlepass!
+***The Battlepass is some of Valor's best content, It's purpose to make players complete in-game missions for Battlepass XP. It is located at the top-left of the Nexus and can be seen when running towards the Far-Left side of the map. The Battlepass season resets every 3 months and is always active for all players. A Premium Battlepass can be unlocked for [2400 Kantos or $10 USD](https://valorserver.com/ranks), which will unlock the bottom row of rewards to the player, allowing for 2 rewards per level of the Battlepass!***
 
-![Battlepassq](https://cdn.discordapp.com/attachments/953134990428868629/1022992522127081472/unknown.png)
+![Battlepassq](https://cdn.discordapp.com/attachments/1118235017550778448/1188151653124288533/image.png?ex=65997b74&is=65870674&hm=d49f43bdaef6c1219af61b021617f3ae2a0b6bb51fb72b35d85856da6887aa34&)
 
-There are 3 different types of missions, Daily which are green, Weekly which are blue, and Seasonal which are yellow. Each day players will receive 5 Daily missions worth 200 XP each and 2 Weekly missions worth 5874 XP each; while at the start of the battlepass season, a large amount of Seasonal missions are given out worth 6766 XP each.
-
-**Below are other forms of gaining XP passively via the Battlepass:**
-
-![XPBP](https://cdn.discordapp.com/attachments/953134990428868629/1023000132603629588/unknown.png)
+***There are 3 different types of missions, Daily which are green, Weekly which are blue, and Seasonal which are yellow. Each day players will receive 5 Daily missions worth 200 XP each and 2 Weekly missions worth 5874 XP each; while at the start of the battlepass season, a large amount of Seasonal missions are given out worth 6766 XP each.***
 
   </TabItem>
  <TabItem value="Grove" label="Grove">
 
 # The Grove
 
-![Grove](https://cdn.discordapp.com/attachments/953134990428868629/1023002900357726288/unknown.png)
+![Grove](https://cdn.discordapp.com/attachments/1118235017550778448/1188152221666398359/image.png?ex=65997bfc&is=658706fc&hm=f2cd457222a613d43194147799d0d9e15199a7ffc8b37fc15d52ea20987396e6&)
 
-Got Kantos and want to buy some cool and exclusive accessories? Well the Grove is your place; the all in one Kantos Shop includes Skins, Effects, Pets, Boosts, and Item Transformation orbs. You can buy Kantos [here](https://valorserver.com/ranks) if you spot something in the Grove that you just can not stop thinking about!
+***Got Kantos and want to buy some cool and exclusive accessories? Well the Grove is your place; the all in one Kantos Shop includes Skins, Effects, Pets, Boosts, and Item Transformation orbs. You can buy Kantos [here](https://valorserver.com/ranks) if you spot something in the Grove that you just can not stop thinking about!***
 
-![GroveInt](https://cdn.discordapp.com/attachments/953134990428868629/1023001833049968721/unknown.png)
+![GroveInt](https://cdn.discordapp.com/attachments/1118235017550778448/1188152444065173514/image.png?ex=65997c31&is=65870731&hm=09c36da55f386c235e198f9d446e80f93318eb23a4c8e0d3d24959ab638f1580&)
 
   </TabItem>
   <TabItem value="Housing" label="Housing">
@@ -82,29 +61,29 @@ Valor is home to Housing, a system that lets players create houses to hang out i
 
 ## The Home Depot
 
-The Home Depot is where most housing content can be bought or accessed, with a few others coming as rewards from the battle pass. It is located at all the green wizards in the nexus.
+***The Home Depot is where most housing content can be bought or accessed, with a few others coming as rewards from the battle pass. It is located under the spawn.***
 
-![HomeDepot](https://i.imgur.com/7C1O4Ti.png)
+![HomeDepot](https://cdn.discordapp.com/attachments/1118235017550778448/1188152979342237696/image.png?ex=65997cb1&is=658707b1&hm=98e311ee91b3153cc46ecb857ecc64ecada9f55a69fb9d47098aa91a8d3a6dab&)
 
-Items in the will cost either Gold, Fame, Kantos, or Onrane and you can upgrade your max housing size with gold or kantos via the green allow in the top left of the menu shop.
+***Items in the will cost either Gold, Fame, Kantos, or Onrane and you can upgrade your max housing size with gold or kantos via the green allow in the top left of the menu shop.***
 
 ## House Editing
 
-The Housing Editor can be found on the main menu at the bottom right of your characters screen.
+***The Housing Editor can be found on the main menu at the bottom right of your characters screen.***
 
-![HouseEditorButton](https://i.imgur.com/loQV6ZE.png)  
+![HouseEditorButton](https://cdn.discordapp.com/attachments/1118235017550778448/1188153366799458384/image.png?ex=65997d0d&is=6587080d&hm=248bc5800543038d56a289debb5696229e43445001eee7c57df6c18f5419b570&)  
 
 Clicking it will open the editor where you can place the tiles & objects you have on your account in any configuration you want (as long as you have a spawn location) and then Save(Submit) it to the server for you or anyone else to visit later.
 
 ## Visiting Houses
 
-The command `/vhome [playername]` can be ran ingame to visit their housing, this works for your own house as well. Anybody can do this at any time, even if the owner is offline or elsewhere in Valor.
+**The command `/vhome [playername]` can be ran ingame to visit their housing, this works for your own house as well. Anybody can do this at any time, even if the owner is offline or elsewhere in Valor.**
 
-![HiShad](https://i.imgur.com/DPZEf5b.png)
+![HiShad](https://cdn.discordapp.com/attachments/1118235017550778448/1188153564057579591/image.png?ex=65997d3c&is=6587083c&hm=c6b954fb861eca22cf06f4bd683d2491c769caea3e5852fb44d5aee8fe0b2178&)
 
 ## Functionality
   
-The main draws of housing are for creating art, showing off your wealth with an expensive house, having somewhere private for popping keys or what have you, or for using private target dummies to test your damage or other effects.
+***The main draws of housing are for creating art, showing off your wealth with an expensive house, having somewhere private for popping keys or what have you, or for using private target dummies to test your damage or other effects.***
 
 ![PewPew](https://i.imgur.com/XUOW1jh.png)
 
@@ -113,7 +92,7 @@ The main draws of housing are for creating art, showing off your wealth with an 
 
 # Loot Boxes
 
-Valor has various types of lootboxes; do not worry they all except one are obtained by playing. Each of these lootboxes have different item pools and drop locations, but they can all be checked from the same location: the top left of your screen whilst in the nexus or vault. On the Lootboxes Page, you can find Gold, Silver and Bronze Lootboxes, as well as your collected Pack Rat bags. Gold, Silver and Bronze lootboxes drop in the Realm, while Pack Rat bags can be found while doing ascended dungeons.
+***Valor has various types of lootboxes; do not worry they all except one are obtained by playing. Each of these lootboxes have different item pools and drop locations, but they can all be checked from the same location: the top left of your screen whilst in the nexus or vault. On the Lootboxes Page, you can find Gold, Silver and Bronze Lootboxes, as well as your collected Pack Rat bags. Gold, Silver and Bronze lootboxes drop in the Realm, while Pack Rat bags can be found while doing ascended dungeons.***
 
 ![Lootboxes](https://media.discordapp.net/attachments/1033413517161791539/1034155978255507526/unknown.png)
 
@@ -122,32 +101,29 @@ Valor has various types of lootboxes; do not worry they all except one are obtai
 
 # Marketplace
 
-![Marketp](https://cdn.discordapp.com/attachments/953134990428868629/1023009863724449792/unknown.png)
+![Marketp](https://cdn.discordapp.com/attachments/1118235017550778448/1188154161590710294/image.png?ex=65997dca&is=658708ca&hm=ffeb1d4e3e0f34057e34a5632d57d65ea3f9c0e83435f9de468ca2211e76a105&)
 
-The Marketplace is an incredibly important part of Valor, and acts as the location to buy and sell items for gold. Not all players are allowed to use the Marketplace, as Elite Accounts are not allowed to buy or sell items from other non-elite account players, thus they aren't allowed to use the market. All transactions on the marketplace have an 8% Tax put onto the seller of an item. It also costs 50 gold to remove an item if it isn't your most recently placed item.
+***The Marketplace is an incredibly important part of Valor, and acts as the location to buy and sell items for gold. Not all players are allowed to use the Marketplace, as Elite Accounts are not allowed to buy or sell items from other non-elite account players, thus they aren't allowed to use the market. All transactions on the marketplace have an 8% Tax put onto the seller of an item. It also costs 50 gold to remove an item if it isn't your most recently placed item.***
 
-![Marketint](https://cdn.discordapp.com/attachments/953134990428868629/1023013544410746920/unknown.png)
+![Marketint](https://cdn.discordapp.com/attachments/1118235017550778448/1188154405950849036/image.png?ex=65997e05&is=65870905&hm=4e868feb69df3e656a18166a9c6b84acf1ed85815b33935de1ded46ef6a19cfb&)
 
-You can access the Marketplace GUI by talking to the Human NPCs within the marketplace. In this GUI you can sort every item currently on the market, see all the items you have listed on the market, and you can even buy items directly from the GUI instead of waiting for it to be sorted in!
-
-![Guillbruh](https://cdn.discordapp.com/attachments/953134990428868629/1023014818065694730/unknown.png)
-![Woahbruh](https://cdn.discordapp.com/attachments/953134990428868629/1023015227090014250/unknown.png)
+***You can access the Marketplace GUI by talking to the Human NPCs within the marketplace. In this GUI you can sort every item currently on the market, see all the items you have listed on the market, and you can even buy items directly from the GUI instead of waiting for it to be sorted in!***
 
 # Market-related Commands
 
-/marketplace [travel to the marketplace quickly] 
+    /marketplace [travel to the marketplace quickly] 
 
-/pc (1-16 Inventory Slot) or (Item Name) [Checks Market Price of item]
+    /pc (1-16 Inventory Slot) or (Item Name) [Checks Market Price of item]
+ 
+    /market (1-16 Inventory Slot) (Amount of Gold you Want to List item for)
 
-/market (1-16 Inventory Slot) (Amount of Gold you Want to List item for)
+    /mall (full item name) (price) [market all of one type of item in your inventory slots 1-16]
+ 
+    /mymarket [all of your active market listings with ID and price]
+ 
+    /rmarket (ID) [removes market listing using ID from above command]
 
-/mall (full item name) (price) [market all of one type of item in your inventory slots 1-16]
-
-/mymarket [all of your active market listings with ID and price]
-
-/rmarket (ID) [removes market listing using ID from above command]
-
-/oops [removes most recent market listing]
+    /oops [removes most recent market listing]
 
 
   </TabItem>
@@ -161,21 +137,21 @@ Public Challenges are difficult and rewarding bosses summoned by the use of 5 In
 
 ## Malgor, the Eternal Fiend
 
-![Malg](https://cdn.discordapp.com/attachments/953134990428868629/1023018582059270154/unknown.png)
+![Malg](https://cdn.discordapp.com/attachments/1118235017550778448/1188156392813629450/Malgor_the_Eternal_Fiend.png?ex=65997fde&is=65870ade&hm=ef35dd3d10d527b12a8ac44cf18d575225a4d938fa73d2e5a46caba11495cda5&)
 
-Appears 100% of the time on Mondays. Watch out for the Super Mega Hot Lava as well as the high damage Meteor shots!
+**Watch out for the Super Mega Hot Lava as well as the high damage Meteor shots!**
 
 ## Ulgur, the Phatom Menace
 
-![Ulg](https://cdn.discordapp.com/attachments/953134990428868629/1023019080451637268/unknown.png)
+![Ulg](https://cdn.discordapp.com/attachments/1118235017550778448/1188156472195035186/Ulgur_The_Phantom_Menace.png?ex=65997ff1&is=65870af1&hm=061798e330bd7f259acb367f549be552a1cfbabeab15efad9cbbae3e725baab4&)
 
-Appears 100% of the time on Saturdays. Watch out for condensed Shotguns and the Clones spawning!
+**Watch out for condensed Shotguns and the Clones spawning!**
 
 ## Serenity, the Ripper
 
-![Seren](https://cdn.discordapp.com/attachments/953134990428868629/1023018890105729055/unknown.png)
+![Seren](https://cdn.discordapp.com/attachments/1118235017550778448/1188156435717161071/Serenity_the_Ripper.png?ex=65997fe9&is=65870ae9&hm=cfc44e7d2fe8edfc27b96210e83841cb35ac0738845d4bf3287447ed7ca4328b&)
 
-Appears 100% of the time on Wednesdays. Watch out for high damage Shotgun bursts as well as Minions and Lava!
+**Watch out for high damage Shotgun bursts as well as Minions and Lava!**
 
   </TabItem>
 </Tabs>
