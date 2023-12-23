@@ -9,13 +9,13 @@ description: "The Scales of the Serpent"
 
 <i>This robe was crafted from the scales off their mother's back for her birth.</i>
 
-    +90 Maximum HP
+    +75 Maximum HP
     
-    +90 Maximum MP
+    +75 Maximum MP
     
-    +9 Speed
+    +12 Speed
     
-    +14 Wisdom
+    +12 Wisdom
     
 Fame Bonus: 6%
 
