@@ -11,9 +11,9 @@ description: "Olden Necromancy Cloth"
 
     +17 Defense
     
-    +120 Maximum MP
+    +150 Maximum MP
     
-    +14 Dexterity
+    +8 Dexterity
     
 Fame Bonus: 6%
 
