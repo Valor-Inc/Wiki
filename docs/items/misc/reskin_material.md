@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance.</i>
 
-**Purchasable from the Grove for 900 Kantos**
+**Purchasable from the Grove for 800 Kantos**
 
 **Reward from the Season 1 Battlepass**
 
@@ -61,7 +61,7 @@ import TabItem from '@theme/TabItem';
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 2)</i>
 
-**Purchasable from the Grove for 900 Kantos**
+**Purchasable from the Grove for 800 Kantos**
 
 **Reward from the Season 2 Battlepass**
 
@@ -90,7 +90,7 @@ import TabItem from '@theme/TabItem';
 
 **Reward from the Season 3 Battlepass**
 
-**Purchasable from the Grove for 900 Kantos**
+**Purchasable from the Grove for 800 Kantos**
 
 ## Season Three Showcase
 
@@ -118,7 +118,7 @@ import TabItem from '@theme/TabItem';
 
 **Reward from the Season 4 Battlepass**
 
-**Purchasable from the Grove for 600 Kantos**
+**Purchasable from the Grove for 800 Kantos**
 
 ## Season Four Showcase
 
@@ -140,13 +140,13 @@ import TabItem from '@theme/TabItem';
 
 # Orb of Transformation (S5)  
 
-![S4OrbT](https://i.imgur.com/jxjd38W.png)  Currently using s4 bc i cant find the s5 one. :O
+![S4OrbT](https://i.imgur.com/jxjd38W.png)  Currently using s4 bc i cant find the s5 one. :O (its a pokeball)
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 5)</i>
 
-**Reward from the Season 4 Battlepass**
+**Reward from the Season 5-6 Battlepass**
 
-**Purchasable from the Grove for 600 Kantos**
+**Purchasable from the Grove for 800 Kantos**
 
 ## Season Four Showcase
 
