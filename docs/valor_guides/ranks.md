@@ -46,3 +46,18 @@ description: "Basic Infomation on the Donor Ranks in Valor"
 - Access to exclusive MVP only text and voice chats
 - One free Gold Loot Boost a month (Global +50% Lootboost for 30mins)
 - Arcanuo's Eternal Love
+
+## Patron
+
+![PATRON](https://cdn.discordapp.com/attachments/1118235017550778448/1188098948041289880/patront.png?ex=65994a5f&is=6586d55f&hm=59fa5d2f871e6e96c8629f47f13347c33f6588456aa3470c2925dd5729720949&)
+
+
+- All MVP & Below Perks.
+- 14000 Kantos
+- Four Gold Boosts a month. (Logging in grants it.)
+- Exclusive Emote Ingame.
+- Access to The Patron Star Icon. (/patronicon)
+- Patron Role ingame & on discord.
+- 24/7 Access to Sandbox Server.
+[Information About Test Servers](https://wiki.valorserver.com/docs/valor_guides/premtesting)
+- [Click here for Patron Info.](https://valorserver.com/blog.valorserver.com/patron-sandbox-server-info/)
