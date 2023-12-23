@@ -9,19 +9,19 @@ description: "Wand of the Ascended Creation"
 
 <i>No one will ever truly know what kinda of experiments the doctor really conducted.</i>
 
-Damage: 170-180
+Damage: 115-135
 
 Shots: 1
 
-Rate of Fire: 140%
+Rate of Fire: 150%
 
 Range: 7
 
 Shots pass through obstacles
 
-    +15 Wisdom
+    +12 Wisdom
     
-    +150 Maximum MP
+    +120 Maximum MP
 
 Fame Bonus: 6%
 
@@ -29,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![WAC Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626727335460915/wandoftheascendedcreation.gif)
+![WAC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188067382057512970/normal_ar_blade.gif?ex=65992cf9&is=6586b7f9&hm=891de4a934ad4e6b143548f67db2b2306f506ea1dedf718ef409b0e67306f39f&)
