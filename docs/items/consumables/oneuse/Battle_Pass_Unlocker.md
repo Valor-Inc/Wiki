@@ -2,7 +2,7 @@
 sidebar_position: 1
 description: "Battle Pass Unlocker"
 ---
-
+ 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
