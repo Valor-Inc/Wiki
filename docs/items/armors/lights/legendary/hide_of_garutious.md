@@ -9,16 +9,17 @@ description: "The Hide of Garutious"
 
 <i>A hide from the fierce beast Garutious.</i>
 
-    +20 Defense
+
+***Swiftness: If your surge is atleast 50, you gain a swiftness buff.***
+
+    +18 Defense
     
     +100 Maximum HP
     
-    +20 Dexterity
+    +16 Dexterity
     
-    +3 Life Steal
+    +1 Life Steal
     
 Fame Bonus: 8%
-
-***Swiftness: If your surge is atleast 35, you gain a swiftness buff.***
 
 **Drops from Garutious in the Realm**
