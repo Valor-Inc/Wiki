@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 
 - Battle Pass for Kantos is next to the Battle Pass girl
 - Battle Pass for $ can be purchased from here:
-[Valor Shop](https://valorserver.com/ranks)
+Valor Market
 
 ***Also Kantos can be purchased here.***
 
@@ -45,7 +45,7 @@ import TabItem from '@theme/TabItem';
 ## Where can you buy it
 
 - Battle Pass Tier Unlocker for Kantos is next to the Battle Pass girl
-[Valor Shop](https://valorserver.com/ranks)
+Valor Market
 
 ***Also Kantos can be purchased here.***
 
