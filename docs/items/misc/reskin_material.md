@@ -140,7 +140,7 @@ import TabItem from '@theme/TabItem';
 
 # Orb of Transformation (S5)  
 
-![S4OrbT](https://i.imgur.com/jxjd38W.png)  Currently using s4 bc i cant find the s5 one. :O (its a pokeball)
+![S4OrbT](https://i.imgur.com/jxjd38W.png)  Currently using s4 bc i cant find the s5 one. :c (its a pokeball) 
 
 <i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 5)</i>
 
