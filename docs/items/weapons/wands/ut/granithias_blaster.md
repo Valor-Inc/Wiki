@@ -19,13 +19,9 @@ Range: 8.4
 
 Shots hit multiple targets
 
-    +90 Maximum HP
+    +80 Maximum HP
     
-    +14 Defense
-    
-    +4 Attack
-    
-    +4 Dexterity
+    +4 Defense
 
 Fame Bonus: 6%
 
@@ -33,4 +29,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![Granithias Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626728501481694/granithiasblaster.gif)
+![Granithias Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188067811252240475/normal_ar_blade.gif?ex=65992d5f&is=6586b85f&hm=3840b7794209cd4633fcf0c7d11ec502c3b40cae4c628ca14521aa3be6da27b0&)
