@@ -3,8 +3,7 @@ sidebar_position: 4
 description: "Granithia's Garments"
 ---
 
-
-# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Granithia's Garments
+Granithia's Garments
 
 ![GranithiasGar](https://vwiki.valorserver.com/api/item/picture/granithia's%20garments)
 
