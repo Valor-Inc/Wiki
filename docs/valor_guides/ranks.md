@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>  
   <TabItem value="VIP" label="VIP" default>
 
-  ## ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) VIP
+  ## ![UTbag](https://cdn.discordapp.com/attachments/1118235017550778448/1188178306911174778/adf_1.png?ex=65999447&is=65871f47&hm=1954661e3f925bc0036a6f32973c703f705c94fd50e4976289442c35f4bcaf8f&) VIP
   ![PremBanner](https://mvp.valorserver.com/images/vip-banner.png)
 
     - VIP Rank Ingame and on Discord
@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Premium" label="Premium">
     
- # ![fabled](https://cdn.discordapp.com/attachments/828314781793779742/1108582622457757706/FABLEDBAG.png) Premium
+ # ![fabled](https://cdn.discordapp.com/attachments/1118235017550778448/1188177720232906752/FABLEDBAG.png?ex=659993bb&is=65871ebb&hm=9736ec1f9655f2a06331253753ae54b419703f51bc7a050265d2b5fc2c641e0a&) Premium
   ![PremBanner](https://mvp.valorserver.com/images/prem-banner.png)
 
     - Premium Rank Ingame and on Discord
@@ -45,7 +45,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="MVP" label="MVP">
 
-  ## ![lgbag](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) MVP
+  ## ![lgbag](https://cdn.discordapp.com/attachments/1118235017550778448/1188178146181267657/Legendary_Bag_1.png?ex=65999421&is=65871f21&hm=fb6fda541ee3a23e68ffb0f0374e171efd337c84d77c02d297ecbab9358c0e43&) MVP
   ![MvpBanner](https://mvp.valorserver.com/images/mvp-banner.png)
 
     - MVP Rank Ingame and on Discord
@@ -60,7 +60,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Patron" label="Patron">
 
-  ## ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Patron
+  ## ![Ancient Relic](https://cdn.discordapp.com/attachments/1118235017550778448/1188177964374949908/Ancient_Relic_Bag.png?ex=659993f5&is=65871ef5&hm=fd64d6be376a371f1e6f01dddf85fe702c355734ad00a1bc4efa0e13aac282b9&) Patron
   ![PATRON](https://cdn.discordapp.com/attachments/1118235017550778448/1188098948041289880/patront.png?ex=65994a5f&is=6586d55f&hm=59fa5d2f871e6e96c8629f47f13347c33f6588456aa3470c2925dd5729720949&)
 
     - All MVP & Below Perks
