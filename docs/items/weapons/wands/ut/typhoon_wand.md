@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Typhoon Wand" label="Typhoon Wand" default>
 
-# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png)Typhoon Wand
+# Typhoon Wand
 
 ![typhoon](https://vwiki.valorserver.com/api/item/picture/typhoon%20wand)
 
