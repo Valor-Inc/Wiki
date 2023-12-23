@@ -79,3 +79,6 @@ Fame Bonus: 8%
 ## Projectile
 
 ![HoZ Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188034004549644288/normal_ar_blade.gif?ex=65990de3&is=658698e3&hm=b5d5ec71c7f5159d518963a279319069b7580b6f6592df17d9ece815d16ebb52&)
+
+  </TabItem>
+</Tabs>
