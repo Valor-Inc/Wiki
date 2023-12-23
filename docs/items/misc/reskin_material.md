@@ -134,6 +134,34 @@ import TabItem from '@theme/TabItem';
 
 ![S4Zol](https://i.imgur.com/NwU9yB3.png)
 
+
+  </TabItem>
+  <TabItem value="Orb of Transformation S5" label="Orb of Transformation S5">
+
+# Orb of Transformation (S5)  
+
+![S4OrbT](https://i.imgur.com/jxjd38W.png)  Currently using s4 bc i cant find the s5 one. :O
+
+<i>This is a cosmetic item, with vast powers. Using this item in the Crafting Station unlocks the Reskin System, allowing you to change your items appearance. (Season 5)</i>
+
+**Reward from the Season 4 Battlepass**
+
+**Purchasable from the Grove for 600 Kantos**
+
+## Season Four Showcase
+
+<ul>
+<li>Geek Theme</li> 
+</ul>
+
+![S4Fallen](https://cdn.discordapp.com/attachments/1118235017550778448/1188242789302014022/image.png?ex=6599d055&is=65875b55&hm=6f24387f433b6ae0a0dafd50d4736a7985e03baebf07a1955adda2d9178d828f&)
+
+<ul>
+<li>Royal Theme</li>
+</ul>
+
+![S4Zol](https://i.imgur.com/NwU9yB3.png)
+    
   </TabItem>
   <TabItem value="Distransformation Stone" label="Distransformation Stone">
 
