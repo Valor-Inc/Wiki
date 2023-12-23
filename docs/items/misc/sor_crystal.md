@@ -49,7 +49,6 @@ import TabItem from '@theme/TabItem';
 
 **This item is unable to break don't worry about the description in game**
 
-![Upgradeable](https://cdn.discordapp.com/attachments/948404602389286922/1004888354476806194/unknown.png)
 
   </TabItem>
 </Tabs>
