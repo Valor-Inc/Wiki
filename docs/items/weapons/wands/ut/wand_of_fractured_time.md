@@ -9,15 +9,17 @@ description: "The Wand of Fractured Time"
 
 <i>A wand built to help suture areas of riven time during the creation of the universe.</i>
 
-Damage: 120-140
+Damage: 140-210
 
 Shots: 1
 
-Rate of Fire: 120% 
+Rate of Fire: 110% 
 
-Range: 13.8
+Range: 9.5
 
 Shots hit multiple targets
+
+    +4 Wisdom
 
 Fame Bonus: 6%
 
@@ -25,4 +27,4 @@ Fame Bonus: 6%
 
 ## Projectile
 
-![WFT Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997626729491333120/wandoffracturedtime.gif)
+![WFT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188065642373451847/normal_ar_blade.gif?ex=65992b5a&is=6586b65a&hm=9c80c6d2f6d32f9d932934235a22b6ff7614eacee65b77066b3d47b3e11d9069&)
