@@ -9,7 +9,7 @@ description: "Basic Infomation on the Donor Ranks in Valor"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<Tabs> 
+<Tabs>  
   <TabItem value="VIP" label="VIP" default>
 
     ## ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) VIP
