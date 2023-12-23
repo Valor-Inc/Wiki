@@ -70,7 +70,7 @@ Shots hit multiple targets
 
 Fame Bonus: 8%
 
-**Upgraded form of [Tyhpoon Wand](https://wiki.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand)**
+**Upgraded form of [Snowmiser's Cane](https://wiki.valorserver.com/docs/items/weapons/wands/ut/typhoon_wand)**
 
 ***This item is a Limited Edition item***
 
