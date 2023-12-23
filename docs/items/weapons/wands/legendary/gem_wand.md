@@ -5,7 +5,7 @@ description: "The Gem Wand"
 
 # Gem Wand
 
-![GemWand](https://vwiki.valorserver.com/api/item/picture/gem%20wand)
+![GemWand](https://cdn.discordapp.com/attachments/1187552567295758487/1188029990701371482/Gem_Wand.png?ex=65990a26&is=65869526&hm=721e689dccded331120968acda232a54b132954eee20aeff80d6ed65d199939d&)
 
 <i>A wand capable of piercing through any material</i>
 
