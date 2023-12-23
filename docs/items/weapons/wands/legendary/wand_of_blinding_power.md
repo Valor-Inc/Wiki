@@ -9,15 +9,19 @@ description: "The Wand of Blinding Power"
 
 <i>You have seen enough!</i>
 
-Damage: 70-90
+**Gaze of Pain: Immunity to blind. Any enemy that inflicts Blind will be armor broken if it hits you.**
+
+Damage: 135-180
 
 Shots: 4
 
-Rate of Fire: 120%
+Rate of Fire: 60%
 
 Range: 7.5
 
 Shots hit multiple targets
+
+Ignores defense on target
 
 Fame Bonus: 8%
 
@@ -25,4 +29,4 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![WBP Projectile](https://cdn.discordapp.com/attachments/953134990428868629/997619543042183299/wandofblindingpower.gif)
+![WBP Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1188045258706137129/normal_ar_blade.gif?ex=6599185e&is=6586a35e&hm=c27fef18fa15c95318c4f3532ec19abd871a87c785085349874519606541bef5&)
