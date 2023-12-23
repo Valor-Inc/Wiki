@@ -1,13 +1,10 @@
 ---
 sidebar_position: 4
+title: Granithia's Garments
 description: "Granithia's Garments"
 ---
 
-
-<Tabs>
-  <TabItem value="Granithia's Garments" label="Granithia's Garments" default>
-
-# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Granithia's Garments
+Granithia's Garments
 
 ![GranithiasGar](https://vwiki.valorserver.com/api/item/picture/granithia's%20garments)
 
