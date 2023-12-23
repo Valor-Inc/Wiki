@@ -9,13 +9,16 @@ description: "The Enchanted Dragon Hide"
 
 <i>A flexible yet nigh-impenetrable hide forged from a glittering thousand emerald scales and ascendant energies. Smells faintly of mint.</i>
 
+
+***Heart of the Dragonborn: All healing effects, lifesteal and heals are 15% more effective.***
+
     +250 Maximum HP
     
     +20 Defense
     
-    +20 Attack
+    +10 Attack
     
-    -20 Speed
+    -10 Speed
     
 Fame Bonus: 8%
 
