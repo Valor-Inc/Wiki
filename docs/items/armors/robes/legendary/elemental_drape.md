@@ -35,7 +35,7 @@ Fame Bonus: 8%
 ***This item is a part of Cataclysmic Set***
 
   </TabItem>
-  <TabItem value="Elemental Drape Air" label="Elemental Drape Air" default>
+  <TabItem value="Air" label="Air" default>
 
 # Elemental Drape Air
 
@@ -66,7 +66,7 @@ Fame Bonus: 8%
 ***This item is a part of Cataclysmic Set***
 
   </TabItem> 
-  <TabItem value="Elemental Drape Earth" label="Elemental Drape Earth" default>
+  <TabItem value="Earth" label="Earth" default>
 
 # Elemental Drape Earth
 
@@ -94,7 +94,8 @@ Fame Bonus: 8%
 
 ***This item is a part of Cataclysmic Set***
 
-  </TabItem> <TabItem value="Elemental Drape Fire" label="Elemental Drape Fire" default>
+  </TabItem>
+  <TabItem value="Fire" label="Fire" default>
 
 # Elemental Drape Fire
 
@@ -124,7 +125,8 @@ Fame Bonus: 8%
 
 ***This item is a part of Cataclysmic Set***
 
-  </TabItem> <TabItem value="Elemental Drape Water" label="Elemental Drape Water" default>
+  </TabItem>
+  <TabItem value="Water" label="Water" default>
 
 # Elemental Drape Water
 
