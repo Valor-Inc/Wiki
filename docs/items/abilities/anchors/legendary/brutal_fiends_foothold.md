@@ -5,35 +5,31 @@ description: "The Brutal Fiend's Foothold"
 
 # Brutal Fiend's Foothold
 
-![BFF](https://vwiki.valorserver.com/api/item/picture/brutal%20fiend's%20foothold)
+![BFF](https://cdn.discordapp.com/attachments/1187552567295758487/1188421493093302353/Brutal_Fiends_Foothold.png?ex=659a76c3&is=658801c3&hm=dbbd6d1d56cdee2f19c8da408b338f00ce627a3a58fde369d7b73dacd68d535e&)
 
 <i>The slugging sidearm of choice for a phantasmagore-causing, picnic-loving spirit. Enjoy it while you last, murderer.</i>
 
-Damage: 1500-2500
+Damage: 1000
 
-Shots: 1
+Tip Damage Multiplier: x1.1
 
-Range: 5.4
+Range: 1 => 5
 
-Effect on Self: Bravery for 3 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shots Effect: Slowed for 6 seconds
+Rotations: 6
 
-Shots hit multiple targets
+Effect on Self: Bravery for 2s
 
-Ignores defense of target
+MP Cost: 90
 
-Shots boomerang
+Cooldown: 2 seconds
 
-MP Cost: 100
-
-Cooldown: 3
-
-    +5 Attack
+    +15 Attack
     
-    +11 Defense
+    +25 Might
     
-    +12 Wisdom
+    -66 Maximum HP
 
 Fame Bonus: 8%
 
