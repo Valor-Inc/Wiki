@@ -20,17 +20,15 @@ import TabItem from '@theme/TabItem';
 
     +150 Maximum MP
 
-    +12 Defense
+    +15 Defense
 
-    +15 Dexterity
+    +12 Dexterity
   
-    +15 Attack
+    +12 Attack
 
-    +10 Wisdom
+    +15 Wisdom
 
-    -5 Speed
-
-    -10 Vitality
+    -15 Vitality
     
 Fame Bonus: 16%
 
@@ -49,21 +47,19 @@ Fame Bonus: 16%
 
 **Air Rune: Increases your maximum health and maximum mana by 50, attack by 10 and dexterity by 10.**
 
-    +200 Maximum HP
+    +150 Maximum HP
 
-    +200 Maximum MP
+    +150 Maximum MP
 
-    +12 Defense
+    +10 Defense
 
-    +25 Dexterity
+    +20 Dexterity
 
-    +25 Attack
+    +10 Attack
 
-    +10 Wisdom
+    +10 Speed
 
-    -5 Speed
-
-    -10 Vitality
+    -20 Vitality
     
 Fame Bonus: 16%
 
@@ -82,17 +78,19 @@ Fame Bonus: 16%
 
 **Earth Rune: Increases your maximum health by 150, maximum mana by 50, defense by 15, attack and dexterity by 5. Removes negative speed and vitality.**
 
-    +300 Maximum HP
+    +250 Maximum HP
 
-    +200 Maximum MP
+    +150 Maximum MP
 
-    +30 Defense
+    +20 Defense
 
-    +20 Dexterity
+    +12 Dexterity
 
-    +20 Attack
+    +12 Attack
 
-    +10 Wisdom
+    +20 Vitality
+    
+    +2 Life Steal
 
 Fame Bonus: 16%
 
@@ -111,17 +109,19 @@ Fame Bonus: 16%
 
 **Fire Rune: Increases your maximum health by 100, maximum mana by 50, attack by 20, defense by 5 and removes dexterity and negative speed.**
 
-    +250 Maximum HP
+    +150 Maximum HP
 
-    +200 Maximum MP
+    +150 Maximum MP
 
-    +17 Defense
+    +15 Defense
 
-    +35 Attack
+    +20 Attack
 
     +10 Wisdom
+    
+    +10 Dexterity
 
-    -10 Vitality
+    -20 Vitality
 
 Fame Bonus: 16%
 
@@ -140,21 +140,19 @@ Fame Bonus: 16%
 
 **Water Rune: Increases your maximum health by 50, maximum mana by 150, wisdom by 25, and mana leech by 2.**
 
-    +200 Maximum HP
+    +150 Maximum HP
 
-    +300 Maximum MP 
+    +250 Maximum MP 
 
-    +12 Defense
+    +15 Defense
 
-    +15 Dexterity
+    +10 Dexterity
 
-    +15 Attack
+    +10 Attack
 
     +45 Wisdom
 
-    -5 Speed
-
-    -10 Vitality
+    -20 Vitality
 
     +2 Mana Leech
 
