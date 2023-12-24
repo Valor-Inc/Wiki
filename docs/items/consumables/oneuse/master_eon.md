@@ -11,4 +11,4 @@ description: "Master Eon"
 
 ***Maxes your character (11/11)***
 
-**Drops from Raids, Trials, Challenges**
+**Drops from Raids, Trials, Challenges and Elite Boxes**
