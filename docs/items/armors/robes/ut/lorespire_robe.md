@@ -1,24 +1,23 @@
 ---
 sidebar_position: 7
+title: Lorespire Robe
 description: "The Lorespire Robe"
 ---
 
 # Lorespire Robe
 
-![Lorespire](https://vwiki.valorserver.com/api/item/picture/lorespire%20robe)
+![Lorespire](https://cdn.discordapp.com/attachments/1187552567295758487/1188534189306421350/Lorespire_Robe.png?ex=659adfb8&is=65886ab8&hm=a00fca3894c24fa3b36b0d355c2afe5342970e098d0bd33de7cee6628fc5c97b&)
 
 <i>A grand robe found deep in the treasures of the place where the Dreadnought was locked away.</i>
 
-    +180 Maximum HP
+    +50 Maximum HP
     
-    +4 Attack
+    +12 Defense
     
-    +10 Defense
-    
-    -80 Maximum MP
+    +2 Fortune
     
 Fame Bonus: 6%
 
-***Upgradable with Essence of the Realm!***
+***Upgradable to Robe of Treasure with Essence of the Realm!***
 
 **Drops from Treasure Basilisks in the Concealment of the Dreadnought**
