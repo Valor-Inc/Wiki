@@ -11,19 +11,17 @@ import TabItem from '@theme/TabItem';
 
 # Bacon Cape
 
-![Bacon](https://i.imgur.com/ZeNot1w.png)
+![Bacon](https://cdn.discordapp.com/attachments/1187552567295758487/1188595229419376710/Bacon_Cape.png?ex=659b1891&is=6588a391&hm=a27cab2da0d072dd415ccfe24e22d5a3c3b269ffd37e20e519cc267afacac7c6&)
 
 <i>As much power as this garment gives, the worrying part isn't that it was once worn by the terrible Roger Bacon, but that for some ungodly reason, it smells like bacon as well.</i>
 
     +140 Maximum HP
     
-    -12 Defense
+    +18 Defense
+    
+    +5 Defense
     
     -15 Vitality
-    
-    +24 Dexterity
-    
-    +30 Luck
     
 Fame Bonus: 8%
 
@@ -42,13 +40,11 @@ Fame Bonus: 8%
 
     +140 Maximum HP
     
-    -12 Defense
+    +18 Defense
+    
+    +5 Defense
     
     -15 Vitality
-    
-    +24 Dexterity
-    
-    +30 Luck
     
 Fame Bonus: 8%
 
