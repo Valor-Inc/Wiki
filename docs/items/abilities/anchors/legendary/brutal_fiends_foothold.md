@@ -9,6 +9,8 @@ description: "The Brutal Fiend's Foothold"
 
 <i>The slugging sidearm of choice for a phantasmagore-causing, picnic-loving spirit. Enjoy it while you last, murderer.</i>
 
+**brutal Fiend's Wrath: You can only have up to 6 anchors active at once with this item. Upon hitting an enemy with the anchor, gain a stack of rage. At 100 stacks, transform into the Brutal Fiend himself for 10 seconds. The Brutal Fiend transformation increases your attack and vitality by +22% and 66% respectively, it also doubles your anchor damage.**
+
 Damage: 1000
 
 Tip Damage Multiplier: x1.1
