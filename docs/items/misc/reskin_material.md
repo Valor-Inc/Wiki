@@ -160,7 +160,7 @@ import TabItem from '@theme/TabItem';
 <li>Royal Theme</li>
 </ul>
 
-![S4Zol](https://i.imgur.com/NwU9yB3.png)
+![S4Zol](https://cdn.discordapp.com/attachments/1118235017550778448/1188242881304072212/image-1.png?ex=6599d06b&is=65875b6b&hm=49a584c33a1b44a20cbdf8f2431441076379ab9f840324bdae0e7cd8b999eb91&)
     
   </TabItem>
   <TabItem value="Distransformation Stone" label="Distransformation Stone">
