@@ -1,17 +1,18 @@
 ---
 sidebar_position: 1
+title: The Coat of the Devil
 description: "The Coat of the Devil"
 ---
 
 # Coat of the Devil
 
-![Coat](https://vwiki.valorserver.com/api/item/picture/coat%20of%20the%20devil)
+![Coat](https://cdn.discordapp.com/attachments/1187552567295758487/1188449726274744390/Coat_of_the_Devil.png?ex=659a910f&is=65881c0f&hm=e8d673d8149387ad2540ac493b000d8b6cdfbb18f6ae1ee16fbb69957b7758d8&)
 
 <i>The coat that the devil wears when he is in human form.</i>
 
-    +4 Attack
+    +40 Luck
     
-    +14 Defense
+    +15 Defense
     
     +10 Speed
     
