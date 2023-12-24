@@ -9,21 +9,21 @@ description: "The Phantomic Anchor"
 
 <i>This Ghostly Anchor was once wielded by Pirates who now serve Septavius.</i>
 
-Damage: 650-750
+Damage: 750
 
-Shots: 1
+Tip Damage Multiplier: x2
 
-Range: 6
+Range: 1 => 8.5
 
-Grants either Armored, or Invisible for 2 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shot Effect: Slowed for 3.5 seconds
+Rotations: 7.5
 
-Shots hit multiple targets
+Effect on Self: Grants either Armored, or Invisible for 2 seconds
 
 Ignores defense of target
 
-Shots boomerang
+Slowed for 1.5s
 
 MP Cost: 90
 
@@ -33,6 +33,6 @@ Cooldown: 4 seconds
     
     +3 Defense
 
-Fame Bonus: No Fame Bonus
+Fame Bonus: 4%
 
 **Drops from Septavius, the Ghost God from the Undead Lair**
