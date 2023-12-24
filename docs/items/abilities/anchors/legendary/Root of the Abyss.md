@@ -1,12 +1,12 @@
 ---
-description: "Anchor of the Chosen"
+description: "Root of the Abyss"
 ---
 
-# Anchor of the Chosen
+# Root of the Abyss
 
-![AC](https://vwiki.valorserver.com/api/item/picture/anchor%20of%20the%20chosen)
+![AC](https://cdn.discordapp.com/attachments/1187552567295758487/1188449407889317949/Root_of_the_Abyss.png?ex=659a90c3&is=65881bc3&hm=52f68d979ac3f2197c0183db1d5908e614e5dc4eeb70ffc30855363f00271589&)
 
-<i>A lsot relic discovered in the darkest depths of the ocean, shrouded in mystery and myth. Millennia of being submerged have left this anchor mossy and encrusted with barnacles, remains palpable.</i>
+<i>A lost relic discovered in the darkest depths of the ocean, shrouded in mystery and myth. Millennia of being submerged have left this anchor mossy and encrusted with barnacles, remains palpable.</i>
 
 **Pelagic Pressure: Upon hitting an enemy with this anchor, apply the crushed and armor broken debuffs for 4 seconds. The crushed debuff applies a 15% slow and causes said enemy to take 50% more damage from your anchor for it's duration.**
 
