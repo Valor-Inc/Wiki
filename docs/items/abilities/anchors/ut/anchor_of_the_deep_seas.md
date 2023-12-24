@@ -9,25 +9,23 @@ description: "Anchor of the Deep Seas"
 
 <i>It was once thought this anchor could not be found...</i>
 
-Damage: 500-675
+Damage: 850
 
-Shots: 1 
+Tip Damage Multiplier: x1
 
-Range: 5.4
+Range: 1 => 8
 
-Effect on Self: Drunk for 2 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shot Effect: Slowed for 4 seconds
+Rotations: 6.5
 
-Shots hit multiple targets
+Ignores Defense of target
 
-Ignores defense of target
+Slowed for 2s
 
-Shots boomerang
+MP Cost: 90
 
-MP Cost: 80
-
-Cooldown: 2.5
+Cooldown: 2.5 seconds
 
     -10 Speed
     
