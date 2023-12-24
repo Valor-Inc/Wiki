@@ -24,5 +24,3 @@ description: "The Garments of Maw"
     
 Fame Bonus: 8%
 
-
-**Forged from Shard of the Ancients**
