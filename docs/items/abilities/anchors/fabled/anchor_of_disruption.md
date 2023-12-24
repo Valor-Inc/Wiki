@@ -9,27 +9,27 @@ description: "The Anchor of Disruption"
 
 <i>This is Serenity the Ripper's most prized anchor.</i>
 
-Damage: 925-1250
+Damage: 1000
 
-Shots: 1
+Tip Damage Multiplier: x1.3
 
-Range: 6
+Range: 1 => 8
 
-Grants either Damaging, or Weak for 3 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shot Effect: Curse for 4 seconds
+Rotations: 6.5
 
-Shots hit multiple targets
+Effect on Self: Curse for 1.5s
+
+Curse for 3s
 
 Ignores defense of target
 
-Shots boomerang
-
-MP Cost: 90
+MP Cost: 100
 
 Cooldown: 4 seconds
 
-    +12 Attack
+    +8 Attack
 
 Fame Bonus: No Fame Bonus
 
