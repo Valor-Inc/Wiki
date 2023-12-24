@@ -45,7 +45,7 @@ Fame Bonus: 8%
 
 **Untapped Potential: This item can be upgraded with elemental runes. An air rune gives it 12 speed, a fire gives it 4 attack and dexterity, water gives it 15 wisdom, and earth gives it 50 health and 10 defense.**
 
-<i>Air Rune: This item gains an additional 12 speed.<i/>
+<i>Air Rune: This item gains an additional 12 speed.</i>
 
     +100 Maximum HP
     
