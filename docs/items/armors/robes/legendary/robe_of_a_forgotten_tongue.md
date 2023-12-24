@@ -1,15 +1,18 @@
 ---
 sidebar_position: 8
+title: Robe of a Forgotten Tongue
 description: "The Robe of a Forgotten Tongue"
 ---
 
 # Robe of a Forgotten Tongue
 
-![ForgottenTongue](https://vwiki.valorserver.com/api/item/picture/robe%20of%20a%20forgotten%20tongue)
+![ForgottenTongue](https://cdn.discordapp.com/attachments/1187552567295758487/1188597717065273426/Robe_of_A_Forgotten_Tongue.png?ex=659b1ae2&is=6588a5e2&hm=17a7284583fc85a3cc603b99f92248bdc48f6f49322c85ba564438cb30a2cc34&)
 
 <i>An indescribably comfortable waterlace robe imbued with the humming power of an ancient demonic tongue.</i>
 
-    +15 Attack
+**Gain swiftness if no enemies are within 7 tiles of you**
+
+    +8 Attack
     
     +150 Maximum HP
     
