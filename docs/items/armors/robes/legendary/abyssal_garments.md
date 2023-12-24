@@ -1,5 +1,5 @@
 ---
-sidebar_position: 17
+sidebar_position: 18
 title: Abyssal Garments
 description: "Abyssal Garments"
 ---
@@ -11,7 +11,7 @@ description: "Abyssal Garments"
 <i>A magical vesture created from abyssal algae together with the magical skin of the Kraken, the fabric generates powerful electric currents that electrify and tear apart its drowning victims.</i>
 
 
-***Elecrogenesis: Upon striking 10 critical hits, unleash a chain lighting that will deal 2000 damage and hit 4 targets***
+**Elecrogenesis: Upon striking 10 critical hits, unleash a chain lighting that will deal 2000 damage and hit 4 targets**
 
 
     +125 Maximum HP
