@@ -1,28 +1,156 @@
 ---
 sidebar_position: 3
-description: "The Elemental Drape"
+title: Elemental Drape
+description: "Elemental Drape"
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="Elemental Drape" label="Elemental Drape" default>
 
 # Elemental Drape
 
-![Elementald](https://vwiki.valorserver.com/api/item/picture/elemental%20drape)
+![Elementald](https://cdn.discordapp.com/attachments/1187552567295758487/1188602987329884170/Elemental_Drape.png?ex=659b1fcb&is=6588aacb&hm=52d0da7bee635847ff61cc05070d3c5cdfb6c67b579efbb49cf5019da21c5dd2&)
 
 <i>Even a stripe of resonance with the elements can bring one mere inches from the gods. But to cloak oneself int he fundamental...?</i>
 
-    +80 Maximum HP
+**Untapped Potential: This item can be upgraded with elemental runes. An air rune gives it 12 speed, a fire gives it 4 attack and dexterity, water gives it 15 wisdom, and earth gives it 50 health and 10 defense.**
+
+    +100 Maximum HP
     
     +50 Maximum MP
     
-    +10 Attack
+    +5 Attack
     
-    +15 Defense
+    +10 Defense
     
-    +15 Wisdom
+    +10 Wisdom
     
     +20 Might
     
-Fame Bonus: 10%
+Fame Bonus: 8%
 
 ***This item is a part of Cataclysmic Set***
 
-**Forged from Shard of Ancient Assault**
+  </TabItem>
+  <TabItem value="Elemental Drape Air" label="Elemental Drape Air" default>
+
+# Elemental Drape Air
+
+![ElementaldAir](https://cdn.discordapp.com/attachments/1187552567295758487/1188602995752050728/Elemental_Drape_Air.png?ex=659b1fcd&is=6588aacd&hm=091b4d23a45bdee66ba14736768a6e05595ca47398e2d5e5c2fcc7f543a17123&)
+
+<i>Even a stripe of resonance with the elements can bring one mere inches from the gods. But to cloak oneself int he fundamental...?</i>
+
+**Untapped Potential: This item can be upgraded with elemental runes. An air rune gives it 12 speed, a fire gives it 4 attack and dexterity, water gives it 15 wisdom, and earth gives it 50 health and 10 defense.**
+
+<i>Air Rune: This item gains an additional 12 speed.<i/>
+
+    +100 Maximum HP
+    
+    +50 Maximum MP
+    
+    +5 Attack
+    
+    +10 Defense
+    
+    +10 Wisdom
+    
+    +20 Might    
+      
+    +12 Speed
+    
+Fame Bonus: 8%
+
+***This item is a part of Cataclysmic Set***
+
+  </TabItem> 
+  <TabItem value="Elemental Drape Earth" label="Elemental Drape Earth" default>
+
+# Elemental Drape Earth
+
+![ElementaldEarth](https://cdn.discordapp.com/attachments/1187552567295758487/1188603005268926554/Elemental_Drape_Earth.png?ex=659b1fcf&is=6588aacf&hm=a988f51a1c53ece4ca2fcd3609921d61866fba8e660a4c2d12bf297381d7436d&)
+
+<i>Even a stripe of resonance with the elements can bring one mere inches from the gods. But to cloak oneself int he fundamental...?</i>
+
+**Untapped Potential: This item can be upgraded with elemental runes. An air rune gives it 12 speed, a fire gives it 4 attack and dexterity, water gives it 15 wisdom, and earth gives it 50 health and 10 defense.**
+
+<i>Earth Rune: This item gains an additional 50 health and 10 defense<i/>
+
+    +150 Maximum HP
+    
+    +50 Maximum MP
+    
+    +5 Attack
+    
+    +20 Defense
+    
+    +10 Wisdom
+    
+    +20 Might
+    
+Fame Bonus: 8%
+
+***This item is a part of Cataclysmic Set***
+
+  </TabItem> <TabItem value="Elemental Drape Fire" label="Elemental Drape Fire" default>
+
+# Elemental Drape Fire
+
+![ElementaldFire](https://cdn.discordapp.com/attachments/1187552567295758487/1188603013196169216/Elemental_Drape_Fire.png?ex=659b1fd1&is=6588aad1&hm=297e39b72b03347161a918d562a06745d4b7b9e5196431f39738b3d294f02971&)
+
+<i>Even a stripe of resonance with the elements can bring one mere inches from the gods. But to cloak oneself int he fundamental...?</i>
+
+**Untapped Potential: This item can be upgraded with elemental runes. An air rune gives it 12 speed, a fire gives it 4 attack and dexterity, water gives it 15 wisdom, and earth gives it 50 health and 10 defense.**
+
+<i>Fire Rune: This item gains an additional 4 attack, and 4 dexterity.<i/>
+
+    +100 Maximum HP
+    
+    +50 Maximum MP
+    
+    +9 Attack
+    
+    +10 Defense
+    
+    +10 Wisdom
+    
+    +20 Might
+    
+    +4 Dexterity
+    
+Fame Bonus: 8%
+
+***This item is a part of Cataclysmic Set***
+
+  </TabItem> <TabItem value="Elemental Drape Water" label="Elemental Drape Water" default>
+
+# Elemental Drape Water
+
+![ElementaldWater](https://cdn.discordapp.com/attachments/1187552567295758487/1188603020527800350/Elemental_Drape_Water.png?ex=659b1fd3&is=6588aad3&hm=4639ccaf2a6978b5b16254e4e6da05fe51fd30438259f6d814d0da743bfb996a&)
+
+<i>Even a stripe of resonance with the elements can bring one mere inches from the gods. But to cloak oneself int he fundamental...?</i>
+
+**Untapped Potential: This item can be upgraded with elemental runes. An air rune gives it 12 speed, a fire gives it 4 attack and dexterity, water gives it 15 wisdom, and earth gives it 50 health and 10 defense.**
+
+<i>Water Rune: This item gains an additional 15 wisdom.<i/>
+
+    +100 Maximum HP
+    
+    +50 Maximum MP
+    
+    +5 Attack
+    
+    +10 Defense
+    
+    +25 Wisdom
+    
+    +20 Might
+    
+Fame Bonus: 8%
+
+***This item is a part of Cataclysmic Set***
+
+  </TabItem>
+  </Tabs>
