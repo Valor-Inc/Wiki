@@ -6,7 +6,7 @@ description: "Death Robe"
 
 # ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Death Robe
 
-![Death Robe]([https://cdn.discordapp.com/attachments/1187552567295758487/1188196245936808019/Iron_Protection.png?ex=6599a4fc&is=65872ffc&hm=8aea9a027aa92d32d6902e565507711ef04af130ea94cfe5c5bcbf19fdbb5031&)](https://cdn.discordapp.com/attachments/1187552567295758487/1188234586023547031/Death_Robe.png?ex=6599c8b1&is=658753b1&hm=61846f403dc19e6a3143c50f76ac74188c64a7f360f7be6da50edfc5bbe61409&)
+![Death Robe](https://cdn.discordapp.com/attachments/1187552567295758487/1188234586023547031/Death_Robe.png?ex=6599c8b1&is=658753b1&hm=61846f403dc19e6a3143c50f76ac74188c64a7f360f7be6da50edfc5bbe61409&)
 
 <i>Scary.</i>
 
