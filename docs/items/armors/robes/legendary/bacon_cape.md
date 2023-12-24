@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Bacon Cape
+description: "Bacon Cape"
 ---
 
 import Tabs from '@theme/Tabs';
