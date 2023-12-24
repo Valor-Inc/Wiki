@@ -9,31 +9,31 @@ description: "Anchor of the Chosen"
 
 <i>A truly fierce Anchor. This Anchor is as old as Yazanahar itself!</i>
 
-Damage: 1050-1650
+**The Chosen One: Upon hitting an enemy with the tip of this anchor, gain a Chosen stack, increasing all of your stats by 1% up to 15%. Each stack lasts 10 seconds.**
 
-Shots: 1
+Damage: 1500
 
-Range: 6.4
+Tip Damage Multiplier: x2
 
-Effect on Self: Berserk for 4 seconds
+Range: 1 => 5
 
-Shot Effect: Slowed for 7 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shots hit multiple targets
+Rotations: 10
 
-Ignores defense of target
+Effect on Self: Berserk for 4s
 
-Shots boomerang
+Curse for 2s
 
-MP Cost: 95
+MP Cost: 130
 
-Cooldown: 3.5 seconds
+Cooldown: 6 seconds
 
-    +15 Wisdom
+    +40 Luck
+
+    +7 Dexterity
     
-    +10 Defense
-    
-    +10 Dexterity
+    -5 Defense
 
 Fame Bonus: 8%
 
