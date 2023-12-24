@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Dranbiel Garbs
 description: "Dranbiel Garbs"
 ---
 
@@ -9,20 +10,18 @@ description: "Dranbiel Garbs"
 
 <i>A fantastic solgarb of Bielian make, channeling the wearer's magical affinity into rudimentary lifeweaver magicks.</i>
 
-    +200 Maximum HP
+***Belonging: You feel more at home with this cruel world--it made you, after all. If below 90% HP, you heal 10% HP when using your ability. 3s CD***
+
+    +220 Maximum MP
     
-    +120 Maximum MP
+    +100 Maximum HP
     
-    +15 Attack
+    +5 Attack
     
-    +24 Defense
+    +15 Defense
     
     +40 Wisdom
-    
-    +60 Restoration
 
 Fame Bonus: 8%
-
-***Belonging: You feel more at home with this cruel world--it made you, after all. If below 90% HP, you heal 10% HP when using your ability. 3s CD***
 
 **Retool of Kiskiorab**
