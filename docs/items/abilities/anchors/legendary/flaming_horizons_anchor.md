@@ -16,31 +16,27 @@ import TabItem from '@theme/TabItem';
 
 <i>This once dull Anchor is now alight with dancing flames.. It is said to split int multiple Anchors due to the heat.</i>
 
-Damage: 660-890
+**A Burning Horizon: Enemies hit by the tip of this anchor light on fire, taking 1000 damage every second for 6 seconds (stackable). Each enemy inflicted with this fire will, every 2 seconds, transfer 50% of their stacks within 5 squares. Upon an enemy losing all stacks, that enemy will become immune to the fire for the next 8 seconds.**
 
-Shots: 3
+Damage: 750
 
-Range: 4
+Tip Damage Multiplier: x2.5
 
-Grants either Armored, or Healing for 6 seconds
+Range: 1 => 4
 
-Shot Effect: Dazed for 4 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shots hit multiple targets
+Rotations: 5
 
 Ignores defense of target
 
-Shots boomerang
+MP Cost: 120
 
-MP Cost: 80 
-
-Cooldown: 3.5 seconds
-
-    +15 Attack
+Cooldown: 2 seconds
     
-    +110 Maximum HP
+    +150 Maximum HP
     
-    +12 Defense
+    +20 Defense
 
 Fame Bonus: 8%
 
@@ -55,31 +51,27 @@ Fame Bonus: 8%
 
 <i>Sink thy heart in and claw from the depths, transient~!</i>
 
-Damage: 660-890
+**A Burning Horizon: Enemies hit by the tip of this anchor light on fire, taking 1000 damage every second for 6 seconds (stackable). Each enemy inflicted with this fire will, every 2 seconds, transfer 50% of their stacks within 5 squares. Upon an enemy losing all stacks, that enemy will become immune to the fire for the next 8 seconds.**
 
-Shots: 3
+Damage: 750
 
-Range: 4
+Tip Damage Multiplier: x2.5
 
-Grants either Armored, or Healing for 6 seconds
+Range: 1 => 4
 
-Shot Effect: Dazed for 4 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shots hit multiple targets
+Rotations: 5
 
 Ignores defense of target
 
-Shots boomerang
+MP Cost: 120
 
-MP Cost: 80 
-
-Cooldown: 3.5 seconds
-
-    +15 Attack
+Cooldown: 2 seconds
     
-    +110 Maximum HP
+    +150 Maximum HP
     
-    +12 Defense
+    +20 Defense
 
 Fame Bonus: 8%
 
