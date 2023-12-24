@@ -5,30 +5,35 @@ description: "Quantum Oscillator"
 
 # Quantum Oscillator
 
-![anchor](https://vwiki.valorserver.com/api/item/picture/quantum%20oscillator)
+![anchor](https://cdn.discordapp.com/attachments/1187552567295758487/1188453611395629136/Quantum_Oscillator.png?ex=659a94ad&is=65881fad&hm=f40481cc8847737f62022e34d070226fc6fded5f26793fa4863e35f458d4d1bd&)
 
 *A basic tool equipped with advanced utillies.*
 
-Damage: 600-700
+Damage: 950
 
-Shots: 1
+Tip Damage Multiplier: x2
 
-Effect on Self: Speedy for 3 seconds 
+Range: 1 => 10
 
-Shot Effect: Slowed for 2 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shots hit multiple targets
+Rotations: 6.5
+
+Effect on Self: Speedy for 3s
+
+Slowed for 1.5s
 
 Ignores defense of target
 
-Shots boomerang
-
 MP Cost: 80
 
-Cooldown: 5s
+Cooldown: 5 seconds
 
     +10 Speed
 
     +5 Dexterity
 
+Fame Bonus: No Fame Bonus
+
+    
 **Drops from Cyberlord**
