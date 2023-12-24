@@ -9,29 +9,27 @@ description: "The Anchor of Titanic Might"
 
 <i>The First Mate of the Blood Sea once wielded this terrfying Anchor.</i>
 
-Damage: 570-880
+Damage: 400
 
-Shots: 1
+Tip Damage Multiplier: x1
 
-Range: 6
+Range: 1 => 8
 
-Grants either Armored, or Healing for 4 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shot Effect: Slowed for 5 seconds
-
-Shots hit multiple targets
+Rotations: 7.5
 
 Ignores defense of target
 
-Shots boomerang
+Armor Broken for 5s
 
 MP Cost: 100
 
 Cooldown: 4 seconds
-
-    +7 Attack
     
     +10 Vitality
+
+    +7 Defense
 
 Fame Bonus: No Fame Bonus
 
