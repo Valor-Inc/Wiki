@@ -11,7 +11,7 @@ description: "Robe of the Mad Scientist
 <i>A Well-worn robe used for Science!.</i>
 
     +4 Attack
-    
+
     +2 Vitality
     
     +13 Defense
