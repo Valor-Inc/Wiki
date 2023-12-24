@@ -9,27 +9,29 @@ description: "The Anchor of Coral Treasure"
 
 <i>Found within the depths of the trenches, lied remains of the lost coral treasure that resembles an anchor.</i>
 
-Damage: 1275-1400
+Damage: 3000
 
-Shots: 1
+Tip Damage Multiplier: x1
 
-Range: 5.4
+Range: 3 => 5
 
-Effect on Self: Drunk for 4 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shots hit multiple targets
+Rotation: 4
+
+Effect on Self: Speedy for 2s
+
+Slowed for 2s
 
 Ignores defense of target
 
-Shots boomerang
+MP Cost: 110
 
-MP Cost: 100
-
-Cooldown: 3.5 seconds
+Cooldown: 1 seconds
 
     +5 Fortune
     
-    +5 Speed
+    +15 Speed
     
     +10 Defense
 
