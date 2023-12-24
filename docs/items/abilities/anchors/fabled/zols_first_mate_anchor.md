@@ -9,29 +9,25 @@ description: "Zol's First Mate Anchor"
 
 <i>The sanctimonious and certainly heavy gift of Zol Captains to their most eminent mates. It's a useless formality, for the only virtue of a honorless seadog is subservience and sadism.</i>
 
-Damage: 625-775
+Damage: 1000
 
-Shots: 1 
+Tip Damage Multiplier: x2
 
-Range: 5.8
+Range: 1 => 8
 
-Grants either Armored, or Healing for 3.5 seconds
+On Use: ***Swing a massive anchor around yourself, damaging enemies in it's path. The tip of this anchor deals extra damage.***
 
-Shot Effect: Slowed for 5.5 seconds
+Rotations: 6.5
 
-Shots hit multiple targets
+Corrupted for 1.5s
 
 Ignores defense of target
 
-Shots boomerang
+MP Cost: 100
 
 Cooldown: 4 seconds
 
-    +5 Attack
-    
     +11 Defense
-    
-    +12 Wisdom
     
     +1 Life Steal
 
