@@ -1,6 +1,7 @@
 ---
 sidebar_position: 12
-description: "The Sacrilegious Kaftan"
+title: Sacrilegious Kaftan
+description: "Sacrilegious Kaftan"
 ---
 
 # Sacrilegious Kaftan
@@ -9,17 +10,19 @@ description: "The Sacrilegious Kaftan"
 
 <i>A profane garment woven from the immaculate weave and coat of the beautiful Sphynx. Fills the wearer with power and guilt in kind.</i>
 
+**Blessing of the Ancients: Heal 10 HP for every critical hit dealt.**
+
     +120 Maximum HP
     
-    +12 Attack
+    +8 Attack
     
     +15 Defense
     
     -25 Vitality
     
-    +30 Might
+    +15 Might
     
-    +2 Life Steal
+    +1 Life Steal
     
 Fame Bonus: 8%
 
