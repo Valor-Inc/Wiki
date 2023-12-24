@@ -1,24 +1,25 @@
 ---
-sidebar_position: 6
-description: "The Iron Protection"
+sidebar_position: 16
+title: Iron Protection
+description: "Iron Protection"
 ---
 
-# Iron Protection
+# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Iron Protection
 
-![IronProt](http://i.imgur.com/hbJ7mYp.png)
+![Iron Protection](https://cdn.discordapp.com/attachments/1187552567295758487/1188196245936808019/Iron_Protection.png?ex=6599a4fc&is=65872ffc&hm=8aea9a027aa92d32d6902e565507711ef04af130ea94cfe5c5bcbf19fdbb5031&)
 
-<i>A heavy armor, yet light as a feather.</i>
+<i>A heavy armor crafted by Dr. Terrible as a replacement for his robe. Though incredibly durable, it remains shockingly light.</i>
 
-    +25 Maximum HP
-    
-    +45 Maximum MP
-    
-    +5 Attack
-    
-    +10 Defense
-    
-    +6 Wisdom
-    
-Fame Bonus: 6%
+    +75 Maximum HP
 
-**Drops from Dr. Terrible of the Mad Lab**
+    +25 Maximum MP
+
+    +17 Defense
+
+    +4 Attack    
+
+    +4 Wisdom
+
+Fame Bonus: 4%
+
+**Drops from Dr. Terrible in Mad Lab**
