@@ -13,9 +13,7 @@ description: "The Elemental Relic"
     
     +90 Maximum MP
     
-    +40 Restoration
-    
-    +4 Attack
+    +5 Defense
     
     +6 Speed
     
