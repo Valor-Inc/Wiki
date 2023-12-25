@@ -9,9 +9,9 @@ description: "The Ivory Ring"
 
 <i>A ring that was found in the hidden chest from the Lair of Draconis.</i>
 
-    +160 Maximum HP
+    +125 Maximum HP
     
-    +8 Defense
+    +6 Defense
     
     +2 Attack
     
