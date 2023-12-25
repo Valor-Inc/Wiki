@@ -9,11 +9,11 @@ description: "The Ring of Fortune"
 
 <i>A ring that seems to bring you great fortune.</i>
 
-    +70 Maximum HP
+    +50 Maximum HP
     
     +5 Fortune
     
-    +20 Might
+    +10 Might
     
     +20 Luck
     
