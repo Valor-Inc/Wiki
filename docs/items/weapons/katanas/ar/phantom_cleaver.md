@@ -215,7 +215,7 @@ Rate of Fire: 100%
 
 Range: 5
 
-    +25 Might
+    +25 Luck
     
 Fame Bonus: 15%
 
@@ -243,7 +243,7 @@ Rate of Fire: 100%
 
 Range: 5
 
-    +25 Might
+    +25 Luck
     
 Fame Bonus: 15%
 
