@@ -13,9 +13,9 @@ description: "The Eye of Peril"
     
     +60 Maximum MP
     
-    +20 Might
+    +4 Attack
     
-    +10 Luck
+    +40 Luck
    
 Fame Bonus: 6%
 
