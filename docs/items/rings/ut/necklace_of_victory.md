@@ -9,13 +9,11 @@ description: "The Necklace of Victory"
 
 <i>A necklace to symbolize victory.</i>
 
-    +160 Maximum HP 
+    +65 Maximum HP 
+
+    +6 Wisdom
     
-    -40 Maximum MP
-    
-    +60 Restoration
-    
-    +8 Vitality
+    +6 Vitality
     
 Fame Bonus: 6%
 
