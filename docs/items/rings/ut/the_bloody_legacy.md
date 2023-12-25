@@ -7,7 +7,7 @@ description: "The Bloody Legacy"
 
 ![BloodyLeg](https://cdn.discordapp.com/attachments/1187552567295758487/1188962265676910652/The_Bloody_Legacy.png?ex=659c6e65&is=6589f965&hm=d6e2a791fdb20b90ef2b69f820bdef2d61a34ec4a7558e6b7b55d578512dbefb&)
 
-<i>Old ring. It was passed from hand to hand many generations. Thx to BLOODQWEN, to draw this set.</i>
+<i>An ancient ring, it has been passed from hand to hand for many generations.</i>
 
     +40 Maximum HP
     
