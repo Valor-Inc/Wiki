@@ -5,19 +5,17 @@ description: "The Rose Petal Amulet"
 
 # Rose Petal Amulet
 
-![RPA](https://vwiki.valorserver.com/api/item/picture/rose%20petal%20amulet)
+![RPA](https://cdn.discordapp.com/attachments/1187552567295758487/1188960852662026402/Rose_Petal_Amulet.png?ex=659c6d15&is=6589f815&hm=a6fb774d0fce9056be01457c2808b7e9a38431fa3d1eb43f1fa9c14420e8678a&)
 
 <i>A petal plucked from the chest of Vitalia</i>
 
-**Sprited by: BLOODQWEN**
-
     +100 Maximum HP
     
-    +20 Vitality
+    +15 Vitality
     
-    +6 Attack
+    +2 Attack
     
-    +6 Dexterity
+    +2 Dexterity
     
 Fame Bonus: 6%
 
