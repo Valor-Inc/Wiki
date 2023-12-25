@@ -18,11 +18,11 @@ import TabItem from '@theme/TabItem';
 
     +8 Speed
     
-    +8 Dexterity
+    +4 Dexterity
     
-    +8 Attack
+    +3 Attack
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 4%
 
 ***Upgradable with Essence of the Realm***
 
@@ -40,12 +40,12 @@ Fame Bonus: No Fame Bonus
 *A large, torn sock; I wonder what Giant could have worn this?*
 
     +8 Speed
-
-    +8 Dexterity
-
-    +8 Attack
-
-Fame Bonus: No Fame Bonus
+    
+    +4 Dexterity
+    
+    +3 Attack
+    
+Fame Bonus: 4%
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
