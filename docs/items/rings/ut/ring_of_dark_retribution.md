@@ -15,7 +15,7 @@ description: "The Ring of Dark Retribution"
     
     +4 Speed
     
-    +1 Wisdom
+    +5 Wisdom
     
 Fame Bonus: 6%
 
