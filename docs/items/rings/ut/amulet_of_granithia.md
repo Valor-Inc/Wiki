@@ -13,12 +13,12 @@ description: "The Amulet of Granithia"
 
     +120 Maximum HP
     
-    +20 Defense
+    +12 Defense
     
-    +4 Attack
+    +2 Attack
     
-    +4 Dexterity
+    +2 Dexterity
     
-Fame Bonus: No Fame Bonus
+Fame Bonus: 4%
 
 **Drops from Granithia of the Garden of Chaos**
