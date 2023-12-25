@@ -25,4 +25,4 @@ Fame Bonus: 8%
 
 **Drops from Ghost Bride in Haunted Cemetery**
 
-***This item is a part of Skuld 2 The ReGostening Set***
+***This item is a part of Skuld 2 The ReGhostening Set***
