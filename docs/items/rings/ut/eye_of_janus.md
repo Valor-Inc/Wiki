@@ -5,21 +5,17 @@ description: "The Eye of Janus"
 
 # Eye of Janus
 
-![EJ](http://i.imgur.com/zWojJno.png)
+![EJ](https://cdn.discordapp.com/attachments/1187552567295758487/1188953801420439582/Eye_of_Janus.png?ex=659c6683&is=6589f183&hm=13a9334ff9fddc298f2d1b164117bdee1c7863b64e8d209239fb6bf144e9538d&)
 
-<i>Why is this sparkling eye still alive ? Thanks to petrovlolo to made this set</i>
+<i>You entered the battle against Oryx' doorwarden, leaving victorious with what gave Janus his powers.</i>
 
-    +50 Maximum MP
+    +50 Maximum HP
     
     +5 Attack
     
-    -6 Defense
+    +20 Might
     
-    -3 Speed
-    
-    +5 Dexterity
-    
-    +5 Wisdom
+    -5 Defense
     
 Fame Bonus: 6%
 
