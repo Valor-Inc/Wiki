@@ -5,7 +5,7 @@ description: "The All-Seeing Eye"
 
 # All-Seeing Eye
 
-![ASE](https://vwiki.valorserver.com/api/item/picture/all-seeing%20eye)
+![ASE](https://cdn.discordapp.com/attachments/1187552567295758487/1188948466962014339/All-Seeing_Eye.png?ex=659c618c&is=6589ec8c&hm=db8e12bde185435dc3700b68c0b46e21d2a375da665a93a4b410ed2655951cfd&)
 
 <i>Just open your eyes.....</i>
 
@@ -13,11 +13,11 @@ Grants 'BlindImmune' after 45 seconds
 
     +50 Maximum HP
     
-    +10 Attack
+    +4 Attack
     
-    +5 Dexterity
+    +2 Dexterity
     
-    +15 Might
+    +10 Might
 
 Fame Bonus: 6%
 
