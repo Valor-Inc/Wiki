@@ -5,9 +5,9 @@ description: "The Reactor"
 
 # The Reactor
 
-![Reactor](http://i.imgur.com/0PV6mfz.png)
+![Reactor](https://cdn.discordapp.com/attachments/1187552567295758487/1188962771619025037/The_Reactor.png?ex=659c6ede&is=6589f9de&hm=0fda92630980d3a84e42cda46dac8ccfced43941eec3dd8303711b15fab2a74f&)
 
-<i>This thing looks unstable. Better be careful, it might explode. Thx to BLOODQWEN, to draw this set.</i>
+<i>A protective accessory that harnesses the potential of electrical energy, acting as a shield and imbuing the wearer with a state of vitality and safety.</i>
 
     +75 Maximum HP
     
@@ -15,9 +15,7 @@ description: "The Reactor"
     
     +6 Defense
     
-    -4 Speed
-    
-    +6 Vitaltiy
+    +6 Wisdom
     
  Fame Bonus: 4%
 
