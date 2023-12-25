@@ -35,7 +35,7 @@ Fame Bonus: 4%
 
 # The Tattered Sock
 
-![Sock](https://vwiki.valorserver.com/api/item/picture/the%20tattered%20sock)
+![Sock](https://cdn.discordapp.com/attachments/1187552567295758487/1188950238304677919/The_Tattered_Sock.png?ex=659c6332&is=6589ee32&hm=c2150503a5ec119d70243c669bf88a6cb4943c649ef045656a1801fc3f6c8083&)
 
 *A large, torn sock; I wonder what Giant could have worn this?*
 
