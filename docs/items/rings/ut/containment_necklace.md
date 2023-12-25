@@ -11,11 +11,9 @@ description: "The Containment Necklace"
 
     +120 Maximum MP
     
-    +12 Attack
+    +6 Attack
     
-    +12 Wisdom
-    
-    +60 Restoration
+    +10 Wisdom
     
 Fame Bonus: 6%
 
