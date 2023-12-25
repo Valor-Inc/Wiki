@@ -9,17 +9,15 @@ description: "Ring of the Storm Gods"
 
 <i>A ring that shocks the energy of a storm god into it's user. Thanks to: TehEnd.</i>
 
-    +20 Maximum MP
+    +50 Maximum MP
     
-    +20 Maximum HP
+    +70 Maximum HP
     
-    +20 Might
+    +40 Luck
     
-    +6 Attack
+    +3 Attack
     
-    +6 Dexterity
-    
-    +8 Defense
+    +3 Dexterity
     
 Fame Bonus: 6%
 
