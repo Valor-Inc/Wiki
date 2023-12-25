@@ -9,13 +9,13 @@ description: "The Gauntlet of Chaos"
 
 *Nos ad delendam...* **("We are to destroy...")**
 
-    +130 Maximum MP
+    +100 Maximum MP
     
     +6 Defense
     
-    -6 Dexterity
+    +6 Dexterity
     
-    +6 Wisdom
+    -5 Vitality
 
 Fame Bonus: 4%
 
