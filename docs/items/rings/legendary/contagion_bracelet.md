@@ -23,5 +23,6 @@ Title: Contagion Bracelet
 
     +1 Mana Leech
 
+Fame Bonus 8%
 
 **Drops from Toxic Troll Alert**
