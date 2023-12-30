@@ -36,3 +36,8 @@ Fame Bonus: 6%
 ***Can be upgraded with Elemental Sor Crystal!***
 
 **Drops from the Resthla, The Twisted Mermaid of the Ascended Ocean Trench**
+    
+## Projectile
+
+![AotDS Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508182125158401/Anchor_of_the_Deep_Seas.gif)
+
