@@ -37,3 +37,7 @@ Fame Bonus: No Fame Bonus
 
     
 **Drops from Cyberlord**
+    
+## Projectile
+
+![QO Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508407455764600/Quantum_Oscillator.gif)
