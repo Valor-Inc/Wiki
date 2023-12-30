@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 # Elemental Drape
 
-![Elementald](https://cdn.discordapp.com/attachments/1187552567295758487/1188602987329884170/Elemental_Drape.png?ex=659b1fcb&is=6588aacb&hm=52d0da7bee635847ff61cc05070d3c5cdfb6c67b579efbb49cf5019da21c5dd2&)
+![Elementald](https://cdn.discordapp.com/attachments/1187552567295758487/1190508901502816346/Elemental_Drape.png?ex=65a20ed0&is=658f99d0&hm=76b03b7074b554343c4e9326600ce3b098f8aba0b5d8c4990752060102b072b9&)
 
 <i>Even a stripe of resonance with the elements can bring one mere inches from the gods. But to cloak oneself int he fundamental...?</i>
 
