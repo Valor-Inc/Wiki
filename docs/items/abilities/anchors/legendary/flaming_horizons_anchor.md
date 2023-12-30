@@ -41,6 +41,10 @@ Cooldown: 2 seconds
 Fame Bonus: 8%
 
 **Drops from Skull Shrine**
+    
+## Projectile
+
+![FHA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508435230429274/Flaming_Horizons_Anchor.gif)
 
   </TabItem>
   <TabItem value="Beguiling Fisherman's Bower" label="Beguiling Fisherman's Bower">
@@ -78,6 +82,10 @@ Fame Bonus: 8%
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
 **From Valentines Day 2022**
+
+## Projectile
+
+![BFB Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508320872742932/Beguiling_Fishermans_Bower.gif)
 
  </TabItem>
 </Tabs>
