@@ -36,3 +36,7 @@ Cooldown: 4 seconds
 Fame Bonus: 4%
 
 **Drops from Septavius, the Ghost God from the Undead Lair**
+
+## Projectile
+
+![PA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508393073492008/Phantomic_Anchor.gif)
