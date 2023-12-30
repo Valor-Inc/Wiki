@@ -5,7 +5,7 @@ description: "The Stormcaller's Horns"
 
 # Stormcaller's Horns
 
-![stormcallers](https://vwiki.valorserver.com/api/item/picture/stormcaller's%20horns)
+![stormcallers](https://cdn.discordapp.com/attachments/1187552567295758487/1190508902861770772/Stormcallers_Horns.png?ex=65a20ed1&is=658f99d1&hm=eda6e5953b6c84b0d53b8c4843404493a756abdebd4969e978976146e0237689&)
 
 <i>The sky will split and shatter, like prisms of light landing on a bygone land.</i>
 
