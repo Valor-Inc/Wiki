@@ -5,7 +5,7 @@ description: "The Selenic Clasp"
 
 # Selenic Clasp
 
-![Selenic](https://vwiki.valorserver.com/api/item/picture/selenic%20clasp)
+![Selenic](https://cdn.discordapp.com/attachments/1187552567295758487/1190505328735944834/Selenic_Clasp.png?ex=65a20b7c&is=658f967c&hm=01dd2dea4bac747c628aec617b01ed03abc56f97751fabef360a60fd94e8b3fb&)
 
 <i>A fateful craft of the Lunar Order, this resonant necklace is known to bring the wearer hope even in their darkest hour.</i>
 
