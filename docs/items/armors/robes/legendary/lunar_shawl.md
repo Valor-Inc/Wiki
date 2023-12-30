@@ -6,7 +6,7 @@ description: "The Lunar Shawl"
 
 # Lunar Shawl
 
-![Lunar](https://vwiki.valorserver.com/api/item/picture/lunar%20shawl)
+![Lunar](https://cdn.discordapp.com/attachments/1187552567295758487/1190504974220804117/Lunar_Shawl.png?ex=65a20b28&is=658f9628&hm=8e67c8b5fd613cfb34fe3443742e04e6b4668e754e4bbd99571f9a8d4efeaab2&)
 
 <i>A magnificently embroidered shawl, woven from silkseed and bound by lunar energies to bless the wielder with universal resolve.</i>
 
