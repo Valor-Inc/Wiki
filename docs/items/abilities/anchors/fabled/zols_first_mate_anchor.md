@@ -34,3 +34,7 @@ Cooldown: 4 seconds
 Fame Bonus: No Fame Bonus
 
 **Drops from Aldragine of the Zol Awakening raid**
+    
+## Projectile
+
+![ZFMA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508424664977449/Zols_First_Mate_Anchor.gif)
