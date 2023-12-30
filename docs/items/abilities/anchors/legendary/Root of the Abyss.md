@@ -35,3 +35,8 @@ Cooldown: 6 seconds
 Fame Bonus: 8%
 
 **Drops from Mirr, The Sea Drake**
+
+    
+## Projectile
+
+![RotA Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508428477599835/Root_of_the_Abyss.gif)
