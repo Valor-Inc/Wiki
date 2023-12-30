@@ -1,5 +1,5 @@
 ---
-sidebar_position: 34
+sidebar_position: 3
 title: Eye of the Kraken
 description: "Eye of the Kraken"
 ---
