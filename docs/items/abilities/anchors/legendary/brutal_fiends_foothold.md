@@ -36,3 +36,8 @@ Cooldown: 2 seconds
 Fame Bonus: 8%
 
 **Drops from Tod in the Realm.. you murderer**
+
+    
+## Projectile
+
+![BFF projctile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508431765942322/Brutal_Fiends_Foothold.gif)
