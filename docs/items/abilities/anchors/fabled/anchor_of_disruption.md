@@ -34,3 +34,7 @@ Cooldown: 4 seconds
 Fame Bonus: No Fame Bonus
 
 **Drops from Serenity the Ripper | Public Challenge**
+
+## Projectile
+
+![AoD Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508050155589743/Anchor_of_Disruption.gif)
