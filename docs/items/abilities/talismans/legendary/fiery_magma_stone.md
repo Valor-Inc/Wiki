@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 # Fiery Magma Stone
 
-![FMS](https://vwiki.valorserver.com/api/item/picture/fiery%20magma%20stone)
+![FMS](https://cdn.discordapp.com/attachments/1187552567295758487/1190508901838356563/Fiery_Magma_Stone.png?ex=65a20ed0&is=658f99d0&hm=fbf81dca2f7193ebe342b75a12dd2735da439efaf967691ee6cc124015b3ba1e&)
 
 <i>An ornate stone ward that serves as a dimensional prison for the vengeful elemental specter trapped within.</i>
 
