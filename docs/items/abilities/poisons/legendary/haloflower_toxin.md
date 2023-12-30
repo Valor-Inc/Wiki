@@ -5,7 +5,7 @@ description: "The Haloflower Toxin"
 
 # Haloflower Toxin
 
-![haloflower](https://vwiki.valorserver.com/api/item/picture/haloflower%20toxin)
+![haloflower](https://cdn.discordapp.com/attachments/1187552567295758487/1190507672726949888/Haloflower_Toxin.png?ex=65a20dab&is=658f98ab&hm=555d9e7c368b70cde5c55a2f8b16c89f90017a3fbb5a18c3a61662f01d8ca35b&)
 
 <i>Fast-acting and infamously lethal poison pressed from the Haloflower seed.</i>
 
