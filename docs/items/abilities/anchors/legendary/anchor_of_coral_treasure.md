@@ -40,3 +40,8 @@ Cooldown: 1 seconds
 Fame Bonus: 8%
 
 **Upgraded form of [Anchor of the Deep Seas](https://wiki.valorserver.com/docs/items/abilities/anchors/ut/anchor_of_the_deep_seas)**
+
+## Projectile
+
+![AoCT](https://cdn.discordapp.com/attachments/1160376179996496013/1190508029330849934/Anchor_of_Coral_Treasure.gif)
+
