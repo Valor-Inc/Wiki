@@ -34,3 +34,7 @@ Cooldown: 4 seconds
 Fame Bonus: No Fame Bonus
 
 **Drops from Cerynus and Odeus, the titans of the Fallen Light raid**
+    
+## Projectile
+
+![AoTM Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1190508197816049664/Anchor_of_Titanic_Might.gif)
