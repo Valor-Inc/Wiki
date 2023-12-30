@@ -5,7 +5,7 @@ description: "The Tyrant Helm"
 
 # Tyrant Helm
 
-![tyrant](https://vwiki.valorserver.com/api/item/picture/tyrant%20helm)
+![tyrant](https://cdn.discordapp.com/attachments/1187552567295758487/1190508887099588720/Tyrant_Helm.png?ex=65a20ecd&is=658f99cd&hm=1691be8fd4f1ea0b8461cb1a8209d49b61105dc51ac325f300ae70fff657d3a6&)
 
 <i>Showing no mercy, shows power. We must begin our lead in the realm. The true rulers of this world, show yourself. ~Odem, Controller of Fortitude</i>
 
