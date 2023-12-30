@@ -5,7 +5,7 @@ description: "The Gilded Helm"
 
 # The Gilded Helm
 
-![GildedH](https://vwiki.valorserver.com/api/item/picture/the%20gilded%20helm)
+![GildedH](https://cdn.discordapp.com/attachments/1187552567295758487/1190508886885675090/The_Gilded_Helm.png?ex=65a20ecd&is=658f99cd&hm=d227a44902be0282dfc7bd071053f96ffbaea033b859b600eda82e547919e03b&)
 
 <i>Stay golden, warrior.</i>
 
