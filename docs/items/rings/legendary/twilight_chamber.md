@@ -1,6 +1,7 @@
 ---
 sidebar_position: 29
-description: "Twilight Chamber"
+description: "The Twilight Chamber"
+title: Twilight Chamber
 ---
 
 # Twilight Chamber
