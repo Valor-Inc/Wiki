@@ -5,7 +5,7 @@ description: "The Sun and Moon Expansion"
 
 # Sun and Moon Expansion
 
-![SME](https://vwiki.valorserver.com/api/item/picture/sun%20and%20moon%20expansion)
+![SME](https://cdn.discordapp.com/attachments/1187552567295758487/1190508885828710460/Sun_and_Moon_Expansion.png?ex=65a20ecc&is=658f99cc&hm=5dcdc32a811b63cf6e716aaf7a9024a64e9bbdb9cfbf6f643275487820291986&)
 
 <i>Time will only tell when the war will end for good.</i>
 
