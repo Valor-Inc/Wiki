@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 
 ![here](https://media.discordapp.net/attachments/904979308727119882/934567890374508584/ssbarbieswoo.gif?ex=659092ac&is=657e1dac&hm=da2f149a12a48374fac2b44a81e129d8b834b32d2fda5d07907ac39eb2ab684d&)
 
-# A: The game does! Check out the solutions in [Common Problems](https://wiki.valorserver.com/docs/valor_guides/installation_&_common_problems/#common-problems).
+# A: The game does! Check out the solutions in [Common Problems](https://wiki.valorserver.com/docs/info/installation_&_common_problems/#common-problems).
 
 ### Q: What is "Godstruck"
 
@@ -63,7 +63,7 @@ import TabItem from '@theme/TabItem';
 
 ### Q: Why doesnt this page exist/Wiki should have this!
 
-# A: The Valor wiki is currently still in its early stages and might not have the exact thing you're looking for like raid/class guides, but you can add those pages yourself [here](https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki) or if you dont want to do that you can follow the steps to make an issue and instead click suggestion and someone will try to get it added (If reasonable)
+# A: The Valor wiki is currently still in its early stages and might not have the exact thing you're looking for like raid/class guides, but you can add those pages yourself [here](https://wiki.valorserver.com/docs/info/contributing_to_the_wiki) or if you dont want to do that you can follow the steps to make an issue and instead click suggestion and someone will try to get it added (If reasonable)
 
 ### Q: Wiki bad.
 

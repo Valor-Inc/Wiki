@@ -82,9 +82,9 @@ const config = {
           },
           {to: 'https://wiki.valorserver.com/docs/items/showcase', label: 'Item Viewer', position: 'left'},
           {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
-          {to: 'https://wiki.valorserver.com/docs/valor_guides/contributing_to_the_wiki', label: 'Bug Reports and Suggestions', position: 'left'},
+          {to: 'https://wiki.valorserver.com/docs/info/contributing_to_the_wiki', label: 'Bug Reports and Suggestions', position: 'left'},
           {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
-          {to: 'https://viewer.valorserver.com/', label: 'Old Wiki', position: 'left'},
+          {to: 'https://wiki.valorserver.com/docs/info/staff', label: 'Staff', position: 'left'},
           {
             href: 'https://github.com/Valor-inc/Wiki',
             label: 'GitHub',
