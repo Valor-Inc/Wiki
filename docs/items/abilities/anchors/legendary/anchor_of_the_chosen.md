@@ -38,3 +38,7 @@ Cooldown: 6 seconds
 Fame Bonus: 8%
 
 **Drops from Xanarich, the Chosen One of the Ancient Depths**
+
+## Projectile
+
+![AoTC](https://cdn.discordapp.com/attachments/1160376179996496013/1190508087115780216/Anchor_of_the_Chosen.gif)
