@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Decimator Bow
 
-![Decimator Bow](https://vwiki.valorserver.com/api/item/picture/decimator%20bow)
+![Decimator Bow](https://cdn.discordapp.com/attachments/1187552567295758487/1190508884981461102/Decimator_Bow.png?ex=65a20ecc&is=658f99cc&hm=0de7c00ab4c4b0e441c3ce504965c7e1c748f59b74c13815087a5efff819cb6c&)
 
 <i> Dark spirits influence the prey of this bow. In the wrong hands this weapon is fatal.</i>
 
