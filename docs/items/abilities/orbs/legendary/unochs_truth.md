@@ -5,7 +5,7 @@ description: "Unoch's Truth"
 
 # Unoch's Truth
 
-![truth](https://vwiki.valorserver.com/api/item/picture/unoch's%20truth)
+![truth](https://cdn.discordapp.com/attachments/1187552567295758487/1190508887330279484/Unochs_Truth.png?ex=65a20ecd&is=658f99cd&hm=6d330f89e3ccbc584bcafcf6ec6620304b7a3fda58ed8fd0e608edd129f0e6e3&)
 
 <i>Hiding isn't the answer, face it.</i>
 
