@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sortable Table</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+</head>
+<body>
+  <table id="myTable" class="display">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Location</th>
+        <th>Occupation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>John</td>
+        <td>30</td>
+        <td>California</td>
+        <td>Developer</td>
+      </tr>
+      <tr>
+        <td>Alice</td>
+        <td>28</td>
+        <td>New York</td>
+        <td>Designer</td>
+      </tr>
+      <tr>
+        <td>Michael</td>
+        <td>35</td>
+        <td>Texas</td>
+        <td>Engineer</td>
+      </tr>
+      <!-- Add more rows -->
+    </tbody>
+  </table>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#myTable').DataTable();
+    });
+  </script>
+</body>
+</html>
