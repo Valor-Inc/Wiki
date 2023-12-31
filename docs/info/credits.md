@@ -7,18 +7,28 @@ description: "Credit's given where credit's due!"
 
 ## DeathMod (Deviser)
 
-## Nordic
-
 ## VoidEntity
+
+##  JeSSuS
+
+## Akise
+
+## Valor
 
 ## Waterfiend
 
 ## Liv
 
-##  Jessus
+## Nordic
 
-## Akise
 
-## Valor
+
+
+
+
+
+
+
+
 
 
