@@ -9,11 +9,11 @@ description: "Credit's given where credit's due!"
 
 ## Nordic
 
-## Oddish
+## 
 
 ## Waterfiend
 
 ## Thruy
 
-## Rina
+## 
 
