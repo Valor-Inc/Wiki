@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: The Staff Team
 description: "Meet the Team"
 ---
 
