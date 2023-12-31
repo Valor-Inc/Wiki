@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-Title: Credits
+Title: Wiki Contributors
 description: "Credit's given where credit's due!"
 ---
 # Credits
@@ -9,11 +9,16 @@ description: "Credit's given where credit's due!"
 
 ## Nordic
 
-## 
+## VoidEntity
 
 ## Waterfiend
 
-## Thruy
+## Liv
 
-## 
+##  Jessus
+
+## Akise
+
+## Valor
+
 
