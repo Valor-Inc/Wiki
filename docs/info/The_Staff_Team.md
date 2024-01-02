@@ -25,6 +25,7 @@ description: "Meet the Team"
 | **SrModerator** | Training & Logs | ABlindSniper | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746700791848/ABlindSniper.jpg?ex=65a4693c&is=6591f43c&hm=55a8077d6dd94a6f3c8dbec3225f63bc8280f2ea9cd6b60d1584c7943d2a45f8&"/> |
 | **SrModerator** | Community management | Avatar | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460151123775589/ca9d393cadeb5b9c81fff01efe258ea5.png?ex=65a584bc&is=65930fbc&hm=037718cffdd31501e86a1028b1e5ceed259f5ab9b1a3b70158782b50d621a691&"/> |
 | **SrModerator** | Deviser | Deviser | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460150922444960/5329e32e4918479c669a0cd8cfec16b0.png?ex=65a584bc&is=65930fbc&hm=1b7fdaf4cb7dd9cf88d830fb21c8a354b279a3c2439984ecf9e04fd5d8188a80&"/> |
+| **Moderator/Content Team** | Lesser Jack of all trades | Deathmod | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191532488808485005/monkey_1.png?ex=65a5c81a&is=6593531a&hm=23a52400c2dadd106554d28519d8eaf859acd213cd98002aee0dac75683c4eb8&"/> |
 | **Moderator** |  Training & Logs | Xanny | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467688095125534/a_134c8bbce413c6d10352caee90bb0c2f.gif?ex=65a58bc1&is=659316c1&hm=6a1986f7a0db0b6d8c72b967064472d4dc56d0c56c54ce8a1420b4ecc9a9c13b&"/> |
 | **Moderator** |  Discord/in Game Security/Support Tickets | Silent | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467688451637300/b074a34e5210d44f787558bbdff96b8a.png?ex=65a58bc1&is=659316c1&hm=1046dd42e9dc8a335ac0dfff1f2a3855d39cd21d4b6fc43c4087dc63a6b608c5&"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Dissy | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155745929048134/3f063d44ed3eafcf3567ce459a831074.jpg?ex=65a4693c&is=6591f43c&hm=d2b5e645cbfc08efa83ab747993739eeed0859c03cb8ade80c25eabde4d1c028&"/> |
@@ -53,7 +54,6 @@ description: "Meet the Team"
 **Moderator** -. They Provide the avoidance of excess or extremes, especially in one's behavior or opinions.
 
 **Junior Moderator** -. An Apprentice Looking Forward to learn the ropes of Moderation
-
 
 
 
