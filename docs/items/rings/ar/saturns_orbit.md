@@ -16,11 +16,11 @@ import TabItem from '@theme/TabItem';
 
 <i>A asteroid-plated, super hard diamong ring with enchants granting the user power beyond this world.</i>
 
-    +13 Defense
+    +15 Defense
 
-    +13 Attack
+    +15 Attack
 
-    +21 Fortune
+    +24 Fortune
 
 Fame Bonus: 16%
 
@@ -45,15 +45,13 @@ Fame Bonus: 16%
 
 <i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Sky.</i>
 
-**Air Rune: Increases your speed by 27.**
-
-    +13 Defense
+**Air Rune: Increases your speed by 30 and grants 12 dexterity instead of attack**
   
-    +27 Speed
+    +30 Speed
 
-    +13 Attack
+    +12 Dexterity
 
-    +21 Fortune
+    +24 Fortune
 
 Fame Bonus: 16%
 
@@ -78,13 +76,13 @@ Fame Bonus: 16%
 
 <i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Earth.</i>
 
-**Earth Rune: Increases your fortune by 5, defense by 5, and attack by 5.**
+**Earth Rune: Increases your defense by 15, reduces your Attack by 10.**
 
-    +18 Defense
+    +30(+15) Defense
 
-    +18 Attack
+    +5(-10) Attack
 
-    +26 Fortune
+    +24 Fortune
 
 Fame Bonus: 16%
 
@@ -109,15 +107,13 @@ Fame Bonus: 16%
 
 <i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Raging Fire.</i>
 
-**Fire Rune: Increases your attack by 4, dexterity by 7, and decreases your defense by 3.**
+**Fire Rune: Increases your attack by 5, dexterity by 5 and decreases your defense by 15.**
 
-    +10 Defense
+    +5 Dexterity
 
-    +7 Dexterity
+    +20(+5) Attack
 
-    +17 Attack
-
-    +21 Fortune
+    +24 Fortune
 
 Fame Bonus: 16%
 
@@ -142,11 +138,13 @@ Fame Bonus: 16%
 
 <i>A asteroid-plated, super hard diamond ring with enchants granting the user power beyond this world. Enchanted the power of the Sea.</i>
 
-**Water Rune: Increases your fortune by 7, wisdom by 12, decreases your attack by 13 and defense by 13.**
+**Water Rune: Increases your Wisdom by 28, decreases your attack by 15 and defense by 3.**
 
-    +12 Wisdom
+    +28 Wisdom
 
-    +28 Fortune
+    +24 Fortune
+
+    +12(-3)Defense
 
 Fame Bonus: 16%
 
