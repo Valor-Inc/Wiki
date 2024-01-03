@@ -16,13 +16,13 @@ import TabItem from '@theme/TabItem';
 
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect.</i>
 
-    +13 Attack
+    +10 Attack
     
-    +13 Defense
+    +10 Defense
     
-    +110 Luck
+    +100 Luck
     
-    +110 Might
+    +100 Might
     
 Fame Bonus: 16%
 
@@ -48,14 +48,12 @@ Fame Bonus: 16%
 <i>An extraodinary feat of forbidden science and alchemical reduction, this stupendously powerful reactor harnesses some unknown force within the Sor to inconceivable effect. Also, someone colored the glowy bit white.</i>
 
 **Air Rune: Gain dexterity and higher RoF, Slowed less effective.**
-
-    +10 Attack
     
-    +10 Dexterity
+    +15 Dexterity
     
-    +110 Luck
+    +130(+30) Luck
     
-    +110 Might
+    +85(-15) Might
     
 Fame Bonus: 16%
     
@@ -82,13 +80,13 @@ Fame Bonus: 16%
 
 **Earth Rune: Gain defense and additional hp regen. Armor break is less effective.**
 
-    +13 Attack
+    +5(-5) Attack
     
-    +20 Defense
+    +25(+15) Defense
     
-    +110 Luck
+    +90(-10) Luck
     
-    +110 Might
+    +90(-10) Might
     
 Fame Bonus: 16%
     
@@ -115,11 +113,11 @@ Fame Bonus: 16%
 
 **Fire Rune: Increase in attack and damage in exchange for defense, Weak is less effective.**
 
-    +20 Attack
+    +15(+5) Attack
     
-    +110 Luck
+    +75(-25) Luck
     
-    +110 Might
+    +115(+15) Might
     
 Fame Bonus: 16%
     
@@ -146,13 +144,13 @@ Fame Bonus: 16%
 
 **Water Rune: Gain Wisdom, Quiet is less effective.**
 
-    +13 Attack
+    +5(-5) Attack
     
-    +30 Wisdom
+    +35 Wisdom
     
-    +110 Luck
+    +90(-10) Luck
     
-    +110 Might
+    +90(-10) Might
     
 Fame Bonus: 16%
     
