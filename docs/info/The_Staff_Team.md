@@ -32,8 +32,7 @@ description: "Meet the Team"
 | **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460145197232249/9c39e15c6b147c82c4e86173ce7eb1e0.png?ex=65a584ba&is=65930fba&hm=2b4f2671030d47bbbc8bfb7296931c87b46f8b03263e762da2d1683f516bf2ab&"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Doomered | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191156308422967376/unknown-17-3-1_1.png?ex=65a469c2&is=6591f4c2&hm=ba2ee7f0cb10d6221d47ab06af911c4eb3136384a420a731e70472a354b1aa81&"/> |
 | **JrModerator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747845845033/IMG_0075.jpg?ex=65a4693c&is=6591f43c&hm=9a9346707da3110794eaccebfe0a94bab073b82e1906ae0b42f61b77bc9c8a74&"/> |
-
-
+| **JrModerator** | Discord/in Game Security/Support Tickets | Deus | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155748156211200/Olga.jpg?ex=65a4693c&is=6591f43c&hm=483b324a49070d569311b36417005ea77e72effb316f85a977506bcd7caea9f9&"/> |
 
 
 
