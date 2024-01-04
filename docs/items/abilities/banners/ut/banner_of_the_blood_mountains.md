@@ -9,15 +9,17 @@ description: "Banner of the Blood Mountains"
 
 <i>A red banner that stands for no mortal.</i>
 
-Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5 sqrs empower you allies for 6 seconds
+Effect on Self: Speedy for 2s
 
-Recast: Charage towards your banner and do 900 damage During the charge your damage taken is reduced by 45%
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds. Within 5 squares, empower your allies for 6 seconds, Bleeding to enemies for 3 seconds.
+
+Recast: **Charge towards your banner. While charging, -45% damage taken. Deal 3060. damage.**
 
 MP Cost: 90
 
-    +10 Dexterity
+    +4 Speed
     
-    -4 Speed
+    -4 Defense
 
 Fame Bonus: 6%
 
