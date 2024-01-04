@@ -4,7 +4,7 @@ title: Astral Waystone
 description: "Astral Waystone"
 ---
 
-# ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) Astral Waystone
+# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png) Astral Waystone
 
 ![Astral Waystone](https://cdn.discordapp.com/attachments/1187552567295758487/1192312713746055268/Astral_Waystone.png?ex=65a89ebf&is=659629bf&hm=2cbc4fa378abbcf18421139d037f2306014ca0b87d514ca9178ada4d1ab9eae9&)
 
