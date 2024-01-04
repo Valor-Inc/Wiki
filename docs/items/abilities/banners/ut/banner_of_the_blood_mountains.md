@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 description: "Banner of the Blood Mountains"
+Title: Banner of the Blood Mountains
 ---
 
 import Tabs from '@theme/Tabs';
