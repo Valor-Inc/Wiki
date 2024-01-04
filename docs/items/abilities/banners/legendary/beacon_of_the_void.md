@@ -9,6 +9,8 @@ description: "Beacon of the Void"
 
 <i>A beacon used by Sidon himself to grant his allies strength to win the war.</i>
 
+**Entity of the Void: Your dash damage can crit.**
+
 Effect on Self: Armored for 4s
 
 Party Effect: +8 Defense in 6 squares for 4s
