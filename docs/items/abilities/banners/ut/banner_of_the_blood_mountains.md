@@ -55,6 +55,10 @@ MP Cost: 90
 
 Fame Bonus: 6%
 
+***This item is a Limited Edition item***
+
+***April Fools 2023***
+
 **Drops from Zaragon, the Blood Mage in the Realm**
 
  </TabItem>
