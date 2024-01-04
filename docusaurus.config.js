@@ -97,6 +97,7 @@ const config = {
         links: [
           {
             title: 'Valor Info',
+            to: 'https://wiki.valorserver.com/docs/category/valor-info',
             items: [
               {
                 label: 'Blog',
