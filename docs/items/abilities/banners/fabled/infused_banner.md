@@ -9,15 +9,17 @@ description: "The Infused Banner"
 
 <i>You feel the radiating power of this banner.</i>
 
-Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5.5 sqrs empower you allies for 6 seconds
+Effect on Self: Damaging for 2.5s
 
-Recast: Charage towards your banner and do 1150 damage During the charge your damage taken is reduced by 60%
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds. Within 5.5 squares, empower your allies for 6 seconds.
 
-Effect on Self: Bersek for 2 seconds
+Recast: **Charge towards your banner. While charging, -60% damage taken. Deal 3350 damage.**
 
 MP Cost: 95
 
-    +12 Attack
+    +6 Attack
+
+    +80 Maximum MP
 
 Fame Bonus: 6%
 
