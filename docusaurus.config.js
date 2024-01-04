@@ -96,7 +96,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Valor Guides',
+            title: 'Valor Info',
             items: [
               {
                 label: 'Blog',
