@@ -16,4 +16,4 @@ description: "Shard of Eternity"
    
 Fame Bonus: 7%
 
-**Drops in ???**
+**Drops from Pentaract**
