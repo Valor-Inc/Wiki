@@ -10,7 +10,7 @@ description: "Shard of Eternity"
 
 <i>A powerful crystal containing the essence of eternity, through its power is increadible, it remains untapoped.</i>
 
-    +675 Maximum HP
+    +75 Maximum HP
     
     +10 Defense
    
