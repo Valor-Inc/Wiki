@@ -9,19 +9,21 @@ description: "The Jester's Tattered Cloth"
 
 <i>A cloth, teared up from Puppet Master's own Coat.</i>
 
+**The Mad Dash: When quieted by an enemy gain swiftness for 3s.**
+
 Effect on Self: Speedy for 3 seconds
 
 Effect on Self: Berserk for 3 seconds
 
-Banner: Throw a Banner at your cursor. Stays active for 6 seconds|Within 5 squares empower your allies for 6 seconds
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds. Within 5 squares, empower your allies for 6 seconds, Slowed to enemies for 5 seconds.
 
-Recast: Charge towards your banner and do 1250 damage
+Recast: **Charge towards your banner. While charging, -45% damage taken. Deal 3963.5 damage.**
 
 MP Cost: 90
 
     +10 Speed
 
-    +10 Dexterity
+    +14 Dexterity
     
     +2 Life Steal
 
