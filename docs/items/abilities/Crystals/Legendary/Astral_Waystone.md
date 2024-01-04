@@ -10,6 +10,8 @@ description: "Astral Waystone"
 
 <i>This mystical artifact was once used to guide travelers throughout the astral plane and its many dimensions. It acts as a compass, pointing towards the usedr's fated destination. </i>
 
+**Interdimensional Travel: Upon use will place a crystal and teleport to your cursor position**
+
     +15 Speed
     
     +15 Wisdom    
