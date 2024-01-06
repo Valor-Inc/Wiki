@@ -27,6 +27,9 @@ import TabItem from '@theme/TabItem';
 
 ![Rogue](https://github.com/Valor-Inc/Wiki/assets/154475841/a1aae542-efbc-46e8-996d-825829d07b6e)
 
+
+# Stats 
+
 **Stats When character is created**
 
     ATT‎ 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
