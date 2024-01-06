@@ -24,8 +24,44 @@ import TabItem from '@theme/TabItem';
   <TabItem value="Rogue" label="Rogue">
     
 - **Rogue** | <i>The rogue relies on his speed to deal damage at medium range while avoiding attacks.</i>
+
 ![Rogue](https://github.com/Valor-Inc/Wiki/assets/154475841/a1aae542-efbc-46e8-996d-825829d07b6e)
 
+**Stats When character is created**
+
+    ATT‎ 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 15 
+
+    VIT 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 13
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 45 
+
+    VIT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 33
+
+    MGT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 22 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 55 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 75 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 55
+
+    MGT 60 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 75 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
  </TabItem>
   <TabItem value="Archer" label="Archer">
