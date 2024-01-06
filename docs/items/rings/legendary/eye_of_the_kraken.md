@@ -26,7 +26,5 @@ import TabItem from '@theme/TabItem';
     
 Fame Bonus: 8%
 
-***Drops from Kraken Aler boss***
-
 
 **Drops from the Kraken | Alert** 
