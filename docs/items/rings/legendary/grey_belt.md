@@ -16,15 +16,15 @@ import TabItem from '@theme/TabItem';
 
 <i>The most powerful garment in the realm.</i>
 
+**Martial Arts: You have a 10% chance to block incoming projectiles**
+
     +28 Speed 
    
-    +18 Dexterity
+    +10 Dexterity
     
-    +14 Attack
+    +6 Attack
     
 Fame Bonus: 8%
-
-***Martial Arts: You have a 10% chance to block incoming projectiles***
 
 **Upgraded form of [Black Belt](https://wiki.valorserver.com/docs/items/rings/ut/black_belt)**
 
@@ -37,11 +37,13 @@ Fame Bonus: 8%
 
 <i>A gorgeous stocking, deserving of Saint Nicholas' Finest gifts alone.</i>
 
+**Martial Arts: You have a 10% chance to block incoming projectiles**
+
     +28 Speed 
    
-    +18 Dexterity
+    +10 Dexterity
     
-    +14 Attack
+    +6 Attack
     
 Fame Bonus: 8%
 
