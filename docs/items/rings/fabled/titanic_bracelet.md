@@ -9,9 +9,9 @@ description: "The Titanic Bracelet"
 
 <i>A symbol for a true titan.</i>
 
-    +200 Maximum HP
+    +175 Maximum HP
 
-    +20 Defense
+    +15 Defense
 
 Fame Bonus: 6%
 
