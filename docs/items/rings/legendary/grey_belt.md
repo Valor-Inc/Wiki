@@ -33,7 +33,7 @@ Fame Bonus: 8%
 
 # Saint Nick's Stocking
 
-![stocking](https://vwiki.valorserver.com/api/item/picture/saint%20nicks%20stocking)
+![stocking](https://cdn.discordapp.com/attachments/1188575351639654461/1193138930871173120/Saint_Nicks_Stocking.png?ex=65aba038&is=65992b38&hm=11a3a2d6ca8a468218c181d61edf8f2088d94e532eadb9dc20f41771c21b416f&)
 
 <i>A gorgeous stocking, deserving of Saint Nicholas' Finest gifts alone.</i>
 
