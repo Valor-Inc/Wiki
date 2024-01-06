@@ -9,7 +9,7 @@ description: "The Bracelet of the Demolished"
 
 <i>Utter destruction will follow your path. Unstoppable.</i>
 
-**Unstoppable: You deal 25% more damage above 90% HP.
+**Unstoppable: You deal 25% more damage above 90% HP.**
 
     +12 Attack
     
