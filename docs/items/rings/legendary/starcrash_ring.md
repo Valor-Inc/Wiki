@@ -9,16 +9,14 @@ description: "The Starcrash Ring"
 
 <i>Boundless energies fill this gemstone..</i>
 
-    +150 Maximum MP
-    
-    +20 Restoration 
+**Manabond: Having this item equipped restores 25% mana cost when using an ability.**
+
+    +150 Maximum MP 
     
     +20 Wisdom
     
     +20 Vitality
     
 Fame Bonus: 8%
-
-***Manabond: Having this item equipped restores 1/4th mana cost when using ability.***
 
 **Craftable from Shard of Cosmic Collapse**
