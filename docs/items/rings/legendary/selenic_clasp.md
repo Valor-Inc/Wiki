@@ -9,15 +9,18 @@ description: "The Selenic Clasp"
 
 <i>A fateful craft of the Lunar Order, this resonant necklace is known to bring the wearer hope even in their darkest hour.</i>
 
-    +40 Maximum HP
+**Blessing of the Cosmos: Every time you use your ability, spawn a star that orbits you. This star increases your maximum mana by 50, and increases mana regen by 2.5% per star (max 10, 25% boost).
+Getting quieted removes all of your stars, and being below 40% mana for more than 1.5s depletes one star per second.**
+
+    +80 Maximum HP
     
-    +50 Maximum MP
+    +150 Maximum MP
     
-    +5 Attack
+    +10 Wisdom
     
     +10 Speed
-    
-    +10 Luck
+
+    +20% Mana Healing Boost
     
     +1 Mana Leech
     
