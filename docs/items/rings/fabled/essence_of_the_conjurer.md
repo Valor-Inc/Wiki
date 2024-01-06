@@ -9,8 +9,6 @@ description: "The Essence of the Conjurer"
 
 <i>The Zol can never truly die.</i>
 
-.
-
     +40 Luck
     
     +15 Might
