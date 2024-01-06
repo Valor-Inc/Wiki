@@ -1,7 +1,7 @@
 ---
 sidebar_position: 12
 description: "Zol Jewel"
-Title "Zol Jewel"
+Title: "Zol Jewel"
 ---
 
 # Zol Jewel
