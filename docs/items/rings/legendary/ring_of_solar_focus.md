@@ -9,15 +9,15 @@ description: "The Ring of Solar Focus"
 
 <i>A ring infused with the energy of the sun.</i>
 
+**Solar Flare: Landing 15 hits on an enemy (first enemy if projectile hits multiple enemies) with your weapon burns it with the heat of the sun, causing 4500 damage over 3 seconds.**
+
     +150 Maximum HP   
     
     +150 Maximum MP
     
-    +25 Vitality
+    +15 Vitality
     
-    +25 Attack
-    
-    +65 Restoration
+    +10 Attack
     
 Fame Bonus: 8%
 
