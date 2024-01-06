@@ -16,17 +16,17 @@ import TabItem from '@theme/TabItem';
 
 <i>A morose pendant steepd in necromantic energies, bearing a vestige of one of Ulgur's many willing victims</i>
 
+**Surged Momentum: When under 25 surge, gain a 1.05x Rate of Fire Boost. When you have 25 or more surge, gain a 10% Damage BOost. When you have full surge, gain both buffs.**
+
     +100 Maximum HP
     
     +100 Maximum MP
     
-    +15 Dexterity
+    +8 Dexterity
     
-    +15 Attack
+    +8 Attack
     
 Fame Bonus: 8%
-
-***The Long Wake: When using an ability without surge gain a minor dex boost, when surged gain an attack boost scaling with surge.***
 
 **Craftable from Shard of the Grand Challenge**
 
@@ -39,13 +39,15 @@ Fame Bonus: 8%
 
 <i>A morose pendant steepd in necromantic energies, bearing a vestige of one of Ulgur's many willing victims. Also dipped in Cupid's blood for good measure.</i>
 
+**Surged Momentum: When under 25 surge, gain a 1.05x Rate of Fire Boost. When you have 25 or more surge, gain a 10% Damage BOost. When you have full surge, gain both buffs.**
+
     +100 Maximum HP
     
     +100 Maximum MP
     
-    +15 Dexterity
+    +8 Dexterity
     
-    +15 Attack
+    +8 Attack
     
 Fame Bonus: 8%
 
