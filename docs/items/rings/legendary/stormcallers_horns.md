@@ -13,7 +13,7 @@ description: "The Stormcaller's Horns"
 
     +120 Maximum HP
     
-    +50 Maximum Mp
+    +50 Maximum MP
     
     +10 Attack
     
