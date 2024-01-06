@@ -9,13 +9,13 @@ description: "The Golden Wishbone"
 
 <i>A bone harvested from Garutious by the brave warrior Revil. Thanks to: TehEnd</i>
 
-    +85 Maximum HP
+    +75 Maximum HP
     
-    +15% Dexterity 
+    +7% Dexterity 
     
-    +15% Might
+    +13% Might
     
-    +15% Luck
+    +7% Luck
     
 Fame Bonus: No Fame Bonus
 
