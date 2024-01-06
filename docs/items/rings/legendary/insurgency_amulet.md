@@ -9,18 +9,18 @@ description: "The Insurgency Amulet"
 
 <i>Boundless energies fill this gemstone...</i>
 
-    +200 Maximum HP
+**Insurgency: The surge you gain is doubled while this item is equipped**
+
+    +150 Maximum HP
     
     +20 Protection
     
-    +10 Speed
+    +12 Speed
     
-    +15 Dexterity
+    +12 Dexterity
     
-**Grants 'Surged' after 60 seconds**
+Grants 'Surged' after 30 seconds
    
 Fame Bonus: 8%
-
-***Insurgency: The surge you gain is doubled while this item is equipped***
 
 **Drops from both bosses of the Storm Palace**
