@@ -20,8 +20,6 @@ title: Twilight Chamber
 
     +15 Speed
 
-
-
 Fame Bonus: 8%
 
 **Upgraded form of The Twilight Gemstone. Crafted With Elemental Sor**
