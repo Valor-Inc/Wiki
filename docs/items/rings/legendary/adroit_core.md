@@ -8,7 +8,7 @@ description: "Adorit Core"
 
 <i>Stripped away and placesd in a steel ring, this Adroit's heart continues to beat in your hand.</i>
 
-***Full set bonus: Lifesyteal regeneration is re enabled but capped at 2, and the damagae boost form Blood Reactor is tripled.***
+***Full set bonus: Lifes steal regeneration is re enabled but capped at 2, and the damagae boost form Blood Reactor is tripled.***
 
 **Mechanical Heart: Using your ability has a 70% chance to double your lifesteal for 2 seconds shorter then the abilities cooldown, minimum duration of 1 second.**
 
