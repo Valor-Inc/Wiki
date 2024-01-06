@@ -30,13 +30,13 @@ import TabItem from '@theme/TabItem';
 # Weapon / Ability / Armor
 
 - **Weapon:** 
-**[Dagger](https://wiki.valorserver.com/docs/category/daggers)**
+**Dagger**
 
-- **Weapon:** 
-**[Cloak](https://wiki.valorserver.com/docs/category/cloaks)**
+- **Ability:** 
+**Cloak**
 
 - **Armor:** 
-**[Leather](https://wiki.valorserver.com/docs/category/leather)**
+**Leather**
 
 # It's good for / good in
 
