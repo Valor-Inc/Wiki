@@ -12,7 +12,7 @@ title: Acclaimed Armguard
 
  **Impervious Sustain: When under the effect of armored gain 25% more vitality, when uder the effect of healing gain 10% more defense.**
 
-  +150 Maximum HP
+    +150 Maximum HP
 
     +15 Defense
 
