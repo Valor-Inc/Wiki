@@ -5,15 +5,15 @@ description: "The Cape of the Mad God"
 
 # Cape of the Mad God
 
-![CMD](https://vwiki.valorserver.com/api/item/picture/cape%20of%20the%20mad%20god)
+![CMD](https://cdn.discordapp.com/attachments/1188575351639654461/1193153695521710140/Cape_of_the_Mad_God.png?ex=65abadf8&is=659938f8&hm=46511180deba6c4be217a9773a74452200ee17c7be07bdf972746d9f20d3887a&)
 
 <i>A piece of cloth tailroed by the finest garment makers in the realm. Thanks to: Jaden</i>
 
     +100 Maximum HP
     
-    +25 Defense
+    +15 Defense
     
-    +25 Vitality
+    +30 Vitality
     
 Fame Bonus: 6%
 
