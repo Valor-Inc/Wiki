@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: Class Informations
+description: "General Class Informations, build etc."
+---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
