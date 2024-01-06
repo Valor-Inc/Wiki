@@ -16,17 +16,17 @@ import TabItem from '@theme/TabItem';
 
 <i>A necklace that greatly improves your skills to hunt and kill monsters.</i>
 
-    +8 Defense
+**Thrill of the Hunt: You restore 20 health per enemy kill.**
+
+    +5 Defense
     
-    +15 Attack
+    +8 Attack
     
-    +10 Restoration
+    +60 Luck
     
-    +75 Luck
+    +18 Speed
     
-    +25 Speed
-    
-    +6 Life Steal
+    +3 Life Steal
     
 Fame Bonus: 8%
 
@@ -41,20 +41,19 @@ Fame Bonus: 8%
 
 <i>A necklace worn by our feline friends.</i>
 
-    +8 Defense
+**Thrill of the Hunt: You restore 20 health per enemy kill.**
+
+    +5 Defense
     
-    +15 Attack
+    +8 Attack
     
-    +10 Restoration
+    +60 Luck
     
-    +75 Luck
+    +18 Speed
     
-    +25 Speed
-    
-    +6 Life Steal
+    +3 Life Steal
     
 Fame Bonus: 8%
-
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 
 **From April Fools 2020**
