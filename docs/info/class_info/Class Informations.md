@@ -37,6 +37,12 @@ import TabItem from '@theme/TabItem';
 
 - **Armor:** 
 **[Leather](https://wiki.valorserver.com/docs/category/leather)**
+
+# It's good for / good in
+
+- **It's good for solo dungeons like ascended dungeons**
+
+- **It's good in groups and solo**
   
 # Stats 
 
