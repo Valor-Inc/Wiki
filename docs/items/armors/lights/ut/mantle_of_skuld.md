@@ -9,7 +9,7 @@ description: "The Mantle of Skuld"
 
 <i>With little need for conventional armor, Skuld prefers to empower her magic arts even further.</i>
 
-****Special: Any speedy buffs will convert to swiftness with all pieces equipped.****
+**Special: Any speedy buffs will convert to swiftness with all pieces equipped.**
 
     +100 Maximum HP
 
