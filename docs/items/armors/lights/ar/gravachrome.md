@@ -49,13 +49,13 @@ Fame Bonus: 16%
 
     +100 Maximum HP
 
-    +20 Speed
+    +20(+15) Speed
 
     +20 Fortune
 
     +10 Dexterity
 
-    +5 Defense
+    +5(-10) Defense
 
 Fame Bonus: 16%
 
@@ -75,13 +75,13 @@ Fame Bonus: 16%
 
 ***Alien Advancement: You have superior looting technology. Higher chance to gain elite lootboxes (2x chance from ultra raid bosses and Kraken).***
 
-    +175 Maximum HP
+    +175(+75) Maximum HP
 
-    +20 Defense
+    +20(+5) Defense
 
     +20 Fortune
 
-    +8 Attack
+    +8(-2) Attack
 
     +2 Life Steal
 
@@ -107,11 +107,11 @@ Fame Bonus: 16%
 
     +20 Fortune
     
-    +15 Attack
+    +15(+5) Attack
 
     +15 Might
 
-    +10 Defense
+    +10(-5) Defense
 
     +5 Speed
 
@@ -145,7 +145,7 @@ Fame Bonus: 16%
 
     +15 Defense
 
-    +5 Attack
+    +5(-5) Attack
 
     +2 Mana Leech
 
