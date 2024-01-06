@@ -9,13 +9,13 @@ description: "The Necklace of Therani"
 
 <i>This necklace was used by Therani herself. Who knows what hidden powers lies within?</i>
 
-    +30 Protection
+    +35 Maximum HP
     
-    +55 Might
+    +25 Might
     
     -5 Speed
     
-    -25 Maximum HP
+    +20 Luck
     
 Fame Bonus: 8%
 
