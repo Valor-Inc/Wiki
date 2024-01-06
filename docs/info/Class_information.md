@@ -19,8 +19,9 @@ import TabItem from '@theme/TabItem';
 # This guide will start from the first to the last character (these are the class names)
 - **Click on the tabs above to navigate between classes**
 
- </TabItem>
+  </TabItem>
   <TabItem value="Rogue" label="Rogue">
+
     
 - **Rogue** | <i>The rogue relies on his speed to deal damage at medium range while avoiding attacks.</i>
 
