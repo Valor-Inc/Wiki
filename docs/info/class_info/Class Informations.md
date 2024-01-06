@@ -27,7 +27,17 @@ import TabItem from '@theme/TabItem';
 
 ![Rogue](https://github.com/Valor-Inc/Wiki/assets/154475841/a1aae542-efbc-46e8-996d-825829d07b6e)
 
+# Weapon / Ability / Armor
 
+- **Weapon:** 
+**[Dagger](https://wiki.valorserver.com/docs/category/daggers)**
+
+- **Weapon:** 
+**[Cloak](https://wiki.valorserver.com/docs/category/cloaks)**
+
+- **Armor:** 
+**[Leather](https://wiki.valorserver.com/docs/category/leather)**
+  
 # Stats 
 
 **Stats When character is created**
