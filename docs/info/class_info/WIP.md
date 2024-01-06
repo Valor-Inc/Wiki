@@ -78,6 +78,7 @@ import TabItem from '@theme/TabItem';
 # Archer
     
 - **Archer** | <i>The archer has a long-range attack and can acquire very powerful weapons.</i>
+
 ![Archer](https://github.com/Valor-Inc/Wiki/assets/154475841/b41cae0b-7bb3-4a51-ac4c-d5814934b628)
 
 
@@ -87,6 +88,7 @@ import TabItem from '@theme/TabItem';
 # Wizard
     
 - **Wizard** | <i>The wizard deals damage from a long distance and blasts enemies with powerful spells.</i>
+
 ![Wizard](https://github.com/Valor-Inc/Wiki/assets/154475841/2b182f4c-34e8-4a69-81f6-b24d2854b755)
 
 
@@ -106,6 +108,7 @@ import TabItem from '@theme/TabItem';
 # Warrior
     
 - **Warrior** | <i>The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.</i>
+
 ![Warrior](https://github.com/Valor-Inc/Wiki/assets/154475841/f85489aa-245a-4190-a01e-4ae43ce08af5)
 
 
