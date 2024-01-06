@@ -8,7 +8,8 @@ description: "The Essence of the Conjurer"
 ![EssenceC](https://vwiki.valorserver.com/api/item/picture/essence%20of%20the%20conjurer)
 
 <i>The Zol can never truly die.</i>
-    
+
+
     +40 Luck
     
     +15 Might
