@@ -9,9 +9,11 @@ description: "The Twisted Amulet"
 
 <i>Lin awaits for her lover.</i>
 
-    +500 Maximum MP
+    +250 Maximum MP
+
+    +15 Wisdom
     
-    +20 Speed
+    +5 Speed
     
 Fame Bonus: 6%
 
