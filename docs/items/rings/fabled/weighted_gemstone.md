@@ -13,13 +13,13 @@ description: "The Weighted Gemstone"
     
     +20 Protection
     
-    +10 Dexterity
+    +5 Dexterity
     
-    +10 Attack
+    +5 Attack
     
-    -15 Speed
+    -5 Speed
     
-    +2 Life Steal
+    +1 Life Steal
     
 Fame Bonus: 6%
 
