@@ -25,7 +25,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
  <TabItem value="Rogue" label="Rogue">
 
-**Rogue** | The rogue relies on his speed to deal damage at medium range while avoiding attacks.
+## **Rogue** | The rogue relies on his speed to deal damage at medium range while avoiding attacks.
 
 
   </TabItem>
