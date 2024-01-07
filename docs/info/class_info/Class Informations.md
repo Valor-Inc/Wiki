@@ -12,9 +12,9 @@ import TabItem from '@theme/TabItem';
 
 # General Class Informations
 
-<i>***Within the game, there exists a total of 24 distinct classes, each possessing its own set of advantages and disadvantages, along with specific build paths, item recommendations, and unique stat distributions.***</i>
+***Within the game, there exists a total of 24 distinct classes, each possessing its own set of advantages and disadvantages, along with specific build paths, item recommendations, and unique stat distributions.***
 
-***15 classes, well-known from the original game, have undergone reworking to match the power requirements for gameplay. Valor itself offers 9 different custom classes.***
+*15 classes, well-known from the original game, have undergone reworking to match the power requirements for gameplay. Valor itself offers 9 different custom classes.*
 
 
 # This guide will start from the first to the last character (these are the class names)
@@ -23,19 +23,19 @@ import TabItem from '@theme/TabItem';
  </TabItem>
   <TabItem value="Rogue" label="Rogue">
     
-- **Rogue** | <i>The rogue relies on his speed to deal damage at medium range while avoiding attacks.</i>
+- **Rogue** | *The rogue relies on his speed to deal damage at medium range while avoiding attacks.*
 
 ![Rogue](https://github.com/Valor-Inc/Wiki/assets/154475841/a1aae542-efbc-46e8-996d-825829d07b6e)
 
 # Weapon / Ability / Armor
 
-- **Weapon:** 
+- Weapon:
 **Dagger**
 
-- **Ability:** 
+- Ability:
 **Cloak**
 
-- **Armor:** 
+- Armor: 
 **Leather**
 
 # It's good for / good in
@@ -85,7 +85,7 @@ import TabItem from '@theme/TabItem';
 # recommendations
 
 - **Skilltree**
-<i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+*This Build require you to have lv. 100. But you can just copy it one by one.*
 
 ![Archer](https://cdn.discordapp.com/attachments/1084581982480105522/1193311089493037237/image.png?ex=65ac408e&is=6599cb8e&hm=c7470033cecab48d5da855b667b59608dc5cf84c9a5c7a8dc746b0513b22dbc0&)
 
@@ -96,7 +96,7 @@ import TabItem from '@theme/TabItem';
 
 # Archer
     
-- **Archer** | <i>The archer has a long-range attack and can acquire very powerful weapons.</i>
+- **Archer** | *The archer has a long-range attack and can acquire very powerful weapons.*
 
 ![Archer](https://github.com/Valor-Inc/Wiki/assets/154475841/b41cae0b-7bb3-4a51-ac4c-d5814934b628)
 
@@ -106,7 +106,7 @@ import TabItem from '@theme/TabItem';
 
 # Wizard
     
-- **Wizard** | <i>The wizard deals damage from a long distance and blasts enemies with powerful spells.</i>
+- **Wizard** | *The wizard deals damage from a long distance and blasts enemies with powerful spells.*
 
 ![Wizard](https://github.com/Valor-Inc/Wiki/assets/154475841/2b182f4c-34e8-4a69-81f6-b24d2854b755)
 
@@ -116,7 +116,7 @@ import TabItem from '@theme/TabItem';
 
 # Priest
     
-- **Priest** | <i>The priest attacks at long range and can heal himself and his allies.</i>
+- **Priest** | *The priest attacks at long range and can heal himself and his allies.*
 
 ![Priest](https://github.com/Valor-Inc/Wiki/assets/154475841/ed285efa-2db6-4de9-8428-cb7f7789ad53)
 
@@ -126,7 +126,7 @@ import TabItem from '@theme/TabItem';
 
 # Warrior
     
-- **Warrior** | <i>The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.</i>
+- **Warrior** | *The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
 
 ![Warrior](https://github.com/Valor-Inc/Wiki/assets/154475841/f85489aa-245a-4190-a01e-4ae43ce08af5)
 
@@ -136,7 +136,7 @@ import TabItem from '@theme/TabItem';
 
 # Knight
     
-- **Knight** | <i>The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.</i>
+- **Knight** | *The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
 ![Knight](https://github.com/Valor-Inc/Wiki/assets/154475841/28bca071-8bb4-4590-a81b-d7ec9643d3f0)
 
@@ -145,7 +145,7 @@ import TabItem from '@theme/TabItem';
 
 # Paladin
     
-- **Paladin** | <i>The paladin can deal damage at close range, wear armor and heal himself and his allies.</i>
+- **Paladin** | *The paladin can deal damage at close range, wear armor and heal himself and his allies.*
 
 ![Paladin](https://github.com/Valor-Inc/Wiki/assets/154475841/a821bdde-9e2d-45c6-a23c-f7b423372d0c)
 
@@ -154,7 +154,7 @@ import TabItem from '@theme/TabItem';
 
 # Assassin
     
-- **Assassin** | <i>The assassin fights from medium range and uses poison to damage his enemies over time.</i>
+- **Assassin** | *The assassin fights from medium range and uses poison to damage his enemies over time.*
 
 ![Assassin](https://github.com/Valor-Inc/Wiki/assets/154475841/6bb2a570-fb3f-4d36-ae94-fbf23e695c39)
 
@@ -164,7 +164,7 @@ import TabItem from '@theme/TabItem';
 
 # Necromancer
     
-- **Necromancer** | <i>The necromancer drains life from his enemies to heal himself and his allies.</i>
+- **Necromancer** | *The necromancer drains life from his enemies to heal himself and his allies.*
 
 ![Necromancer](https://github.com/Valor-Inc/Wiki/assets/154475841/36967998-dfec-4f12-8c2f-59f099d967c2)
 
@@ -174,7 +174,7 @@ import TabItem from '@theme/TabItem';
 
 # Huntress
     
-- **Huntress** | <i>The huntress uses arrows and traps to defeat her enemies.</i>
+- **Huntress** | *The huntress uses arrows and traps to defeat her enemies.*
 
 ![Huntress](https://github.com/Valor-Inc/Wiki/assets/154475841/365ef786-7990-47ce-81e8-3fe5a8008c6a)
 
@@ -274,7 +274,7 @@ rend them to bits.</i>
 
 # Blademaster
 
-- **Blademaster** | <i>The Blademaster brawls with dual blades and uses his jacket utilize the powers of both of his ancient blades.</i>
+- **Blademaster** | *The Blademaster brawls with dual blades and uses his jacket utilize the powers of both of his ancient blades.*
 
 ![Blademaster](https://github.com/Valor-Inc/Wiki/assets/154475841/6a4bdccc-9c37-47e8-9eea-ff7c8bca1996)
 
@@ -284,7 +284,7 @@ rend them to bits.</i>
 
 # Spirithunter
     
-- **Spirithunter** | <i>The Spirithunter uses dark Talismans in order to summon souls to fight along with him.</i>
+- **Spirithunter** | <i>The Spirithunter uses dark Talismans in order to summon souls to fight along with him.*
 
 ![Spirithunter](https://github.com/Valor-Inc/Wiki/assets/154475841/fb64d24f-488a-49b0-af1b-bc4a79149b9c)
 
@@ -294,7 +294,7 @@ rend them to bits.</i>
 
 # Pirate
     
-- **Pirate** | <i>The Pirate carries a mighty Anchor with them, which they sling around in battle.</i>
+- **Pirate** | *The Pirate carries a mighty Anchor with them, which they sling around in battle.*
 
 ![Pirate](https://github.com/Valor-Inc/Wiki/assets/154475841/f510714a-19f8-4da4-98a1-44bcdbb18c6a)
 
@@ -304,7 +304,7 @@ rend them to bits.</i>
 
 # Mechanic
     
-- **Mechanic** | <i>The Mechanic is not the greatest Brawler but is a quite skilled in the art of Construction.</i>
+- **Mechanic** | *The Mechanic is not the greatest Brawler but is a quite skilled in the art of Construction.*
 
 ![Mechanic](https://github.com/Valor-Inc/Wiki/assets/154475841/ccc10f22-5d44-4a7b-96f9-36e581e6814b)
 
@@ -314,7 +314,7 @@ rend them to bits.</i>
 
 # Magus
     
-- **Magus** | <i>The Magus uses their magical powers, combined with sharp blades to deal devastating over time damage in flexible layouts.</i>
+- **Magus** | *The Magus uses their magical powers, combined with sharp blades to deal devastating over time damage in flexible layouts.*
 
 ![Magus](https://github.com/Valor-Inc/Wiki/assets/154475841/c71dcb12-315b-46b5-9c60-ce98fd1449dc)
 
