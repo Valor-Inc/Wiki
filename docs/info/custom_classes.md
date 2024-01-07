@@ -34,7 +34,7 @@ import TabItem from '@theme/TabItem';
 
 - The Ability: **The Rogue uses his Cloak to go ***invisible***. It's very good for rushing / surviving, tho it won't give you invincibility.**
 
-- The Class: **Rogue has high DPS so you can easilly solo most dungeons, and farm a lot of essence.**
+- The Class: **The Rogue has high DPS so you can easilly solo most dungeons, and farm a lot of essence.**
 
 # Weapon / Ability / Armor
 
@@ -126,7 +126,7 @@ import TabItem from '@theme/TabItem';
 
 - The Ability: **The Archer uses his Quiver to shoot a big arrow that deals large ammount of damage, and gives a buff for the user, or debuff the enemy who gets hit by the arrow, or both. It's very good for helping others, or you in dealing the most damage possible, and granting survivability for yourself.**
 
-- The Class: **Archer has high DPS with the right gear so you can easilly solo most dungeons, hit AR threshold, and in farming generally.**
+- The Class: **The Archer has high DPS with the right gear so you can easilly solo most dungeons, hit AR threshold, and in farming generally.**
 
 # Weapon / Ability / Armor
 
@@ -220,7 +220,7 @@ import TabItem from '@theme/TabItem';
 
 - The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The Wizard has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
   
 # Weapon / Ability / Armor
 
@@ -244,9 +244,9 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
-  
 **Stats When character is created**
     
+   
     ======= 80 HP ========
     ======= 100 MP =======
 
@@ -403,20 +403,20 @@ import TabItem from '@theme/TabItem';
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The Warrior uses his Helmet to buff himself or his allies(depends on the helmet). With it the warrior will be granted with huge power. ;)**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The Warrior is a Tanky Class that has a lot of dmg. It can be used for solo dungeons and in groups.**
   
 # Weapon / Ability / Armor
 
 - **Weapon:** 
-**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+**[Sword](https://wiki.valorserver.com/docs/category/Swords)**
 
 - **Ability:** 
-**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+**[Helmet](https://wiki.valorserver.com/docs/category/helmets)**
 
 - **Armor:** 
-**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+**[Heavy](https://wiki.valorserver.com/docs/category/Heavy)**
 
 # It's good for / good in
 
@@ -424,45 +424,59 @@ import TabItem from '@theme/TabItem';
 
 - **It's good for DPS character**
 
+- **It's good for Tanky character**
+
 - **It's good in groups and solo**
   
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
-  
-**Stats When character is created**
+  **Stats When character is created**
+
+    
+    ======= 180 HP =======
+    ======= 100 MP =======
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
     MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 680 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 630 HP =======
+    ======= 385 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
+
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 10 
 
     PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
@@ -472,7 +486,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Archer](
+![Skilltree]( TBD.
 
   </TabItem>
  <TabItem value="Knight" label="Knight">
@@ -484,68 +498,78 @@ import TabItem from '@theme/TabItem';
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **Knight uses his Shield to Tank damage and debuff enemies. It's good for helping groups.**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The Knight has a lot of Vitality and health. So it can tank most of the damage.**
   
 # Weapon / Ability / Armor
 
 - **Weapon:** 
-**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+**[Sword](https://wiki.valorserver.com/docs/category/Swords)**
 
 - **Ability:** 
-**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+**[Shield](https://wiki.valorserver.com/docs/category/Shields)**
 
 - **Armor:** 
-**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+**[Heavy](https://wiki.valorserver.com/docs/category/Heavy)**
 
 # It's good for / good in
 
-- **It's good for Hitting LG, AR threshold**
+- **It's good for Tanky character**
 
-- **It's good for DPS character**
-
-- **It's good in groups and solo**
+- **It's good in groups**
   
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
   
 **Stats When character is created**
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
 
 # recommendations
@@ -553,7 +577,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Archer](
+![Skilltree]( TBD.
 
   </TabItem>
  <TabItem value="Paladin" label="Paladin">
@@ -634,7 +658,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Archer](
+![Skilltree]( TBD.
 
    </TabItem>
  <TabItem value="Assassin" label="Assassin">
