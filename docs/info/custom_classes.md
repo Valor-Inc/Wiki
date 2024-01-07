@@ -54,8 +54,14 @@ import TabItem from '@theme/TabItem';
 - **It's good in groups and solo**
   
 # Stats 
+<details>
+  <summary>Stats (click here)</summary>
 
 **Stats When character is created**
+    
+    --------110 HP--------
+    --------100 MP--------
+
 
     ATT‎ 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
@@ -68,6 +74,10 @@ import TabItem from '@theme/TabItem';
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    --------610 HP--------
+    --------200 MP--------
+
 
     ATT‎ 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
@@ -80,6 +90,10 @@ import TabItem from '@theme/TabItem';
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    --------680 HP--------
+    --------252 MP--------
+
 
     ATT‎ 55 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
@@ -90,6 +104,7 @@ import TabItem from '@theme/TabItem';
     MGT 60 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 75 
 
     PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
 
 # recommendations
 
@@ -133,8 +148,14 @@ import TabItem from '@theme/TabItem';
 - **It's good in groups and solo**
   
 # Stats 
+<details>
+  <summary>Stats (click here)</summary>
 
 **Stats When character is created**
+    
+    --------130 HP--------
+    --------100 MP--------
+
 
     ATT‎ 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
@@ -147,6 +168,10 @@ import TabItem from '@theme/TabItem';
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    --------630 HP--------
+    --------200 MP--------
+
 
     ATT‎ 42 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
@@ -159,6 +184,10 @@ import TabItem from '@theme/TabItem';
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    --------680 HP--------
+    --------252 MP--------
+
 
     ATT‎ 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
@@ -169,6 +198,7 @@ import TabItem from '@theme/TabItem';
     MGT 80 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 40 
 
     PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
 
 # recommendations
 
@@ -212,7 +242,194 @@ import TabItem from '@theme/TabItem';
 - **It's good in groups and solo**
   
 # Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+    
+    --------80 HP--------
+    --------100 MP--------
 
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+    
+    --------580 HP--------
+    --------300 MP--------
+
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+    
+    --------630 HP--------
+    --------385 MP--------
+
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193534708504608838/image.png?ex=65ad10d1&is=659a9bd1&hm=7d27230177a5f208d4bae85cafc137d6a18ce0c4e373284c6132edf83e3f9ea8&)
+
+  </TabItem>
+  <TabItem value="Priest" label="Priest">
+
+## **Priest**
+*The priest attacks at long range and can heal himself and his allies.*
+
+![Priest](https://cdn.discordapp.com/attachments/1187552567295758487/1193586023737860106/Priest.png?ex=65ad409b&is=659acb9b&hm=962f532d88fe01fffeb6e64b8a6b2139ea61404f8d13c239bc8b4b2410d1f3f2&)
+
+# Informations about the class
+
+- The Ability: **The Priest uses his Tome to Heal it's allies or in some case damage in a large area. It's very good for helping others and you to not die.**
+
+- The Class: **Pries has good healing and in some case good damage. The Priest has it's own threshold to help the fellow support character players.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Wand](https://wiki.valorserver.com/docs/category/Wands)**
+
+- **Ability:** 
+**[Tome](https://wiki.valorserver.com/docs/category/Tomes)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for surviving**
+
+- **It's good for DPS character**
+
+- **It's good in groups**
+
+- **It's good for looting (with the support threshold)**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    --------80 HP---------
+    --------100 MP--------
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 13 
+
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 15
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+    
+    --------580 HP--------
+    --------300 MP--------
+
+    ATT‎ 35 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 42 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 33 
+
+    VIT 20 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 45
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    
+**Stats When 11/11**
+    
+    --------630 HP--------
+    --------385 MP--------
+
+    ATT‎ 65 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 55 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 65 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 75
+
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 70 
+
+    PRT 60 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
+
+  </TabItem>
+ <TabItem value="Warrior" label="Warrior">
+    
+## **Warrior**
+*The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
+
+![Warrior](https://cdn.discordapp.com/attachments/1187552567295758487/1193648191602688121/Warrior.png?ex=65ad7a81&is=659b0581&hm=94a834cebdf5b6061c12ce065d3e82d5dec9c1b0b611b4ab860fa24f659a3f7f&)
+
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
 **Stats When character is created**
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -248,30 +465,14 @@ import TabItem from '@theme/TabItem';
     MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
 
     PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
 
 # recommendations
 
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193534708504608838/image.png?ex=65ad10d1&is=659a9bd1&hm=7d27230177a5f208d4bae85cafc137d6a18ce0c4e373284c6132edf83e3f9ea8&)
-
-  </TabItem>
-  <TabItem value="Priest" label="Priest">
-
-## **Priest**
-*The priest attacks at long range and can heal himself and his allies.*
-
-![Priest](https://cdn.discordapp.com/attachments/1187552567295758487/1193586023737860106/Priest.png?ex=65ad409b&is=659acb9b&hm=962f532d88fe01fffeb6e64b8a6b2139ea61404f8d13c239bc8b4b2410d1f3f2&)
-
-
-  </TabItem>
- <TabItem value="Warrior" label="Warrior">
-    
-## **Warrior**
-*The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
-
-![Warrior]()
+![Archer](
 
   </TabItem>
  <TabItem value="Knight" label="Knight">
@@ -279,8 +480,80 @@ import TabItem from '@theme/TabItem';
 ## **Knight**
 *The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
-![Knight]()
+![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
 
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
   </TabItem>
  <TabItem value="Paladin" label="Paladin">
@@ -288,7 +561,80 @@ import TabItem from '@theme/TabItem';
 ## **Paladin**
 *The paladin can deal damage at close range, wear armor and heal himself and his allies.*
 
-![Paladin]()
+![Paladin](https://cdn.discordapp.com/attachments/1187552567295758487/1193648613612597278/Paladin.png?ex=65ad7ae6&is=659b05e6&hm=489782c5b02ecba68f8571530e57acfe123e893de711df3b606c45bc08aafba0&)
+
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
    </TabItem>
  <TabItem value="Assassin" label="Assassin">
@@ -296,7 +642,80 @@ import TabItem from '@theme/TabItem';
 ## **Assassin** 
 *The assassin fights from medium range and uses poison to damage his enemies over time.*
 
-![Assassin]()
+![Assassin](https://cdn.discordapp.com/attachments/1187552567295758487/1193648459492905122/Assassin.png?ex=65ad7ac1&is=659b05c1&hm=ffa0124fe3d102d76bb16cd7366b8723327a15ed6dae90a61975587fe628b22c&)
+
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
    </TabItem>
  <TabItem value="Necromancer" label="Necromancer">
@@ -304,7 +723,80 @@ import TabItem from '@theme/TabItem';
 ## **Necromancer**
 *The necromancer drains life from his enemies to heal himself and his allies.*
 
-![Necromancer]()
+![Necromancer](https://cdn.discordapp.com/attachments/1187552567295758487/1193649060444385352/Necromancer.png?ex=65ad7b50&is=659b0650&hm=02562789f0e3f0eea109d88113c2c8e518862adc0fac5218657e4ccf14656604&)
+
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
    </TabItem>
  <TabItem value="Huntress" label="Huntress">
@@ -312,8 +804,80 @@ import TabItem from '@theme/TabItem';
 ## **Huntress**
 *The huntress uses arrows and traps to defeat her enemies.*
 
-![Huntress]()
+![Huntress](https://cdn.discordapp.com/attachments/1187552567295758487/1193649060247257128/Huntress.png?ex=65ad7b50&is=659b0650&hm=580931a851b59dbe9f69e258c38b1c6cbd044d3361f7a3b20872779456525cd5&)
 
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
    </TabItem>
  <TabItem value="Mystic" label="Mystic">
@@ -321,8 +885,80 @@ import TabItem from '@theme/TabItem';
 ## **Mystic**
 *The mystic fights with a staff and uses her crystal orb to bind enemies to a distant plane.*
 
-![Mystic]()
+![Mystic](https://cdn.discordapp.com/attachments/1187552567295758487/1193649060041740358/Mystic.png?ex=65ad7b50&is=659b0650&hm=7f935fbb83100b3d431c5105e91bd6de70fa9fac4c044972c4240d06e88c717d&)
 
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
    </TabItem>
  <TabItem value="Trickster" label="Trickster">
@@ -330,8 +966,80 @@ import TabItem from '@theme/TabItem';
 ## **Trickster**
 *The trickster fights with a dagger while using her magical prism to distract enemies.*
 
-![Trickster]()
+![Trickster](https://cdn.discordapp.com/attachments/1187552567295758487/1193649059794268230/Trickster.png?ex=65ad7b50&is=659b0650&hm=65616289166641d7b375fd88459a7c0663d69cf38eb9f8faceb7341e8bb20ff4&)
 
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](
 
   </TabItem>
 </Tabs>
