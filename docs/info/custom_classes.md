@@ -59,8 +59,8 @@ import TabItem from '@theme/TabItem';
 
 **Stats When character is created**
     
-    --------110 HP--------
-    --------100 MP--------
+    ======= 110 HP =======
+    ======= 100 MP =======
 
 
     ATT‎ 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -75,8 +75,8 @@ import TabItem from '@theme/TabItem';
 
 **Stats When Lv. 20**
     
-    --------610 HP--------
-    --------200 MP--------
+    ======= 610 HP =======
+    ======= 200 MP =======
 
 
     ATT‎ 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -91,8 +91,8 @@ import TabItem from '@theme/TabItem';
     
 **Stats When 11/11**
     
-    --------680 HP--------
-    --------252 MP--------
+    ======= 680 HP =======
+    ======= 252 MP =======
 
 
     ATT‎ 55 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
@@ -153,8 +153,8 @@ import TabItem from '@theme/TabItem';
 
 **Stats When character is created**
     
-    --------130 HP--------
-    --------100 MP--------
+    ======= 130 HP =======
+    ======= 100 MP =======
 
 
     ATT‎ 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -169,8 +169,8 @@ import TabItem from '@theme/TabItem';
 
 **Stats When Lv. 20**
     
-    --------630 HP--------
-    --------200 MP--------
+    ======= 630 HP =======
+    ======= 200 MP =======
 
 
     ATT‎ 42 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -185,8 +185,8 @@ import TabItem from '@theme/TabItem';
     
 **Stats When 11/11**
     
-    --------680 HP--------
-    --------252 MP--------
+    ======= 680 HP =======
+    ======= 252 MP =======
 
 
     ATT‎ 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
@@ -247,8 +247,8 @@ import TabItem from '@theme/TabItem';
   
 **Stats When character is created**
     
-    --------80 HP--------
-    --------100 MP--------
+    ======= 80 HP ========
+    ======= 100 MP =======
 
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -263,8 +263,8 @@ import TabItem from '@theme/TabItem';
 
 **Stats When Lv. 20**
     
-    --------580 HP--------
-    --------300 MP--------
+    ======= 580 HP =======
+    ======= 300 MP =======
 
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
@@ -279,8 +279,8 @@ import TabItem from '@theme/TabItem';
     
 **Stats When 11/11**
     
-    --------630 HP--------
-    --------385 MP--------
+    ======= 630 HP =======
+    ======= 385 MP =======
 
 
     ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
@@ -339,11 +339,11 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
-  
+
 **Stats When character is created**
 
-    --------80 HP---------
-    --------100 MP--------
+    ======= 80 HP ========
+    ======= 100 MP =======
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
@@ -357,8 +357,8 @@ import TabItem from '@theme/TabItem';
 
 **Stats When Lv. 20**
     
-    --------580 HP--------
-    --------300 MP--------
+    ======= 580 HP =======
+    ======= 300 MP =======
 
     ATT‎ 35 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
@@ -372,8 +372,8 @@ import TabItem from '@theme/TabItem';
     
 **Stats When 11/11**
     
-    --------630 HP--------
-    --------385 MP--------
+    ======= 630 HP =======
+    ======= 385 MP =======
 
     ATT‎ 65 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
