@@ -14,52 +14,37 @@ import TabItem from '@theme/TabItem';
 
 ***Within the game, there exists a total of 24 distinct classes, each possessing its own set of advantages and disadvantages, along with specific build paths, item recommendations, and unique stat distributions.***
 
+
 *15 classes, well-known from the original game, have undergone reworking to match the power requirements for gameplay. Valor itself offers 9 different custom classes.*
 
 
 ### This guide will start from the first to the last character (these are the class names)
 - **Click on the tabs above to navigate between classes**
     
-**Stats on max:**
-
-    660 Life
-    300 Mana
-    65 Attack
-    25 Defense
-    60 Speed
-    60 Dexterity
-    40 Vitality
-    70 Wisdom
-    75 Might
-    50 Luck
-    60 Protection
-    65 Restoration
-
 
   </TabItem>
- <TabItem value="Blade Classes" label="Blade Classes">
+ <TabItem value="Rogue" label="Rogue">
 
-## Blade Classes
-Blades are a weapon type unique to the blademaster that have medium range but good damage & enemy piercing capabilities.
+- **Rogue** | <i>The rogue relies on his speed to deal damage at medium range while avoiding attacks.</i>
 
-### Blademaster
-![Blademaster](https://i.imgur.com/Qxq9wUS.png)  
-The Blademaster is a unique leather armor class using both a new item called Blades and an ability called Jackets. They are an adaptive class, using their jackets in order to boost their attack or defense, depending on the situation. Most jackets give invincibility, a special buff that lets incoming damage be avoided! It has below average defense and attack, but exchanges it for high maneuverability, health and dexterity. Jackets on use shoot a small projetilce and switch between offensive and defenive modes.
-   
-**Stats on max:**
+![Rogue](https://github.com/Valor-Inc/Wiki/assets/154475841/a1aae542-efbc-46e8-996d-825829d07b6e)
 
-    720 Life
-    252 Mana
-    40 Attack
-    15 Defense
-    100 Speed
-    95 Dexterity
-    40 Vitality
-    50 Wisdom
-    80 Might
-    80 Luck
-    25 Protection
-    60 Restoration
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**Dagger**
+
+- **Ability:** 
+**Cloak**
+
+- **Armor:** 
+**Leather**
+
+## It's good for / good in
+
+- **It's good for solo dungeons like ascended dungeons**
+
+- **It's good in groups and solo**
 
   </TabItem>
   <TabItem value="Dagger Classes" label="Dagger Classes">
