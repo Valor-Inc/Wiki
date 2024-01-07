@@ -29,20 +29,6 @@ Interesting information.
   </TabItem>
    <TabItem value="Rogue" label="Rogue">
 
-- Rogue  The rogue relies on his speed to deal damage at medium range while avoiding attacks.
-
-![Rogue](https://github.com/Valor-Inc/Wiki/assets/154475841/a1aae542-efbc-46e8-996d-825829d07b6e)
-
-# Weapon / Ability / Armor
-
-- *Weapon:* 
-*Dagger*
-
-- *Ability:*
-*Cloak*
-
-- *Armor:*
-*Leather*
 
 
      </TabItem>
