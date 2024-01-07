@@ -493,7 +493,6 @@ import TabItem from '@theme/TabItem';
  <TabItem value="Knight" label="Knight">
     
 ## **Knight**
-
 *The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
 ![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
@@ -665,7 +664,7 @@ import TabItem from '@theme/TabItem';
    </TabItem>
  <TabItem value="Assassin" label="Assassin">
 
-## **Assassin** 
+## **Assassin**
 *The assassin fights from medium range and uses poison to damage his enemies over time.*
 
 ![Assassin](https://cdn.discordapp.com/attachments/1187552567295758487/1193648459492905122/Assassin.png?ex=65ad7ac1&is=659b05c1&hm=ffa0124fe3d102d76bb16cd7366b8723327a15ed6dae90a61975587fe628b22c&)
