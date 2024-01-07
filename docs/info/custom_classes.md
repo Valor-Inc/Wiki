@@ -8,13 +8,17 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Bow Classes" label="Bow Classes" default>
+  <TabItem value="General Class Informations" label="General Class Informations" default>
 
-## Bow Classes
+## General Class Informations
 
-### Spirithunter
-![Spirithunter](https://i.imgur.com/oU46IT5.png)  
-The Spirit Hunter is a bow class that uses robes instead of leather armor. It uses a magical talisman that summons a ghost, which can aid you in battle with damage and can also potentially debuff the enemy depending on the Talisman. Has fairly high Luck and Might.
+<i>***Within the game, there exists a total of 24 distinct classes, each possessing its own set of advantages and disadvantages, along with specific build paths, item recommendations, and unique stat distributions.***</i>
+
+***15 classes, well-known from the original game, have undergone reworking to match the power requirements for gameplay. Valor itself offers 9 different custom classes.***
+
+
+### This guide will start from the first to the last character (these are the class names)
+- **Click on the tabs above to navigate between classes**
     
 **Stats on max:**
 
