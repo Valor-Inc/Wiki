@@ -83,7 +83,7 @@ import TabItem from '@theme/TabItem';
 
     MGT 60 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 75 
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 
 # recommendations
 
@@ -94,52 +94,81 @@ import TabItem from '@theme/TabItem';
 
 
   </TabItem>
-  <TabItem value="Dagger Classes" label="Dagger Classes">
+  <TabItem value="Archer" label="Archer">
 
-## Dagger Classes
+## **Archer**
+*The archer has a long-range attack and can acquire very powerful weapons.*
 
-### Gambler
-![Gambler](https://i.imgur.com/2z0Ypy2.png)  
-The Gambler is a high-risk high reward leather class that uses a dagger. Gambler uses a dice that gives a variety of different buffs, but sometimes one debuff. These status effects are usually Bravery, Berserk, or Sick. The Gambler has above average attack and the most luck and might to max but has low health in exchange for it's insane damage.  
+![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193527417621463132/Archer.png?ex=65ad0a07&is=659a9507&hm=67b8f687f438bdb12745c59d9c614c33443a409796d4dd8e1ed72b2666cdb787&)
+
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Bow](https://wiki.valorserver.com/docs/category/bows)**
+
+- **Ability:** 
+**[Quiver](https://wiki.valorserver.com/docs/category/quivers)**
+
+- **Armor:** 
+**[Leather](https://wiki.valorserver.com/docs/category/leather)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+
+**Stats When character is created**
+
+    ATT‎ 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 12 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 42 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 32 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 32 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 12 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
     
-**Stats on max:**
+**Stats When 11/11**
 
-    580 Life
-    385 Mana
-    70 Attack
-    25 Defense
-    55 Speed
-    55 Dexterity
-    40 Vitality
-    75 Wisdom
-    100 Might
-    150 Luck
-    25 Protection
-    60 Restoration
+    ATT‎ 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
+
+    MGT 80 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 40 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+
+# recommendations
+
+- **Skilltree**
+<i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193531281343008768/image.png?ex=65ad0da0&is=659a98a0&hm=5db702f1491364161c209326a1839ed62243f049aef68ca765947866e2d63c72&)
+
 
   </TabItem>
   <TabItem value="Katana Classes" label="Katana Classes">
 
-## Katana Classes
-
-### Samurai
-![Samurai](https://i.imgur.com/T33yDwb.png)  
-The samurai is an offensive class similar to ninja but with a heavy armor. Their Sheath works as a consistent buff similar to a ninja star, and can be released to do AoE damage around itself (Depending on sheath) and gain a certain status effect. Has slightly above average stats. 
-    
-**Stats on max:**
-
-    810 Life 
-    275 Mana
-    75 Attack 
-    30 Defense 
-    55 Speed 
-    65 Dexterity 
-    70 Vitality
-    45 Wisdom
-    80 Might 
-    80 Luck 
-    25 Protection 
-    70 Restoration
 
 ### Shrine Maiden
 ![Shrine Maiden](https://i.imgur.com/6P1eDCb.png)  
