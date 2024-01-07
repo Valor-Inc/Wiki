@@ -30,6 +30,12 @@ import TabItem from '@theme/TabItem';
 
 ![Rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1193525763421519983/Rogue_1.png?ex=65ad087c&is=659a937c&hm=ece8f8166540d5c3df56f929fc7f12a3f8e36413894f0fbc39931c94c5d3aeb1&)
 
+# Informations about the class
+
+- The Ability: **The Rogue uses his Cloak to go ***invisible***. It's very good for rushing / surviving, tho it won't give you invincibility.**
+
+- The Class: **Rogue has high DPS so you can easilly solo most dungeons, and farm a lot of essence.**
+
 # Weapon / Ability / Armor
 
 - **Weapon:** 
@@ -100,6 +106,12 @@ import TabItem from '@theme/TabItem';
 *The archer has a long-range attack and can acquire very powerful weapons.*
 
 ![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193527417621463132/Archer.png?ex=65ad0a07&is=659a9507&hm=67b8f687f438bdb12745c59d9c614c33443a409796d4dd8e1ed72b2666cdb787&)
+
+# Informations about the class
+
+- The Ability: **The Archer uses his Quiver to shoot a big arrow that deals large ammount of damage, and gives a buff for the user, or debuff the enemy who gets hit by the arrow, or both. It's very good for helping others, or you in dealing the most damage possible, and granting survivability for yourself.**
+
+- The Class: **Archer has high DPS with the right gear so you can easilly solo most dungeons, hit AR threshold, and in farming generally.**
 
 # Weapon / Ability / Armor
 
@@ -174,6 +186,12 @@ import TabItem from '@theme/TabItem';
 
 ![Wizard](https://cdn.discordapp.com/attachments/1187552567295758487/1193532395882815549/Wizard.png?ex=65ad0ea9&is=659a99a9&hm=a7c0c9467c1c69b0ffbb70205f6144e8b5809da1148cfbd176c536bd0fe12e45&)
 
+# Informations about the class
+
+- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+
+- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+  
 # Weapon / Ability / Armor
 
 - **Weapon:** 
@@ -239,136 +257,81 @@ import TabItem from '@theme/TabItem';
 ![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193534708504608838/image.png?ex=65ad10d1&is=659a9bd1&hm=7d27230177a5f208d4bae85cafc137d6a18ce0c4e373284c6132edf83e3f9ea8&)
 
   </TabItem>
-  <TabItem value="Lance Classes" label="Lance Classes">
+  <TabItem value="Priest" label="Priest">
 
-## Lance Classes
-Lances are the shortest range weapons but deal good damage & pierce armor.
+## **Priest**
+*The priest attacks at long range and can heal himself and his allies.*
 
-### Templar
-![Templar](https://i.imgur.com/kuQV1GB.png)  
-The Templar is a heavy armor lance class that uses banners to support his allies. His banner upon ability use drops a zone that empowers all allies, making them regenerate their mana faster. They have high survivability stats, but poor mana and below average dexterity. 
+![Priest](https://cdn.discordapp.com/attachments/1187552567295758487/1193586023737860106/Priest.png?ex=65ad409b&is=659acb9b&hm=962f532d88fe01fffeb6e64b8a6b2139ea61404f8d13c239bc8b4b2410d1f3f2&)
+
+
+  </TabItem>
+ <TabItem value="Warrior" label="Warrior">
     
-**Stats on max:**
+## **Warrior**
+*The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
 
-    880 Life
-    125 Mana
-    75 Attack
-    20 Defense
-    65 Speed
-    45 Dexterity
-    80 Vitality
-    30 Wisdom
-    40 Might
-    40 Luck
-    60 Protection
-    60 Restoration
-
-### Mechanic
-![Mechanic](https://i.imgur.com/KvBaApB.png)  
-The Mechanic is a heavy armor lance class that uses turrets to supplement his lances damage. His turret spawns on the cursor and shoots projectiles at the nearest enemy. They have fairly average stats exculding his low def.
-
-**Stats on Max:**
-
-    700 Life
-    250 Mana
-    65 Attack
-    15 Defense
-    70 Speed
-    50 Dexterity
-    45 Vitality
-    70 Wisdom
-    50 Might
-    65 Luck
-    75 Protection
-    45 Restoration
+![Warrior]()
 
   </TabItem>
- <TabItem value="Sword Classes" label="Sword Classes">
+ <TabItem value="Knight" label="Knight">
+    
+## **Knight**
+*The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
-## Sword Classes
-
-### Pirate
-![Pirate](https://i.imgur.com/8ecm8bt.png)  
-The Pirate is an offensive sword class that uses leather armor. His anchor shoots a returning projectile while giving helpful buffs and debuffs. The Pirate exchanges the high HP and defense of the other sword classes for heavly increased offensive stats. Has below average mana and defense.
-   
-**Stats on max:**
-
-    660 Life 
-    190 Mana
-    65 Attack
-    15 Defense
-    55 Speed
-    60 Dexterity
-    50 Vitality
-    45 Wisdom
-    45 Might
-    25 Luck
-    50 Protection
-    65 Restoration
+![Knight]()
 
 
   </TabItem>
- <TabItem value="Wand Classes" label="Wand Classes">
+ <TabItem value="Paladin" label="Paladin">
+    
+## **Paladin**
+*The paladin can deal damage at close range, wear armor and heal himself and his allies.*
 
-## Wand Classes
+![Paladin]()
 
-### Drakzix
-![Drakzix](https://i.imgur.com/FMmlOgy.png)  
-Drakzix is an offensive wand class that uses a siphon and robe in battle. Siphons drain your mana and then health rapidly in order to deal a large amount of damage. The calculation of damage takes Current Mana and how much health was drained. It has very poor stats at max but has the highest mana and wisdom of any other class. **THIS IS NOT A CLASS FOR BEGINNERS**
+   </TabItem>
+ <TabItem value="Assassin" label="Assassin">
 
-**Stats on max:**
+## **Assassin** 
+*The assassin fights from medium range and uses poison to damage his enemies over time.*
 
-    650 Life
-    900 Mana
-    50 Attack
-    20 Defense
-    50 Speed
-    50 Dexterity
-    35 Vitality
-    80 Wisdom
-    55 Might
-    30 Luck
-    25 Protection
-    60 Restoration
+![Assassin]()
 
-  </TabItem>
-<TabItem value="Pre-Existant Classes" label="Pre-Existant Classes">
+   </TabItem>
+ <TabItem value="Necromancer" label="Necromancer">
 
-# Pre-Existant Classes
+## **Necromancer**
+*The necromancer drains life from his enemies to heal himself and his allies.*
 
-**Existing classes have had their max stats modified, here are all of them in one place for convenience.**
+![Necromancer]()
 
-**Rogue:** `680 Life, 252 Mana, 55 Attack, 25 Defense, 75 Speed, 75 Dexterity, 40 Vitality, 55 Wisdom, 60 Might, 75 Luck, 25 Protection, 60 Restoration`  
-**Archer:** `680 Life, 252 Mana, 75 Attack, 25 Defense, 50 Speed, 50 Dexterity, 40 Vitality, 50 Wisdom, 80 Might, 40 Luck, 25 Protection, 60 Restoration`  
-**Wizard:** `630 Life, 385 Mana, 75 Attack, 25 Defense, 50 Speed, 75 Dexterity, 40 Vitality, 60 Wisdom, 30 Might, 20 Luck, 25 Protection, 60 Restoration`  
-**Priest:** `630 Life, 385 Mana, 65 Attack, 25 Defense, 55 Speed, 60 Dexterity, 40 Vitality, 75 Wisdom, 40 Might, 70 Luck, 60 Protection, 60 Restoration`  
-**Warrior:** `830 Life, 252 Mana, 75 Attack, 25 Defense, 50 Speed, 50 Dexterity, 75 Vitality, 50 Wisdom, 50 Might, 10 Luck, 25 Protection, 60 Restoration`  
-**Knight:** `950 Life, 252 Mana, 50 Attack, 40 Defense, 50 Speed, 50 Dexterity, 75 Vitality, 50 Wisdom, 50 Might, 15 Luck, 40 Protection, 60 Restoration`  
-**Paladin:** `820 Life, 252 Mana, 50 Attack, 30 Defense, 55 Speed, 45 Dexterity, 40 Vitality, 75 Wisdom, 30 Might, 10 Luck, 50 Protection, 60 Restoration`  
-**Assassin:** `680 Life, 252 Mana, 65 Attack, 25 Defense, 75 Speed, 75 Dexterity, 50 Vitality, 75 Wisdom, 80 Might, 80 Luck, 25 Protection, 60 Restoration`  
-**Necromancer:** `630 Life, 385 Mana, 65 Attack, 30 Defense, 50 Speed, 60 Dexterity, 65 Vitality, 75 Wisdom, 45 Might, 20 Luck, 40 Protection, 60 Restoration`  
-**Huntress:** `660 Life, 252 Mana, 75 Attack, 25 Defense, 55 Speed, 50 Dexterity, 35 Vitality, 50 Wisdom, 70 Might, 50 Luck, 25 Protection, 60 Restoration`  
-**Mystic:** `630 Life, 385 Mana, 60 Attack, 25 Defense, 60 Speed, 55 Dexterity, 40 Vitality, 75 Wisdom, 40 Might, 50 Luck, 50 Protection, 60 Restoration`  
-**Trickster:** `680 Life, 252 Mana, 85 Attack, 25 Defense, 80 Speed, 65 Dexterity, 50 Vitality, 60 Wisdom, 80 Might, 25 Luck, 40 Protection, 60 Restoration`  
-**Sorcerer:** `670 Life, 425 Mana, 70 Attack, 25 Defense, 60 Speed, 65 Dexterity, 75 Vitality, 80 Wisdom, 50 Might, 45 Luck, 25 Protection, 60 Restoration`  
-**Ninja:** `680 Life, 252 Mana, 80 Attack, 25 Defense, 65 Speed, 80 Dexterity, 35 Vitality, 70 Wisdom, 70 Might, 95 Luck, 25 Protection, 60 Restoration`  
+   </TabItem>
+ <TabItem value="Huntress" label="Huntress">
 
-  </TabItem>
-<TabItem value="airiitsfinallydone" label="Stat Sheet">
+## **Huntress**
+*The huntress uses arrows and traps to defeat her enemies.*
 
-# Stat Table
+![Huntress]()
 
-| Tables       |      Life     |  Mana | Atk| Dex| Def| Spd| Vit| Wis| Might| Luck| Prot| Res|
-|--------------|---------------|-------|----|----|----|----|----|----|------|-----|-----|----|
-| BM           |  720          |  252  | 40 | 95 | 15 | 100| 40 | 50 |   80 |  80 |  25 | 60 |
-| Templar      |  880          |  175  | 75 | 45 | 20 | 65 | 80 | 30 |   40 |  40 |  60 | 60 |
-| Mechanic     |  700          |  250  | 65 | 50 | 15 | 75 | 45 | 70 |   50 |  65 |  75 | 45 |
-| Shrine Maiden|  650          |  410  | 75 | 75 | 25 | 65 | 60 | 75 |   60 |  85 |  75 | 60 |
-| Samurai      |  810          |  275  | 75 | 65 | 30 | 55 | 70 | 45 |   80 |  80 |  25 | 70 |
-| Spirt Hunter |  660          |  300  | 65 | 60 | 25 | 60 | 40 | 70 |   75 |  50 |  60 | 65 |
-| Drakiz       |  650          |  900  | 50 | 50 | 20 | 50 | 35 | 80 |   55 |  30 |  25 | 60 |
-| Gambler      |  580          |  385  | 70 | 60 | 15 | 55 | 40 | 75 |   100|  150|  25 | 60 |
-| Pirate       |  660          |  190  | 65 | 60 | 15 | 55 | 50 | 45 |   45 |  25 |  50 | 65 |
+
+   </TabItem>
+ <TabItem value="Mystic" label="Mystic">
+
+## **Mystic**
+*The mystic fights with a staff and uses her crystal orb to bind enemies to a distant plane.*
+
+![Mystic]()
+
+
+   </TabItem>
+ <TabItem value="Trickster" label="Trickster">
+
+## **Trickster**
+*The trickster fights with a dagger while using her magical prism to distract enemies.*
+
+![Trickster]()
+
 
   </TabItem>
 </Tabs>
