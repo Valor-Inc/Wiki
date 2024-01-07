@@ -16,7 +16,10 @@ Interesting information.
 
 # General Class Informations
 
-<i>***Within the game, there exists a total of 24 distinct classes, each possessing its own set of advantages and disadvantages, along with specific build paths, item recommendations, and unique stat distributions.***</i>
+
+**<i>Within the game, there exists a total of 24 distinct classes, each possessing its own set of advantages and disadvantages, along with specific build paths, item recommendations, and unique stat distributions.</i>**
+
+
 
 **15 classes, well-known from the original game, have undergone reworking to match the power requirements for gameplay. Valor itself offers 9 different custom classes.**
 
@@ -26,7 +29,7 @@ Interesting information.
 - **Click on the tabs above to navigate between classes**
 
   </TabItem>
-  <TabItem value="Rogue" label="Rogue">
+   <TabItem value="Rogue" label="Rogue">
     
 - **Rogue** | <i>The rogue relies on his speed to deal damage at medium range while avoiding attacks.</i>
 
@@ -97,7 +100,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Archer" label="Archer">
+   <TabItem value="Archer" label="Archer">
 
 # Archer
     
@@ -107,7 +110,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Wizard" label="Wizard">
+   <TabItem value="Wizard" label="Wizard">
 
 # Wizard
     
@@ -117,7 +120,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Priest" label="Priest">
+   <TabItem value="Priest" label="Priest">
 
 # Priest
     
@@ -127,7 +130,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Warrior" label="Warrior">
+   <TabItem value="Warrior" label="Warrior">
 
 # Warrior
     
@@ -137,7 +140,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Knight" label="Knight">
+   <TabItem value="Knight" label="Knight">
 
 # Knight
     
@@ -146,7 +149,7 @@ Interesting information.
 ![Knight](https://github.com/Valor-Inc/Wiki/assets/154475841/28bca071-8bb4-4590-a81b-d7ec9643d3f0)
 
   </TabItem>
-  <TabItem value="Paladin" label="Paladin">
+   <TabItem value="Paladin" label="Paladin">
 
 # Paladin
     
@@ -155,7 +158,7 @@ Interesting information.
 ![Paladin](https://github.com/Valor-Inc/Wiki/assets/154475841/a821bdde-9e2d-45c6-a23c-f7b423372d0c)
 
   </TabItem>
-  <TabItem value="Assassin" label="Assassin">
+   <TabItem value="Assassin" label="Assassin">
 
 # Assassin
     
@@ -165,7 +168,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Necromancer" label="Necromancer">
+   <TabItem value="Necromancer" label="Necromancer">
 
 # Necromancer
     
@@ -175,7 +178,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Huntress" label="Huntress">
+   <TabItem value="Huntress" label="Huntress">
 
 # Huntress
     
@@ -185,7 +188,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Mystic" label="Mystic">
+   <TabItem value="Mystic" label="Mystic">
 
 # Mystic
     
@@ -195,7 +198,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Trickster" label="Trickster">
+   <TabItem value="Trickster" label="Trickster">
 
 # Trickster
     
@@ -205,7 +208,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Sorcerer" label="Sorcerer">
+   <TabItem value="Sorcerer" label="Sorcerer">
 
 # Sorcerer
     
@@ -215,7 +218,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Ninja" label="Ninja">
+   <TabItem value="Ninja" label="Ninja">
 
 # Ninja
     
@@ -225,7 +228,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Samurai" label="Samurai">
+   <TabItem value="Samurai" label="Samurai">
 
 # Samurai
     
@@ -235,7 +238,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Templar" label="Templar">
+   <TabItem value="Templar" label="Templar">
 
 # Templar
     
@@ -244,7 +247,7 @@ Interesting information.
 ![Templar](https://github.com/Valor-Inc/Wiki/assets/154475841/8350e055-0936-4491-9d7f-4fa9f239a48c)
 
   </TabItem>
-  <TabItem value="Drakzix" label="Drakzix">
+   <TabItem value="Drakzix" label="Drakzix">
 
 # Drakzix
     
@@ -254,7 +257,7 @@ Interesting information.
 
 
   </TabItem>
-  <TabItem value="Shrine Maiden" label="Shrine Maiden">
+   <TabItem value="Shrine Maiden" label="Shrine Maiden">
 
 # Shrine Maiden
     
@@ -265,7 +268,7 @@ rend them to bits.</i>
 
 
   </TabItem>
-  <TabItem value="Gambler" label="Gambler">
+   <TabItem value="Gambler" label="Gambler">
 
 # Gambler
     
@@ -275,7 +278,7 @@ rend them to bits.</i>
 
 
   </TabItem>
-  <TabItem value="Blademaster" label="Blademaster">
+   <TabItem value="Blademaster" label="Blademaster">
 
 # Blademaster
 
@@ -285,7 +288,7 @@ rend them to bits.</i>
 
 
   </TabItem>
-  <TabItem value="Spirithunter" label="Spirithunter">
+   <TabItem value="Spirithunter" label="Spirithunter">
 
 # Spirithunter
     
@@ -305,7 +308,7 @@ rend them to bits.</i>
 
 
   </TabItem>
-  <TabItem value="Mechanic" label="Mechanic">
+   <TabItem value="Mechanic" label="Mechanic">
 
 # Mechanic
     
@@ -315,7 +318,7 @@ rend them to bits.</i>
 
 
   </TabItem>
-  <TabItem value="Magus" label="Magus">
+   <TabItem value="Magus" label="Magus">
 
 # Magus
     
@@ -325,3 +328,6 @@ rend them to bits.</i>
 
 </TabItem>
 </Tabs>
+
+
+
