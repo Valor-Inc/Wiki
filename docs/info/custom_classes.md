@@ -487,7 +487,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Skilltree]( TBD.
+![Skilltree](
 
   </TabItem>
  <TabItem value="Knight" label="Knight">
@@ -579,7 +579,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Skilltree]( TBD.
+![Skilltree](
 
   </TabItem>
  <TabItem value="Paladin" label="Paladin">
