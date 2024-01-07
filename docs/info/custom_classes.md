@@ -25,26 +25,8 @@ import TabItem from '@theme/TabItem';
   </TabItem>
  <TabItem value="Rogue" label="Rogue">
 
-- **Rogue** | The rogue relies on his speed to deal damage at medium range while avoiding attacks.
+**Rogue** | The rogue relies on his speed to deal damage at medium range while avoiding attacks.
 
-
-
-# Weapon / Ability / Armor
-
-- Weapon:
-**Dagger**
-
-- Ability:
-**Cloak**
-
-- Armor: 
-**Leather**
-
-## It's good for / good in
-
-- **It's good for solo dungeons like ascended dungeons**
-
-- **It's good in groups and solo**
 
   </TabItem>
   <TabItem value="Dagger Classes" label="Dagger Classes">
