@@ -47,7 +47,7 @@ Installation Video:
     
  - Some anti-viruses claim the game as a false positive due to it not being signed, try disabling your AV if it doesn't work. You can check the code or just run it in Sandboxie if you really want to.
 
- - If you're getting a black screen (pure black, no 'loading...', no character running in the middle of your screen) install the specific version of Visual C++ from [Here 32 bit](https://aka.ms/vs/16/release/vc_redist.x86.exe) or [Here 64 bit](https://aka.ms/vs/16/release/vc_redist.x64.exe). If you don't know which one to install, just download and install the 64 bit one.
+ - If you're getting a black screen (pure black, no 'loading...', no character running in the middle of your screen) install the specific version of Visual C++ from [here (32 bit)](https://aka.ms/vs/16/release/vc_redist.x86.exe) or [here (64 bit)](https://aka.ms/vs/16/release/vc_redist.x64.exe). If you don't know which one to install, just download and install the 64 bit one.
     
  - If you have registered but cannot connect to the nexus make sure you have selected a username. This is done via the "Play" Menu.
 
