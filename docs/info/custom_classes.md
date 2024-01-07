@@ -88,7 +88,7 @@ import TabItem from '@theme/TabItem';
 # recommendations
 
 - **Skilltree**
-<i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
 ![Archer](https://cdn.discordapp.com/attachments/1084581982480105522/1193311089493037237/image.png?ex=65ac408e&is=6599cb8e&hm=c7470033cecab48d5da855b667b59608dc5cf84c9a5c7a8dc746b0513b22dbc0&)
 
@@ -161,7 +161,7 @@ import TabItem from '@theme/TabItem';
 # recommendations
 
 - **Skilltree**
-<i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
 ![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193531536490897489/image.png?ex=65ad0ddd&is=659a98dd&hm=69b27ee25287043ad2ec0a65702b5d13e2dae0631c0bac78a90a8d2c52324aef&)
 
@@ -234,7 +234,7 @@ import TabItem from '@theme/TabItem';
 # recommendations
 
 - **Skilltree**
-<i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
 ![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193534708504608838/image.png?ex=65ad10d1&is=659a9bd1&hm=7d27230177a5f208d4bae85cafc137d6a18ce0c4e373284c6132edf83e3f9ea8&)
 
