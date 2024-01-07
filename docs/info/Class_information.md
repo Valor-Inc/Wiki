@@ -91,7 +91,7 @@ import TabItem from '@theme/TabItem';
 
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Archer" label="Archer">
 
 # Archer
@@ -101,7 +101,7 @@ import TabItem from '@theme/TabItem';
 ![Archer](https://github.com/Valor-Inc/Wiki/assets/154475841/b41cae0b-7bb3-4a51-ac4c-d5814934b628)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Wizard" label="Wizard">
 
 # Wizard
@@ -111,7 +111,7 @@ import TabItem from '@theme/TabItem';
 ![Wizard](https://github.com/Valor-Inc/Wiki/assets/154475841/2b182f4c-34e8-4a69-81f6-b24d2854b755)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Priest" label="Priest">
 
 # Priest
@@ -121,7 +121,7 @@ import TabItem from '@theme/TabItem';
 ![Priest](https://github.com/Valor-Inc/Wiki/assets/154475841/ed285efa-2db6-4de9-8428-cb7f7789ad53)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Warrior" label="Warrior">
 
 # Warrior
@@ -131,7 +131,7 @@ import TabItem from '@theme/TabItem';
 ![Warrior](https://github.com/Valor-Inc/Wiki/assets/154475841/f85489aa-245a-4190-a01e-4ae43ce08af5)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Knight" label="Knight">
 
 # Knight
@@ -140,7 +140,7 @@ import TabItem from '@theme/TabItem';
 
 ![Knight](https://github.com/Valor-Inc/Wiki/assets/154475841/28bca071-8bb4-4590-a81b-d7ec9643d3f0)
 
- </TabItem>
+  </TabItem>
   <TabItem value="Paladin" label="Paladin">
 
 # Paladin
@@ -149,7 +149,7 @@ import TabItem from '@theme/TabItem';
 
 ![Paladin](https://github.com/Valor-Inc/Wiki/assets/154475841/a821bdde-9e2d-45c6-a23c-f7b423372d0c)
 
- </TabItem>
+  </TabItem>
   <TabItem value="Assassin" label="Assassin">
 
 # Assassin
@@ -159,7 +159,7 @@ import TabItem from '@theme/TabItem';
 ![Assassin](https://github.com/Valor-Inc/Wiki/assets/154475841/6bb2a570-fb3f-4d36-ae94-fbf23e695c39)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Necromancer" label="Necromancer">
 
 # Necromancer
@@ -169,7 +169,7 @@ import TabItem from '@theme/TabItem';
 ![Necromancer](https://github.com/Valor-Inc/Wiki/assets/154475841/36967998-dfec-4f12-8c2f-59f099d967c2)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Huntress" label="Huntress">
 
 # Huntress
@@ -179,7 +179,7 @@ import TabItem from '@theme/TabItem';
 ![Huntress](https://github.com/Valor-Inc/Wiki/assets/154475841/365ef786-7990-47ce-81e8-3fe5a8008c6a)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Mystic" label="Mystic">
 
 # Mystic
@@ -189,7 +189,7 @@ import TabItem from '@theme/TabItem';
 ![Mystic](https://github.com/Valor-Inc/Wiki/assets/154475841/7ace3d77-914c-402e-b5c8-3b8c1b7f2d7e)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Trickster" label="Trickster">
 
 # Trickster
@@ -199,7 +199,7 @@ import TabItem from '@theme/TabItem';
 ![Trickster](https://github.com/Valor-Inc/Wiki/assets/154475841/e7c2a4c9-4c24-48f0-b609-9191a2aed682)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Sorcerer" label="Sorcerer">
 
 # Sorcerer
@@ -209,7 +209,7 @@ import TabItem from '@theme/TabItem';
 ![Sorcerer](https://github.com/Valor-Inc/Wiki/assets/154475841/f7262a6a-5787-46f8-806b-a6f0d322e2b1)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Ninja" label="Ninja">
 
 # Ninja
@@ -219,7 +219,7 @@ import TabItem from '@theme/TabItem';
 ![Ninja](https://github.com/Valor-Inc/Wiki/assets/154475841/36cb8760-8b9c-4e49-aa74-45b6ce296830)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Samurai" label="Samurai">
 
 # Samurai
@@ -229,7 +229,7 @@ import TabItem from '@theme/TabItem';
 ![Samurai](https://github.com/Valor-Inc/Wiki/assets/154475841/4e17f8f3-923d-4488-ab04-06c0df3276c3)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Templar" label="Templar">
 
 # Templar
@@ -238,7 +238,7 @@ import TabItem from '@theme/TabItem';
 
 ![Templar](https://github.com/Valor-Inc/Wiki/assets/154475841/8350e055-0936-4491-9d7f-4fa9f239a48c)
 
- </TabItem>
+  </TabItem>
   <TabItem value="Drakzix" label="Drakzix">
 
 # Drakzix
@@ -248,7 +248,7 @@ import TabItem from '@theme/TabItem';
 ![Drakzix](https://github.com/Valor-Inc/Wiki/assets/154475841/9d101ee2-7727-42ff-a6fe-8622aff08ec6)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Shrine Maiden" label="Shrine Maiden">
 
 # Shrine Maiden
@@ -259,7 +259,7 @@ rend them to bits.</i>
 ![Shrine Maiden](https://github.com/Valor-Inc/Wiki/assets/154475841/6d509bc0-dc21-4eb4-9fc1-55954dd489c7)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Gambler" label="Gambler">
 
 # Gambler
@@ -269,7 +269,7 @@ rend them to bits.</i>
 ![Gambler](https://github.com/Valor-Inc/Wiki/assets/154475841/678467d9-4e49-40a3-8f88-293fbe17e33b)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Blademaster" label="Blademaster">
 
 # Blademaster
@@ -279,7 +279,7 @@ rend them to bits.</i>
 ![Blademaster](https://github.com/Valor-Inc/Wiki/assets/154475841/6a4bdccc-9c37-47e8-9eea-ff7c8bca1996)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Spirithunter" label="Spirithunter">
 
 # Spirithunter
@@ -299,7 +299,7 @@ rend them to bits.</i>
 ![Pirate](https://github.com/Valor-Inc/Wiki/assets/154475841/f510714a-19f8-4da4-98a1-44bcdbb18c6a)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Mechanic" label="Mechanic">
 
 # Mechanic
@@ -309,7 +309,7 @@ rend them to bits.</i>
 ![Mechanic](https://github.com/Valor-Inc/Wiki/assets/154475841/ccc10f22-5d44-4a7b-96f9-36e581e6814b)
 
 
- </TabItem>
+  </TabItem>
   <TabItem value="Magus" label="Magus">
 
 # Magus
