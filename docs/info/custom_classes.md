@@ -167,27 +167,76 @@ import TabItem from '@theme/TabItem';
 
 
   </TabItem>
-  <TabItem value="Katana Classes" label="Katana Classes">
+  <TabItem value="Wizard" label="Wizard">
 
+## **Wizard**
+*The wizard deals damage from a long distance and blasts enemies with powerful spells.*
 
-### Shrine Maiden
-![Shrine Maiden](https://i.imgur.com/6P1eDCb.png)  
-The shrine maiden is a supportive katana class that uses her mystical charm to debuff her enemies or buff her allies. The "Torii" will spawn on the cursor upon ability use and has a radius of effect. She has equivalent stats to other katana users.  
+![Wizard](https://cdn.discordapp.com/attachments/1187552567295758487/1193532395882815549/Wizard.png?ex=65ad0ea9&is=659a99a9&hm=a7c0c9467c1c69b0ffbb70205f6144e8b5809da1148cfbd176c536bd0fe12e45&)
+
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Stave](https://wiki.valorserver.com/docs/category/Staves)**
+
+- **Ability:** 
+**[Spell](https://wiki.valorserver.com/docs/category/spells)**
+
+- **Armor:** 
+**[Robe](https://wiki.valorserver.com/docs/category/Robes)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+
+**Stats When character is created**
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+
+    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+
+    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
     
-**Stats on max:**
+**Stats When 11/11**
 
-    650 Life 
-    410 Mana 
-    75 Attack 
-    25 Defense 
-    65 Speed 
-    75 Dexterity 
-    60 Vitality 
-    75 Wisdom
-    60 Might
-    85 Luck 
-    75 Protection
-    60 Restoration
+    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+
+    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+
+# recommendations
+
+- **Skilltree**
+<i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193534708504608838/image.png?ex=65ad10d1&is=659a9bd1&hm=7d27230177a5f208d4bae85cafc137d6a18ce0c4e373284c6132edf83e3f9ea8&)
 
   </TabItem>
   <TabItem value="Lance Classes" label="Lance Classes">
