@@ -1,7 +1,7 @@
 ---
 title: Class Information
 description: "General Class Informations, build etc."
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 import Tabs from '@theme/Tabs';
