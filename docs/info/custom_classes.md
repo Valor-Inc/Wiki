@@ -28,16 +28,18 @@ import TabItem from '@theme/TabItem';
 ## **Rogue**
 *The rogue relies on his speed to deal damage at medium range while avoiding attacks.*
 
+![Rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1193525763421519983/Rogue_1.png?ex=65ad087c&is=659a937c&hm=ece8f8166540d5c3df56f929fc7f12a3f8e36413894f0fbc39931c94c5d3aeb1&)
+
 # Weapon / Ability / Armor
 
 - **Weapon:** 
-**Dagger**
+**[Dagger](https://wiki.valorserver.com/docs/category/daggers)**
 
 - **Ability:** 
-**Cloak**
+**[Cloak](https://wiki.valorserver.com/docs/category/cloaks)**
 
 - **Armor:** 
-**Leather**
+**[Leather](https://wiki.valorserver.com/docs/category/leather)**
 
 # It's good for / good in
 
