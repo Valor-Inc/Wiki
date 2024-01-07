@@ -163,7 +163,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
 <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193531281343008768/image.png?ex=65ad0da0&is=659a98a0&hm=5db702f1491364161c209326a1839ed62243f049aef68ca765947866e2d63c72&)
+![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193531536490897489/image.png?ex=65ad0ddd&is=659a98dd&hm=69b27ee25287043ad2ec0a65702b5d13e2dae0631c0bac78a90a8d2c52324aef&)
 
 
   </TabItem>
