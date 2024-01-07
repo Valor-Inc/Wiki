@@ -162,12 +162,14 @@ You're looking for [a crafting guide? Click here and go to the "Crafting" tab](h
 
 <details>
   <summary>
-    Q: What is the "Godstruck" condition effect?
+    Q: What is the "Godstruck" condition effect? & What is {effect} condition effect?
   </summary>
   
 <br/>
   
-  When inflicted with godstruck you cant be invulnerable (Jackets, Lumi, Avalanche). Currently this effect is only given by Avalanche seal at approximately double the invul time. ***BEWARE USING AVALANCHE AROUND BLADEMASTERS AS YOU MAY CAUSE THEM TO DIE***
+  When inflicted with godstruck you cant be invulnerable (Jackets, Lumi, Avalanche). Currently this effect is only given by Avalanche seal at approximately double the invul time. 
+  
+  ***BEWARE OF USING AVALANCHE AROUND BLADEMASTERS, AS YOU MAY CAUSE THEM TO DIE!***
 
   More descriptions on all condition effects are in this wiki!
 
@@ -231,7 +233,9 @@ You're looking for [a crafting guide? Click here and go to the "Crafting" tab](h
 
 <br/>
 
-  No, dealing damage beyond your threshold(s) only gives you the base chance to get an item (see below for more information on threhsolds). 
+  The only way that you can gain more loot based on the damage you do is "Get money yah yah" in the skill tree, which gives you loot boost based on your damage done to the boss. 
+
+  Otherwise no, dealing damage beyond your threshold(s) only gives you the base chance to get an item (see below for more information on threhsolds). 
   
   To gain an increase in drop rates (making rare items less rare), you're looking for the [fortune stat](https://wiki.valorserver.com/docs/items/The%20Actual%20Showcase/Set_Bonus_and_fortune/)! 1 fortune = 1% drop rate, you can get it through the skill tree or through items. If an item drops at 1/100, and you have 10 fortune, the actual drop rate for that item is 1/90 (0.01 * 0.1).
 
