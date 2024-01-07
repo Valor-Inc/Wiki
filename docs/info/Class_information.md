@@ -7,6 +7,10 @@ sidebar_position: 3
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+
+Interesting information.
+
+
 <Tabs>
   <TabItem value="General Class Informations" label="General Class Informations" default>
 
