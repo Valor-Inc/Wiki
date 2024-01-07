@@ -58,4 +58,7 @@ description: "Meet the Team"
 
 ## Recruitment
 
-Keep an eye open for applications
+Staff Apps
+These apps will be open until the 12/13th, and anyone who is interested we invite to apply. More information is available in the application form itself.
+
+https://staffapps.valorserver.com/
