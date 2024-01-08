@@ -244,7 +244,8 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
-**Stats When character is created**
+
+  **Stats When character is created**
     
    
     ======= 80 HP ========
@@ -493,90 +494,6 @@ import TabItem from '@theme/TabItem';
 ## **Knight**
 *The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
-![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
-
-# Informations about the class
-
-- The Ability: **Knight uses his Shield to Tank damage and debuff enemies. It's good for helping groups.**
-
-- The Class: **The Knight has a lot of Vitality and health. So it can tank most of the damage.**
-  
-# Weapon / Ability / Armor
-
-- **Weapon:** 
-**[Sword](https://wiki.valorserver.com/docs/category/Swords)**
-
-- **Ability:** 
-**[Shield](https://wiki.valorserver.com/docs/category/Shields)**
-
-- **Armor:** 
-**[Heavy](https://wiki.valorserver.com/docs/category/Heavy)**
-
-# It's good for / good in
-
-- **It's good for Tanky character**
-
-- **It's good in groups**
-  
-# Stats 
-<details>
-  <summary>Stats (click here)</summary>
-  
-**Stats When character is created**
-    
-    ======= 210 HP =======
-    ======= 100 MP =======
-
-
-    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
-
-    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
-
-    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
-
-    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
-
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
-
-**Stats When Lv. 20**
-    
-    ======= 710 HP =======
-    ======= 200 MP =======
-
-
-    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
-
-    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
-
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
-
-    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
-
-    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
-    
-**Stats When 11/11**
-    
-    ======= 950 HP =======
-    ======= 252 MP =======
-
-
-    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
-
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
-
-    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
-
-    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
-
-    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
-</details>
-
-# recommendations
-
-- **Skilltree**
- - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
-
-![Skilltree](
 
   </TabItem>
  <TabItem value="Paladin" label="Paladin">
