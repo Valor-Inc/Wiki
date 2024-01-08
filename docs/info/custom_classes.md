@@ -244,8 +244,8 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
+**Stats When character is created**
 
-  **Stats When character is created**
     
    
     ======= 80 HP ========
@@ -398,15 +398,26 @@ import TabItem from '@theme/TabItem';
  <TabItem value="Warrior" label="Warrior">
     
 ## **Warrior**
+
 *The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
 
 ![Warrior](https://cdn.discordapp.com/attachments/1187552567295758487/1193648191602688121/Warrior.png?ex=65ad7a81&is=659b0581&hm=94a834cebdf5b6061c12ce065d3e82d5dec9c1b0b611b4ab860fa24f659a3f7f&)
 
+
+
+  </TabItem>
+ <TabItem value="Knight" label="Knight">
+    
+## **Knight**
+*The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
+
+![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
+
 # Informations about the class
 
-- The Ability: **The Warrior uses his Helmet to buff himself or his allies(depends on the helmet). With it the warrior will be granted with huge power.**
+- The Ability: **Knight uses his Shield to Tank damage and debuff enemies. It's good for helping groups.**
 
-- The Class: **The Warrior is a Tanky Class that has a lot of dmg. It can be used for solo dungeons and in groups.**
+- The Class: **The Knight has a lot of Vitality and health. So it can tank most of the damage.**
   
 # Weapon / Ability / Armor
 
@@ -414,43 +425,40 @@ import TabItem from '@theme/TabItem';
 **[Sword](https://wiki.valorserver.com/docs/category/Swords)**
 
 - **Ability:** 
-**[Helmet](https://wiki.valorserver.com/docs/category/helmets)**
+**[Shield](https://wiki.valorserver.com/docs/category/Shields)**
 
 - **Armor:** 
 **[Heavy](https://wiki.valorserver.com/docs/category/Heavy)**
 
 # It's good for / good in
 
-- **It's good for Hitting LG, AR threshold**
-
-- **It's good for DPS character**
-
 - **It's good for Tanky character**
 
-- **It's good in groups and solo**
+- **It's good in groups**
   
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
-  **Stats When character is created**
-
-    ======= 180 HP =======
+  
+**Stats When character is created**
+    
+    ======= 210 HP =======
     ======= 100 MP =======
 
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎DEX 10 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
     VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
     
-    ======= 680 HP =======
+    ======= 710 HP =======
     ======= 200 MP =======
 
 
@@ -460,25 +468,25 @@ import TabItem from '@theme/TabItem';
 
     VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
     
-    ======= 630 HP =======
-    ======= 385 MP =======
+    ======= 950 HP =======
+    ======= 252 MP =======
 
 
-    ATT‎ 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
     SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
     VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 10 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
 
 # recommendations
@@ -487,13 +495,6 @@ import TabItem from '@theme/TabItem';
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
 ![Skilltree](
-
-  </TabItem>
- <TabItem value="Knight" label="Knight">
-    
-## **Knight**
-*The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
-
 
   </TabItem>
  <TabItem value="Paladin" label="Paladin">
