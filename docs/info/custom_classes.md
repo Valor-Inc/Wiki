@@ -403,7 +403,7 @@ import TabItem from '@theme/TabItem';
 
 # Informations about the class
 
-- The Ability: **The Warrior uses his Helmet to buff himself or his allies(depends on the helmet). With it the warrior will be granted with huge power. ;)**
+- The Ability: **The Warrior uses his Helmet to buff himself or his allies(depends on the helmet). With it the warrior will be granted with huge power.**
 
 - The Class: **The Warrior is a Tanky Class that has a lot of dmg. It can be used for solo dungeons and in groups.**
   
