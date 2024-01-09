@@ -162,7 +162,7 @@ You're looking for [a crafting guide? Click here and go to the "Crafting" tab](h
 
 <details>
   <summary>
-    Q: What is the "Godstruck" condition effect? & What is {effect} condition effect?
+    Q: What is the "Godstruck" condition effect? & What is (effect) condition effect?
   </summary>
   
 <br/>
