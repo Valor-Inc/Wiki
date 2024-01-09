@@ -244,10 +244,11 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
+
+  
 **Stats When character is created**
 
     
-   
     ======= 80 HP ========
     ======= 100 MP =======
 
@@ -403,12 +404,98 @@ import TabItem from '@theme/TabItem';
 
 ![Warrior](https://cdn.discordapp.com/attachments/1187552567295758487/1193648191602688121/Warrior.png?ex=65ad7a81&is=659b0581&hm=94a834cebdf5b6061c12ce065d3e82d5dec9c1b0b611b4ab860fa24f659a3f7f&)
 
+# Informations about the class
+
+- The Ability: **The Warrior uses his Helmet to buff himself or his allies(depends on the helmet). With it the warrior will be granted with huge power.**
+
+- The Class: **The Warrior is a Tanky Class that has a lot of dmg. It can be used for solo dungeons and in groups.**
+  
+# Weapon / Ability / Armor
+
+- **Weapon:** 
+**[Sword](https://wiki.valorserver.com/docs/category/Swords)**
+
+- **Ability:** 
+**[Helmet](https://wiki.valorserver.com/docs/category/helmets)**
+
+- **Armor:** 
+**[Heavy](https://wiki.valorserver.com/docs/category/Heavy)**
+
+# It's good for / good in
+
+- **It's good for Hitting LG, AR threshold**
+
+- **It's good for DPS character**
+
+- **It's good for Tanky character**
+
+- **It's good in groups and solo**
+  
+# Stats 
+<details>
+  <summary>Stats (click here)</summary>
+  **Stats When character is created**
+
+    ======= 180 HP =======
+    ======= 100 MP =======
+
+
+    ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎DEX 10 
+
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+
+**Stats When Lv. 20**
+    
+    ======= 680 HP =======
+    ======= 200 MP =======
+
+
+    ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
+
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
+
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
+
+    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ LUC 2 
+
+    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    
+**Stats When 11/11**
+    
+    ======= 630 HP =======
+    ======= 385 MP =======
+
+
+    ATT‎ 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
+
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
+
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 10 
+
+    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+</details>
+
+# recommendations
+
+- **Skilltree**
+ - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
+
+![Skilltree](
 
 
   </TabItem>
  <TabItem value="Knight" label="Knight">
     
 ## **Knight**
+
 *The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
 ![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
