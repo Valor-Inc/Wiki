@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
     
 
   </TabItem>
- <TabItem value="Rogue ![rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1194637446495883334/Rogue_2.png?ex=65b113d2&is=659e9ed2&hm=7c2b4f79c664ffee2273bd7315a321b6d9c68ac8a022016ec795fad543ec4c93&)" label="Rogue ![rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1194637446495883334/Rogue_2.png?ex=65b113d2&is=659e9ed2&hm=7c2b4f79c664ffee2273bd7315a321b6d9c68ac8a022016ec795fad543ec4c93&)">
+ <TabItem value="Rogue" label="Rogue">
 
 ## **Rogue**
 *The rogue relies on his speed to deal damage at medium range while avoiding attacks.*
@@ -398,8 +398,10 @@ import TabItem from '@theme/TabItem';
   </TabItem>
  <TabItem value="Warrior" label="Warrior">
     
-# Warrior
-<i>The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.</i>
+
+## **Warrior**
+*The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
+
 
 ![Warrior](https://cdn.discordapp.com/attachments/1187552567295758487/1193648191602688121/Warrior.png?ex=65ad7a81&is=659b0581&hm=94a834cebdf5b6061c12ce065d3e82d5dec9c1b0b611b4ab860fa24f659a3f7f&)
 
@@ -433,7 +435,8 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
-  **Stats When character is created**
+ 
+**Stats When character is created**
 
     ======= 180 HP =======
     ======= 100 MP =======
@@ -492,10 +495,11 @@ import TabItem from '@theme/TabItem';
 
   </TabItem>
  <TabItem value="Knight" label="Knight">
-    
-# Knight
 
-<i>The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.</i>
+    
+## **Knight**
+*The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
+
 
 ![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
 
