@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
     
 
   </TabItem>
- <TabItem value="Rogue" label="Rogue">
+ <TabItem value="Rogue ![rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1194637446495883334/Rogue_2.png?ex=65b113d2&is=659e9ed2&hm=7c2b4f79c664ffee2273bd7315a321b6d9c68ac8a022016ec795fad543ec4c93&)" label="Rogue ![rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1194637446495883334/Rogue_2.png?ex=65b113d2&is=659e9ed2&hm=7c2b4f79c664ffee2273bd7315a321b6d9c68ac8a022016ec795fad543ec4c93&)">
 
 ## **Rogue**
 *The rogue relies on his speed to deal damage at medium range while avoiding attacks.*
