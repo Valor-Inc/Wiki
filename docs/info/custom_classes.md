@@ -494,7 +494,8 @@ import TabItem from '@theme/TabItem';
  <TabItem value="Knight" label="Knight">
     
 ## Knight
-*The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
+
+<i>The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.</i>
 
 ![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
 
@@ -525,10 +526,14 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
     
     ======= 210 HP =======
     ======= 100 MP =======
+
 
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
