@@ -435,9 +435,10 @@ import TabItem from '@theme/TabItem';
 # Stats 
 <details>
   <summary>Stats (click here)</summary>
- 
+
 **Stats When character is created**
 
+    
     ======= 180 HP =======
     ======= 100 MP =======
 
@@ -596,6 +597,7 @@ import TabItem from '@theme/TabItem';
 ## **Paladin**
 *The paladin can deal damage at close range, wear armor and heal himself and his allies.*
 
+
 ![Paladin](https://cdn.discordapp.com/attachments/1187552567295758487/1193648613612597278/Paladin.png?ex=65ad7ae6&is=659b05e6&hm=489782c5b02ecba68f8571530e57acfe123e893de711df3b606c45bc08aafba0&)
 
 # Informations about the class
@@ -627,42 +629,59 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
+
 
 # recommendations
 
@@ -708,42 +727,59 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
+
 
 # recommendations
 
@@ -789,41 +825,57 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
 
 # recommendations
@@ -870,42 +922,59 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
+
 
 # recommendations
 
@@ -951,42 +1020,59 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
+
 
 # recommendations
 
@@ -1032,42 +1118,59 @@ import TabItem from '@theme/TabItem';
 <details>
   <summary>Stats (click here)</summary>
   
+
 **Stats When character is created**
+
+
+    
+    ======= 210 HP =======
+    ======= 100 MP =======
+
+
 
     ATT‎ 15 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 20 
+    SPD 7 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEX 10 
 
-    VIT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 12
+    VIT 10 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 10
 
-    MGT 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
 
     PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
 
 **Stats When Lv. 20**
+    
+    ======= 710 HP =======
+    ======= 200 MP =======
+
 
     ATT‎ 45 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 0 
 
-    SPD 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
+    SPD 27 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 30 
 
-    VIT 22 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 32
+    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 30
 
-    MGT 12 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 2 
+    MGT 5 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎LUC 2 
 
-    PRT 4 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ FRT 0 
+    PRT 14 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ FRT 0 
     
 **Stats When 11/11**
+    
+    ======= 950 HP =======
+    ======= 252 MP =======
 
-    ATT‎ 70 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 25 
 
-    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 70 
+    ATT‎ 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ DEF 40 
 
-    VIT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 60
+    SPD 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎DEX 50 
 
-    MGT 30 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 30 
+    VIT 75 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎WIS 50
 
-    PRT 25 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
+    MGT 50 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎LUC 35 
+
+    PRT 40 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎FRT 0 
 </details>
+
 
 # recommendations
 
