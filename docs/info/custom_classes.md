@@ -398,8 +398,8 @@ import TabItem from '@theme/TabItem';
   </TabItem>
  <TabItem value="Warrior" label="Warrior">
     
-## Warrior
-*The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
+# Warrior
+<i>The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.</i>
 
 ![Warrior](https://cdn.discordapp.com/attachments/1187552567295758487/1193648191602688121/Warrior.png?ex=65ad7a81&is=659b0581&hm=94a834cebdf5b6061c12ce065d3e82d5dec9c1b0b611b4ab860fa24f659a3f7f&)
 
@@ -493,7 +493,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
  <TabItem value="Knight" label="Knight">
     
-## Knight
+# Knight
 
 <i>The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.</i>
 
