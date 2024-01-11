@@ -16,15 +16,13 @@ Base Damage: 620
 
 Max Summons: 3
 
-Soul Cost: 35
+Soul Cost: 15
 
-Additional 35% Main Damage for 4 seconds
+Additional 35% Main Damage for 4s
 
-Effect on Self: Berserk for 4 seconds
+Effect on Self: Berserk for 4s
 
-    +12 Attack
-
-    +30 Restoration
+    +10 Attack
 
 MP Cost: 90
 
