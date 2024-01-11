@@ -20,23 +20,29 @@ import TabItem from '@theme/TabItem';
 
 **Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
 
-Max Summons: 4 
+Max Summons: 2 
 
-Infused Cost: 5 
+Infused Cost: 1 
 
-Effect on Self: Damaging for 4 seconds 
+Effect on Self: Damaging for 4s
 
-Main Base Damage 700,1300,2250,3350 
+Main Base Damage 2500,5000,7500,10000
 
-Base Damage: 500 
+Base Damage: 2500 
 
-Effect on Enemy DeathCurse for 2 seconds
+Effect on Enemy DeathCurse for 3s
 
-Additional 45% Main Damage for 5 seconds
+Additional 45% Main Spirit Damage for 5s
 
     +75 Maximum HP
 
-    +30 Protection 
+    +30 Protection
+
+    +12 Dexterity
+
+    +30 Luck
+
+    +5 Attack
 
 MP Cost: 100 
 
@@ -57,23 +63,31 @@ Fame Bonus: 14%
 
 **Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
 
-Max Summons: 4 
+**Enemy effect: Dazed for 3s within 5 sqrs.**
 
-Infused Cost: 16
+***Air Rune: Gain 10 Dex and 15 Speed in exchange of hp and prot. Minions now Paralyze and deal more damage.***
 
-Effect on Self: Damaging for 4 seconds 
+Max Summons: 2 
 
-Main Base Damage 700,1500,2400,4000 
+Infused Cost: 1 
 
-Base Damage: 600 
+Effect on Self: Damaging for 4s
 
-Effect on Enemy: DeathCurse for 2 seconds
+Main Base Damage 3500,7000,10500,14000
 
-Additional 55% Main Damage for 5 seconds
+Base Damage: 3500
 
-    +10 Dexterity
+Effect on Enemy DeathCurse for 2s
 
-    +15 Speed 
+Additional 50% Main Spirit Damage for 5s
+
+    +75 Maximum HP
+
+    +20 (-10) Protection
+
+    +18 (+6) Dexterity
+
+    +40 (+10) Luck
 
 MP Cost: 100 
 
@@ -94,23 +108,33 @@ Fame Bonus: 14%
 
 **Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
 
-Max Summons: 4 
+**Enemy effect: Armor Broken for 3s within 5sqrs.**
 
-Infused Cost: 16
+***Earth Rune: Gain 75 HP and 2 Life steal in exhange prot. Minions now Armor break and deal more damage.***
 
-Effect on Self: Damaging for 4 seconds 
+Max Summons: 2 
 
-Main Base Damage 700,1500,2250,3750 
+Infused Cost: 1 
 
-Base Damage: 550 
+Effect on Self: Damaging for 4s
 
-Effect on Enemy: DeathCurse for 2 seconds
+Main Base Damage 2500,5000,7500,10000
 
-Additional 50% Main Damage for 5 seconds
+Base Damage: 2500 
 
-    +150 Maximum HP
+Effect on Enemy DeathCurse for 3s
 
-    +2 Life Steal
+Additional 50% Main Spirit Damage for 5s
+
+    +150 (+75) Maximum HP
+
+    +40 (+10) Protection
+
+    +10 (+5) Attack
+
+    +10 Defense
+
+    +2 Life steal
 
 MP Cost: 100 
 
@@ -129,25 +153,33 @@ Fame Bonus: 14%
 
 **Spawns a ghost to aid you in combat.**
 
-**Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
+**Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve yo
 
-Max Summons: 4 
+**Enemy effect: Curse for 3s within 5 sqrs.**
 
-Infused Cost: 16
+***Fire Rune: Gain 10 attack and 20 might in exchange of hp and prot. Minions now Curse and deal more damage.***
 
-Effect on Self: Damaging for 4 seconds 
+Max Summons: 2 
 
-Main Base Damage 800,1750,2600,4200 
+Infused Cost: 1 
 
-Base Damage: 650 
+Effect on Self: Damaging for 4s
 
-Effect on Enemy: DeathCurse for 2 seconds
+Main Base Damage 3500,7000,10500,14000
 
-Additional 60% Main Damage for 5 seconds
+Base Damage: 2500 
 
-    +10 Attack
+Effect on Enemy DeathCurse for 2s
 
-    +20 Might 
+Additional 50% Main Spirit Damage for 5s
+
+    +75 Maximum HP
+
+    +20 (-10) Protection
+
+    +20 Might
+
+    +18 Attack
 
 MP Cost: 100 
 
@@ -168,21 +200,31 @@ Fame Bonus: 14%
 
 **Gain a soul after killing an enemy that has a Death Curse debuff Sacrifices existing souls to evolve your companion**
 
-Max Summons: 4 
+**Enemy effect: Armor Broken for 3s within 5sqrs.**
 
-Infused Cost: 12
+***Water Rune: Gain 200Mő and 2 mana leech in exchange of hp and prot. Minions now Slow and cost less to spawn/evolve.***
 
-Effect on Self: Damaging for 4 seconds 
+Max Summons: 2 
 
-Main Base Damage 650,1400,2250,3550 
+Infused Cost: 1 
 
-Base Damage: 700 
+Effect on Self: Damaging for 4s
 
-Effect on Enemy: DeathCurse for 2 seconds
+Main Base Damage 2500,5000,7500,10000
 
-Additional 50% Main Damage for 5 seconds
+Base Damage: 2500 
+
+Effect on Enemy DeathCurse for 3s
+
+Additional 50% Main Spirit Damage for 5s
 
     +200 Maximum MP
+
+    +50 (-25) Maximum HP
+
+    +15 Wisdom
+
+    +6 (-6) Dexterity
 
     +2 Mana Leech
 
