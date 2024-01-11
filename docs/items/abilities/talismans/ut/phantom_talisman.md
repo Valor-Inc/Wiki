@@ -17,15 +17,15 @@ Base Damage: 480
 
 Max Summons: 2
 
-Soul Cost: 25
+Soul Cost: 15
 
-Additional 30% Main Damage for 5 seconds
+Additional 30% Main Damage for 5s
 
-Effect on Enemy: Slowed for 2 seconds
+Effect on Enemy: Slowed for 2s
 
     +40 Maximum MP
 
-    +8 Attack
+    +5 Attack
 
     +6 Speed
 
