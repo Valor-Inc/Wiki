@@ -17,17 +17,15 @@ Base Damage: 740
 
 Max Summons: 6
 
-Soul Cost: 40
+Soul Cost: 20
 
-Additional 50% Main Damage for 6 seconds
+Additional 50% Main Damage for 6s
 
     +100 Maximum MP
 
-    +8 Attack
+    +10 Attack
 
     +15 Wisdom
-
-    +75 Restoration
 
 MP Cost: 100
 
