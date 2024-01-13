@@ -11,7 +11,6 @@ description: "Charm of the Undead Horde"
 
 **Spawns an offensive Torii, Disappears after 5 seconds**
 
-Applies 'Stunned' in a 6 sqrs area for 4 seconds
 
 MP Cost: 120
 
@@ -20,6 +19,8 @@ Cooldown: 4 seconds
     +10 Attack
 
 Fame Bonus: 8%
+
+**The Horde Rises:** Zombies Spawn every half second (5 max), chasing nearby enemies and dealing 1000 damager per shot
 
 **Upgraded form of [![Necromantic Charm](https://github.com/Valor-Inc/Wiki/assets/116240675/9dce3068-7b8d-4c4b-8900-d268081d4e6c)](https://wiki.valorserver.com/docs/items/abilities/charms/ut/necromantic_charm)**
 
