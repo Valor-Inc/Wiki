@@ -10,8 +10,8 @@ description: "The Key of Rage"
 <i>When Janus threw their keys -one different from the other, and lay motionless and quietly called me...</i>
 
 Trap: 
-Deals 175 damage in 5 sqrs.
-Inflicts Curse for 3s.
+**Deals 175 damage in 5 sqrs.
+Inflicts Curse for 3s.**
 
 Effect on Self: Damaging for 2s
 
