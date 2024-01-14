@@ -11,8 +11,8 @@ description: "Trap of the Vile Spirit"
 <i>A long lost artifact recovered by Davy Jones, Believed to have been cursed by the gods of the seven seas themselves.</i>
 
 Trap:
-Deals 650 damage in 3 sqrs.
-Inflicts Slowed for 0s.
+**Deals 650 damage in 3 sqrs.
+Inflicts Slowed for 0s.**
 
 MP Cost: 90
 
