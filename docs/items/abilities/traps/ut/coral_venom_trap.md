@@ -11,8 +11,8 @@ description: "Coral Venom Trap"
 <i>A trap imbued with deadly venom from the coral of the Ocean Trench.</i>
 
 Trap:
-Deals 350 damage in 4 sqrs.
-Inflicts Paralyzed for 3.5s.
+**Deals 350 damage in 4 sqrs.
+Inflicts Paralyzed for 3.5s.**
 
 MP Cost: 130
 
