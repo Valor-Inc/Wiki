@@ -27,7 +27,7 @@ Fame Bonus: 10%
 **Drops from Cyberlord**
 
 
-## Defnsive Torri
+## Demonstration
 
 ![charm](https://cdn.discordapp.com/attachments/1160376179996496013/1195488181743779850/charm7.gif?ex=65c6a121&is=65b42c21&hm=f50bda16685f34688411a8c0c8291f48c67792e0d6080da6c779f6f7e2eb6f4a&)
 
