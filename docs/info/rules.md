@@ -75,6 +75,8 @@ import TabItem from '@theme/TabItem';
  - **ONLY** ping staff in appropriate situations. Please use our support channels first.
  
  - Follow all pinned message rules in channels, and chat in the proper channels.
+
+- We welcome all forms of constructive, civil, and non-personal criticism. However, we reserve the right to moderate any user who interprets this as a right to misinform, defame, or spread extreme negativity about the project intentionally.
  
  - Like the rule above, pings for something other than the pinned allowed things will also result in 3 strikes. This includes false pings. An exhaustive list of allowed pings is in #notification-squad.
  
