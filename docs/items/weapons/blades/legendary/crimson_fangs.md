@@ -34,9 +34,5 @@ Fame Bonus: 8%
 ![image](https://cdn.discordapp.com/attachments/1160376179996496013/1170801862686036040/crim_blades.gif?ex=6591bc34&is=657f4734&hm=497668c4c6f5348aa8a472a44cee9950b8ba0a6abb4d0947d10c5c305301d5d5&)
 
 
-<details>
-  <summary>6.1.0</summary>
-  <div>
+# Recent Changes
 None.
-  </div>
-</details> 
