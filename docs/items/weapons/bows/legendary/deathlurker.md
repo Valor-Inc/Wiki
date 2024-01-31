@@ -31,4 +31,5 @@ Fame Bonus: 8%
 
 ![Deathlurker Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170813903589085305/deathlurker.gif?ex=6591c76b&is=657f526b&hm=d01a2cc40fa9f43c51fb06f4c3a8ea20c932429bb1e505ae68f2bb0f0cfa3cb5&)
     
-    
+# Recent Changes
+None.
