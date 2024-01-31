@@ -36,12 +36,8 @@ Fame Bonus: 15%
 
 ![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187539843228647474/normal_ar_blade.gif?ex=659741aa&is=6584ccaa&hm=011421fa053ea30d5915d339ad222c75fe997f882c4e0d7ae2b633ffc54bbcf9&)
 
-<details>
-  <summary>6.1.0</summary>
-  <div>
+# Recent Changes
 None.
-  </div>
-</details> 
 
   </TabItem>
   <TabItem value="Air" label="Air">
@@ -72,12 +68,8 @@ Fame Bonus: 15%
 
 ![Blades of the Bridge Air Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540834963443782/normal_ar_blade.gif?ex=65974296&is=6584cd96&hm=b4fad096bf6dd7f6d911eb50566ab50fff11b7ce9130058922f3d97344326f1e&)
 
-<details>
-  <summary>6.1.0</summary>
-  <div>
+# Recent Changes
 None.
-  </div>
-</details> 
 
 
   </TabItem>
@@ -114,12 +106,8 @@ Fame Bonus: 15%
 ![Blades of the Bridge Earth Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187541043235782756/normal_ar_blade.gif?ex=659742c8&is=6584cdc8&hm=e358a1df824d97d83e1a98b6299cb6ab7050cfd27459a7297d029dbc223b96e7&)
  
 
-<details>
-  <summary>6.1.0</summary>
-  <div>
+# Recent Changes
 None.
-  </div>
-</details> 
 
 
 
@@ -157,13 +145,8 @@ Fame Bonus: 15%
 ![Blades of the Bridge Fire Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540566968381500/normal_ar_blade.gif?ex=65974256&is=6584cd56&hm=c645dbfb43446a46fa4b14b7c070a1e11b4e1143ab56dd89d752643bad389ae8&)
 
 
-<details>
-  <summary>6.1.0</summary>
-  <div>
+# Recent Changes
 None.
-  </div>
-</details> 
-
 
 
 
@@ -201,13 +184,8 @@ Fame Bonus: 15%
 ![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540327024828426/normal_ar_blade.gif?ex=6597421d&is=6584cd1d&hm=1dd05d0bf3664dfa36bf79d51f6c60e3a9f30c93d68856bcb77bb14fb0550816&)
 
 
-<details>
-  <summary>6.1.0</summary>
-  <div>
+# Recent Changes
 None.
-  </div>
-</details> 
-
 
   </TabItem>
 </Tabs>
