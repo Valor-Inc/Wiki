@@ -53,6 +53,7 @@ Ignores defense of target
   <summary>6.1.0</summary>
   <div>
     
+    
     Damage: 310-360 -> 360-390
 
     Slow chance: 5% -> 8%
@@ -106,6 +107,7 @@ Ignores defense of target
 <details>
   <summary>6.1.0</summary>
   <div>
+    
     
     Damage: 310-360 -> 360-390
 
