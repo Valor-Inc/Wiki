@@ -36,6 +36,9 @@ Fame Bonus: 15%
 
 ![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187688594740092978/normal_ar_blade.gif?ex=6597cc33&is=65855733&hm=dc0bd45cfdbcb68707f0bcdd390ac07e81b8257bf25854bd682f7d1715f58ec7&)
 
+# Recent Changes
+None.
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -66,6 +69,9 @@ Fame Bonus: 15%
 ## Projectile
 
 ![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187688793688522752/normal_ar_blade.gif?ex=6597cc62&is=65855762&hm=ed2771c6c8a2b78a03ad11f2d9da741d6dc7e430424269c38440f7300e6dc661&)
+
+# Recent Changes
+None.
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -102,6 +108,9 @@ Fame Bonus: 15%
 
 ![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187689163244458035/normal_ar_blade.gif?ex=6597ccba&is=658557ba&hm=abe4c751445a1b97b801b89da4895c296357655e4875f4e82a3c72e866dfd837&)
 
+# Recent Changes
+None.
+
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
@@ -133,6 +142,9 @@ Fame Bonus: 15%
 
 ![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187688994633437245/normal_ar_blade.gif?ex=6597cc92&is=65855792&hm=cc40978bdb0bd6d1e48b46c38a412011eafa47ff8a4d4fb6442f2edf1978b801&)
 
+# Recent Changes
+None.
+
   </TabItem>
   <TabItem value="Water" label="Water">
 
@@ -163,6 +175,9 @@ Fame Bonus: 15%
 ## Projectile
 
 ![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187689525313536080/normal_ar_blade.gif?ex=6597cd11&is=65855811&hm=609de9575bcb50b1b2e32ea95778349ce067bb7d0d5d1a273d92d26d351d5b37&)
+
+# Recent Changes
+None.
 
   </TabItem>
 </Tabs>
