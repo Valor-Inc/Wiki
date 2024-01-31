@@ -49,7 +49,10 @@ Ignores defense of target
 
 
 # Recent Changes
-**6.1.0**
+
+<details>
+  <summary>6.1.0</summary>
+  <div>
 
 Buffs:
 
@@ -61,7 +64,8 @@ nerfs:
 
     Rate Of Fire: 85% -> 70%
 
-
+  </div>
+</details>
 
   </TabItem>
   <TabItem value="Popsicle Blades" label="Popsicle Blades">
@@ -103,7 +107,10 @@ Ignores defense of target
 ![mechs5](https://cdn.discordapp.com/attachments/1160376179996496013/1170803400905080883/popsicle.gif?ex=6591bda3&is=657f48a3&hm=48134bae7d2ee3645862c1d94f50ec067c2de83c92ef812726527b6b653c7d75&)
 
 # Recent Changes
-**6.1.0**
+
+<details>
+  <summary>6.1.0</summary>
+  <div>
 
 Buffs:
 
@@ -115,7 +122,8 @@ nerfs:
 
     Rate Of Fire: 85% -> 70%
 
+  </div>
+</details>
 
  </TabItem>
 </Tabs>
-
