@@ -31,3 +31,5 @@ Fame Bonus: 8%
 ![BotRW Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170814010002780170/remorselesswraith.gif?ex=6591c784&is=657f5284&hm=fe73cc34ef26e0d9034e4f9588be9cc0c71d692f12c06c683c0e90c01f46c8ca&)
 
 
+# Recent Changes
+None.
