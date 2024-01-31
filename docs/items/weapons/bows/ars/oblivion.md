@@ -36,6 +36,9 @@ Fame Bonus: 15%
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187692588594106499/normal_ar_blade.gif?ex=6597cfeb&is=65855aeb&hm=da153d69eccec6e0d365e4edb733b1c794f79728f22da9524dcd7578c9c90ddb&)
 
+# Recent Changes
+None.
+
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -66,6 +69,9 @@ Fame Boss: 15%
 ## Projectile
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187693462330552320/normal_ar_blade.gif?ex=6597d0bb&is=65855bbb&hm=d846a87d252b7633ed0913e8c5df1ceed92288a4a6f568b7c720464c4329a195&)
+
+# Recent Changes
+None.
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -100,6 +106,8 @@ Fame Boss: 15%
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187693005684080660/normal_ar_blade.gif?ex=6597d04e&is=65855b4e&hm=4aa553ce0762a0a8226095f01b7fc5c42b72a7d992e781439387d64aea00de76&)
 
+# Recent Changes
+None.
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -132,6 +140,9 @@ Fame Boss: 15%
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187693656019308584/normal_ar_blade.gif?ex=6597d0e9&is=65855be9&hm=ea2bafda530dac4742b8a87fb14f5260b5ffe5e38a1e24c43f0530aa2ca16bba&)
 
+# Recent Changes
+None.
+
   </TabItem>
   <TabItem value="Water" label="Water">
 
@@ -162,6 +173,9 @@ Fame Boss: 15%
 ## Projectile
 
 ![Oblivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187692821436702780/normal_ar_blade.gif?ex=6597d022&is=65855b22&hm=12b7ce79b41ae8d97aeb039faa9b2f55c5363bcc09dbb331bc1519b82eed5137&)
+
+# Recent Changes
+None.
 
   </TabItem>
 </Tabs>
