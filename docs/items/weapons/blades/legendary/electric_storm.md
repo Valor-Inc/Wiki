@@ -43,8 +43,12 @@ Fame Bonus: 8%
 
 ![EStorm Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803376464859206/thunder.gif?ex=6591bd9d&is=657f489d&hm=a6351a1241e44640a6dd8c698392447dd8e60f82a70c0099d806679760d020b9&)
 
-# Recent Changes
+<details>
+  <summary>6.1.0</summary>
+  <div>
 None.
+  </div>
+</details> 
 
   </TabItem>
   <TabItem value="Remnants of Saint Nick" label="Remnants of Saint Nick">
@@ -81,8 +85,12 @@ Fame Bonus: 8%
 
 ![Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187560584158380032/normal_ar_blade.gif?ex=659754fb&is=6584dffb&hm=f63f7aa60bdbf229a1c7bd9cfcf7867bd381e77c1611d647f53885494f0f58b6&)
 
-# Recent Changes
+<details>
+  <summary>6.1.0</summary>
+  <div>
 None.
+  </div>
+</details> 
 
   </TabItem>
 </Tabs>
