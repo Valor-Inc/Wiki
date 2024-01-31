@@ -31,9 +31,11 @@ Fame Bonus: 8%
 ![Encapsulator Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170814626208960512/encapsulator.gif?ex=6591c817&is=657f5317&hm=dc6a16b623580785c9e95fc432b345d6bc76aaef7289c0c67b60356a7340d1d2&)
     
 # Recent Changes
-**6.1.0**
 
-Buffs:
+<details>
+  <summary>6.1.0</summary>
+  <div>
+      
 
     Projectile speed raised significantly
 
@@ -42,7 +44,8 @@ Buffs:
     Passive chance 3% -> 8%
 
     passive radius 3 -> 4.5 sqr
-   
-Nerfs:
 
     Shots no longer pierce obstackles
+
+  </div>
+</details>
