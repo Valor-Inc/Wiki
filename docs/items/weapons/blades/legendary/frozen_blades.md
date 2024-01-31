@@ -18,11 +18,11 @@ import TabItem from '@theme/TabItem';
 
  **Blizzard: Increases Permafrost Veil icicles by 4**
 
-Damage: 325-375
+Damage: 360-390
 
 Shots: 2
 
-Rate of Fire: 85%
+Rate of Fire: 70%
 
 Range: 5.2
 
@@ -30,7 +30,7 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-5% to inflict Slowed for 3s
+8% to inflict Slowed for 3s
 
     +50 Maximum HP
     
@@ -47,6 +47,22 @@ Ignores defense of target
  
 ![Frozen Blades Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187558026505371698/normal_ar_blade.gif?ex=65975299&is=6584dd99&hm=3fdbc318309d41e2605fa33700d2c6c7ce81c7dafda4a2141ae73512e6d118f7&)
 
+
+# Recent Changes
+**6.1.0**
+
+Buffs:
+
+    Damage: 310-360 -> 360-390
+
+    Slow chance: 5% -> 8%
+
+nerfs:
+
+    Rate Of Fire: 85% -> 70%
+
+
+
   </TabItem>
   <TabItem value="Popsicle Blades" label="Popsicle Blades">
 
@@ -57,12 +73,12 @@ Ignores defense of target
 <i>These blades radiate a cold, harsh energy. Sluggish but powerful, these shots travel a good distance. Also taste quite tangy!</i>
 
  **Blizzard: Increases Permafrost Veil icicles by 4**
- 
-Damage: 325-375
+
+Damage: 360-390
 
 Shots: 2
 
-Rate of Fire: 85%
+Rate of Fire: 70%
 
 Range: 5.2
 
@@ -70,7 +86,7 @@ Shots hit multiple targets
 
 Ignores defense of target
 
-5% to inflict Slowed for 3 seconds
+8% to inflict Slowed for 3s
 
     +50 Maximum HP
 
@@ -85,6 +101,20 @@ Ignores defense of target
  ## Projectile
 
 ![mechs5](https://cdn.discordapp.com/attachments/1160376179996496013/1170803400905080883/popsicle.gif?ex=6591bda3&is=657f48a3&hm=48134bae7d2ee3645862c1d94f50ec067c2de83c92ef812726527b6b653c7d75&)
+
+# Recent Changes
+**6.1.0**
+
+Buffs:
+
+    Damage: 310-360 -> 360-390
+
+    Slow chance: 5% -> 8%
+
+nerfs:
+
+    Rate Of Fire: 85% -> 70%
+
 
  </TabItem>
 </Tabs>
