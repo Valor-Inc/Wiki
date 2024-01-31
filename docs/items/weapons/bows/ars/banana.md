@@ -36,6 +36,8 @@ Fame Bonus: 15%
 
 ![Bananalivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187693948685275176/normal_ar_blade.gif?ex=6597d12f&is=65855c2f&hm=ac5004bcbd553b67c789cc581b85b57a29df5550ff031048d46c58a21a6de5f5&)
 
+# Recent Changes
+None.
   </TabItem>
   <TabItem value="Air" label="Air">
 
@@ -66,6 +68,9 @@ Fame Boss: 15%
 ## Projectile
 
 ![Bananalivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187694677156171776/normal_ar_blade.gif?ex=6597d1dd&is=65855cdd&hm=cdbf81ad974308649df2b886d7fdcdc87cca5df499edfe492080e854bf1aefeb&)
+
+# Recent Changes
+None.
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
@@ -100,6 +105,8 @@ Fame Boss: 15%
 
 ![Bananalivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187694334422818836/normal_ar_blade.gif?ex=6597d18b&is=65855c8b&hm=218099a2a5b530da1eee5afd53da6948af70ea4f0d9b69e74bae053fa59f69fc&)
 
+# Recent Changes
+None.
 
   </TabItem>
   <TabItem value="Fire" label="Fire">
@@ -132,6 +139,8 @@ Fame Boss: 15%
 
 ![Bananalivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187694104256200745/normal_ar_blade.gif?ex=6597d154&is=65855c54&hm=edefd9a2a0e187d054b82b3eef0828b4f5209664058b14ddfc7e00cab394c8e8&)
 
+# Recent Changes
+None.
   </TabItem>
   <TabItem value="Water" label="Water">
 
@@ -163,5 +172,7 @@ Fame Boss: 15%
 
 ![Bananalivion Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187694492552286228/normal_ar_blade.gif?ex=6597d1b1&is=65855cb1&hm=0fff86323695ac5090fd06b659803f3deb693bd8d671acc5441e52062132f924&)
 
+# Recent Changes
+None.
   </TabItem>
 </Tabs>
