@@ -29,10 +29,12 @@ Fame Bonus: 8%
 ![BoWC Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170814117376962560/warpedcoral.gif?ex=6591c79e&is=657f529e&hm=538b0e5607d4e234561b05436691ec87f0933533870e80a847e7d3f80ab24d95&)
 
 # Recent Changes
-**6.1.0**
 
-Buffs:
-
+<details>
+  <summary>6.1.0</summary>
+  <div>
+    
     1% -> 8% to active passive
 
-Nerfs: None
+  </div>
+</details>
