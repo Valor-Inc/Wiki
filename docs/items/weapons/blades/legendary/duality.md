@@ -34,3 +34,6 @@ Fame Bonus: 8%
 ## Projectile
 
 ![Duality Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803458677416017/duality.gif?ex=6591bdb1&is=657f48b1&hm=2009fde66dc1364880d22bc8714272784e6bddcc0abef30db0355ae37af222fa&)
+
+# Recent Changes
+None.
