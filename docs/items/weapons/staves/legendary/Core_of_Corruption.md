@@ -8,7 +8,7 @@ description: "Core of Corruption"
 
 ![EA](https://cdn.discordapp.com/attachments/1187552567295758487/1203977204585734145/Core_of_Corruption.png?ex=65d30e26&is=65c09926&hm=1e69248dcf9a2a5819aedc9d397178ade69a512f9540be431e18ed037e8aca19&)
 
-<i></i>
+<i>The whisper of death shall destroy their polluted minds, the Zol will cleanse this world of impurity once more.</i>
 
  Passive: **Zol Blossom: On Hit, 50% chance to inflict an enemy with a Zol seed. After 6 seed have been planted they will blossom, dealing damage based on the projectile and your MP.**
 
