@@ -4,6 +4,15 @@ title: Reforge Station
 description: "One Way or Another."
 ---
 
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="Reforge Station" label="Reforge Station" default>
+
+
+
 # IMPORTANT
 
 
@@ -20,3 +29,32 @@ description: "One Way or Another."
 # Location:
 
 ![a](https://cdn.discordapp.com/attachments/1187552567295758487/1204192170815258694/loc.png?ex=65d3d65a&is=65c1615a&hm=c577ae596febd39101a6b57eb71233060f480ea2abea3c2633ce8ae2d1cd879b&)
+
+
+
+  </TabItem>
+  <TabItem value="Crush" label="Crush">
+
+# Crush
+
+<i>This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 500/100/5/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence</i>
+Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags
+
+
+  </TabItem>
+  <TabItem value="Upgrade" label="Upgrade">
+
+# Upgrade
+
+ This System Provides Upgrading and Display your collected essence, while upgrading/confirming item having insufficient essence will prompt a sor fragment conversion to fill in the missing essnece cost use your sor frags wisely!
+
+  
+  
+  </TabItem>
+  <TabItem value="Reforge" label="Reforge">
+
+# Reforge
+
+This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: Weapons || Ability || Armor,Ring
+There are 2x types of discounts that applies to reforge with the shine booster currently if you crush a shine without a shine booster it applies 50% of the discount resulting 5000 gold per reroll with a duration of 3/3 rerolls to any equipment
+the other discount is when shine booster is active to check if it's active do (/sc) in game then you would crush the shine Resulting 70% of discount for 3/3 rerolls to any equipment
