@@ -20,7 +20,6 @@ import TabItem from '@theme/TabItem';
 
 
 
-
 Welcome to the Reforge station!
 
 #  < ![AR](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png)     ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)       ![fabled](https://cdn.discordapp.com/attachments/1187552567295758487/1204195119478087710/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832383331343738313739333737393734322f313130383538323632323435373735373730362f4641424c45444241472e706e67_1.png?ex=65d3d919&is=65c16419&hm=070bb11dc03f926309bc7ffab834f63a16aa8fc51082d7cc53c8ca79420812c1&)          ![UTbag](https://cdn.discordapp.com/attachments/1107378591026655272/1107460067399315627/adf.png) >
@@ -39,8 +38,8 @@ Welcome to the Reforge station!
 # Crush
 
 
-**This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 500/100/5/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
-Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags**
+*This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 500/100/5/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
+Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags*
 
 
 ![crush](https://cdn.discordapp.com/attachments/1187552567295758487/1204203833560141894/Crushing.gif?ex=65d3e136&is=65c16c36&hm=e15745e32c8b4b7d56f8cd712e08dff5135111b1154687ee66462eef75685d4a&)
@@ -58,7 +57,7 @@ Remember in order to crush they all have sor fragments that you will need to cru
 # Upgrade
 
 
-**This System Provides Upgrading and Display your collected essence, while upgrading/confirming item having insufficient essence will prompt a sor fragment conversion to fill in the missing essnece cost use your sor frags wisely!**
+*This System Provides Upgrading and Display your collected essence, while upgrading/confirming item having insufficient essence will prompt a sor fragment conversion to fill in the missing essnece cost use your sor frags wisely!*
 
 
 
@@ -72,9 +71,9 @@ Remember in order to crush they all have sor fragments that you will need to cru
 
 
 
-**This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: Weapons || Ability || Armor,Ring
+*This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: Weapons || Ability || Armor,Ring
 There are 2x types of discounts that applies to reforge with the shine booster currently if you crush a shine without a shine booster it applies 50% of the discount resulting 5000 gold per reroll with a duration of 3/3 rerolls to any equipment
-the other discount is when shine booster is active to check if it's active do (/sc) in game then you would crush the shine Resulting 70% of discount for 3/3 rerolls to any equipment with the cost of 3000 gold per roll.**
+the other discount is when shine booster is active to check if it's active do (/sc) in game then you would crush the shine Resulting 70% of discount for 3/3 rerolls to any equipment with the cost of 3000 gold per roll.*
 
 
 
