@@ -62,7 +62,7 @@ Remember in order to crush they all have sor fragments that you will need to cru
   ![upgrade](https://cdn.discordapp.com/attachments/1187552567295758487/1204205389504188486/Upgrade.gif?ex=65d3e2a9&is=65c16da9&hm=fe81b02ce18bad0b6e9a8337ca651d6f18d363b8271c43110024d17c6ec4f3ac&)
   
   </TabItem>
-  <TabItem value="Reforge" label="Reforge">
+  <TabItem value="Re-Roll label="Re-Roll">
 
 # Reroll
 
