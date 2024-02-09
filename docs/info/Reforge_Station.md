@@ -37,8 +37,8 @@ Welcome to the Reforge station!
 
 # Crush
 
-This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 500/100/5/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
-Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags
+**This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 500/100/5/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
+Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags**
 
 ![crush](https://cdn.discordapp.com/attachments/1187552567295758487/1204203833560141894/Crushing.gif?ex=65d3e136&is=65c16c36&hm=e15745e32c8b4b7d56f8cd712e08dff5135111b1154687ee66462eef75685d4a&)
 
@@ -48,7 +48,7 @@ Remember in order to crush they all have sor fragments that you will need to cru
 
 
 
-You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 essence || 30 onrane : 10 essence || 300 onrane : 30 Essence (ALL GIVE RANDOM ESSENCE) 
+**You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 essence || 30 onrane : 10 essence || 300 onrane : 30 Essence (ALL GIVE RANDOM ESSENCE)** 
 
 ![Onrane](https://cdn.discordapp.com/attachments/1187552567295758487/1205393135157518346/image.png?ex=65d834d6&is=65c5bfd6&hm=0be40c42a9cc72da96e84b96fda27ee07c37fd8247aeaac3796b737725fb34b3&)
 
@@ -57,7 +57,7 @@ You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 esse
 
 # Upgrade
 
- This System Provides Upgrading and Display your collected essence, while upgrading/confirming item having insufficient essence will prompt a sor fragment conversion to fill in the missing essnece cost use your sor frags wisely!
+**This System Provides Upgrading and Display your collected essence, while upgrading/confirming item having insufficient essence will prompt a sor fragment conversion to fill in the missing essnece cost use your sor frags wisely!**
 
   ![upgrade](https://cdn.discordapp.com/attachments/1187552567295758487/1204205389504188486/Upgrade.gif?ex=65d3e2a9&is=65c16da9&hm=fe81b02ce18bad0b6e9a8337ca651d6f18d363b8271c43110024d17c6ec4f3ac&)
   
@@ -65,6 +65,10 @@ You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 esse
   <TabItem value="Reforge" label="Reforge">
 
 # Reroll
+
+**This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: **Weapons || Ability || Armor,Ring**
+There are 2x types of discounts that applies to reforge with the shine booster currently if you crush a shine without a shine booster it applies 50% of the discount resulting 5000 gold per reroll with a duration of 3/3 rerolls to any equipment
+the other discount is when shine booster is active to check if it's active do (/sc) in game then you would crush the shine Resulting 70% of discount for 3/3 rerolls to any equipment with the cost of 3000 gold per roll.**
 
 ![50](https://cdn.discordapp.com/attachments/1187552567295758487/1204200271597801514/FULL_50percentshinereroll.gif?ex=65d3dde5&is=65c168e5&hm=c9fe54c0291cf67ef14b4c194d8af7f6acbc3d8355188f89e5e5c9f56053bea6&)
 
@@ -75,9 +79,7 @@ You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 esse
 ![part2](https://cdn.discordapp.com/attachments/1187552567295758487/1204201687145906277/70_percent_discount_reroll_part_2.gif?ex=65d3df37&is=65c16a37&hm=c0d8af4305440f3b35f824a96a956029a07acb5629038f122f36c42ea7966212&)
 
 
-This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: **Weapons || Ability || Armor,Ring**
-There are 2x types of discounts that applies to reforge with the shine booster currently if you crush a shine without a shine booster it applies 50% of the discount resulting 5000 gold per reroll with a duration of 3/3 rerolls to any equipment
-the other discount is when shine booster is active to check if it's active do (/sc) in game then you would crush the shine Resulting 70% of discount for 3/3 rerolls to any equipment with the cost of 3000 gold per roll.
+
 
 
 </TabItem>
