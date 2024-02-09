@@ -48,7 +48,7 @@ Remember in order to crush they all have sor fragments that you will need to cru
 
 
 
-<i>You can also Extract Onrane for Random Essence with a ratio of 1onrane : 3 essence || 30onrane : 10 essence || 300onrane : 30 Essence (ALL GIVE RANDOM ESSENCE) 
+<i>You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 essence || 30 onrane : 10 essence || 300 onrane : 30 Essence (ALL GIVE RANDOM ESSENCE) 
 
 ![Onrane](https://cdn.discordapp.com/attachments/1187552567295758487/1205393135157518346/image.png?ex=65d834d6&is=65c5bfd6&hm=0be40c42a9cc72da96e84b96fda27ee07c37fd8247aeaac3796b737725fb34b3&)
 
