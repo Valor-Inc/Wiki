@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 # IMPORTANT
 
 
-**NOTICE: CAREFUL UPON CRUSHING ITEMS THAT YOU COULD POTENTIALLY MISTAKEN FOR. RECORD/SCREENSHOT AT ALL TIMES DURING THE TIME YOU'RE USING THE REFORGE STATION CREATE A REFUND TICKET/ACCOUNT ISSUE TO RETRIEVE YOUR SB ITEM!**
+*NOTICE: CAREFUL UPON CRUSHING ITEMS THAT YOU COULD POTENTIALLY MISTAKEN FOR. RECORD/SCREENSHOT AT ALL TIMES DURING THE TIME YOU'RE USING THE REFORGE STATION CREATE A REFUND TICKET/ACCOUNT ISSUE TO RETRIEVE YOUR SB ITEM!*
 
 
 
@@ -43,14 +43,12 @@ Welcome to the Reforge station!
 Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags**
 
 
-
 ![crush](https://cdn.discordapp.com/attachments/1187552567295758487/1204203833560141894/Crushing.gif?ex=65d3e136&is=65c16c36&hm=e15745e32c8b4b7d56f8cd712e08dff5135111b1154687ee66462eef75685d4a&)
 
 
 
 
-
-**You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 essence || 30 onrane : 10 essence || 300 onrane : 30 Essence (ALL GIVE RANDOM ESSENCE)** 
+*You can also Extract Onrane for Random Essence with a ratio of 1 onrane : 3 essence || 30 onrane : 10 essence || 300 onrane : 30 Essence (ALL GIVE RANDOM ESSENCE)* 
 
 ![Onrane](https://cdn.discordapp.com/attachments/1187552567295758487/1205393135157518346/image.png?ex=65d834d6&is=65c5bfd6&hm=0be40c42a9cc72da96e84b96fda27ee07c37fd8247aeaac3796b737725fb34b3&)
 
@@ -58,7 +56,6 @@ Remember in order to crush they all have sor fragments that you will need to cru
   <TabItem value="Upgrade" label="Upgrade">
 
 # Upgrade
-
 
 
 **This System Provides Upgrading and Display your collected essence, while upgrading/confirming item having insufficient essence will prompt a sor fragment conversion to fill in the missing essnece cost use your sor frags wisely!**
