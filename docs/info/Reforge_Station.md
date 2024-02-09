@@ -64,7 +64,7 @@ Remember in order to crush they all have sor fragments that you will need to cru
   </TabItem>
   <TabItem value="Re-Roll label="Re-Roll">
 
-# Reroll
+# Re-Roll
 
 **This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: **Weapons || Ability || Armor,Ring**
 There are 2x types of discounts that applies to reforge with the shine booster currently if you crush a shine without a shine booster it applies 50% of the discount resulting 5000 gold per reroll with a duration of 3/3 rerolls to any equipment
