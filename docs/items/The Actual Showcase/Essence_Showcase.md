@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
   <TabItem value="Fallen" label="Fallen">
 
-- ![Ancient Relic](https://github.com/Valor-Inc/Wiki/assets/154475841/e2ab8daf-194c-4a93-9c00-d03e3c784493)
+# ![Ancient Relic](https://github.com/Valor-Inc/Wiki/assets/154475841/e2ab8daf-194c-4a93-9c00-d03e3c784493)
 
 
 - Ancient Relics |500 Essence|
