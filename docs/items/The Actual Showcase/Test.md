@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 ![c](https://cdn.discordapp.com/attachments/1187552567295758487/1205887579778584576/CosmicHeader.png?ex=65da0153&is=65c78c53&hm=aeb170d516c979c857a9d8b76b267d19809a8306abb5cac900757c5c0bffdd2d&)
 
 
-  Ancient Relics |500 Essence|
+ - Ancient Relics |500 Essence|
 
 
  - Legendaries |100 Essence|
