@@ -134,7 +134,7 @@ import TabItem from '@theme/TabItem';
  </TabItem>
   <TabItem value="Titan" label="Titan">
     
-# ![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205895125969018950/TitanHeader.png?ex=65da085a&is=65c7935a&hm=db360689d8051c1a21246e8a002bc60aa8c79637af1e5b8f953b857ef375d30f&)
+![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205895125969018950/TitanHeader.png?ex=65da085a&is=65c7935a&hm=db360689d8051c1a21246e8a002bc60aa8c79637af1e5b8f953b857ef375d30f&)
 
 
  - Ancient Relics |500 Essence|
