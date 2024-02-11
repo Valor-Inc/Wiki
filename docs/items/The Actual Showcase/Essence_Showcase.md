@@ -103,8 +103,7 @@ import TabItem from '@theme/TabItem';
 
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205894517186891796/TerradianHeader.png?ex=65da07c9&is=65c792c9&hm=bdba8a9735fa0d131a87ed9cb67726df64b6ce18651d5fb7c4fe48b0aaf33467&)
 
-
-# Ancient Relics |500 Essence|
+- Ancient Relics |500 Essence|
 
 - Legendaries |100 Essence|
 
@@ -114,7 +113,6 @@ import TabItem from '@theme/TabItem';
   <TabItem value="Titan" label="Titan">
     
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205895125969018950/TitanHeader.png?ex=65da085a&is=65c7935a&hm=db360689d8051c1a21246e8a002bc60aa8c79637af1e5b8f953b857ef375d30f&)
-
 
 - Ancient Relics |500 Essence|
 
@@ -127,7 +125,6 @@ import TabItem from '@theme/TabItem';
 
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205895111771160586/TruvixianHeader.png?ex=65da0857&is=65c79357&hm=aee5a3813fcb802c7b08cc609a6cdcced0d7fbfebacc7d3d77c3f30fbf774c1e&)
 
-
 - Ancient Relics |500 Essence|
 
 - Legendaries |100 Essence|
@@ -136,7 +133,6 @@ import TabItem from '@theme/TabItem';
   <TabItem value="Zol" label="Zol">
 
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205895100190949456/ZolHeader.png?ex=65da0854&is=65c79354&hm=d3ce1cd26e1ed55d97be24cbf359f0c3fae8d92a23c46d7076c5de24504de38c&)
-
 
 - Ancient Relics |500 Essence|
 
