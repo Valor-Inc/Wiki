@@ -144,5 +144,5 @@ import TabItem from '@theme/TabItem';
 
 - Fbs |5 Essence|
 
-  </TabItem>
+</TabItem>
 </Tabs>
