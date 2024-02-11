@@ -51,7 +51,7 @@ import TabItem from '@theme/TabItem';
 - Fbs |5 Essence|
 
 <Tabs>
-  <TabItem value="Mad God's" label="Mad God's" default>
+  <TabItem value="Mad God" label="Mad God" default>
 
 # ![Ancient Relic](https://cdn.discordapp.com/attachments/1187552567295758487/1205893045904609331/MadGodHeader.png?ex=65da066a&is=65c7916a&hm=2b39f532bb5201359f86cec79177af2bc8b614d42cfce01acd0c686c3a7eb1ac&)
 
