@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 title: Essence Showcase
 description: "Look at all the essence items in Valor"
 ---
