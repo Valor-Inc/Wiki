@@ -37,8 +37,9 @@ import TabItem from '@theme/TabItem';
 
 # Crush
 
-**This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 6000/100/15/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
-Remember in order to crush they all have sor fragments that you will need to crush them AR= 50 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 0 sor frags**
+**This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 6000/100/15/0 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
+
+Remember in order to crush for essence they all have a cost of sor fragments that you will need to crush them AR= 50 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 0 sor frags**
 
 **crushing items of the same type and using their remains in the forge**
 
