@@ -37,8 +37,8 @@ import TabItem from '@theme/TabItem';
 
 # Crush
 
-**This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 500/100/5/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
-Remember in order to crush they all have sor fragments that you will need to crush them AR= 15 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 2 sor frags**
+**This UI Allows you to gain essence Via AR/LG/FB/UT currently giving out in order 6000/100/15/1 essence AR/LG/FB only gives the amount to their counterpart of the essence listed above their tooltip logo while UT in the other hand randomly selects the essence.
+Remember in order to crush they all have sor fragments that you will need to crush them AR= 50 sor frags // LG = 15 sor frags // FB = 5 sor frags // UT = 0 sor frags**
 
 **crushing items of the same type and using their remains in the forge**
 
@@ -69,18 +69,18 @@ Remember in order to crush they all have sor fragments that you will need to cru
 # Reroll
 
 **This will allow you to reroll your current Enchantment There's 3x Sections that seperates from all Being: **Weapons || Ability || Armor,Ring**
-There are 2x types of discounts that applies to reforge with the shine booster currently if you crush a shine without a shine booster it applies 50% of the discount resulting 5000 gold per reroll with a duration of 3/3 rerolls to any equipment
-the other discount is when shine booster is active to check if it's active do (/sc) in game then you would crush the shine Resulting 70% of discount for 3/3 rerolls to any equipment with the cost of 3000 gold per roll.**
+There are 2x types of discounts that applies to reforge with the shine booster currently, if you crush a shine it gives 50$ if you crush a shine it applies 30% of the discount. resulting 30% 7000 / 80% 2000 gold per reroll with a duration of 3/3 rerolls to any equipment.
 
+50% Discount without shine booster.
 ![50](https://cdn.discordapp.com/attachments/1187552567295758487/1204200271597801514/FULL_50percentshinereroll.gif?ex=65d3dde5&is=65c168e5&hm=c9fe54c0291cf67ef14b4c194d8af7f6acbc3d8355188f89e5e5c9f56053bea6&)
 
-
+Now 50% + 30% Discounts
 ![70](https://cdn.discordapp.com/attachments/1187552567295758487/1204201139361550386/70_percent_discount_reroll.gif?ex=65d3deb4&is=65c169b4&hm=e47ba9bfea83164e3d0c3aedc5823f1bd9c5c266d3812eddc082248657f0962a&)
 
 
 ![part2](https://cdn.discordapp.com/attachments/1187552567295758487/1204201687145906277/70_percent_discount_reroll_part_2.gif?ex=65d3df37&is=65c16a37&hm=c0d8af4305440f3b35f824a96a956029a07acb5629038f122f36c42ea7966212&)
 
-
+YOU CAN NOW CRUSH SHINES WITHOUT NEEDING TO HAVE SHINE BOOSTER ON it is now applies automatically once a shine booster is active 30% shine discount + 50% shine booster = 80% 2000 gold per reroll 3/3
 
 
 
