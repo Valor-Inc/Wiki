@@ -1,5 +1,6 @@
 ---
 title: The Staff Team
+sidebar_position: 9
 description: "Meet the Team"
 ---
 
