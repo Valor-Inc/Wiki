@@ -36,7 +36,7 @@ description: "Meet the Team"
 | **Moderator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747845845033/IMG_0075.jpg?ex=65a4693c&is=6591f43c&hm=9a9346707da3110794eaccebfe0a94bab073b82e1906ae0b42f61b77bc9c8a74&"/> |
 | **JrModerator** | Discord/in Game Security/Support Tickets | Deus | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155748156211200/Olga.jpg?ex=65a4693c&is=6591f43c&hm=483b324a49070d569311b36417005ea77e72effb316f85a977506bcd7caea9f9&"/> |
 | **Helper** | Discord/in Game Security/Support Tickets | feint | <img src="https://cdn.discordapp.com/attachments/1043629990740242502/1208281703005814824/black-cat-fangs_1.gif?ex=65e2b706&is=65d04206&hm=ad53194be9d99cbeab0c889f7a7fe758fd3a7db929049ac95eccb8de95c5bdf0&"/> |
-
+| **Wiki Editor** | Official Wiki Editor | VoidEntity | <img src="https://cdn.discordapp.com/attachments/511222233302171659/1208288456699019284/TRUE_DETERMINATION_AND_HATRED.png?ex=65e2bd50&is=65d04850&hm=720f887defed767f9347d683497192e8cfe54e1bb1af2f55ba5cb41506936d94&"/> |
 
 
 ## Responsibilities
