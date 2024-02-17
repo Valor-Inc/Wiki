@@ -83,6 +83,7 @@ Now 50% + 30% Discounts
 
 YOU CAN NOW CRUSH SHINES WITHOUT NEEDING TO HAVE SHINE BOOSTER ON it is now applies automatically once a shine booster is active 30% shine discount + 50% shine booster = 80% 2000 gold per reroll 3/3
 
+IF! your current enchant is upgraded up to 4/4 rerolling will refund 100% of your essence
 
 
 </TabItem>
