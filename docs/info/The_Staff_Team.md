@@ -20,6 +20,7 @@ description: "Meet the Team"
 | **Developer** | starter developer | Faux | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467687868649522/068930c8cae6355b031ce508a521fc0a.png?ex=65a58bc1&is=659316c1&hm=1645f54e5c74e25ba81d312af1f3a1c4b393a3ec5e1c22b3b3fd9ed9d53aff90&"/> |
 | **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467688678150369/forg2.png?ex=65a58bc1&is=659316c1&hm=ec6db563e79719ff5a16bd081a1c30d85fe1b843e183f7e9d5040cf8833345ad&"/> |
 | **Balancer/Designer** | Unique Spriter and Balancer | G | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746319106129/388deacdb2f92d99cedb6aa366a386c2.png?ex=65a4693c&is=6591f43c&hm=5011001f8f2a592cf4b89172b505362c726cbeb35853ca7a5b7bd89bd3700c7c&"/> |
+| **Content Team** | Unique Balancer | Zipzar | <img src="https://cdn.discordapp.com/attachments/1208277897014542376/1208281126498738226/GDZVxysbAAADlNB_1_1.jpg?ex=65e2b67d&is=65d0417d&hm=60e5f27d6fe40a933d009467d64900a2f1b58b45018f511206aa77cbfed1944e&"/> |
 | **Content Balancer** | Unique Balancer | Liv | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747422212206/F0XMWtyaUAAF6uV.png?ex=65a4693c&is=6591f43c&hm=22339b6f94d54289f380e4c9a542a14c3093beb49aba2792a90d3b5cbce648af&"/> |
 | **SrModerator** | Training & Logs | Gancho | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081351156338789/gancho_1.gif?ex=65a423f3&is=6591aef3&hm=b735826b4752a14d879739a92f08854ca768f602ba0fa1533c54df2355ddcf77&" /> |
 | **SrModerator** | Training & Logs | ABlindSniper | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746700791848/ABlindSniper.jpg?ex=65a4693c&is=6591f43c&hm=55a8077d6dd94a6f3c8dbec3225f63bc8280f2ea9cd6b60d1584c7943d2a45f8&"/> |
@@ -31,11 +32,9 @@ description: "Meet the Team"
 | **Moderator** | Discord/in Game Security/Support Tickets | Dissy | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155745929048134/3f063d44ed3eafcf3567ce459a831074.jpg?ex=65a4693c&is=6591f43c&hm=d2b5e645cbfc08efa83ab747993739eeed0859c03cb8ade80c25eabde4d1c028&"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460145197232249/9c39e15c6b147c82c4e86173ce7eb1e0.png?ex=65a584ba&is=65930fba&hm=2b4f2671030d47bbbc8bfb7296931c87b46f8b03263e762da2d1683f516bf2ab&"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Doomered | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191156308422967376/unknown-17-3-1_1.png?ex=65a469c2&is=6591f4c2&hm=ba2ee7f0cb10d6221d47ab06af911c4eb3136384a420a731e70472a354b1aa81&"/> |
-| **JrModerator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747845845033/IMG_0075.jpg?ex=65a4693c&is=6591f43c&hm=9a9346707da3110794eaccebfe0a94bab073b82e1906ae0b42f61b77bc9c8a74&"/> |
+| **Moderator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747845845033/IMG_0075.jpg?ex=65a4693c&is=6591f43c&hm=9a9346707da3110794eaccebfe0a94bab073b82e1906ae0b42f61b77bc9c8a74&"/> |
 | **JrModerator** | Discord/in Game Security/Support Tickets | Deus | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155748156211200/Olga.jpg?ex=65a4693c&is=6591f43c&hm=483b324a49070d569311b36417005ea77e72effb316f85a977506bcd7caea9f9&"/> |
-
-
-
+| **Helper** | Discord/in Game Security/Support Tickets | feint | <img src="https://cdn.discordapp.com/attachments/1043629990740242502/1208281703005814824/black-cat-fangs_1.gif?ex=65e2b706&is=65d04206&hm=ad53194be9d99cbeab0c889f7a7fe758fd3a7db929049ac95eccb8de95c5bdf0&"/> |
 
 
 ## Responsibilities
@@ -48,13 +47,15 @@ description: "Meet the Team"
 
  **Balancer** -. On the lookout for Plausible Game Breaking "Meta" or improving Attires To keep the Game Simple and Fun.
 
-**Artist/Designer** -. Focuses on the quality of an individual piece of the game experience. The Design is beautifully made!
+**Artist/Designer/ContentTeam/Balancer** -. Focuses on the quality of an individual piece of the game experience. The Design is beautifully made!
 
 **Moderator** -. They Provide the avoidance of excess or extremes, especially in one's behavior or opinions.
 
 **Junior Moderator** -. An Apprentice Looking Forward to learn the ropes of Moderation
 
+**Helper** -. An motivated Individual out there to reach out for other's need of information!!
 
+**Wiki Editor** -. The One Who Currently Moves/Updates All within the Official Document!!
 
 ## Recruitment
 
