@@ -18,6 +18,9 @@ import TabItem from '@theme/TabItem';
 
 **NOTICE: CAREFUL UPON CRUSHING ITEMS THAT YOU COULD POTENTIALLY MISTAKEN FOR. RECORD/SCREENSHOT AT ALL TIMES DURING THE TIME YOU'RE USING THE REFORGE STATION CREATE A REFUND TICKET/ACCOUNT ISSUE TO RETRIEVE YOUR SB ITEM!**
 
+**Essence Crafts can now keep their previous enchants upon crafting**
+
+**Elemental crafts can Currently NOT keep their previous enchants upon crafting**
 
 
 **Welcome to the Reforge station!**
