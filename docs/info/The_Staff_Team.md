@@ -11,7 +11,7 @@ description: "Meet the Team"
 ## Hierarchy
 | Position | Specification | Member | Avatar |
 | ----------- | ----- | ------ | ----- |
-| **Admin**   | Things | Arcanuo | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081554160648312/arc.png?ex=65a42423&is=6591af23&hm=78f6b818c5422e658cc76ba6340d4601b76f72a6c70b7bc778b4e9f84718e1cd&" /> |
+| **Admin**   | Things | Arcanuo | <img src= "<img src={arc} style={{width: 50}} />"  /> |
 | **Admin**   | Bot, Game Development & Infra | Orbit | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081554391343214/orbit.png?ex=65a42423&is=6591af23&hm=f3bd010cdde9ffe88bf16ccf0905195bb63576edab5d0c7a8fa06feec9fdf450&" /> |
 | **Admin**   | Game Development | Sebafra | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081554638811227/seb.png?ex=65a42423&is=6591af23&hm=ab7bcc02b4d248e31c553325756aacf1a334db40ca8bd7b1785174473c15bf6a&" /> |
 | **Developer** | Jack of All Trades | Comfrog | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746939863180/comfrog-transparent-text.png?ex=65a4693c&is=6591f43c&hm=0fce60282163279f86633f08ddf972ef269adc15c8abc4e38c1b7b1961799acc&"/> |
