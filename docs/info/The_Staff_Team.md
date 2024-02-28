@@ -11,15 +11,15 @@ description: "Meet the Team"
 ## Hierarchy
 | Position | Specification | Member | Avatar |
 | ----------- | ----- | ------ | ----- |
-| **Admin**   | Things | Arcanuo | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/arc.png" /> |
-| **Admin**   | Bot, Game Development & Infra | Orbit | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081554391343214/orbit.png?ex=65a42423&is=6591af23&hm=f3bd010cdde9ffe88bf16ccf0905195bb63576edab5d0c7a8fa06feec9fdf450&" /> |
-| **Admin**   | Game Development | Sebafra | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081554638811227/seb.png?ex=65a42423&is=6591af23&hm=ab7bcc02b4d248e31c553325756aacf1a334db40ca8bd7b1785174473c15bf6a&" /> |
+| **Admin**   | Things | Arcanuo | <img src="" /> |
+| **Admin**   | Bot, Game Development & Infra | Orbit | <img src="" /> |
+| **Admin**   | Game Development | Sebafra | <img src="" /> |
 | **Developer** | Jack of All Trades | Comfrog | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746939863180/comfrog-transparent-text.png?ex=65a4693c&is=6591f43c&hm=0fce60282163279f86633f08ddf972ef269adc15c8abc4e38c1b7b1961799acc&"/> |
-| **Developer** | Jack of all trades | Summer | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460144534524064/3eb0387ae9a6de134367f514d934c90f.png?ex=65a584ba&is=65930fba&hm=081f9057aa50799b8e1f1b9fcd85ff9fbdecddfaa7b4cd7cad491ea8aac67186&"/> |
-| **Developer** | Jack of all trades | Waterfiend | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467687604387880/4121ae513ecc946f8076b835d204f221.png?ex=65a58bc1&is=659316c1&hm=ce2ee262faeafc60cc5eb05f61fc04595dde51df868119e13c1fa1f6fd13707d&"/> |
-| **Developer** | Jack of all trades | iwannabeu | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191510734107062345/d575c932945ba29c6eb0e9af51910c87_1.png?ex=65a5b3d8&is=65933ed8&hm=c8447c8d26e8b724e0f16150c151fcf06392c434bce5aad893f8ea5b6843a2c0&"/> |
-| **Developer** | starter developer | Faux | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467687868649522/068930c8cae6355b031ce508a521fc0a.png?ex=65a58bc1&is=659316c1&hm=1645f54e5c74e25ba81d312af1f3a1c4b393a3ec5e1c22b3b3fd9ed9d53aff90&"/> |
-| **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467688678150369/forg2.png?ex=65a58bc1&is=659316c1&hm=ec6db563e79719ff5a16bd081a1c30d85fe1b843e183f7e9d5040cf8833345ad&"/> |
+| **Developer** | Jack of all trades | Summer | <img src=""/> |
+| **Developer** | Jack of all trades | Waterfiend | <img src=""/> |
+| **Developer** | Jack of all trades | iwannabeu | <img src=""/> |
+| **Developer** | starter developer | Faux | <img src=""/> |
+| **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src=""/> |
 | **Artist** | Spriter Enthusiast | TehEnd | <img src="https://cdn.discordapp.com/attachments/1208285144792956978/1208294915335786587/catemoji_1.png?ex=65e2c354&is=65d04e54&hm=8bcea936e92204bf08118a4f0ea1bb0a3c8fe0916436b457ff554053531847d8&"/> |
 | **Balancer/Designer** | Unique Spriter and Balancer | G | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746319106129/388deacdb2f92d99cedb6aa366a386c2.png?ex=65a4693c&is=6591f43c&hm=5011001f8f2a592cf4b89172b505362c726cbeb35853ca7a5b7bd89bd3700c7c&"/> |
 | **Content Team** | Unique Balancer | Fishfin | <img src="https://cdn.discordapp.com/attachments/1032818008340566107/1208284595011723274/IMG_9741_1.jpg?ex=65e2b9b8&is=65d044b8&hm=3de65f8a33b924cecfb6cb3feb5f22b257ce1183b89c59b91aa4cff04d1ab3dd&"/> ||
