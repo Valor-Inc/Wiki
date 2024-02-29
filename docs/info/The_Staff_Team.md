@@ -11,34 +11,34 @@ description: "Meet the Team"
 ## Hierarchy
 | Position | Specification | Member | Avatar |
 | ----------- | ----- | ------ | ----- |
-| **Admin**   | Things | Arcanuo | <img src="" /> |
-| **Admin**   | Bot, Game Development & Infra | Orbit | <img src="" /> |
-| **Admin**   | Game Development | Sebafra | <img src="" /> |
-| **Developer** | Jack of All Trades | Comfrog | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746939863180/comfrog-transparent-text.png?ex=65a4693c&is=6591f43c&hm=0fce60282163279f86633f08ddf972ef269adc15c8abc4e38c1b7b1961799acc&"/> |
+| **Admin**   | Things | Arcanuo | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/arc.png" /> |
+| **Admin**   | Bot, Game Development & Infra | Orbit | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/orbit.png" /> |
+| **Admin**   | Game Development | Sebafra | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/seb.png" /> |
+| **Developer** | Jack of All Trades | Comfrog | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/comfrog-transparent-text.png"/> |
 | **Developer** | Jack of all trades | Summer | <img src=""/> |
 | **Developer** | Jack of all trades | Waterfiend | <img src=""/> |
-| **Developer** | Jack of all trades | iwannabeu | <img src=""/> |
+| **Developer** | Jack of all trades | iwannabeu | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/d575c932945ba29c6eb0e9af51910c87%20(1).png"/> |
 | **Developer** | starter developer | Faux | <img src=""/> |
 | **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src=""/> |
 | **Artist** | Spriter Enthusiast | TehEnd | <img src="https://cdn.discordapp.com/attachments/1208285144792956978/1208294915335786587/catemoji_1.png?ex=65e2c354&is=65d04e54&hm=8bcea936e92204bf08118a4f0ea1bb0a3c8fe0916436b457ff554053531847d8&"/> |
-| **Balancer/Designer** | Unique Spriter and Balancer | G | <img src=""/> |
+| **Balancer/Designer** | Unique Spriter and Balancer | G | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/388deacdb2f92d99cedb6aa366a386c2.png"/> |
 | **Content Team** | Unique Balancer | Fishfin | <img src="https://cdn.discordapp.com/attachments/1032818008340566107/1208284595011723274/IMG_9741_1.jpg?ex=65e2b9b8&is=65d044b8&hm=3de65f8a33b924cecfb6cb3feb5f22b257ce1183b89c59b91aa4cff04d1ab3dd&"/> ||
 |**Content Team** | Unique Balancer | Zipzar | <img src="https://cdn.discordapp.com/attachments/1208277897014542376/1208281126498738226/GDZVxysbAAADlNB_1_1.jpg?ex=65e2b67d&is=65d0417d&hm=60e5f27d6fe40a933d009467d64900a2f1b58b45018f511206aa77cbfed1944e&"/> |
 | **Content Team** | Unique Balancer | Kipp | <img src="https://cdn.discordapp.com/attachments/1082059893042851931/1208604604258844682/d4e813c68544a0fab7cc3f95593ac393.png?ex=65e3e3c0&is=65d16ec0&hm=85ed78945645a5748dba87d9e357e5a7d917811756a05d50f946f92af60a7513&"/> |
-| **Content Balancer** | Unique Balancer | Liv | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747422212206/F0XMWtyaUAAF6uV.png?ex=65a4693c&is=6591f43c&hm=22339b6f94d54289f380e4c9a542a14c3093beb49aba2792a90d3b5cbce648af&"/> |
-| **SrModerator** | Training & Logs | Gancho | <img src="https://cdn.discordapp.com/attachments/1187552567295758487/1191081351156338789/gancho_1.gif?ex=65a423f3&is=6591aef3&hm=b735826b4752a14d879739a92f08854ca768f602ba0fa1533c54df2355ddcf77&" /> |
-| **SrModerator** | Training & Logs | ABlindSniper | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746700791848/ABlindSniper.jpg?ex=65a4693c&is=6591f43c&hm=55a8077d6dd94a6f3c8dbec3225f63bc8280f2ea9cd6b60d1584c7943d2a45f8&"/> |
-| **SrModerator** | Community management | Avatar | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460151123775589/ca9d393cadeb5b9c81fff01efe258ea5.png?ex=65a584bc&is=65930fbc&hm=037718cffdd31501e86a1028b1e5ceed259f5ab9b1a3b70158782b50d621a691&"/> |
-| **SrModerator** | Deviser | Deviser | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460150922444960/5329e32e4918479c669a0cd8cfec16b0.png?ex=65a584bc&is=65930fbc&hm=1b7fdaf4cb7dd9cf88d830fb21c8a354b279a3c2439984ecf9e04fd5d8188a80&"/> |
-| **Moderator/Content Team** | Lesser Jack of all trades | Deathmod | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191532488808485005/monkey_1.png?ex=65a5c81a&is=6593531a&hm=23a52400c2dadd106554d28519d8eaf859acd213cd98002aee0dac75683c4eb8&"/> |
-| **Moderator** |  Training & Logs | Xanny | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467688095125534/a_134c8bbce413c6d10352caee90bb0c2f.gif?ex=65a58bc1&is=659316c1&hm=6a1986f7a0db0b6d8c72b967064472d4dc56d0c56c54ce8a1420b4ecc9a9c13b&"/> |
-| **Moderator** |  Discord/in Game Security/Support Tickets | Silent | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191467688451637300/b074a34e5210d44f787558bbdff96b8a.png?ex=65a58bc1&is=659316c1&hm=1046dd42e9dc8a335ac0dfff1f2a3855d39cd21d4b6fc43c4087dc63a6b608c5&"/> |
-| **Moderator** | Discord/in Game Security/Support Tickets | Dissy | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155745929048134/3f063d44ed3eafcf3567ce459a831074.jpg?ex=65a4693c&is=6591f43c&hm=d2b5e645cbfc08efa83ab747993739eeed0859c03cb8ade80c25eabde4d1c028&"/> |
-| **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191460145197232249/9c39e15c6b147c82c4e86173ce7eb1e0.png?ex=65a584ba&is=65930fba&hm=2b4f2671030d47bbbc8bfb7296931c87b46f8b03263e762da2d1683f516bf2ab&"/> |
-| **Moderator** | Discord/in Game Security/Support Tickets | Doomered | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191156308422967376/unknown-17-3-1_1.png?ex=65a469c2&is=6591f4c2&hm=ba2ee7f0cb10d6221d47ab06af911c4eb3136384a420a731e70472a354b1aa81&"/> |
-| **Moderator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155747845845033/IMG_0075.jpg?ex=65a4693c&is=6591f43c&hm=9a9346707da3110794eaccebfe0a94bab073b82e1906ae0b42f61b77bc9c8a74&"/> |
-| **JrModerator** | Discord/in Game Security/Support Tickets | Deus | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155748156211200/Olga.jpg?ex=65a4693c&is=6591f43c&hm=483b324a49070d569311b36417005ea77e72effb316f85a977506bcd7caea9f9&"/> |
-| **Helper** | Discord/in Game Security/Support Tickets | Feint | <img src="https://cdn.discordapp.com/attachments/1043629990740242502/1208281703005814824/black-cat-fangs_1.gif?ex=65e2b706&is=65d04206&hm=ad53194be9d99cbeab0c889f7a7fe758fd3a7db929049ac95eccb8de95c5bdf0&"/> |
+| **Content Balancer** | Unique Balancer | Liv | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/F0XMWtyaUAAF6uV.png"/> |
+| **SrModerator** | Training & Logs | Gancho | <img src="" /> |
+| **SrModerator** | Training & Logs | ABlindSniper | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/ABlindSniper.jpg"/> |
+| **SrModerator** | Community management | Avatar | <img src=""/> |
+| **SrModerator** | Deviser | Deviser | <img src=""/> |
+| **Moderator/Content Team** | Lesser Jack of all trades | Deathmod | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/monkey%20(1).png"/> |
+| **Moderator** |  Training & Logs | Xanny | <img src=""/> |
+| **Moderator** |  Discord/in Game Security/Support Tickets | Silent | <img src=""/> |
+| **Moderator** | Discord/in Game Security/Support Tickets | Dissy | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/3f063d44ed3eafcf3567ce459a831074.jpg"/> |
+| **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src=""/> |
+| **Moderator** | Discord/in Game Security/Support Tickets | Doomered | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/unknown-17-3-1%20(1).png"/> |
+| **Moderator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/IMG_0075.jpg"/> |
+| **JrModerator** | Discord/in Game Security/Support Tickets | Deus | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/Olga.jpg"/> |
+| **Helper** | Discord/in Game Security/Support Tickets | Feint | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/black-cat-fangs%20(1).gif"/> |
 | **Helper** | Discord/in Game Security/Support Tickets | Ctrllard | <img src="https://cdn.discordapp.com/attachments/1191460946175074304/1208290865693589514/s22_1.png?ex=65e2bf8f&is=65d04a8f&hm=72052d00fc697e800dd5fd0cf73c5025a4c56e705773bfa61f3a2cb0bd0f5498&"/> |
 | **Helper** | Discord/in Game Security/Support Tickets | Akise | <img src="https://cdn.discordapp.com/attachments/1187528827988086836/1208306256650182696/Aru_akise_1.png?ex=65e2cde4&is=65d058e4&hm=e70a9ae0c83d7990f5b157de456e89cfc611d34c85fbfe4c8fe5799b1447e626&"/> |
 | **Helper** | Discord/in Game Security/Support Tickets | RRkang | <img src="https://cdn.discordapp.com/attachments/1105524933578195044/1208604653659361320/5cf1343ba566f4de252268bf7700be8a.png?ex=65e3e3cc&is=65d16ecc&hm=fb513f76ddffe88b59867f09c9a1b4111ba7dc651615ab4918d559b4d791142c&"/> |
