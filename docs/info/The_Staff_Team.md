@@ -18,7 +18,7 @@ description: "Meet the Team"
 | **Developer** | Jack of all trades | Summer | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/3eb0387ae9a6de134367f514d934c90f.png"/> |
 | **Developer** | Jack of all trades | Waterfiend | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/4121ae513ecc946f8076b835d204f221.png"/> |
 | **Developer** | Jack of all trades | iwannabeu | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/d575c932945ba29c6eb0e9af51910c87%20(1).png"/> |
-| **Developer** | starter developer | Faux | <img src="https://github.com/Valor-Inc/Wiki/blob/main/static/img/The%20Staff%20Team/068930c8cae6355b031ce508a521fc0a.png"/> |
+| **Developer** | starter developer | Faux | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/068930c8cae6355b031ce508a521fc0a.png"/> |
 | **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/forg2.png"/> |
 | **Artist** | Spriter Enthusiast | TehEnd | <img src="https://cdn.discordapp.com/attachments/1208285144792956978/1208294915335786587/catemoji_1.png?ex=65e2c354&is=65d04e54&hm=8bcea936e92204bf08118a4f0ea1bb0a3c8fe0916436b457ff554053531847d8&"/> |
 | **Balancer/Designer** | Unique Spriter and Balancer | G | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/388deacdb2f92d99cedb6aa366a386c2.png"/> |
