@@ -34,7 +34,7 @@ description: "Meet the Team"
 | **Moderator** |  Training & Logs | Xanny | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/a_134c8bbce413c6d10352caee90bb0c2f.gif"/> |
 | **Moderator** |  Discord/in Game Security/Support Tickets | Silent | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/b074a34e5210d44f787558bbdff96b8a.png"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Dissy | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/3f063d44ed3eafcf3567ce459a831074.jpg"/> |
-| **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src=""/> |
+| **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/9c39e15c6b147c82c4e86173ce7eb1e0.png"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Doomered | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/unknown-17-3-1%20(1).png"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Shah | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/IMG_0075.jpg"/> |
 | **JrModerator** | Discord/in Game Security/Support Tickets | Deus | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/Olga.jpg"/> |
