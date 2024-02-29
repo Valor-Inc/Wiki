@@ -21,7 +21,7 @@ description: "Meet the Team"
 | **Developer** | starter developer | Faux | <img src=""/> |
 | **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src=""/> |
 | **Artist** | Spriter Enthusiast | TehEnd | <img src="https://cdn.discordapp.com/attachments/1208285144792956978/1208294915335786587/catemoji_1.png?ex=65e2c354&is=65d04e54&hm=8bcea936e92204bf08118a4f0ea1bb0a3c8fe0916436b457ff554053531847d8&"/> |
-| **Balancer/Designer** | Unique Spriter and Balancer | G | <img src="https://cdn.discordapp.com/attachments/1082223891277172777/1191155746319106129/388deacdb2f92d99cedb6aa366a386c2.png?ex=65a4693c&is=6591f43c&hm=5011001f8f2a592cf4b89172b505362c726cbeb35853ca7a5b7bd89bd3700c7c&"/> |
+| **Balancer/Designer** | Unique Spriter and Balancer | G | <img src=""/> |
 | **Content Team** | Unique Balancer | Fishfin | <img src="https://cdn.discordapp.com/attachments/1032818008340566107/1208284595011723274/IMG_9741_1.jpg?ex=65e2b9b8&is=65d044b8&hm=3de65f8a33b924cecfb6cb3feb5f22b257ce1183b89c59b91aa4cff04d1ab3dd&"/> ||
 |**Content Team** | Unique Balancer | Zipzar | <img src="https://cdn.discordapp.com/attachments/1208277897014542376/1208281126498738226/GDZVxysbAAADlNB_1_1.jpg?ex=65e2b67d&is=65d0417d&hm=60e5f27d6fe40a933d009467d64900a2f1b58b45018f511206aa77cbfed1944e&"/> |
 | **Content Team** | Unique Balancer | Kipp | <img src="https://cdn.discordapp.com/attachments/1082059893042851931/1208604604258844682/d4e813c68544a0fab7cc3f95593ac393.png?ex=65e3e3c0&is=65d16ec0&hm=85ed78945645a5748dba87d9e357e5a7d917811756a05d50f946f92af60a7513&"/> |
