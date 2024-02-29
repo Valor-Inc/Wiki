@@ -78,9 +78,10 @@ import TabItem from '@theme/TabItem';
  <TabItem value="Shard of the Graceless Courtship" label="Shard of the Graceless Courtship">
    
    
-# ![GC](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_of_the_Graceless_Courtship.png)  Available During Valentines Event Shard of the Graceless Courtship
+# ![GC](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_of_the_Graceless_Courtship.png) Shard of the Graceless Courtship
 
 (Reskins to Shard of the Grand Challenge)
+Available During Valentines Event.
 
 ![poison](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Heartblight%20Spirit.png)
 ![tali](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Spindled%20Flameheart.png)
