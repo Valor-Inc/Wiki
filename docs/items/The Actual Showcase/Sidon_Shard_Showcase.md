@@ -61,7 +61,7 @@ import TabItem from '@theme/TabItem';
  </TabItem>
   <TabItem value="Eternal Fury" label="Eternal Fury">
 
-# ![EF](https://github.com/Valor-Inc/Wiki/blob/main/static/img/Shards_Misc_Consumables/Shard_of_Eternal_Fury.png) **(Old)** Shard of the Eternal Fury
+# ![EF](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_of_Eternal_Fury.png) **(Old)** Shard of the Eternal Fury
 
 [![anguish](https://cdn.discordapp.com/attachments/1187552567295758487/1190508887527403611/Waraxe_of_Judgement.png?ex=65a20ecd&is=658f99cd&hm=1c4baab72f1cbb309c4f5be92fa961097c55e4fbf1ea72d3dd5c3ee40b2d5fd3&)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/anguish_of_drannol) [![Bracelet](https://vwiki.valorserver.com/api/item/picture/bracelet%20of%20the%20demolished)](https://wiki.valorserver.com/docs/items/rings/legendary/bracelet_of_the_demolished) [![caltrops](https://vwiki.valorserver.com/api/item/picture/caltrops)](https://wiki.valorserver.com/docs/items/abilities/traps/legendary/caltrops) [![devil](https://vwiki.valorserver.com/api/item/picture/devil%20dice)](https://wiki.valorserver.com/docs/items/abilities/dice/legendary/devil_dice) [![meteor](https://vwiki.valorserver.com/api/item/picture/meteor)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/meteor) [![SolarFocus](https://vwiki.valorserver.com/api/item/picture/ring%20of%20solar%20focus)](https://wiki.valorserver.com/docs/items/rings/legendary/ring_of_solar_focus) [![bleeding](https://vwiki.valorserver.com/api/item/picture/the%20bleeding%20fang)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/the_bleeding_fang) [![infernus](https://vwiki.valorserver.com/api/item/picture/the%20infernus)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/the_infernus) [![waraxe](https://cdn.discordapp.com/attachments/1187552567295758487/1190508887527403611/Waraxe_of_Judgement.png?ex=65a20ecd&is=658f99cd&hm=1c4baab72f1cbb309c4f5be92fa961097c55e4fbf1ea72d3dd5c3ee40b2d5fd3&)](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/waraxe_of_judgement) [![ZZzeal](https://vwiki.valorserver.com/api/item/picture/zeal%20of%20the%20far-ranger)](https://wiki.valorserver.com/docs/items/abilities/quivers/legendary/zeal_of_the_far_ranger)
 
@@ -78,7 +78,7 @@ import TabItem from '@theme/TabItem';
  <TabItem value="Shard of the Graceless Courtship" label="Shard of the Graceless Courtship">
    
    
-# ![GC](https://github.com/Valor-Inc/Wiki/blob/main/static/img/Shards_Misc_Consumables/Shard_of_the_Graceless_Courtship.png)  **Available During Valentines Event** Shard of the Graceless Courtship
+# ![GC](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_of_the_Graceless_Courtship.png)  Available During Valentines Event Shard of the Graceless Courtship
 
 (Reskins to Shard of the Grand Challenge)
 
