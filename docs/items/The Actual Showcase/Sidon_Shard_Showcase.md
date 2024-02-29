@@ -80,7 +80,16 @@ import TabItem from '@theme/TabItem';
    
 # ![GC](https://github.com/Valor-Inc/Wiki/blob/main/static/img/Shards_Misc_Consumables/Shard_of_the_Graceless_Courtship.png)  **Available During Valentines Event** Shard of the Graceless Courtship
 
-WIP 
+(Reskins to Shard of the Grand Challenge)
+
+![poison](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Heartblight%20Spirit.png)
+![tali](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Spindled%20Flameheart.png)
+![ring](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Necklace%20of%20Emotional%20Damage.png)
+![skull](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Heart%20of%20Ravagers.png)
+![robe](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Vizkel's%20Unruly%20Garments.png)
+![anchor](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Grace/Beguiling%20Fisherman's%20Bower.png)
+
+
 
   </TabItem>
   <TabItem value="Zol Corruption" label="Zol Corruption">
