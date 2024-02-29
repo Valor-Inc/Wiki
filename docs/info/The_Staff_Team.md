@@ -15,11 +15,11 @@ description: "Meet the Team"
 | **Admin**   | Bot, Game Development & Infra | Orbit | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/orbit.png" /> |
 | **Admin**   | Game Development | Sebafra | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/seb.png" /> |
 | **Developer** | Jack of All Trades | Comfrog | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/comfrog-transparent-text.png"/> |
-| **Developer** | Jack of all trades | Summer | <img src=""/> |
-| **Developer** | Jack of all trades | Waterfiend | <img src=""/> |
+| **Developer** | Jack of all trades | Summer | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/3eb0387ae9a6de134367f514d934c90f.png"/> |
+| **Developer** | Jack of all trades | Waterfiend | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/4121ae513ecc946f8076b835d204f221.png"/> |
 | **Developer** | Jack of all trades | iwannabeu | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/d575c932945ba29c6eb0e9af51910c87%20(1).png"/> |
-| **Developer** | starter developer | Faux | <img src=""/> |
-| **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src=""/> |
+| **Developer** | starter developer | Faux | <img src="https://github.com/Valor-Inc/Wiki/blob/main/static/img/The%20Staff%20Team/068930c8cae6355b031ce508a521fc0a.png"/> |
+| **Artist/Designer** | Pixel art, ribbit | BLOODQWEN  | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/forg2.png"/> |
 | **Artist** | Spriter Enthusiast | TehEnd | <img src="https://cdn.discordapp.com/attachments/1208285144792956978/1208294915335786587/catemoji_1.png?ex=65e2c354&is=65d04e54&hm=8bcea936e92204bf08118a4f0ea1bb0a3c8fe0916436b457ff554053531847d8&"/> |
 | **Balancer/Designer** | Unique Spriter and Balancer | G | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/388deacdb2f92d99cedb6aa366a386c2.png"/> |
 | **Content Team** | Unique Balancer | Fishfin | <img src="https://cdn.discordapp.com/attachments/1032818008340566107/1208284595011723274/IMG_9741_1.jpg?ex=65e2b9b8&is=65d044b8&hm=3de65f8a33b924cecfb6cb3feb5f22b257ce1183b89c59b91aa4cff04d1ab3dd&"/> ||
@@ -28,11 +28,11 @@ description: "Meet the Team"
 | **Content Balancer** | Unique Balancer | Liv | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/F0XMWtyaUAAF6uV.png"/> |
 | **SrModerator** | Training & Logs | Gancho | <img src="" /> |
 | **SrModerator** | Training & Logs | ABlindSniper | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/ABlindSniper.jpg"/> |
-| **SrModerator** | Community management | Avatar | <img src=""/> |
-| **SrModerator** | Deviser | Deviser | <img src=""/> |
+| **SrModerator** | Community management | Avatar | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/ca9d393cadeb5b9c81fff01efe258ea5.png"/> |
+| **SrModerator** | Deviser | Deviser | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/5329e32e4918479c669a0cd8cfec16b0.png"/> |
 | **Moderator/Content Team** | Lesser Jack of all trades | Deathmod | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/monkey%20(1).png"/> |
-| **Moderator** |  Training & Logs | Xanny | <img src=""/> |
-| **Moderator** |  Discord/in Game Security/Support Tickets | Silent | <img src=""/> |
+| **Moderator** |  Training & Logs | Xanny | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/a_134c8bbce413c6d10352caee90bb0c2f.gif"/> |
+| **Moderator** |  Discord/in Game Security/Support Tickets | Silent | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/b074a34e5210d44f787558bbdff96b8a.png"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Dissy | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/3f063d44ed3eafcf3567ce459a831074.jpg"/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Dot | <img src=""/> |
 | **Moderator** | Discord/in Game Security/Support Tickets | Doomered | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/unknown-17-3-1%20(1).png"/> |
