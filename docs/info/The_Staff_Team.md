@@ -26,7 +26,7 @@ description: "Meet the Team"
 |**Content Team** | Unique Balancer | Zipzar | <img src="https://cdn.discordapp.com/attachments/1208277897014542376/1208281126498738226/GDZVxysbAAADlNB_1_1.jpg?ex=65e2b67d&is=65d0417d&hm=60e5f27d6fe40a933d009467d64900a2f1b58b45018f511206aa77cbfed1944e&"/> |
 | **Content Team** | Unique Balancer | Kipp | <img src="https://cdn.discordapp.com/attachments/1082059893042851931/1208604604258844682/d4e813c68544a0fab7cc3f95593ac393.png?ex=65e3e3c0&is=65d16ec0&hm=85ed78945645a5748dba87d9e357e5a7d917811756a05d50f946f92af60a7513&"/> |
 | **Content Balancer** | Unique Balancer | Liv | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/F0XMWtyaUAAF6uV.png"/> |
-| **SrModerator** | Training & Logs | Gancho | <img src="" /> |
+| **SrModerator** | Training & Logs | Gancho | <img src="https://github.com/Valor-Inc/Wiki/blob/main/static/img/The%20Staff%20Team/gancho%20(1).gif" /> |
 | **SrModerator** | Training & Logs | ABlindSniper | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/ABlindSniper.jpg"/> |
 | **SrModerator** | Community management | Avatar | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/ca9d393cadeb5b9c81fff01efe258ea5.png"/> |
 | **SrModerator** | Deviser | Deviser | <img src="https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/The%20Staff%20Team/5329e32e4918479c669a0cd8cfec16b0.png"/> |
