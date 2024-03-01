@@ -24,40 +24,34 @@ import TabItem from '@theme/TabItem';
 ![3xshard](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Sidons_Shard_Fragments_3.png)
 
 [![cleansing](https://vwiki.valorserver.com/api/item/picture/cleansing%20cleric%20breastplate)](https://wiki.valorserver.com/docs/items/armors/heavys/legendary/cleansing_cleric_breastplate) [![garmentsofmaw](https://vwiki.valorserver.com/api/item/picture/garments%20of%20maw)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/garments_of_maw) [![KMA](https://vwiki.valorserver.com/api/item/picture/katana%20of%20mythical%20alliance)](https://wiki.valorserver.com/docs/items/weapons/katanas/legendary/katana_of_mythical_alliance) [![splitworld](https://vwiki.valorserver.com/api/item/picture/robe%20of%20split%20worlds)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/robe_of_split_worlds) [![sidonhand](https://vwiki.valorserver.com/api/item/picture/sidon's%20handcraft)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/sidons_handcraft) [![sidonmaster](https://vwiki.valorserver.com/api/item/picture/sidon's%20masterpiece)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/sidons_masterpiece/) 
-
-[![stargazer]()](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/stargazer)
-[![LunarArk]()](https://wiki.valorserver.com/docs/items/abilities/scepters/legendary/lunar_ark)
-[![lunarshawl]()](https://wiki.valorserver.com/docs/items/armors/robes/legendary/lunar_shawl) 
-[![selenic]()](https://wiki.valorserver.com/docs/items/rings/legendary/selenic_clasp/)
-
+[![stargazer](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Stargazer.png)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/stargazer)
+[![LunarArk](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Lunar%20Ark.png)](https://wiki.valorserver.com/docs/items/abilities/scepters/legendary/lunar_ark)
+[![lunarshawl](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Lunar%20Shawl.png)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/lunar_shawl) 
+[![selenic](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Selenic%20Clasp.png)](https://wiki.valorserver.com/docs/items/rings/legendary/selenic_clasp/)
 [![Dimensional](https://vwiki.valorserver.com/api/item/picture/dimensional%20prism)](https://wiki.valorserver.com/docs/items/abilities/prisms/legendary/dimensional_prism) 
-[![Garugen]()](https://wiki.valorserver.com/docs/items/abilities/sheaths/legendary/garugen)
+[![Garugen](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Garugen.png)](https://wiki.valorserver.com/docs/items/abilities/sheaths/legendary/garugen)
 [![guardian](https://vwiki.valorserver.com/api/item/picture/guardian%20siphon)](https://wiki.valorserver.com/docs/items/abilities/siphons/legendary/guardian_siphon) 
-[![Haloflower]()](https://wiki.valorserver.com/docs/items/abilities/poisons/legendary/haloflower_toxin) 
+[![Haloflower](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Haloflower%20Toxin.png)](https://wiki.valorserver.com/docs/items/abilities/poisons/legendary/haloflower_toxin) 
 [![Mercy](https://vwiki.valorserver.com/api/item/picture/mercy%20of%20yazanahar)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/mercy_of_yazanahar)
-[![grimemmories]()](https://wiki.valorserver.com/docs/items/weapons/katanas/legendary/scythe_of_grim_memories)
-
+[![grimemmories](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Scythe%20of%20Grim%20Memories.png)](https://wiki.valorserver.com/docs/items/weapons/katanas/legendary/scythe_of_grim_memories)
 [![2k](https://vwiki.valorserver.com/api/item/picture/the%202-k)](https://wiki.valorserver.com/docs/items/weapons/staves/legendary/the_2_k)
 [![cots](https://vwiki.valorserver.com/api/item/picture/calling%20of%20the%20storm)](https://wiki.valorserver.com/docs/items/abilities/spells/legendary/calling_of_the_storm) [![elementald](https://vwiki.valorserver.com/api/item/picture/elemental%20drape)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/elemental_drape) [![horns](https://vwiki.valorserver.com/api/item/picture/stormcaller's%20horns)](https://wiki.valorserver.com/docs/items/rings/legendary/stormcallers_horns)
 
-[![decimator](https://cdn.discordapp.com/attachments/1187552567295758487/1190508884981461102/Decimator_Bow.png?ex=65a20ecc&is=658f99cc&hm=0de7c00ab4c4b0e441c3ce504965c7e1c748f59b74c13815087a5efff819cb6c&)](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/decimator_bow)
+[![decimator](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Decimator%20Bow.png)](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/decimator_bow)
 [![Faith](https://vwiki.valorserver.com/api/item/picture/faith%20of%20the%20angel)](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/faith_of_the_angel) [![Jackpot](https://vwiki.valorserver.com/api/item/picture/jackpot)](https://wiki.valorserver.com/docs/items/rings/legendary/jackpot) [![Luminous](https://vwiki.valorserver.com/api/item/picture/luminous%20horizon)](https://wiki.valorserver.com/docs/items/abilities/seals/legendary/luminious_horizon) [![petrification](https://vwiki.valorserver.com/api/item/picture/petrification%20cloak)](https://wiki.valorserver.com/docs/items/abilities/cloaks/legendary/petrification_cloak) [![Pernicious](https://vwiki.valorserver.com/api/item/picture/pernicious%20fate-36)](https://wiki.valorserver.com/docs/items/abilities/scepters/legendary/pernicious_fate36) 
-
-[![sorrowful]()](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/sorrowful_boundtouch)
-
+[![sorrowful](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Sorrowful%20Boundtouch.png)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/sorrowful_boundtouch)
 [![RoyalRevenge](https://vwiki.valorserver.com/api/item/picture/staff%20of%20royal%20revenge)](https://wiki.valorserver.com/docs/items/weapons/staves/legendary/staff_of_royal_revenge) [![starcrash](https://vwiki.valorserver.com/api/item/picture/starcrash%20ring)](https://wiki.valorserver.com/docs/items/rings/legendary/starcrash_ring) [![thebestitem](https://cdn.discordapp.com/attachments/1187552567295758487/1190508885828710460/Sun_and_Moon_Expansion.png?ex=65a20ecc&is=658f99cc&hm=5dcdc32a811b63cf6e716aaf7a9024a64e9bbdb9cfbf6f643275487820291986&)](https://wiki.valorserver.com/docs/items/abilities/spells/legendary/sun_and_moon_expansion) 
-[![gildedblade](https://cdn.discordapp.com/attachments/1187552567295758487/1190508886428504074/The_Gilded_Blade.png?ex=65a20ecd&is=658f99cd&hm=af72174d55f2eeb8e81ff21581cabb2ff630b652b6a8bc62afc0ac0cc23e67f5&)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/the_gilded_blade)
-[![GildedHelm](https://cdn.discordapp.com/attachments/1187552567295758487/1190508886885675090/The_Gilded_Helm.png?ex=65a20ecd&is=658f99cd&hm=d227a44902be0282dfc7bd071053f96ffbaea033b859b600eda82e547919e03b&)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/the_gilded_helm)
-[![Tyrant]()](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/tyrant_helm)
-
-[![Unochtruth]()](https://wiki.valorserver.com/docs/items/abilities/orbs/legendary/unochs_truth) 
-
-[![anguish]() [![Bracelet](https://vwiki.valorserver.com/api/item/picture/bracelet%20of%20the%20demolished)](https://wiki.valorserver.com/docs/items/rings/legendary/bracelet_of_the_demolished)
+[![gildedblade](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/The%20Gilded%20Blade.png)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/the_gilded_blade)
+[![GildedHelm](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/The%20Gilded%20Helm.png)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/the_gilded_helm)
+[![Tyrant](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Tyrant%20Helm.png)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/tyrant_helm)
+[![Unochtruth](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Unoch's%20Truth.png)](https://wiki.valorserver.com/docs/items/abilities/orbs/legendary/unochs_truth) 
+[![anguish](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Anguish%20of%20Drannol.png)](https://wiki.valorserver.com/docs/items/abilities/helms/legendary/anguish_of_drannol/)
+[![Bracelet](https://vwiki.valorserver.com/api/item/picture/bracelet%20of%20the%20demolished)](https://wiki.valorserver.com/docs/items/rings/legendary/bracelet_of_the_demolished)
 [![caltrops](https://vwiki.valorserver.com/api/item/picture/caltrops)](https://wiki.valorserver.com/docs/items/abilities/traps/legendary/caltrops) [![devil](https://vwiki.valorserver.com/api/item/picture/devil%20dice)](https://wiki.valorserver.com/docs/items/abilities/dice/legendary/devil_dice) [![meteor](https://vwiki.valorserver.com/api/item/picture/meteor)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/meteor) [![SolarFocus](https://vwiki.valorserver.com/api/item/picture/ring%20of%20solar%20focus)](https://wiki.valorserver.com/docs/items/rings/legendary/ring_of_solar_focus) [![bleeding](https://vwiki.valorserver.com/api/item/picture/the%20bleeding%20fang)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/the_bleeding_fang) [![infernus](https://vwiki.valorserver.com/api/item/picture/the%20infernus)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/the_infernus) 
-[![waraxe]()](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/waraxe_of_judgement) 
+[![waraxe](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Waraxe%20of%20Judgement.png)](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/waraxe_of_judgement) 
 [![ZZzeal](https://vwiki.valorserver.com/api/item/picture/zeal%20of%20the%20far-ranger)](https://wiki.valorserver.com/docs/items/abilities/quivers/legendary/zeal_of_the_far_ranger)
 [![destruction](https://vwiki.valorserver.com/api/item/picture/destruction%20spirit)](https://wiki.valorserver.com/docs/items/abilities/poisons/legendary/destruction_spirit)
-[![fierymagma]()](https://wiki.valorserver.com/docs/items/abilities/talismans/legendary/fiery_magma_stone)
+[![fierymagma](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Fiery%20Magma%20Stone.png)](https://wiki.valorserver.com/docs/items/abilities/talismans/legendary/fiery_magma_stone)
 [![necklace](https://vwiki.valorserver.com/api/item/picture/necklace%20of%20undead%20support)](https://wiki.valorserver.com/docs/items/rings/legendary/necklace_of_undead_support) [![ravagers](https://vwiki.valorserver.com/api/item/picture/skull%20of%20ravagers)](https://wiki.valorserver.com/docs/items/abilities/skulls/legendary/skull_of_ravagers) [![vizkels](https://vwiki.valorserver.com/api/item/picture/vizkel's%20unholy%20garments)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/vizkels_unholy_garments)
 [![tindailius](https://vwiki.valorserver.com/api/item/picture/dagger%20of%20tindailius)](https://wiki.valorserver.com/docs/items/weapons/daggers/legendary/dagger_of_tindailius) [![hideferal](https://vwiki.valorserver.com/api/item/picture/hide%20of%20the%20feral)](https://wiki.valorserver.com/docs/items/armors/lights/legendary/hide_of_the_feral) [![moonlight](https://vwiki.valorserver.com/api/item/picture/moonlight)](https://wiki.valorserver.com/docs/items/weapons/wands/legendary/moonlight)  [![TarotWicked](https://vwiki.valorserver.com/api/item/picture/tarot%20of%20the%20wicked)](https://wiki.valorserver.com/docs/items/abilities/charms/legendary/tarot_of_the_wicked) [![bifierce](https://vwiki.valorserver.com/api/item/picture/the%20bifierce)](https://wiki.valorserver.com/docs/items/weapons/blades/legendary/The_Bifierce) [![WordsWisdom](https://vwiki.valorserver.com/api/item/picture/words%20of%20wisdom)](https://wiki.valorserver.com/docs/items/armors/robes/legendary/words_of_wisdom)
 
@@ -132,10 +126,10 @@ Available During Valentines Event.
 
 # ![SSS](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_of_the_Stone_Soul.png) **(Old)** Shard of the Stone soul
 
-[![HG]()](https://wiki.valorserver.com/docs/items/abilities/talismans/legendary/head_of_the_gargoyle)
-[![GS]()](https://wiki.valorserver.com/docs/items/abilities/stars/legendary/gargoyle_slayer)
-[![GC]()](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/gargoyle_crusher)
-[![GS]()](https://wiki.valorserver.com/docs/items/armors/heavys/legendary/gargoyle_stoneplate) 
+[![HG](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Head%20of%20the%20Gargoyle.png)](https://wiki.valorserver.com/docs/items/abilities/talismans/legendary/head_of_the_gargoyle)
+[![GS](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Gargoyle%20Slayer.png)](https://wiki.valorserver.com/docs/items/abilities/stars/legendary/gargoyle_slayer)
+[![GC](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Gargoyle%20Crusher.png)](https://wiki.valorserver.com/docs/items/weapons/swords/legendary/gargoyle_crusher)
+[![GS](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Shards_Misc_Consumables/Shard_Pool_Showcasepng/Gargoyle%20Stoneplate.png)](https://wiki.valorserver.com/docs/items/armors/heavys/legendary/gargoyle_stoneplate) 
 
 </TabItem>
 </Tabs>
