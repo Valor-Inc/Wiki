@@ -8,7 +8,7 @@ title: Hade's Eternal Embrace"
 # Hade's Eternal Embrace
 
 
-<i>An Inmortal Demon imbueing a staff to Inhabit any of those who wield it. You were foolish enough to wield it.</i>
+<i> An Inmortal Demon imbueing a staff to Inhabit any of those who wield it. You were foolish enough to wield it. </i>
 
 
 **In the Devil's Palm: Standing still for more than 0.6s begins to spawn fire beneath you, dealing 2% health every 0.2s. Each shot hit on an enemy will raise your might by 1, max: 35 | Every 2nd shot will raise your lucky by 1. Max 15.| If you do not hit an enemy within 3s of your last shot or unequip this item, your stacks will reset and a cooldown of 6s will begin.** 
