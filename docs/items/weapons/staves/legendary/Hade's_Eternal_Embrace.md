@@ -37,6 +37,6 @@ On Equip:
 
 ## Projectile
 
-![image](https://github.com/Valor-Inc/Wiki/blob/main/static/img/weapons/staves/projectile/Hade's%20Eternal.gif?raw=true)
+![image](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/staves/projectile/Hade's%20Eternal.gif?raw=true)
 
 
