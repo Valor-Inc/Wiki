@@ -29,4 +29,4 @@ Essence Craft used with Draconic Daggers of Siphoning to Make Grasp of Nikao
 
 ## Projectiles
 
-![Proj](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/grasp.png)
+![Proj](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/Grasp%20of%20Nikao.gif)
