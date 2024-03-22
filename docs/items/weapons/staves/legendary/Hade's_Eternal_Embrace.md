@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 description: "Hade's Eternal Embrace"
-title: Hade's Eternal Embrace"
+title: Hade's Eternal Embrace
 ---
 
 # ![lg](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Tiered%20Bags/Legendary_Bag.png) Hade's Eternal Embrace
