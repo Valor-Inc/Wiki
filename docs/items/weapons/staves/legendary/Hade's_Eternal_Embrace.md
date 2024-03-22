@@ -32,7 +32,3 @@ On Equip:
 
 
 
-## Projectile
-
-
-
