@@ -30,5 +30,7 @@ On Equip:
 
 +35 Luck
 
+## Projectiles
 
+![Proj](https://github.com/Valor-Inc/Wiki/blob/main/static/img/weapons/staves/projectile/Hade's%20Eternal.gif?raw=true)
 
