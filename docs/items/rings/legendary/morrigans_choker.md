@@ -9,17 +9,17 @@ description: "Morrigan's Choker"
 
 <i>"O Dark Elder, I pity to protest, but the burden of death can be much more than a mere shackle for the unwilling." - Morrigan, the Carrion Crow</i>
 
+**Nevermore: While equipped, spawn a crow that circles the nearest enemy, striking it every second dealing 750. This counts toward mana leech, but not life leech.**
+
     +80 Maximum HP
     
-    +80 Maximum MP
+    +120 Maximum MP
     
-    +12 Attack
+    +8 Attack
     
-    +40 Restoration
+    +15% Mana Healing Boost
     
-    +10% Mana Healing Boost
-    
-    +3 Mana Leech
+    +2 Mana Leech
     
 Fame Bonus: 8%
 

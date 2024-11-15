@@ -9,23 +9,22 @@ description: "Iok's Relief"
 
 <i>A banner used to symbolize a place of refuge from the attacks of Aganazarti's creatures.</i>
 
-Effect on Self: Invulnerable for 1.5 seconds
+**Persistence: After taking over 75 damage, gain a stronger version of the healing buff for 3 seconds.(12s CD)**
 
-Effect on Self: Healing for 3 seconds
+Effect on Self: Healing for 4s
 
-Banner: Throw a Banner at your cursor. Stays active for 6 seconds | Within 6 squares empower your allies for 6 seconds
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds. Within 6 squares, empower your allies for 6 seconds.
 
-Recast: Charge towards your banner and do 1150 damage
+Recast: **Charge towards your banner. While charging, -80% damage taken. Deal 4320 damage.**
 
-MP Cost: 90
+MP Cost: 100
 
+    +100 Protection
 
-    +200 Protection
+    +75 Maximum HP
     
-    -20 Restoration
+    +15 Vitality
 
 Fame Bonus: 8%
-
-***Templar's Gift: If your surge is above 5 upon using your banner you remove all negative conditions upon yourself.***
 
 **Drops from the Cube God in the Realm**

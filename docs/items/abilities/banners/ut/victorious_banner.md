@@ -9,13 +9,15 @@ description: "The Victorious Banner"
 
 <i>A banner used to celebrate victory.</i>
 
-Banner: Throw a banner at your cursor. Stays active for 6 seconds Within 5 sqrs empower you allies for 6 seconds
+Party Effect: +90 Max HP in 4.5 sqrs for 4.5s
 
-Recast: Charage towards your banner and do 1000 damage During the charge your damage taken is reduced by 50%
+Banner: Throw a Banner at your cursor. Stays active for 6 seconds. Within 5 squares, empower your allies for 6 seconds, Stun to enemies for 2.5s
+
+Recast: **Charge towards your banner. While charging, -50% damage taken. Deal 1952 damage.**
 
 MP Cost: 90
 
-    +10 Restoration
+    +10 Vitality
     
 Fame Bonus: 6%
 

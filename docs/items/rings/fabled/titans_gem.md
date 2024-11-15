@@ -9,13 +9,13 @@ description: "The Titan's Gem"
 
 <i>A gem forged by the greatest alchemist in the realm.</i>
 
-    +225 Maximum HP
+    +125 Maximum HP
     
-    +65 Maximum MP
+    +125 Maximum MP
     
-    +12 Defense
+    +8 Defense
     
-    +12 Attack
+    +8 Attack
     
 Fame Bonus: 6%
 

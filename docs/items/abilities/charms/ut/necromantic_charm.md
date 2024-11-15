@@ -24,3 +24,8 @@ Fame Bonus: 6%
 ***Upgradable with Essence of the Realm!***
 
 **Drops from Tridorno of the Catacombs**
+
+
+## Offensive Torri
+
+![charm](https://cdn.discordapp.com/attachments/1160376179996496013/1195487532423598190/charm6.gif?ex=65c6a086&is=65b42b86&hm=0f143233c811a24e102ad08293cf192313f66f0d23d1384fbd13a111825bdf9e&)

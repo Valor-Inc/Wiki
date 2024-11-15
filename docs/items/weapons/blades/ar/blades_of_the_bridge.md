@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Blades of the Bridge" label="Blades of the Bridge" default>
 
-# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge  
+# ![Ancient Relic](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Tiered%20Bags/Ancient_Relic_Bag.png) Blades of the Bridge  
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge)
 
@@ -28,18 +28,21 @@ Ignores defense of target
 
 Fame Bonus: 15%
 
-  **Drops from the Bridge Sentinel of the Shatters**  ![Bridgesent](https://cdn.discordapp.com/attachments/1107378591026655272/1107388508705914900/sen.png) 
+  **Drops from the Bridge Sentinel of the Shatters**  ![Bridgesent](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Bosses_And_Enemies/shatters.shtrs_Bridge_Sentinel.png) 
 
 
     
 ## Projectile
 
-![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187539843228647474/normal_ar_blade.gif?ex=659741aa&is=6584ccaa&hm=011421fa053ea30d5915d339ad222c75fe997f882c4e0d7ae2b633ffc54bbcf9&)
+![Blades of the Bridge Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/ar_blades_normal.gif)
+
+# Recent Changes
+None.
 
   </TabItem>
   <TabItem value="Air" label="Air">
 
-#  ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Air
+#  ![Ancient Relic](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Tiered%20Bags/Ancient_Relic_Bag.png) Blades of the Bridge Air
 
 ![Blades of the Bridge Air](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Air)
 
@@ -63,12 +66,16 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Blades of the Bridge Air Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540834963443782/normal_ar_blade.gif?ex=65974296&is=6584cd96&hm=b4fad096bf6dd7f6d911eb50566ab50fff11b7ce9130058922f3d97344326f1e&)
+![Blades of the Bridge Air Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/air_blades.gif)
+
+# Recent Changes
+None.
+
 
   </TabItem>
   <TabItem value="Earth" label="Earth">
 
-# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Earth
+# ![Ancient Relic](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Tiered%20Bags/Ancient_Relic_Bag.png) Blades of the Bridge Earth
 
 ![Blades of the Bridge Earth](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20earth)
 
@@ -96,12 +103,18 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Blades of the Bridge Earth Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187541043235782756/normal_ar_blade.gif?ex=659742c8&is=6584cdc8&hm=e358a1df824d97d83e1a98b6299cb6ab7050cfd27459a7297d029dbc223b96e7&)
+![Blades of the Bridge Earth Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/EARTH_BLADES.gif)
  
+
+# Recent Changes
+None.
+
+
+
   </TabItem>
   <TabItem value="Fire" label="Fire">
 
-# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Fire
+# ![Ancient Relic](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Tiered%20Bags/Ancient_Relic_Bag.png) Blades of the Bridge Fire
 
 ![Blades of the Bridge Fire](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Fire)
 
@@ -129,13 +142,18 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Blades of the Bridge Fire Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540566968381500/normal_ar_blade.gif?ex=65974256&is=6584cd56&hm=c645dbfb43446a46fa4b14b7c070a1e11b4e1143ab56dd89d752643bad389ae8&)
+![Blades of the Bridge Fire Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/FIRE_blades.gif)
+
+
+# Recent Changes
+None.
+
 
 
  </TabItem>
   <TabItem value="Water" label="Water">
 
-# ![Ancient Relic](https://cdn.discordapp.com/attachments/1026159786313650256/1045182982090145843/Ancient_Relic_Bag.png) Blades of the Bridge Water
+# ![Ancient Relic](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Tiered%20Bags/Ancient_Relic_Bag.png) Blades of the Bridge Water
 
 ![Blades of the Bridge](https://vwiki.valorserver.com/api/item/picture/Blades%20of%20the%20Bridge%20Water)
 
@@ -163,7 +181,11 @@ Fame Bonus: 15%
 
 ## Projectile
 
-![Blades of the Bridge Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187540327024828426/normal_ar_blade.gif?ex=6597421d&is=6584cd1d&hm=1dd05d0bf3664dfa36bf79d51f6c60e3a9f30c93d68856bcb77bb14fb0550816&)
+![Blades of the Bridge Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/water_blades.gif)
+
+
+# Recent Changes
+None.
 
   </TabItem>
 </Tabs>

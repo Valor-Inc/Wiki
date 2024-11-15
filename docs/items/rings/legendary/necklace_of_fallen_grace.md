@@ -9,6 +9,8 @@ description: "The Necklace of Fallen Grace"
 
 <i>This ring grants great capabilities.</i>
 
+**J.Defense: Everyone that is in your party gains 1 defense.(Cannot stack)**
+
     +150 Maximum MP
     
     +150 Maximum HP

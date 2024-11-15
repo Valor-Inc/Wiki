@@ -5,11 +5,11 @@ description: "The Mantle of Skuld"
 
 # Mantle of Skuld
 
-![mantle](https://i.imgur.com/qUnenkk.png)
+![mantle](https://cdn.discordapp.com/attachments/1187552567295758487/1191914461385195521/Mantle_of_Skuld.png?ex=65a72bd8&is=6594b6d8&hm=7a6b91e64de4d35ad18c117bbbb7a2a7eab56bca83f22dcb6b130ee3d5fb4fa9&)
 
 <i>With little need for conventional armor, Skuld prefers to empower her magic arts even further.</i>
 
-****Special: Any speedy buffs will convert to swiftness with all pieces equipped.****
+**Special: Any speedy buffs will convert to swiftness with all pieces equipped.**
 
     +100 Maximum HP
 

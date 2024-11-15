@@ -33,3 +33,6 @@ Fame Bonus: 8%
 ## Projectile
 
 ![The Bifierce Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170801850505756732/bifierce.gif?ex=6591bc31&is=657f4731&hm=1e9ed189bd095788b94693f58c9f0bf614c1ac59438d471973f18ad824a84d83&)
+
+# Recent Changes
+None.

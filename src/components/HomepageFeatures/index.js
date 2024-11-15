@@ -14,14 +14,14 @@ const FeatureList = [
     buttonLink: '/docs/category/items',
   },
   {
-    title: 'Valor Guides',
+    title: 'Valor Info',
     img: 'https://i.imgur.com/HKW5Kyw.png',
     description: (
       <>
         Valor has lots of custom mechanics and features. This section explores different areas of the game such as Custom Classes, Alerts, Custom Stats and much more. 
       </>
     ),
-    buttonLink: '/docs/category/valor-guides',
+    buttonLink: 'https://wiki.valorserver.com/docs/category/valor-info',
   },
   {
     title: 'Dungeons',

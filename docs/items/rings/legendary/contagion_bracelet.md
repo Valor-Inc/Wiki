@@ -10,7 +10,7 @@ Title: Contagion Bracelet
 
 <i>An aged bracelet forged to stop most of the incurable diseases from escaping the wastelands and into the realm.</i>
 
-*Full Set Bonus: Press spacebar to throw poison that appleis dazed, Weaken or Slowed Within 6sqrs for 4 seconds. (CD: 4s) Gain Immunity to Sick.*
+***Full Set Bonus: Press spacebar to throw poison that appleis dazed, Weaken or Slowed Within 6sqrs for 4 seconds. (CD: 4s) Gain Immunity to Sick.***
 
 **Contagious Body: You gain immunity to slowed**
 

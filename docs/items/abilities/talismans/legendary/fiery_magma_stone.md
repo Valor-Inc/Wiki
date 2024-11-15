@@ -16,6 +16,8 @@ import TabItem from '@theme/TabItem';
 
 <i>An ornate stone ward that serves as a dimensional prison for the vengeful elemental specter trapped within.</i>
 
+**Demonic Wrath: The minion will physically throw an AoE every 3s that burns enemies for 2400 damage per second and curses and for 3.5s with a 2s bosses, then nearest enemy to the minion.**
+
 **Spawns a ghost to aid you in combat.**
 
 Main Base Damage: 1100
@@ -24,13 +26,11 @@ Base Damage: 720
 
 Max Summons: 5
 
-Soul Cost: 50
+Soul Cost: 20
 
-Additional 45% Main Damage for 5 seconds
+Additional 45% Main Damage for 5s
 
-Effect on Enemy: Curse for 2 seconds
-
-    +15 Dexterity
+    +10 Dexterity
 
     +100 Maximum HP
 
@@ -51,6 +51,8 @@ Fame Bonus: 8%
 
 <i>A symbol of despair pulled from a forbidden realm, this cruel core is a reminder that no act of valor can fix the fact that no one will ever love you.</i>
 
+**Demonic Wrath: The minion will physically throw an AoE every 3s that burns enemies for 2400 damage per second and curses and for 3.5s with a 2s bosses, then nearest enemy to the minion.**
+
 **Spawns a ghost to aid you in combat.**
 
 Main Base Damage: 1100
@@ -59,13 +61,11 @@ Base Damage: 720
 
 Max Summons: 5
 
-Soul Cost: 50
+Soul Cost: 20
 
-Additional 45% Main Damage for 5 seconds
+Additional 45% Main Damage for 5s
 
-Effect on Enemy: Curse for 2 seconds
-
-    +15 Dexterity
+    +10 Dexterity
 
     +100 Maximum HP
 

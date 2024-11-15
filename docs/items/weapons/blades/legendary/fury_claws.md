@@ -37,3 +37,6 @@ Fame Bonus: 8%
 ## Projectile
 
 ![Fury Claws Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803426318368828/fury_claws.gif?ex=6591bda9&is=657f48a9&hm=3fe75ff72a6602095ff424685093d3630c9719628f6b09e60559fc425d82aab1&)
+
+# Recent Changes
+None.

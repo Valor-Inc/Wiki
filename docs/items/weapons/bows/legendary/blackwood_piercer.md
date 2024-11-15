@@ -29,3 +29,6 @@ Fame Bonus: 8%
 ## Projectile 
 
 ![Blackwood Piercer Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170813881690640526/blackwood.gif?ex=6591c766&is=657f5266&hm=6d74422821aa2df0d3f65b7e947f39efee818acf4b03fb3c65fa387e427e61e6&)
+
+# Recent Changes
+None.

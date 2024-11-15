@@ -33,3 +33,6 @@ Fame Bonus: 8%
 ## Projectile 
 NO PROJECTILE NOOB :). Just turn into a BLIND sniper
 ![lol](https://cdn.discordapp.com/attachments/953134990428868629/981330251932131349/hidden_power.gif)
+
+# Recent Changes
+None. 

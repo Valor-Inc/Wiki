@@ -24,14 +24,27 @@ Ignores defense of target
 
     +60 Maximum HP
 
-    -70 Maximum MP
-        
-    -5 Defense
-    
 Fame Bonus: 8%
 
 **Drops from Ulgur | Public Challenge**![ulgur](https://cdn.discordapp.com/attachments/1107378591026655272/1108664101594464256/triangle_3.png)
 
 ## Projectile
 
-![Urumi Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803383611969666/urumi.gif?ex=6591bd9f&is=657f489f&hm=03276a9e60c2111579ca2e553e8557e9b0d67adb241358b71f70b26b0e1af3f6&)https://cdn.discordapp.co
+![Urumi Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803383611969666/urumi.gif?ex=6591bd9f&is=657f489f&hm=03276a9e60c2111579ca2e553e8557e9b0d67adb241358b71f70b26b0e1af3f6&)
+
+# Recent Changes
+
+<details>
+  <summary>6.1.0</summary>
+  <div>
+
+    No longer reduces MP or defense.
+
+    Speed from 194 to 200
+
+    Lifetime from 237 to 245
+
+    Arc gap from 7 to 5
+
+  </div>
+</details> 

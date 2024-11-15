@@ -8,7 +8,7 @@ sidebar_position: 7
 
 <i>This enhanced mechanism allows this futuristic device to compress substances into volatile capsules for later use, to lethal effect.</i>
 
-**Cryospawn: Hitting an enemy has a 3% chance to weaken or daze in a 3sqr radius.**
+**Cryospawn: Hitting an enemy has a 8% chance to weaken or daze in a 4.5sqr radius.**
 
 Damage: 240-450
 
@@ -18,7 +18,7 @@ Rate of Fire: 145%
 
 Range: 8.2 
 
-Shots pass through obstacles
+Ignores defense of target
 
      +8 Defense
 
@@ -29,3 +29,23 @@ Fame Bonus: 8%
 ## Projectile
 
 ![Encapsulator Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170814626208960512/encapsulator.gif?ex=6591c817&is=657f5317&hm=dc6a16b623580785c9e95fc432b345d6bc76aaef7289c0c67b60356a7340d1d2&)
+    
+# Recent Changes
+
+<details>
+  <summary>6.1.0</summary>
+  <div>
+      
+
+    Projectile speed raised significantly
+
+    Ignores defense of target
+
+    Passive chance 3% -> 8%
+
+    passive radius 3 -> 4.5 sqr
+
+    Shots no longer pierce obstackles
+
+  </div>
+</details>

@@ -9,15 +9,21 @@ description: "The Devil Dice"
 
 <i>Gamblin' with the devil.</i>
 
-Grants either **Bravery, Armored or Berserk** for 4 seconds
+**Gambler's Contract: 5% chance on ability use to become a devil, gaining 25 attack for 6 seconds. During this form, however, you start to bleed and your life leech is disabled.**
 
-Effect on Self: Surged for 3.5 seconds
+Grants either **Bravery, Armored or Berserk** for 4s
 
-MP Cost: 80
+Effect on Self: Surged for 3.5s
 
-    +150 Luck
+MP Cost: 100
+
+HP Cost: 10
+
+    +100 Luck
     
-    +50 Might
+    +20 Might
+
+    -40 Maximum HP
 
 Fame Bonus: 8%
 

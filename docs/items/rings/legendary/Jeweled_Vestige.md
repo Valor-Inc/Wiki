@@ -14,7 +14,7 @@ title: Jeweled Vestige
 
  **Vehement Rage: Debuffs that affects damage last for 0.75x the normal length.**
 
-  +160 Maximum HP
+    +160 Maximum HP
 
     +7 Attack
 

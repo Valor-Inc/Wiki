@@ -9,24 +9,21 @@ description: "The Horrific Limb"
 
 <i>Cut off during a fierce battle, it now empowers you to achieve the ferocity of the beast within.</i>
 
-Poison Grenade: Within 4 sqrs After  seconds 900 immediately + 750 over 5.5 seconds
+**IT'S ALIVE!: Spawn tentacles around your banner that shoots nerby enemies. Tentacles will primarily spawn near walls or non-walkable tiles.(Max 3 tentacles)**
 
-Effect on Self: Invulnerable for .75 seconds
+Effect on Self: Damaging for 3s
 
-Effect on Self: Damaging for 3 seconds
+Effect on Self: Bravery for 3s
 
-Banner: Throw a Banner at your cursor. Stays active for 5 seconds|Within 5 squares empower your allies for 5 seconds
+Banner: Throw a Banner at your cursor. Stays active for 5 seconds. Within 5 squares, empower your allies for 5 seconds.
 
-Recast: Charge towards your banner and do 2250 damage
+Recast: **Charge towards your banner. While charging, -65% damage taken. Deal 3537 damage.**
 
-MP Cost: 110
+MP Cost: 100
 
-
-    +15 Luck
+    +35 Luck
     
-    +15 Might
-    
-    -150 Maximum HP
+    +25 Might
 
 Fame Bonus: 8%
 

@@ -15,9 +15,9 @@ import TabItem from '@theme/TabItem';
 Installation Video: 
 ![https://cdn.discordapp.com/attachments/943955292645916702/1085439558096781372/ValorInstallGuide.gif](https://cdn.discordapp.com/attachments/943955292645916702/1085439558096781372/ValorInstallGuide.gif)
     
-## **WITH AUTO-UPDATER**
+## **WITH LAUNCHER**
 
-- Download the Client from [here](https://api.valorserver.com/api/launcher).
+- Download the Launcher from [here](https://api.valorserver.com/api/launcher).
     
 - Extract ALL files into a folder.
     
@@ -43,13 +43,20 @@ Installation Video:
 
 ## **Common Problems**
 
-**Valor's Auto updater might trigger Anti-Viruses because it remotely fetches our valor.zip and unpacks it. If this is a problem, you may update manually.**
+**Valor's Auto updater might trigger Anti-Viruses because it remotely fetches our valor.zip and unpacks it. If this is a problem, you may download the individual client and update manually.**
     
- - Some anti-viruses claim it as a false positive due to it not being signed, try disabling your AV if it doesn't work. You can check the code or just run it Sandboxie if you really want to.
+ - Some anti-viruses claim the game as a false positive due to it not being signed, try disabling your AV if it doesn't work. You can check the code or just run it in Sandboxie if you really want to.
 
- - If you're getting a black screen (pure black, no 'loading...') install Visual C++ from [Here 32 bit](https://aka.ms/vs/16/release/vc_redist.x86.exe) or [Here 64 bit](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+ - If you're getting a black screen (pure black, no 'loading...', no character running in the middle of your screen) install the specific version of Visual C++ from [here (32 bit)](https://aka.ms/vs/16/release/vc_redist.x86.exe) or [here (64 bit)](https://aka.ms/vs/16/release/vc_redist.x64.exe). If you don't know which one to install, just download and install the 64 bit one.
     
  - If you have registered but cannot connect to the nexus make sure you have selected a username. This is done via the "Play" Menu.
+
+ - If you're getting a black screen with a running character in the middle of it after clicking "Play", then your IP/ISP (internet service provider) are potentially banned from our game, as we have to block a lot of IP addresses due to DDoS attempts. To circumvent this issue, you can either open an account ticket, and ask for assistance using this error as a starting point (giving your ipv4 address from [this website](https://whatismyip.com/), or try to play using a VPN. If it works with a VPN, this issue is the right issue and you need to make a ticket in the discord to solve it.
+
+ - If you're getting an error such as 'error 2031', then the issue is virtually the same as the one above. Please try using a VPN to verify the issue, and if you can connect to nexus on a VPN, please open a ticket to try to get your ip address unbanned (give the moderators your ipv4 address from [this website](https://whatismyip.com/) to save time).
+
+ - If you can connect to nexus, but your game area is grey and you can see the right side-bar where your minimap is, and nothing is loading, then this usually means that your client is outdated and you're missing a texture, causing the nexus to not load correctly. Please read above how to update your client.
+    - If you get this issue and you used to be able to connect, and you are on an old computer (32 bit version of windows), then you need to go to Valor client folder -> META-INF -> AIR ->  Application.xml -> edit in notepad/wordpad -> Remove whole line "<architecture>64</architecture>". This will load the client as a 32 bit client instead of 64 bit, and may solve your problem.
 
  - Want to hide taskbar on windows? (find the display setting: automatically hide taskbar while in desktop mode).
     
@@ -59,10 +66,10 @@ Installation Video:
     Go to www.amd.com/en/support and to find your graphics card FINDING the right one is important after they have done so click submit, find your version of windows, and download a driver of 226 or earlier
     Once downloaded open it up, and install it will downgrade your drivers to a previous version that works with Valor Anytime you wish to upgrade just update how you usually do it.*
 
- - Having problems connecting to anything in-game? Follow the following steps: Have Valor open, Open Task Manager and choose the button that says Details, Scroll Down until you see Valor.exe, Right Click Valor.exe and hover over Set Priority, Set it to High.
+ - Having problems connecting to anything in-game or some performance issues, but tried everything? Follow the following steps: Have Valor open, Open Task Manager and choose the button that says Details, Scroll Down until you see Valor.exe, Right Click Valor.exe and hover over Set Priority, Set it to High.
     ![image](https://user-images.githubusercontent.com/114798136/202323000-aa6a6e4c-2781-4ddb-ab2b-c07f0adfb90b.png)
 
- - If the above doesnt work you may need to delete your cache by: Windows + R, type in %appdata%, clear anything connected to "Valor", run auto updater from https://api.valorserver.com/api/launcher and play.
+ - If the above doesnt work you may need to delete your cache by: Windows + R, type in %appdata%, clear anything connected to "Valor", run the launcher from https://api.valorserver.com/api/launcher and play.
 
 ## **Mac and Linux Support**
 

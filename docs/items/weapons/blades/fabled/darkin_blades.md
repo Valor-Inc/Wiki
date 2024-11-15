@@ -25,3 +25,6 @@ Fame Bonus: 6%
 ## Projectile
 
 ![Darkin Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170800284285554748/darkinblades.gif?ex=6591babc&is=657f45bc&hm=18134a573fcb85d8e118cf3a2096356113ea5e05be551f469c95a01ebbd99df6&)
+
+# Recent Changes
+None. 

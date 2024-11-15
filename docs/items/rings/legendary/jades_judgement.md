@@ -16,11 +16,13 @@ import TabItem from '@theme/TabItem';
 
 <i>A gigantic bracelet worn by Jade. Wearing this gives you comprehension to unknown energies. Thanks to: Png</i>
 
-    +300 Maximum MP
+**Judgement: Reapply a protion of mana spent on ability cast as abeam damage spawning from a random position (at most 4 tiles from the target enemy) toward the target enemy.**
+
+    +100 Maximum MP
     
-    +15 Dexterity
+    +10 Dexterity
     
-    +15 Speed
+    +40 Luck
     
     +2 Mana Leech
     
@@ -37,11 +39,13 @@ Fame Bonus: 8%
 
 <i>Embrace the bitter. Hiding isn't the answer. Falsehoods all erased.</i>
 
-    +300 Maximum MP
+**Judgement: Reapply a protion of mana spent on ability cast as abeam damage spawning from a random position (at most 4 tiles from the target enemy) toward the target enemy.**
+
+    +100 Maximum MP
     
-    +15 Dexterity
+    +10 Dexterity
     
-    +15 Speed
+    +40 Luck
     
     +2 Mana Leech
     

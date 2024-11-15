@@ -9,16 +9,18 @@ description: "The Starmind Gauntlet"
 
 <i>A gauntlet that empowers the power of your thoughts and lends you the power of the celestial gods.</i>
 
-    +200 Protection
+**Undermind: On ability use if you have over 20 surge you'll activate a blast around you that inflicts weak within 6 sqrs for 2.5 seconds**
+
+    +150 Maximum MP
+
+    +100 Protection
     
-    -60 Maximum HP
+    -50 Maximum HP
     
     +35 Wisdom
     
-    +5 Mana Leech
+    +4 Mana Leech
     
 Fame Bonus: 8%
-
-***Undermind: If you have 20 surge you activate a blast around you that inflicts weak within 4 sqrs for 2.5 seconds***
 
 **Drops from Chronus, the Guide of the Fallen Light raid**

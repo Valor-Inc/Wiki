@@ -9,6 +9,8 @@ description: "The Master Of The House"
 
 <i>The eternal/ephemeral keepsake of a master sourceweaver/soulreaver, said to be blessed/cursed by auratic concepts well-known/unkown.</i>
 
+**Resonance: You feel an uncanny consumptive alignment with the Concepts. 50% chance to refund MP equal to ability cost and inflict Despair for 1s on ability use.**
+
     +200 Maximum HP
     
     +280 Maximum MP
@@ -16,7 +18,5 @@ description: "The Master Of The House"
     +40 Wisdom
 
 Fame Bonus: 8%
-
-***Resonance: You feel an uncanny consumptive alignment with the Concepts. 50% chance to refund MP equal to ability cost and inflict Despair for 1s on ability use.***
 
 **Drops from Phalgomor, the Myth-a-Weave**

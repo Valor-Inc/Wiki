@@ -49,6 +49,9 @@ import TabItem from '@theme/TabItem';
 
 **This item is unable to break don't worry about the description in game**
 
+![Craft](https://cdn.discordapp.com/attachments/732139834876887100/1194766124575887401/Elemental_Sor.gif?ex=65b18ba9&is=659f16a9&hm=aacba6fad9a0295f809b0fa76d83c891534ba14498cfd9345f78ecfa640d7653&)
+
+# You Cannot Use Blank Ancient Runes to Craft Esor.
 
   </TabItem>
 </Tabs>

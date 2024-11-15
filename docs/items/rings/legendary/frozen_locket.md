@@ -10,7 +10,7 @@ title: Frozen Locket
 
 <i>Buried deep under the ice and snow are those who came before you, a memory of their efforts is all that remain.</i>
 
-*Full Set Bonus: On offensive stance, Deal 10% more damage to slowed enemies. On defensive stance, Take 30% less damage from slowed enemies.*
+***Full Set Bonus: On offensive stance, Deal 10% more damage to slowed enemies. On defensive stance, Take 30% less damage from slowed enemies.***
 
 **Cold Blooded: Any Slowed debuffs are 33% less effective and last for 25% less duration.**
 

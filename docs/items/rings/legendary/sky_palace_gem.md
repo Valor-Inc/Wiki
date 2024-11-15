@@ -1,6 +1,7 @@
 ---
 sidebar_position: 23
 description: "The Sky Palace Gem"
+Title: "The Sky Palace Gem"
 ---
 
 # Sky Palace Gem
@@ -9,15 +10,17 @@ description: "The Sky Palace Gem"
 
 <i>A hypnotizing trinket of ephemeral renown, known for its ability to draw power from the everwinds that twist vibrantly within its pale peridot.</i>
 
-    +80 Maximum MP 
+**Mana Tactician: Every critical hit amplifies the mana leeched by a portion of the critical multiplier.**
+
+    +120 Maximum MP 
     
-    +12 Wisdom
+    +15 Wisdom
     
-    +40 Luck
+    +35 Luck
     
-    +10 Speed
+    +8 Dexterity
     
-    +4 Mana Leech
+    +2 Mana Leech
     
 Fame Bonus: 8%
 

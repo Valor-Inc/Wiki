@@ -9,13 +9,13 @@ description: "The Fused Ring"
 
 <i>A ring bound together by the elements. It is impossible to break such a bond, as the Twilight Archmage's power also resides within the ring.</i>
 
-    +125 Maximum HP
+    +100 Maximum HP
     
-    +125 Maximum MP
+    +100 Maximum MP
     
-    +24 Vitality
+    +12 Vitality
     
-    +24 Wisdom
+    +12 Wisdom
     
     +2 Mana Leech
     

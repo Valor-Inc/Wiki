@@ -9,17 +9,19 @@ description: "The Stormcaller's Horns"
 
 <i>The sky will split and shatter, like prisms of light landing on a bygone land.</i>
 
-    +40 Maximum HP
+**Thunderclap: All of your shots have a 5% chance to Paralyze enemies for 2.5s. Paralyzed enemies take 6% more damage.
+
+    +120 Maximum HP
     
-    +50 Maximum Mp
+    +50 Maximum MP
     
     +10 Attack
     
     +10 Wisdom
     
-    +5 Might
+    +15 Might
     
-    +2 Mana Leech
+    +1 Mana Leech
     
 Fame Bonus: 8%
 

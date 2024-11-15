@@ -1,23 +1,24 @@
 ---
 sidebar_position: 12
-description: "The Zol Jewel"
+description: "Zol Jewel"
+Title: "Zol Jewel"
 ---
 
 # Zol Jewel
 
-![ZolJ](https://vwiki.valorserver.com/api/item/picture/zol%20jewel)
+![ZolJ](https://cdn.discordapp.com/attachments/1188575351639654461/1193155748021162084/Zol_Jewel.png?ex=65abafe2&is=65993ae2&hm=1f268a44bb94ba52e34dfdebbebe890c313e1f8df4509191637f482f01e2d2fb&)
 
 <i>A ring fit for a captain.</i>
 
-    +10 Attack
+    +4 Attack
     
-    +10 Dexterity
+    +4 Dexterity
     
     +10 Defense
     
     +4 Fortune
     
-    +2 Life Steal
+    +1 Life Steal
     
 Fame Bonus: 8%
 

@@ -9,11 +9,11 @@ description: "The Hunter Necklace"
 
 <i>A necklace that improves your skills to hunt and kill monsters.</i>
 
-    +10 Attack
+    +8 Attack
     
-    +4 Speed
+    +8 Speed
     
-    +3 Life Steal
+    +2 Life Steal
     
 Fame Bonus: No Fame Bonus
 

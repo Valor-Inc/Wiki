@@ -28,6 +28,8 @@ Fame Bonus: 6%
 
 **Drops from Merganus, the Fallen Titan of the Fallen Light raid** ![Merganus](https://github.com/Valor-Inc/Wiki/assets/116240675/11295cbd-dcf2-4e4d-abc0-3876cfa9b4b4)
 
+# Recent Changes
+None. 
 ## Projectile
 
 ![HolyRipper Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170800366766530621/holyripper.gif?ex=6591bacf&is=657f45cf&hm=c5c631e782e506585657530da4e249f9610ecc35156af011bbff5543bf2dfaf6&)

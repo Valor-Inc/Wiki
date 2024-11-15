@@ -26,3 +26,7 @@ Fame Bonus: 8%
 
 ## Projectile
 ![Decimator Bow Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170813921926578246/decimator.gif?ex=6591c76f&is=657f526f&hm=98060587a28932549cc7db33f4a8b169adec266d0b4385bfb97faf0bc3e8778a&)
+
+    
+# Recent Changes
+None.

@@ -16,13 +16,15 @@ import TabItem from '@theme/TabItem';
 
 <i>A gigantic bracelet worn by Garnet. Wearing this makes you feel like you can strike down anything. Thanks to: Png</i>
 
+**Onslaught: Reapply 10% damage from critical atacks as a beam spawning from a random position (at most 4 tiles from the target enemy) towards the target enemy.**
+
     +150 Maximum HP
    
     +10 Attack
     
-    +10 Defense
+    -20 Luck
     
-    +35 Might
+    +45 Might
     
 Fame Bonus: 8%
 
@@ -37,15 +39,18 @@ Fame Bonus: 8%
 
 <i>Goes down easily. Oh needless pain, needless pain. There are no truths here.</i>
 
+**Onslaught: Reapply 10% damage from critical atacks as a beam spawning from a random position (at most 4 tiles from the target enemy) towards the target enemy.**
+
     +150 Maximum HP
    
     +10 Attack
     
-    +10 Defense
+    -20 Luck
     
-    +35 Might
+    +45 Might
     
 Fame Bonus: 8%
+
 
 *This is a Limited Edition item or consumables. These include a reskin, glow and special color.*
 

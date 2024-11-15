@@ -9,9 +9,13 @@ description: "The Bracelet of the Demolished"
 
 <i>Utter destruction will follow your path. Unstoppable.</i>
 
-    +15 Attack
+**Unstoppable: You deal 25% more damage above 90% HP.**
+
+    +12 Attack
     
-    +10 Dexterity
+    +12 Dexterity
+
+    -10 Defense
     
 Fame Bonus: 8%
 

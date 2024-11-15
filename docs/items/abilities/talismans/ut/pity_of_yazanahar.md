@@ -24,19 +24,19 @@ Base Damage: 500
 
 Max Summons: 2
 
-Soul Cost: 30
+Soul Cost: 15
 
-Additional 30% Main Damage for 5 seconds
+Additional 30% Main Damage for 5s
 
-Effect on Enemy: Bleeding for 2 seconds
+Effect on Enemy: Bleeding for 2s
 
-Effect on Self: Damaging for 3 seconds
+Effect on Self: Damaging for 3s
 
-    +15 Attack
+    +8 Attack
 
     -5 Defense
 
-    -75 Maximum HP
+    -50 Maximum HP
 
 MP Cost: 85
 
@@ -63,19 +63,19 @@ Base Damage: 500
 
 Max Summons: 2
 
-Soul Cost: 30
+Soul Cost: 15
 
-Additional 30% Main Damage for 5 seconds
+Additional 30% Main Damage for 5s
 
-Effect on Enemy: Bleeding for 2 seconds
-    
-Effect on Self: Damaging for 3 seconds
+Effect on Enemy: Bleeding for 2s
 
-    +15 Attack
+Effect on Self: Damaging for 3s
+
+    +8 Attack
 
     -5 Defense
 
-    -75 Maximum HP
+    -50 Maximum HP
 
 MP Cost: 85
 

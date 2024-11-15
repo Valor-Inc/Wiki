@@ -9,13 +9,11 @@ description: "The Ring of Sorrow"
 
 <i>At the first sight of war the King had his finest sorcerers empower his jewellery, the dark magic inside is what led to his demise.</i>
 
-    +12 Attack
+    +6 Attack
     
-    +12 Dexterity
+    +6 Dexterity
     
-    +45 Protection
-    
-    +60 Restoration
+    -10 Protection
     
     -4 Vitality
     

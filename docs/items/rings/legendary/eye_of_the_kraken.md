@@ -13,6 +13,8 @@ import TabItem from '@theme/TabItem';
 
 <i>The unsettling trophy of victory against an abominable foe from the depths. It squirms snugly into the palm of your hand. Yuck.</i>
 
+***Full Set Bonus: if your protection shield is at least half, increase your crit stat by 15%. Your max protection shield is halved***
+
 **Unfathomable Deep: While on a liquid, you receive +2 luck and might (max 40) and -1 Speed (Max 25) every 0.4 seconds. Moving out of the liquid will gradually return the stats to normal (0.4 seconds for every stat gained).**
 
 
@@ -23,7 +25,6 @@ import TabItem from '@theme/TabItem';
     +20 Might
     
 Fame Bonus: 8%
-
 
 
 **Drops from the Kraken | Alert** 

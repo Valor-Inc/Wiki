@@ -16,9 +16,11 @@ import TabItem from '@theme/TabItem';
 
 <i>Cha-ching.</i>
 
-    +250 Luck
+**Luck Break: This item can be charged by crafting it with a legendary sor crystal. While equipped and charged, gain another 7 fortune. This charge lasts for 120 minutes.**
+
+    +175 Luck
     
-    +10 Fortune
+    +5 (+7 if fully charged) Fortune
     
 Fame Bonus: 8%
 
@@ -33,9 +35,11 @@ Fame Bonus: 8%
 
 <i>Money in the bank.. Or so you thought? APRIL FOOLS!</i>
 
-    +250 Luck
+**Luck Break: This item can be charged by crafting it with a legendary sor crystal. While equipped and charged, gain another 7 fortune. This charge lasts for 120 minutes.**
+
+    +175 Luck
     
-    +10 Fortune
+    +5 (+7 if fully charged) Fortune
     
 Fame Bonus: 8%
 

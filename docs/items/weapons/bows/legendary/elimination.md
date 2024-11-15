@@ -25,3 +25,6 @@ Fame Bonus: 8%
 ## Projectile
 
 ![Elimination Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187706724837236827/normal_ar_blade.gif?ex=6597dd15&is=65856815&hm=2c0ca6f70582a783a7349b43cd5672ba9fe8d094f8b45bbdc9d68e56e55e6b05&)
+    
+# Recent Changes
+None.
