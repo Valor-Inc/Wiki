@@ -10,7 +10,6 @@ description: "Explanation of Valors Refunds"
 We strive to provide the best possible gaming experience and offer our refund system as a courtesy to support players who encounter genuine technical issues or server-related problems. While we carefully review each request, please understand that refunds are provided at our discretion to ensure fair play and server stability.
 
 ## General Guidelines
-- Active refund tickets must not be discussed publicly. Sharing refundable clips before a ticket is concluded may result in automatic denial.
 - Each refund request is reviewed individually. References to other tickets or circumstances will not be considered.
 - The final decision on all refunds lies with the moderation team.
 - In exceptional circumstances, cases that fall outside these guidelines may be reviewed by multiple moderators for special consideration. However, this is extremely rare and should not be expected.
@@ -65,6 +64,8 @@ We strive to provide the best possible gaming experience and offer our refund sy
 - Harassment of moderators will result in punishment
 - Lies or misleading statements result in permanent bans
 - Creating alternate accounts to avoid punishment is forbidden
+- Harassing other players about refunds, sharing clips solely to create drama, or causing community disputes over refund decisions may result in permanent loss of refund privileges
 - All moderator decisions are final
+
 
 For recording guidelines, visit: https://blog.valorserver.com/game-recording/
