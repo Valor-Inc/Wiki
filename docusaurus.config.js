@@ -64,18 +64,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'category/valor-info',  // Remove leading slash
-            position: 'left',
-            label: 'Info',
-          },
-          {
-            type: 'doc',
-            docId: 'category/policy',      // Lowercase and remove leading slash
-            position: 'left',
-            label: 'Policy',
-          },
-          {
             to: 'https://blog.valorserver.com',
             label: 'Patchnotes',
             position: 'left'
