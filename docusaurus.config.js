@@ -14,15 +14,9 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://i.imgur.com/HKW5Kyw.png',
   
-  
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Valor', // Usually your GitHub org/user name.
-  projectName: 'Wiki', // Usually your repo name.
+  organizationName: 'Valor',
+  projectName: 'Wiki',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -33,7 +27,6 @@ const config = {
       {
         hashed: true,
         language: ["en"],
-        //we dont use the blog feature
         indexBlog: false,
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
@@ -47,12 +40,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Valor-Inc/Wiki/blob/main',
+          editUrl: 'https://github.com/Valor-Inc/Wiki/blob/main',
         },
-
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -62,11 +51,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-    colorMode: {
-      defaultMode: 'dark',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-    },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'Valor',
         logo: {
@@ -76,19 +65,31 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/category/valor-info',
+            docId: 'category/valor-info',  // Remove leading slash
             position: 'left',
             label: 'Info',
           },
           {
             type: 'doc',
-            docId: '/category/Policy',
+            docId: 'category/policy',      // Lowercase and remove leading slash
             position: 'left',
             label: 'Policy',
           },
-          {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
-          {to: 'https://wiki.valorserver.com/docs/info/contributing_to_the_wiki', label: 'Bug Reports and Suggestions', position: 'left'},
-          {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
+          {
+            to: 'https://blog.valorserver.com',
+            label: 'Patchnotes',
+            position: 'left'
+          },
+          {
+            to: '/docs/info/contributing_to_the_wiki',  // Add leading /docs/
+            label: 'Bug Reports and Suggestions',
+            position: 'left'
+          },
+          {
+            to: 'https://valorserver.com/ranks',
+            label: 'Donate',
+            position: 'left'
+          },
           {
             href: 'https://github.com/Valor-inc/Wiki',
             label: 'GitHub',
@@ -125,7 +126,6 @@ const config = {
               },
             ],
           },
-  
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Valor.`,
       },
