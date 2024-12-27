@@ -86,7 +86,6 @@ const config = {
             position: 'left',
             label: 'Policy',
           },
-          {to: 'https://wiki.valorserver.com/docs/category/showcase-testing', label: 'Item Viewer', position: 'left'},
           {to: 'https://blog.valorserver.com', label: 'Patchnotes', position: 'left'},
           {to: 'https://wiki.valorserver.com/docs/info/contributing_to_the_wiki', label: 'Bug Reports and Suggestions', position: 'left'},
           {to: 'https://valorserver.com/ranks', label: 'Donate', position: 'left'},
