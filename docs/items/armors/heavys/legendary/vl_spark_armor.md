@@ -9,20 +9,15 @@ description: "V-L Spark Armor"
 
 <i>A finalised armor piece, maybe this time it'll be less bulky?</i>
 
-**Intermediate Alien Tech: Gain 7 effective fortune for the following items while equipped: Ultimate Onrane Cache, Onrane Cache, Onrane, Realm Protector Rewards, ALL Sor related drops.**
+**Intermediate Alien Tech: You have a 15% higher chance of obtaining [Ultimate Onrane Cache, Onrane Cache, Onrane, Realm Protector Rewards, ALL Sor related drops] while wearing this armor.**
 
     +100 Maximum HP
     
-    +25 Defense
+    +24 Defense
     
-    +8 Attack
-    
-    +12 Speed
-    
-    +5 Fortune
+    +9 Attack
     
     +1 Life Steal
-    
-Fame Bonus: 8%
 
+    
 **Upgraded form of [V-X Spark Armor](https://wiki.valorserver.com/docs/items/armors/heavys/ut/vx_spark_armor)**
