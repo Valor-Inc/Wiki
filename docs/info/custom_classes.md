@@ -28,7 +28,7 @@ import TabItem from '@theme/TabItem';
 ## **Rogue**
 *The rogue relies on his speed to deal damage at medium range while avoiding attacks.*
 
-![Rogue](https://cdn.discordapp.com/attachments/1187552567295758487/1193525763421519983/Rogue_1.png?ex=65ad087c&is=659a937c&hm=ece8f8166540d5c3df56f929fc7f12a3f8e36413894f0fbc39931c94c5d3aeb1&)
+![roigue](https://github.com/user-attachments/assets/1a604a8c-23da-49f4-94ea-7ae2cb4fd8a2)
 
 # Informations about the class
 
@@ -111,7 +111,7 @@ import TabItem from '@theme/TabItem';
 - **Skilltree**
  - <i>This Build require you to have lv. 100. But you can just copy it one by one.</i>
 
-![Archer](https://cdn.discordapp.com/attachments/1084581982480105522/1193311089493037237/image.png?ex=65ac408e&is=6599cb8e&hm=c7470033cecab48d5da855b667b59608dc5cf84c9a5c7a8dc746b0513b22dbc0&)
+![RogueTree](https://cdn.discordapp.com/attachments/1084581982480105522/1193311089493037237/image.png?ex=65ac408e&is=6599cb8e&hm=c7470033cecab48d5da855b667b59608dc5cf84c9a5c7a8dc746b0513b22dbc0&)
 
 
   </TabItem>
@@ -120,7 +120,7 @@ import TabItem from '@theme/TabItem';
 ## **Archer**
 *The archer has a long-range attack and can acquire very powerful weapons.*
 
-![Archer](https://cdn.discordapp.com/attachments/1187552567295758487/1193527417621463132/Archer.png?ex=65ad0a07&is=659a9507&hm=67b8f687f438bdb12745c59d9c614c33443a409796d4dd8e1ed72b2666cdb787&)
+![archer](https://github.com/user-attachments/assets/d80a5ce5-156e-4569-bc41-b66e60470839)
 
 # Informations about the class
 
@@ -214,7 +214,7 @@ import TabItem from '@theme/TabItem';
 ## **Wizard**
 *The wizard deals damage from a long distance and blasts enemies with powerful spells.*
 
-![Wizard](https://cdn.discordapp.com/attachments/1187552567295758487/1193532395882815549/Wizard.png?ex=65ad0ea9&is=659a99a9&hm=a7c0c9467c1c69b0ffbb70205f6144e8b5809da1148cfbd176c536bd0fe12e45&)
+![Screenshot 2024-12-27 160159](https://github.com/user-attachments/assets/d2f94c98-2af6-427e-b784-eddbbeb46bab)
 
 # Informations about the class
 
@@ -309,7 +309,7 @@ import TabItem from '@theme/TabItem';
 ## **Priest**
 *The priest attacks at long range and can heal himself and his allies.*
 
-![Priest](https://cdn.discordapp.com/attachments/1187552567295758487/1193586023737860106/Priest.png?ex=65ad409b&is=659acb9b&hm=962f532d88fe01fffeb6e64b8a6b2139ea61404f8d13c239bc8b4b2410d1f3f2&)
+![Screenshot 2024-12-27 160213](https://github.com/user-attachments/assets/337f4503-64d1-4667-b852-32d95d5c070d)
 
 # Informations about the class
 
@@ -403,7 +403,7 @@ import TabItem from '@theme/TabItem';
 *The warrior wears strong armor and uses his magic helmet to inspire his allies in battle.*
 
 
-![Warrior](https://cdn.discordapp.com/attachments/1187552567295758487/1193648191602688121/Warrior.png?ex=65ad7a81&is=659b0581&hm=94a834cebdf5b6061c12ce065d3e82d5dec9c1b0b611b4ab860fa24f659a3f7f&)
+![Screenshot 2024-12-27 160217](https://github.com/user-attachments/assets/e6198f01-56d5-4635-8d7b-20d93f518ae2)
 
 # Informations about the class
 
@@ -502,7 +502,8 @@ import TabItem from '@theme/TabItem';
 *The Knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.*
 
 
-![Knight](https://cdn.discordapp.com/attachments/1187552567295758487/1193648598697660596/Knight.png?ex=65ad7ae2&is=659b05e2&hm=1bbd7add7c578a010ab91ad5114d99aea4de7d72c3a8c761f6511c1a34d75391&)
+![Screenshot 2024-12-27 160221](https://github.com/user-attachments/assets/b7c82eda-ad66-4094-980d-5af63527acf8)
+
 
 # Informations about the class
 
@@ -598,13 +599,14 @@ import TabItem from '@theme/TabItem';
 *The paladin can deal damage at close range, wear armor and heal himself and his allies.*
 
 
-![Paladin](https://cdn.discordapp.com/attachments/1187552567295758487/1193648613612597278/Paladin.png?ex=65ad7ae6&is=659b05e6&hm=489782c5b02ecba68f8571530e57acfe123e893de711df3b606c45bc08aafba0&)
+![Screenshot 2024-12-27 160226](https://github.com/user-attachments/assets/934e2671-9bbe-4185-9ae4-b809c591b2a4)
+
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The Paladin uses the seal to heal & buff itself and others**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The paladin can deal damage at a close range, wear armor, and heal himself and his allies**
   
 # Weapon / Ability / Armor
 
@@ -696,13 +698,13 @@ import TabItem from '@theme/TabItem';
 ## **Assassin**
 *The assassin fights from medium range and uses poison to damage his enemies over time.*
 
-![Assassin](https://cdn.discordapp.com/attachments/1187552567295758487/1193648459492905122/Assassin.png?ex=65ad7ac1&is=659b05c1&hm=ffa0124fe3d102d76bb16cd7366b8723327a15ed6dae90a61975587fe628b22c&)
+![Screenshot 2024-12-27 160230](https://github.com/user-attachments/assets/3d52ad39-eb08-42b3-ab8d-e80e7fac5b2a)
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The assassin can damage enemies from range and clear groups using the poison**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **Usually used to clear or damage enemies/bosses from safe range with minimal risk**
   
 # Weapon / Ability / Armor
 
@@ -794,13 +796,14 @@ import TabItem from '@theme/TabItem';
 ## **Necromancer**
 *The necromancer drains life from his enemies to heal himself and his allies.*
 
-![Necromancer](https://cdn.discordapp.com/attachments/1187552567295758487/1193649060444385352/Necromancer.png?ex=65ad7b50&is=659b0650&hm=02562789f0e3f0eea109d88113c2c8e518862adc0fac5218657e4ccf14656604&)
+![Screenshot 2024-12-27 160234](https://github.com/user-attachments/assets/0e0cc2d2-b004-4929-9b62-537ff4e525b6)
+
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The skull is used to heal the necromancer/allies, not usually for damage**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The necromancer uses staves and robes, and so is squishier but can play from a long range, while having its own source of healing**
   
 # Weapon / Ability / Armor
 
@@ -891,13 +894,14 @@ import TabItem from '@theme/TabItem';
 ## **Huntress**
 *The huntress uses arrows and traps to defeat her enemies.*
 
-![Huntress](https://cdn.discordapp.com/attachments/1187552567295758487/1193649060247257128/Huntress.png?ex=65ad7b50&is=659b0650&hm=580931a851b59dbe9f69e258c38b1c6cbd044d3361f7a3b20872779456525cd5&)
+
+![Screenshot 2024-12-27 160238](https://github.com/user-attachments/assets/f8180a28-e966-4f20-a1e6-3c75c1d93f2f)
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The huntress uses its traps as a source of buffs and debuffs, helping themselves and the group**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The huntress plays similarly to the archer, attacking at long range using the bow while using its ability to buff itself and debuff enemies.**
   
 # Weapon / Ability / Armor
 
@@ -989,13 +993,14 @@ import TabItem from '@theme/TabItem';
 ## **Mystic**
 *The mystic fights with a staff and uses her crystal orb to bind enemies to a distant plane.*
 
-![Mystic](https://cdn.discordapp.com/attachments/1187552567295758487/1193649060041740358/Mystic.png?ex=65ad7b50&is=659b0650&hm=7f935fbb83100b3d431c5105e91bd6de70fa9fac4c044972c4240d06e88c717d&)
+
+![Screenshot 2024-12-27 160241](https://github.com/user-attachments/assets/c1b7bfc1-64f7-4f35-acd6-81c3cb262018)
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The orb can be used to crowd control enemies, and as a source of buffs and debuffs**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The Mystic plays from range, dealing damage with its staff while using its orb to debuff enemies and buff itself**
   
 # Weapon / Ability / Armor
 
@@ -1087,13 +1092,14 @@ import TabItem from '@theme/TabItem';
 ## **Trickster**
 *The trickster fights with a dagger while using her magical prism to distract enemies.*
 
-![Trickster](https://cdn.discordapp.com/attachments/1187552567295758487/1193649059794268230/Trickster.png?ex=65ad7b50&is=659b0650&hm=65616289166641d7b375fd88459a7c0663d69cf38eb9f8faceb7341e8bb20ff4&)
+![Screenshot 2024-12-27 160246](https://github.com/user-attachments/assets/08998c41-0cf6-45be-a800-614baff19236)
+
 
 # Informations about the class
 
-- The Ability: **The Wizard uses his Spell to deal a high ammount of damage. It's very good for hitting threshold or chunk down bosses (this one is usually goes with an AR spell lol).**
+- The Ability: **The prism can be used as a decoy to control enemies and distract them**
 
-- The Class: **Wizar has high DPS so you can easilly do T4 Trials (*not recommended in solo, i mean if you know how to good for you then.*) and group bosses.**
+- The Class: **The trickster uses its prism as a source of movement and buffs, while controlling enemy movements using its decoy**
   
 # Weapon / Ability / Armor
 
