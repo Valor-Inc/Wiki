@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>  
   <TabItem value="VIP" label="VIP" default>
 
-  ## ![UTbag](https://cdn.discordapp.com/attachments/1118235017550778448/1188178306911174778/adf_1.png?ex=65999447&is=65871f47&hm=1954661e3f925bc0036a6f32973c703f705c94fd50e4976289442c35f4bcaf8f&) VIP
+  ## ![whitebag](https://github.com/user-attachments/assets/5ea71e23-75f7-4929-b774-a8d5b06767ce) VIP
   ![PremBanner](https://mvp.valorserver.com/images/vip-banner.png)
 
     - VIP Rank Ingame and on Discord
@@ -30,7 +30,8 @@ import TabItem from '@theme/TabItem';
   <TabItem value="Premium" label="Premium">
 
     
- ## ![UTbag](https://cdn.discordapp.com/attachments/1118235017550778448/1188177720232906752/FABLEDBAG.png) Premium
+ ## ![fbbag](https://github.com/user-attachments/assets/68a143d7-8fc6-4c59-995a-f6261d5ad443) Premium
+ 
 
  
   ![PremBanner](https://mvp.valorserver.com/images/prem-banner.png)
@@ -48,7 +49,8 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="MVP" label="MVP">
 
-  ## ![lgbag](https://cdn.discordapp.com/attachments/1118235017550778448/1188178146181267657/Legendary_Bag_1.png?ex=65999421&is=65871f21&hm=fb6fda541ee3a23e68ffb0f0374e171efd337c84d77c02d297ecbab9358c0e43&) MVP
+  ## ![lgbag](https://github.com/user-attachments/assets/577c7ec8-1afa-44e9-923e-b032bc0df88d) MVP
+ 
   ![MvpBanner](https://mvp.valorserver.com/images/mvp-banner.png)
 
     - MVP Rank Ingame and on Discord
@@ -63,8 +65,10 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Patron" label="Patron">
 
-  ## ![Ancient Relic](https://cdn.discordapp.com/attachments/1118235017550778448/1188177964374949908/Ancient_Relic_Bag.png?ex=659993f5&is=65871ef5&hm=fd64d6be376a371f1e6f01dddf85fe702c355734ad00a1bc4efa0e13aac282b9&) Patron
-  ![PATRON](https://cdn.discordapp.com/attachments/1118235017550778448/1188098948041289880/patront.png?ex=65994a5f&is=6586d55f&hm=59fa5d2f871e6e96c8629f47f13347c33f6588456aa3470c2925dd5729720949&)
+  ## ![arbag](https://github.com/user-attachments/assets/768a55f3-abb9-4276-8f94-5eff89be5660) Patron
+  ![Screenshot_2024-12-27_163641-removebg-preview](https://github.com/user-attachments/assets/74a5f835-7ed2-4a7d-9df8-2de1398b0bbe)
+
+
 
     - All MVP & Below Perks
     - 14000 Kantos
