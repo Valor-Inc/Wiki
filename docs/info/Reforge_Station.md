@@ -72,12 +72,12 @@ Remember in order to crush for essence they all have a cost of sor fragments tha
 There are two different types of reroll discounts, shine and shine booster. Crushing a shine will give you 5 rerolls with a discount of 50%. Using a shine booster will apply a flat 30% discount to rerolling for the duration. **These do stack**
 
 50% Discount without shine booster.
-<br>
+<br />
 ![FULL_50percentshinereroll](https://github.com/user-attachments/assets/aa584cfa-32d2-47fd-89de-867c71eb80ff)
 
 
 Now 50% + 30% Discounts
-<br>
+<br />
 ![70_percent_discount_reroll](https://github.com/user-attachments/assets/31574d9b-0506-4502-8678-7d78d032bfb2)
 
 
