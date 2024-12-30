@@ -1,8 +1,9 @@
-![marketplace](https://github.com/user-attachments/assets/77957dd7-c1c9-4e74-8606-9cce029cbb21)---
+---
 sidebar_position: 1
 title: The Nexus
 description: "Welcome to the Nexus"
 ---
+![marketplace](https://github.com/user-attachments/assets/77957dd7-c1c9-4e74-8606-9cce029cbb21)
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

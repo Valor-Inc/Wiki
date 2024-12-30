@@ -12,7 +12,7 @@ title: Siphone of Spriteful Energies
  ![ssoe](https://cdn.discordapp.com/attachments/1187552567295758487/1191077758617522216/Siphon_of_Spriteful_Energies.png?ex=65a4209a&is=6591ab9a&hm=130b8b3f1ef424be056ee892e2208364818bdde634281227c20d1cd1eb5623ac&)
 
 
-<i>A siphon that allows you to glide through the realm with the gracefullness of a sprite. Be graeful you don't have their health</i>
+<i>A siphon that allows you to glide through the realm with the gracefullness of a sprite. Be grateful you don't have their health</i>
 
 
 
@@ -36,7 +36,7 @@ title: Siphone of Spriteful Energies
 
         +10 Speed
 
-MP COST: 100
+MP Cost: 100
 
 Cooldown: 0 Seconds
 

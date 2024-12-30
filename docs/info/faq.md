@@ -105,9 +105,9 @@ import TabItem from '@theme/TabItem';
 
   There is objectively no best class in Valor, that's the beauty of it! Although the most generally agreed upon would be Mechanic, Ninja, Drakzix for DPS, Paladin/Priest for Healing, Wizard for Burst Damage, Knight for survivability.
 
-  As for the best beginner class, it's probably best to play a ranged class such as wizard, huntress or archer as you start out. This can extend further to wand classes, like priest, sorcerer, or drakzix. This is so that you have a fair amount of range to let you snipe bosses from a distance, while figuring out their phases and attack patterns. 
+  As for the best beginner class, it's probably best to play a ranged class such as Wizard, Huntress or Archer as you start out. This can extend further to wand classes, like Priest, Sorcerer, or Drakzix (Keep in mind however Drakzix Siphons drain hp quickly!). This is so that you have a fair amount of range to let you snipe bosses from a distance, while figuring out their phases and attack patterns. 
   
-  Though if you're looking for the best, most inexpensive high damage character, then blademaster or wizard are likely a good option for you, having access to very cheap powerful gear early on with high dps capabilities.
+  Though if you're looking for the best, most inexpensive high damage character, then Blademaster or Wizard are likely a good option for you, having access to very cheap powerful gear early on with high dps capabilities.
 
 <br/>
 
@@ -169,7 +169,7 @@ You're looking for [a crafting guide? Click here and go to the "Crafting" tab](h
   
   When inflicted with godstruck you cant be invulnerable (Jackets, Lumi, Avalanche). Currently this effect is only given by Avalanche seal at approximately double the invul time. 
   
-  ***BEWARE OF USING AVALANCHE AROUND BLADEMASTERS, AS YOU MAY CAUSE THEM TO DIE!***
+<i><b>BEWARE OF USING AVALANCHE AROUND BLADEMASTERS, AS YOU MAY CAUSE THEM TO DIE!</b></i>
 
   More descriptions on all condition effects are in this wiki!
 
