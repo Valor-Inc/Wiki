@@ -16,9 +16,11 @@ import TabItem from '@theme/TabItem';
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse.</i>
 
+
+
 Shots: 2
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
 Damage: 290-330
 
@@ -26,7 +28,8 @@ Range: 5.5
 
 Ignores defense of target
 
-Fame Bonus: 15%
+**Sentinel: On Special Key use, fire 6 addicional shots towards your cursor, and spawn a Titanum which deals 1000 damage per shot and lasts for 5 seconds. Cooldown of 7 seconds.**
+
 
   **Drops from the Bridge Sentinel of the Shatters**  ![Bridgesent](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/Bosses_And_Enemies/shatters.shtrs_Bridge_Sentinel.png) 
 
@@ -35,7 +38,7 @@ Fame Bonus: 15%
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/ar_blades_normal.gif)
-
+![Blades of the Bridge special ability](https://github.com/Terracidal/Gifs/blob/b68ebf6f43a78f9a9d579870bdf332ad10a997e0/9f3dij.gif)
 # Recent Changes
 None.
 
@@ -48,26 +51,35 @@ None.
 
 <i>Blades once wielded by the brave soldiers who defended this land during its collapse. Enchanted with the power of the Sky.</i>
 
-**Air Rune: Increases your rate of fire by 30%, at the cost of some of your base damage. Grants 10% dodge chance.**
+
+**Air Rune: Increases your rate of fire by 15%, at the cost of some of your base damage. Grants 10% dodge chance.**
+
+
+
 
 Shots: 2
 
-Rate of Fire: 130%
+Rate of Fire: 115%
 
-Damage: 265-390 (-25 / +60)
+Damage: 300-305(+10/-25)
 
 Range: 5.5
 
 Ignores defense of target
 
-Fame Bonus: 15%
+**Sentinel: On Special Key use, fire 6 addicional shots towards your cursor, and spawn a Titanum which deals 1000 damage per shot and lasts for 5 seconds. Cooldown of 7 seconds.**
+
+**Air: Titanum damage is reduced to 300 damage, but shoots significantly faster, and fires 4 additional shots. Cooldown reduced to 5 seconds.**
+
+
+
 
 **Enchanted Blades of the Bridge with the Ancient Air Rune**
 
 ## Projectile
 
 ![Blades of the Bridge Air Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/air_blades.gif)
-
+![Blades of the Bridge Air Special Ability](https://github.com/Terracidal/Gifs/blob/eba504984e2c815b8c31adb69f875b9d4345edb6/9f3dav.gif)
 # Recent Changes
 None.
 
@@ -85,7 +97,8 @@ None.
 
 Shots: 2
 
-Rate of Fire: 110%
+Rate of Fire: 100%
+
 
   Damage: 250-320 (-40 / -10)
 
@@ -97,13 +110,18 @@ Ignores defense of target
 
      +120 Maximum HP
 
-Fame Bonus: 15%
+**Sentinel: On Special Key use, fire 6 addicional shots towards your cursor, and spawn a Titanum which deals 1000 damage per shot and lasts for 5 seconds. Cooldown of 7 seconds.**
+
+**Earth: Titanum shot damage is quadrupled, but rate of fire is halved. Your addicional shots can now steal HP. Cooldown increased to 10 seconds.**
+
+
 
 **Enchanted Blades of the Bridge with the Ancient Earth Rune**
 
 ## Projectile
 
 ![Blades of the Bridge Earth Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/EARTH_BLADES.gif)
+![Blades of the Bridge Earth Special Ability](https://github.com/Terracidal/Gifs/blob/cd0067123b02b02a05e4734ecc9cb603d92fd266/9f3emd.gif)
  
 
 # Recent Changes
@@ -124,11 +142,11 @@ None.
 
 Shots: 2
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
 Damage: 280-370 (-10 / +40)
 
-Range: 4.5 (-1)
+Range: 4.9 (-0.6)
 
 Ignores defense of target
 
@@ -136,13 +154,17 @@ Ignores defense of target
 
      +100 Maximum HP
 
-Fame Bonus: 15%
+**Sentinel: On Special Key use, fire 6 addicional shots towards your cursor, and spawn a Titanum which deals 1000 damage per shot and lasts for 5 seconds. Cooldown of 7 seconds.**
+
+**Fire: Each addicional shot deals 1000 extra damage. Each Titanum shot deals 750 extra damage.**
+
 
 **Enchanted Blades of the Bridge with Ancient Fire Rune**
 
 ## Projectile
 
 ![Blades of the Bridge Fire Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/FIRE_blades.gif)
+![Blades of the Bridge Special Ability](https://github.com/Terracidal/Gifs/blob/b68ebf6f43a78f9a9d579870bdf332ad10a997e0/9f3dij.gif)
 
 
 # Recent Changes
@@ -163,7 +185,7 @@ None.
 
 Shots: 2
 
-Rate of Fire: 110%
+Rate of Fire: 100%
 
 Damage: 275-355 (-15 / +25)
 
@@ -175,13 +197,16 @@ Ignores defense of target
     +30 Wisdom
     +1 Mana Leech
 
-Fame Bonus: 15%
+**Sentinel: On Special Key use, fire 6 addicional shots towards your cursor, and spawn a Titanum which deals 1000 damage per shot and lasts for 5 seconds. Cooldown of 7 seconds.**
+
+**Water: Your addicional shots now can steal MP, and will linger for 3s after traveling 6.5 tiles. Cooldown reduced to 5 seconds.**
 
 **Enchanted Blades of the Bridge with Ancient Water Rune**
 
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/water_blades.gif)
+![Blades of the Bridge Special Ability](https://github.com/Terracidal/Gifs/blob/1e769e4558f74aae9c3258f8612b581549b66a89/9f3gal.gif)
 
 
 # Recent Changes
