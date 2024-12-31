@@ -80,7 +80,7 @@ import TabItem from '@theme/TabItem';
  
  - Like the rule above, pings for something other than the pinned allowed things will also result in 3 strikes. This includes false pings. An exhaustive list of allowed pings is in #notification-squad.
  
- - Speaking non-English will be met with warnings, and if continued will result in a timed mute, with the time determined on a case-by-case basis. We cannot moderate a language we cannot speak, and would prefer even minor things such as memes in other languages to stay in DMs or other Discord servers that allow it.
+ - Speaking non english is fine in moderation. We understand not every single player is an english speaker, so a few sentences is fine here and there, or a small conversation. The whole chat becoming non english will be asked to swap back over to english, or move to private chats.
  
  - Do **NOT** discuss sexual or indecent themes.
  
