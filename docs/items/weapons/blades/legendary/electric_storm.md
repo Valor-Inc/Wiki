@@ -10,20 +10,20 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Electric Storm" label="Electric Storm" default>
 
-# ![lgbag](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)Electric Storm
+# Electric Storm
 
 
-![EStorm](https://cdn.discordapp.com/attachments/1187552567295758487/1187555997401755658/Electric_Storm.png?ex=659750b5&is=6584dbb5&hm=5a55732112255b231e1aa16dd41bee509396606be9b2deb106bab63e532f9c12&)
+![EStorm](https://github.com/Terracidal/Gifs/blob/b556eb8ce08af4d0bda9792fc22b361b4c6e5ba7/eac9f06d26c09b2c001242942286d508.png)
 
 <i>A powerful set of blades, gifted only to The Exalted to protect their realms.</i>
 
-Damage: 260-270
+Damage: 210-230
 
 Shots: 2
 
-Rate of Fire: 90% 
+Rate of Fire: 115% 
 
-Range: 4.8
+Range: 5
 
 Shots hit multiple targets
 
@@ -31,17 +31,18 @@ Ignores defense of target
 
 3% to inflict Paralyzed for 1s
 
-    +7 Defense
+    +30 Might
 
-    -50 Maximum HP
+    +25 luck
 
-Fame Bonus: 8%
+    -60 Maximum HP
+
 
 **Upgraded form of [Thunder and Lightning](https://wiki.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
 
 ## Projectile
 
-![EStorm Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170803376464859206/thunder.gif?ex=6591bd9d&is=657f489d&hm=a6351a1241e44640a6dd8c698392447dd8e60f82a70c0099d806679760d020b9&)
+![EStorm Projectile](https://github.com/Terracidal/Gifs/blob/b556eb8ce08af4d0bda9792fc22b361b4c6e5ba7/9fet58.gif)
 
 # Recent Changes
 None.
@@ -49,11 +50,11 @@ None.
   </TabItem>
   <TabItem value="Remnants of Saint Nick" label="Remnants of Saint Nick">
       
-# ![lgbag](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)Remnants of Saint Nick
+# Remnants of Saint Nick
 
-![Ro](https://cdn.discordapp.com/attachments/1187552567295758487/1187561021724966993/Remnants_of_Saint_Nick.png?ex=65975563&is=6584e063&hm=96d6cf1fce33eb0e73c031a1182fef97a0a930679153aac8d802a92525438b10&)
+![Ro](https://github.com/Terracidal/Gifs/blob/b556eb8ce08af4d0bda9792fc22b361b4c6e5ba7/Nick.png)
 
-<i>A powerful set of blades, gifted only to The Exalted to protect their realms.</i>
+<i>In the night he came, leaving half a cookie and half a glass of milk. What type of person eats half a coockie and then leaves it?</i>
 
 Damage: 260-270
 
@@ -61,7 +62,7 @@ Shots: 2
 
 Rate of Fire: 90% 
 
-Range: 4.8
+Range: 4.5
 
 Shots hit multiple targets
 
@@ -71,15 +72,14 @@ Ignores defense of target
 
     +7 Defense
 
-    -50 Maximum HP
+    -50 Maximum MP
 
-Fame Bonus: 8%
 
-**Upgraded form of [Thunder and Lightning](https://wiki.valorserver.com/docs/items/weapons/blades/ut/Thunder_and_Lightning)**
+**Upgraded form of A Snack from Santa.**
 
 ## Projectile
 
-![Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187560584158380032/normal_ar_blade.gif?ex=659754fb&is=6584dffb&hm=f63f7aa60bdbf229a1c7bd9cfcf7867bd381e77c1611d647f53885494f0f58b6&)
+![Projectile](https://github.com/Terracidal/Gifs/blob/3df70e5adda992d8f18a074986c795f34a41a577/9ff392.gif)
 
 # Recent Changes
 None.
