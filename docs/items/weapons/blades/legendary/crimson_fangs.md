@@ -29,7 +29,7 @@ Shots hit multiple targets
 **Drops in the Ascended Tunnel of Pain!**
 ## Projectile
 
-![image](https://github.com/Terracidal/Gifs/blob/9f4700d8ee365d17af36149bb2335a40d5732d67/9feqiy.gif)
+![image](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9feqiy.gif)
 
 
 # Recent Changes
