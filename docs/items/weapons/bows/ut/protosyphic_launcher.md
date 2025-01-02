@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+
+
 # Protosyphic Launcher
 
 ![PL](https://vwiki.valorserver.com/api/item/picture/protosyphic%20launcher)
@@ -17,10 +19,12 @@ Rate of Fire: 130%
 Range: 8
 
 
-***Can be upgraded with Essence of the Realm to create Encapsulator!***
+***Can be upgraded with Essence of the Realm to create [Encapsulator](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/encapsulator?_highlight=encapsul)!***
 
 **Drops from Giggsman Lair**
 
 ## Projectile
 
 ![PL Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/refs/heads/main/static/img/weapons/Bows/protosyphic.gif)
+
+
