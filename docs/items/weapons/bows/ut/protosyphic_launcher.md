@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 6
 ---
 
 # Protosyphic Launcher
@@ -8,20 +8,19 @@ sidebar_position: 10
 
 <i>This strange weapon seems designed to launch the contents of the specialized syringe. The exact components of this particular vicious concoction within are hard to discern</i>
 
-Damage: 195-375
+Damage: 235-385
 
 Shots: 1
 
-Rate of Fire: 120%
+Rate of Fire: 130%
 
-Range: 7.5
+Range: 8
 
-Fame Bonus: 4%
 
-***Can be upgraded with Essence of the Realm!***
+***Can be upgraded with Essence of the Realm to create Encapsulator!***
 
-**Drops from Larry Giggsman, the Supermutant in the Superhuman Hideout**
+**Drops from Giggsman Lair**
 
 ## Projectile
 
-![PL Projectile](https://media.discordapp.net/attachments/1160376179996496013/1170814396474335313/protosyphic.gif?ex=6591c7e0&is=657f52e0&hm=0dff493ba3b6f14d93dc46a6e7cd7dcdbeec939ec0ff96f8c078d26b5c4e97da&=)
+![PL Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/refs/heads/main/static/img/weapons/Bows/protosyphic.gif)
