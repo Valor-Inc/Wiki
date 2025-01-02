@@ -34,7 +34,7 @@ Fame Bonus: 8%
 
 ## Projectile
 
-![Duality Projectile](https://github.com/Terracidal/Gifs/blob/9b3f1d87786c436020fb003d890c457fc80ac384/9fes74.gif)
+![Duality Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9fes74.gif)
 
 # Recent Changes
 None.
