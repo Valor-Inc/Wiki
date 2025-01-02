@@ -4,7 +4,7 @@ title: Fury Claws
 description: "The Fury Claws"
 ---
 
-# ![lg](https://github.com/Terracidal/Gifs/blob/fc608bea9e8c5e7b81fec11d3a99e241d34a4e0c/Legendary_Bag.png) Fury Claws 
+# ![lg](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Legendary_Bag.png) Fury Claws 
 
 ![Fury Claws](https://vwiki.valorserver.com/api/item/picture/Fury%20Claws)  
 
@@ -35,7 +35,7 @@ Ignores defense of target
 
 ## Projectile
 
-![Fury Claws Projectile](https://github.com/Terracidal/Gifs/blob/fd5f0e64bcbc4075af925d2d0b5b7f10f68c4527/9ff4ms.gif)
+![Fury Claws Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9ff4ms.gif)
 
 # Recent Changes
 None.
