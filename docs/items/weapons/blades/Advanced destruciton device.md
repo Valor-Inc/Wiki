@@ -8,7 +8,7 @@ description: "Advanced Destruction Device"
 
 ![Advanced Destruction Device](https://github.com/Terracidal/Gifs/blob/1f44aac25f460bc3991b370195b43600b187ac21/Device.png)
 
-<i>A superb piece of ALien technology that allows for the ensured destruction of any target.</i>
+<i>A superb piece of Alien technology that allows for the ensured destruction of any target.</i>
 
 
 Damage: 500-725
@@ -24,7 +24,7 @@ Ignores defense of target
     +75 Maximum HP
     +8 Defense
 
-**Methodical Enemy Deterioration: Hitting two shots in a row gives on stack. Missing a shot has a 50% chance to remove a stack. Each stack increases RoF by 2%, max 8 stacks.**
+**Methodical Enemy Deterioration: Hitting two shots in a row gives a stack. Missing a shot has a 50% chance to remove a stack. Each stack increases RoF by 2%, max 8 stacks.**
 
 **Upgraded form of Otherworldly Blades**
 
