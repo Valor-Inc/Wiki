@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # Blackwood Piercer
@@ -18,7 +18,7 @@ Range: 6.8
 
 Shots hit multiple targets
 
-    -5 Attack
+    +15 Luck
     
 Fame Bonus: 8%
 
@@ -28,7 +28,7 @@ Fame Bonus: 8%
 
 ## Projectile 
 
-![Blackwood Piercer Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170813881690640526/blackwood.gif?ex=6591c766&is=657f5266&hm=6d74422821aa2df0d3f65b7e947f39efee818acf4b03fb3c65fa387e427e61e6&)
+![Blackwood Piercer Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9fi3xh.gif)
 
 # Recent Changes
 None.
