@@ -6,7 +6,7 @@ description: "The Darkin Blades"
 
 # Darkin Blades
 
-![darkin](https://github.com/Terracidal/Gifs/blob/83ed19825b283e7ccdbce58f8420def6fb6b4c28/Darkin.png)
+![darkin](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Darkin.png)
 
 <i>Dual blades made enchanted by the demons that haunt the Bastille of Drannol.</i>
 
@@ -22,7 +22,7 @@ Range: 5
 **Drops from Hunter's Cave, Ultra Hunter's Cave** !
 ## Projectile
 
-![Darkin Projectile](https://github.com/Terracidal/Gifs/blob/c207ef162d82ac54b201868f8db0a3ee82af6faf/9ff7yr.gif)
+![Darkin Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9ff7yr.gif)
 
 # Recent Changes
 None. 
