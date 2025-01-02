@@ -36,7 +36,7 @@ Shots hit multiple targets
 
 ## Projectile
 
-![Larry Gun Projectile](https://github.com/Terracidal/Gifs/blob/3d2d33f15100310d692644a39928e8769145a38f/9f3imm.gif)
+![Larry Gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3imm.gif)
 
 # Recent Changes
 None.
@@ -70,7 +70,7 @@ Shots hit multiple targets
 
 ## Projectile
 
-![Larry Gun Projectile](https://github.com/Terracidal/Gifs/blob/309c9c5abf1bb1f9c11b5fb9c50310a015c419ed/9f3jet.gif)
+![Larry Gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3jet.gif)
 
 # Recent Changes
 None.
@@ -141,7 +141,7 @@ Shots hit multiple targets
 
 ## Projectile
 
-![Larry Gun Projectile](https://github.com/Terracidal/Gifs/blob/8c286051b74413639c9567bc650eaac38e261f95/9f3k1a.gif)
+![Larry Gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3k1a.gif)
 
 # Recent Changes
 None.
@@ -174,7 +174,7 @@ Shots hit multiple targets
 
 ## Projectile
 
-![Larry Gun Projectile](https://github.com/Terracidal/Gifs/blob/cfaf7a01b31a79374ded63492c572114cab8d4ac/9f3keq.gif)
+![Larry Gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3keq.gif)
 
 # Recent Changes
 None.
