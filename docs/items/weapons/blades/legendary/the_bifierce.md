@@ -4,7 +4,7 @@ title: The Bifierce
 description: "The Bifierce"
 ---
 
-# ![lg](https://github.com/Terracidal/Gifs/blob/fd5f0e64bcbc4075af925d2d0b5b7f10f68c4527/Legendary_Bag.png)The Bifierce
+# ![lg](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Legendary_Bag.png)The Bifierce
 
 ![The Bifierce](https://vwiki.valorserver.com/api/item/picture/The%20Bifierce)
 
