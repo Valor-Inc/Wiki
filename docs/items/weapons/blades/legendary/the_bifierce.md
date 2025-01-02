@@ -30,7 +30,7 @@ Shots hit multiple targets
 **Craftable using the [Shard of Sidon's Fall](https://wiki.valorserver.com/docs/items/The%20Actual%20Showcase/Sidon_Shard_Showcase)** 
 ## Projectile
 
-![The Bifierce Projectile](https://github.com/Terracidal/Gifs/blob/a36e3718f04c1368fcdce8d2129d6d6ec53f5efa/9ff5aj.gif)
+![The Bifierce Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9ff5aj.gif)
 
 # Recent Changes
 None.
