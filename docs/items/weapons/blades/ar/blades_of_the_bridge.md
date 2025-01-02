@@ -38,7 +38,7 @@ Ignores defense of target
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/ar_blades_normal.gif)
-![Blades of the Bridge special ability](https://github.com/Terracidal/Gifs/blob/b68ebf6f43a78f9a9d579870bdf332ad10a997e0/9f3dij.gif)
+![Blades of the Bridge special ability](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3dij.gif)
 # Recent Changes
 None.
 
@@ -79,7 +79,7 @@ Ignores defense of target
 ## Projectile
 
 ![Blades of the Bridge Air Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/air_blades.gif)
-![Blades of the Bridge Air Special Ability](https://github.com/Terracidal/Gifs/blob/eba504984e2c815b8c31adb69f875b9d4345edb6/9f3dav.gif)
+![Blades of the Bridge Air Special Ability](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3dav.gif)
 # Recent Changes
 None.
 
@@ -121,7 +121,7 @@ Ignores defense of target
 ## Projectile
 
 ![Blades of the Bridge Earth Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/EARTH_BLADES.gif)
-![Blades of the Bridge Earth Special Ability](https://github.com/Terracidal/Gifs/blob/cd0067123b02b02a05e4734ecc9cb603d92fd266/9f3emd.gif)
+![Blades of the Bridge Earth Special Ability](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3emd.gif)
  
 
 # Recent Changes
@@ -164,7 +164,7 @@ Ignores defense of target
 ## Projectile
 
 ![Blades of the Bridge Fire Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/FIRE_blades.gif)
-![Blades of the Bridge Special Ability](https://github.com/Terracidal/Gifs/blob/b68ebf6f43a78f9a9d579870bdf332ad10a997e0/9f3dij.gif)
+![Blades of the Bridge Special Ability](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3dij.gif)
 
 
 # Recent Changes
@@ -206,7 +206,7 @@ Ignores defense of target
 ## Projectile
 
 ![Blades of the Bridge Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/main/static/img/weapons/blades/Projectiles/water_blades.gif)
-![Blades of the Bridge Special Ability](https://github.com/Terracidal/Gifs/blob/1e769e4558f74aae9c3258f8612b581549b66a89/9f3gal.gif)
+![Blades of the Bridge Special Ability](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9f3gal.gif)
 
 
 # Recent Changes
