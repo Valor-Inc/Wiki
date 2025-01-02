@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 # Electric Storm
 
 
-![EStorm](https://github.com/Terracidal/Gifs/blob/b556eb8ce08af4d0bda9792fc22b361b4c6e5ba7/eac9f06d26c09b2c001242942286d508.png)
+![EStorm](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/eac9f06d26c09b2c001242942286d508.png)
 
 <i>A powerful set of blades, gifted only to The Exalted to protect their realms.</i>
 
@@ -42,7 +42,7 @@ Ignores defense of target
 
 ## Projectile
 
-![EStorm Projectile](https://github.com/Terracidal/Gifs/blob/b556eb8ce08af4d0bda9792fc22b361b4c6e5ba7/9fet58.gif)
+![EStorm Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9fet58.gif)
 
 # Recent Changes
 None.
@@ -52,7 +52,7 @@ None.
       
 # Remnants of Saint Nick
 
-![Ro](https://github.com/Terracidal/Gifs/blob/b556eb8ce08af4d0bda9792fc22b361b4c6e5ba7/Nick.png)
+![Ro](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Nick.png)
 
 <i>In the night he came, leaving half a cookie and half a glass of milk. What type of person eats half a coockie and then leaves it?</i>
 
@@ -79,7 +79,7 @@ Ignores defense of target
 
 ## Projectile
 
-![Projectile](https://github.com/Terracidal/Gifs/blob/3df70e5adda992d8f18a074986c795f34a41a577/9ff392.gif)
+![Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9ff392.gif)
 
 # Recent Changes
 None.
