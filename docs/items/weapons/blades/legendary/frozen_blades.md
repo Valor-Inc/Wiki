@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Frozen Blades" label="Frozen Blades" default>
 
-# ![lg](https://github.com/Terracidal/Gifs/blob/3df70e5adda992d8f18a074986c795f34a41a577/Legendary_Bag.png) Frozen Blades
+# ![lg](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Legendary_Bag.png) Frozen Blades
 
 ![Frozen Blades](https://vwiki.valorserver.com/api/item/picture/Frozen%20Blades)  
 
@@ -44,7 +44,7 @@ Ignores defense of target
 **Drops from Bergelmir, the Frost Guardian | Alert** 
  ## Projectile
  
-![Frozen Blades Projectile](https://github.com/Terracidal/Gifs/blob/7dbd62da85deebd4d075debae5b794f0e2a5107d/9ff3sd.gif)
+![Frozen Blades Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9ff3sd.gif)
 
 
 # Recent Changes
@@ -53,9 +53,9 @@ Ignores defense of target
   </TabItem>
   <TabItem value="Popsicle Blades" label="Popsicle Blades">
 
-#  ![lg](https://github.com/Terracidal/Gifs/blob/3df70e5adda992d8f18a074986c795f34a41a577/Legendary_Bag.png)  Popsicle Blades
+#  ![lg](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Legendary_Bag.png)  Popsicle Blades
 
-![pops](https://github.com/Terracidal/Gifs/blob/91792f3fba34f1b50cb2eb1a42244b50c5d84e3e/Pop.png)
+![pops](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Pop.png)
     
 <i>These blades radiate a cold, harsh energy. Sluggish but powerful, these shots travel a good distance. Also taste quite tangy!</i>
 
@@ -86,7 +86,7 @@ Ignores defense of target
 
  ## Projectile
 
-![mechs5](https://github.com/Terracidal/Gifs/blob/fc608bea9e8c5e7b81fec11d3a99e241d34a4e0c/9ff475.gif)
+![mechs5](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9ff475.gif)
 
 # Recent Changes
 
