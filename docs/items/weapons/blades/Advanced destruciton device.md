@@ -6,7 +6,7 @@ description: "Advanced Destruction Device"
 
 # Advanced Destruction Device
 
-![Advanced Destruction Device](https://github.com/Terracidal/Gifs/blob/1f44aac25f460bc3991b370195b43600b187ac21/Device.png)
+![Advanced Destruction Device](https://raw.githubusercontent.com/Terracidal/Gifs/1f44aac25f460bc3991b370195b43600b187ac21/Device.png)
 
 <i>A superb piece of Alien technology that allows for the ensured destruction of any target.</i>
 
@@ -30,6 +30,6 @@ Ignores defense of target
 
 ## Projectile
 
-![ADT Projectile](https://github.com/Terracidal/Gifs/blob/b2e76a766f0678d91fd6380383d6224b8d422b89/9ff6wq.gif)
+![ADT Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/b2e76a766f0678d91fd6380383d6224b8d422b89/9ff6wq.gif)
 
 # Recent Changes
