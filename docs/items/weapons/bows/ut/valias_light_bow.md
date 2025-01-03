@@ -14,18 +14,17 @@ Shots: 2
 
 Rate of Fire: 110%
 
-Range: 7.4
+Range: 7.7
 
-Shots hit multiple targets
+Shots pass through obstacles
 
     +85 Maximum MP
     
     +6 Wisdom
 
-Fame Bonus: 6%
 
 **Drops from Valia, the Great Arbiter of the Ascended Heavenly Rift**
 
 ## Projectile
 
-![VLB Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170815210878144653/valiaslight.gif?ex=6591c8a2&is=657f53a2&hm=a33fb997ae7733442d70394da029b96424dea33c97a80e4cfa917326346ead39&)
+![VLB Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/refs/heads/main/static/img/weapons/Bows/valiaslight.gif)
