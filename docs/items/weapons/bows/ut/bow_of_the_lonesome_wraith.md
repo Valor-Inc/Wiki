@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Bow of the Lonesome Wraith
 
-![BotLW](https://cdn.discordapp.com/attachments/1187552567295758487/1187725136787415130/Bow_of_the_Lonesome_Wraith.png?ex=6597ee3b&is=6585793b&hm=784c3664d3cd745531403abd4be3136f63a277909bd59801de7dff98bbb418ae&)
+![BotLW](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/Bow%20of%20the%20Lonesome%20Wraith.png)
 
 <i>Forever.</i>
 
@@ -18,11 +18,11 @@ Range: 5.2
 
 Shots hit multiple targets
 
-Fame Bonus: 5%
 
-***This item can be upgraded with Essence of the Realm!***
 
-**Drops from the Abandoned Basement**
+***This item can be upgraded with Essence of the Realm to create [Bow of the Remorseless Wraith](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/bow_of_the_remorseless_wraith?_highlight=remor).***
+
+**Drops from the Abandoned Basement.**
 
 ## Projectile
-![BotLW](https://cdn.discordapp.com/attachments/1160376179996496013/1170814298797383810/lonesomewraith.gif?ex=6591c7c9&is=657f52c9&hm=7b7cd71dc1a04765c7e193d9566ef8b2d0fc3a4bb69a0a41d1dc7dfd6ee0385c&)
+![BotLW](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9fkvio.gif)
