@@ -6,7 +6,9 @@ sidebar_position: 12
 
 ![TBT](https://vwiki.valorserver.com/api/item/picture/told%20before%20time)
 
-Damage: 250-290
+<i>A hard iron futuristic bow that shoots energy projectiles at unbelievable speeds.</i>
+
+Damage: 360-395
 
 Shots: 1
 
@@ -16,18 +18,18 @@ Range: 9
 
 Shots pass through obstacles
 
-    +3 Speed
+    +20 Luck
     
     +10 Might 
 
-    +20 Luck
+    +3 Speed
     
-Fame Bonus: 8%
 
-***This item can be upgraded with Essence of the Realm!***
 
-**Drops from Codename G-24, Nitrostorm of the Genisus**
+***This item can be upgraded with Essence of the Realm to create [Told After Time](https://wiki.valorserver.com/docs/items/weapons/bows/legendary/told_after_time?_highlight=told) !***
+
+**Drops from Stevix, The Machine Wonder from The Genisus.**
 
 ## Projectile
 
-![TBT Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170815125826064616/toldbeforetime.gif?ex=6591c88e&is=657f538e&hm=0a4f6b799e7ab51046dd3388becfc25e83f2918bb1197a58bbff60d494bb970d&)
+![TBT Projectile](https://raw.githubusercontent.com/Valor-Inc/Wiki/refs/heads/main/static/img/weapons/Bows/toldbeforetime.gif)
