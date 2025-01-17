@@ -4,13 +4,12 @@ title: The Bifierce
 description: "The Bifierce"
 ---
 
-# ![lg](https://cdn.discordapp.com/attachments/1026159786313650256/1045193424116133948/Legendary_Bag.png)The Bifierce
+# ![lg](https://github.com/Terracidal/Gifs/blob/fd5f0e64bcbc4075af925d2d0b5b7f10f68c4527/Legendary_Bag.png)The Bifierce
 
 ![The Bifierce](https://vwiki.valorserver.com/api/item/picture/The%20Bifierce)
 
 <i>Forsaken blades that were left behind from the War of Decades.</i>
 
-**Swift Strike: On Hit: 50% chance on hit to increase Speed by 2 for 3 seconds. Max 30 Speed.**
 
 Damage: 160-210
 
@@ -26,13 +25,12 @@ Shots hit multiple targets
 
     +5% Speed
     
-Fame Bonus: 8%
+**Swift Strike: On Hit: 50% chance on hit to increase Speed by 2 for 3 seconds. Max 30 Speed.**
 
-**Craftable using the Shard of Sidon's Fall** ![SHARD](https://cdn.discordapp.com/attachments/1107378591026655272/1108669059056287755/image.png)
-
+**Craftable using  [Shard of Sidon's Fall](https://wiki.valorserver.com/docs/items/The%20Actual%20Showcase/Sidon_Shard_Showcase)** 
 ## Projectile
 
-![The Bifierce Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1170801850505756732/bifierce.gif?ex=6591bc31&is=657f4731&hm=1e9ed189bd095788b94693f58c9f0bf614c1ac59438d471973f18ad824a84d83&)
+![The Bifierce Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/a36e3718f04c1368fcdce8d2129d6d6ec53f5efa/9ff5aj.gif)
 
 # Recent Changes
 None.
