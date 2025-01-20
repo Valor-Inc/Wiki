@@ -42,9 +42,7 @@ import TabItem from '@theme/TabItem';
     - If caught, the punishment and punishment length is determined by the severity of the exploit. This is including but definitely **NOT** limited to: duping, elite account exploits or any other kind of exploits for that matter. If you have to ask if what you're doing is an exploit, it probably is and you may want to contact a moderator to find out if you're breaking this rule.
 
  - Do **NOT** beg for items.
- 
- - Do **NOT** gamble.
- 
+  
  - Do **NOT** attempt to ruin the gameplay experience for other users.
  
  - Do **NOT** rush ahead in large dungeons such as Titan Lava Walk.
