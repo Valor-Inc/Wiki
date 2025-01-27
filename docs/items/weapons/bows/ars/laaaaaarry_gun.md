@@ -16,9 +16,8 @@ import TabItem from '@theme/TabItem';
 
 <i>Less qq more pew pew.</i>  
 
-**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
 
-Damage: 195-220 
+Damage: 205-230
 
 Shots: 3  
 
@@ -28,13 +27,13 @@ Range: 9.2
 
 Shots hit multiple targets  
 
-Fame Bonus: 15%  
+**Mutation: Upon dealing damage, 2.5% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active, and lowering the arcgap of this weapon by 1 (12s cooldown).**
 
-**From April Fools 2021**
+**This item is a limited edition item.**
 
 ## Projectile
 
-![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187688594740092978/normal_ar_blade.gif?ex=6597cc33&is=65855733&hm=dc0bd45cfdbcb68707f0bcdd390ac07e81b8257bf25854bd682f7d1715f58ec7&)
+![LAAAAAARRY gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9i2wvn.gif)
 
 # Recent Changes
 None.
@@ -50,9 +49,8 @@ None.
 
 **Air Rune: Increases your rate of fire by 15% and narrows the damage range.**
 
-**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
 
-Damage: 200-210 (+5 / -10) 
+Damage: 210-220 (+5 / -10) 
 
 Shots: 3  
 
@@ -62,13 +60,13 @@ Range: 9.2
 
 Shots hit multiple targets  
 
-Fame Bonus: 15%  
+**Mutation: Upon dealing damage, 2.5% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active, and lowering the arcgap of this weapon by 1 (12s cooldown).**
 
 **Enchanted LAAAAAARRY Gun with Ancient Air Rune**
 
 ## Projectile
 
-![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187688793688522752/normal_ar_blade.gif?ex=6597cc62&is=65855762&hm=ed2771c6c8a2b78a03ad11f2d9da741d6dc7e430424269c38440f7300e6dc661&)
+![LAAAAAARRY gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9i2x7w.gif)
 
 # Recent Changes
 None.
@@ -84,9 +82,8 @@ None.
 
 **Earth Rune: Increases your defense by 10 and makes shots armor pierce.**
 
-**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
 
-Damage: 195-220    
+Damage: 205-230    
 
 Shots: 3 
 
@@ -100,13 +97,13 @@ Ignores defense of target
 
     +10 Defense
 
-Fame Bonus: 15%  
+**Mutation: Upon dealing damage, 2.5% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active, and lowering the arcgap of this weapon by 1 (12s cooldown).**
 
 **Enchanted LAAAAAARRY Gun with Ancient Earth Rune**
 
 ## Projectile 
 
-![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187689163244458035/normal_ar_blade.gif?ex=6597ccba&is=658557ba&hm=abe4c751445a1b97b801b89da4895c296357655e4875f4e82a3c72e866dfd837&)
+![LAAAAAARRY gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9i2xin.gif)
 
 # Recent Changes
 None.
@@ -122,9 +119,8 @@ None.
 
 **Fire Rune: Removes the middle shot, greatly increasing damage to compensate.**
 
-**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
 
-Damage: 350-400 (+155 / +180)   
+Damage: 365-410 (+160 / +185)   
 
 Shots: 2 (-1)   
 
@@ -134,13 +130,13 @@ Range: 9.2
 
 Shots hit multiple targets  
 
-Fame Bonus: 15%  
+**Mutation: Upon dealing damage, 2.5% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active, and lowering the arcgap by 1 (12s cooldown).**
 
 **Enchanted LAAAAAARRY Gun with Ancient Fire Rune**
 
 ## Projectile
 
-![Larry Gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187688994633437245/normal_ar_blade.gif?ex=6597cc92&is=65855792&hm=cc40978bdb0bd6d1e48b46c38a412011eafa47ff8a4d4fb6442f2edf1978b801&)
+![Larry Gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9i2xs1.gif)
 
 # Recent Changes
 None.
@@ -156,9 +152,8 @@ None.
 
 **Water Rune: Tightens the arc gap. Damage is lowered slightly.**
 
-**Mutation: Upon taking damage, 20% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active (12s cooldown).**
 
-Damage: 190-210 (-5 / -10)  
+Damage: 200-220 (-5 / -10)  
 
 Shots: 3  
 
@@ -168,13 +163,13 @@ Range: 9.2
 
 Shots hit multiple targets  
 
-Fame Bonus: 15%  
+**Mutation: Upon dealing damage, 2.5% chance to transform into Larry for 7s, gaining immunity to all dps-inhibiting debufs while active, and lowering the arcgap by 1 (12s cooldown).**
 
 **Enchanted LAAAAAARRY Gun with Ancient Water Rune**
 
 ## Projectile
 
-![LAAAAAARRY gun Projectile](https://cdn.discordapp.com/attachments/1160376179996496013/1187689525313536080/normal_ar_blade.gif?ex=6597cd11&is=65855811&hm=609de9575bcb50b1b2e32ea95778349ce067bb7d0d5d1a273d92d26d351d5b37&)
+![LAAAAAARRY gun Projectile](https://raw.githubusercontent.com/Terracidal/Gifs/refs/heads/main/9i2y12.gif)
 
 # Recent Changes
 None.
